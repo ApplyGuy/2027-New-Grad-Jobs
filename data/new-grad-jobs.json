@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T17:10:20.179Z",
+  "updatedAt": "2026-07-24T20:15:59.002Z",
   "jobs": [
     {
       "id": "ad2d1429-b030-4ac9-b4a4-83ac3fda0545",
@@ -12,6 +12,31 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Medtronic&job=ad2d1429-b030-4ac9-b4a4-83ac3fda0545&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/Lafayette-Colorado-United-States-of-America/Software-Engineer-I--AI-Driven-Data-Solutions----Lafayette--CO_R72435-1"
+    },
+    {
+      "id": "custom:microsoft:6d6c90f7032131386171",
+      "company": "Microsoft",
+      "title": "Software Engineer IDNA",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-24",
+      "age": "Today",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556932425",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556932425",
+      "applySupported": false
+    },
+    {
+      "id": "5cff820b-0433-46bf-93f4-7fe86b4a3dcc",
+      "company": "RTX",
+      "title": "Software Engineer I -  Test Solutions - Onsite",
+      "location": "Tucson, AZ",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=5cff820b-0433-46bf-93f4-7fe86b4a3dcc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I----Test-Solutions---Onsite_01836492"
     },
     {
       "id": "d94669ec-ceb8-478f-aca8-360377140ca0",
@@ -253,18 +278,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Zello&job=cecf1976-b4d3-453a-b4d9-ea3ed72a6efe&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/zello/66de7a50-17cb-42aa-87eb-cd40c637338e"
-    },
-    {
-      "id": "16806370-9976-457b-9756-368688ce3829",
-      "company": "Acxiomllc",
-      "title": "Associate Software Engineer",
-      "location": "3397",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-22",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=Acxiomllc&job=16806370-9976-457b-9756-368688ce3829&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/3397/Associate-Software-Engineer_JR014379"
     },
     {
       "id": "custom:amazon:b8631d9dfbf290884cd3",
@@ -934,18 +947,6 @@
       "listingUrl": "https://jobs.workable.com/view/97GCheGJ8jcpQwjTtdDUw9/software-engineer-i-in-san-diego-at-fuse-integration"
     },
     {
-      "id": "b5a54b3d-4de4-45f9-ba16-6d72fcf44adb",
-      "company": "Travelers",
-      "title": "Software Engineer I - Guidewire Policy Configuration",
-      "location": "CT Hartford",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-15",
-      "age": "9d",
-      "url": "https://applyguy.ai/jobs?company=Travelers&job=b5a54b3d-4de4-45f9-ba16-6d72fcf44adb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://travelers.wd5.myworkdayjobs.com/external/job/CT---Hartford/Software-Engineer-I---Guidewire-Policy-Configuration_R-51545"
-    },
-    {
       "id": "daf44c2c-304b-490b-9979-e27038c62fbe",
       "company": "Urban Science",
       "title": "Associate Software Engineer",
@@ -1488,18 +1489,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-SANTA-ISABEL-B1--Felicia-Industrial-Park---St-B1--BLDG-1/Junior-Data-Engineer--Puerto-Rico-_01840760"
     },
     {
-      "id": "cb9be70f-14f2-461a-b7ac-aab34b3eb4ae",
-      "company": "Travelers",
-      "title": "Software Engineer I (AI Driven)",
-      "location": "CT Hartford",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-08",
-      "age": "16d",
-      "url": "https://applyguy.ai/jobs?company=Travelers&job=cb9be70f-14f2-461a-b7ac-aab34b3eb4ae&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://travelers.wd5.myworkdayjobs.com/external/job/CT---Hartford/Software-Engineer-I--AI-Driven-_R-51215"
-    },
-    {
       "id": "c8369cff-3913-4fce-9087-2170f011e3fb",
       "company": "Assetmark",
       "title": "Associate Data Engineer",
@@ -1874,18 +1863,6 @@
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Gaithersburg-MD/Software-Developer_R-00183469"
     },
     {
-      "id": "ab6c3de8-1a50-4fc9-aefa-c11a7e616a45",
-      "company": "Travelers",
-      "title": "Software Engineer I",
-      "location": "CT Hartford",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-06-30",
-      "age": "24d",
-      "url": "https://applyguy.ai/jobs?company=Travelers&job=ab6c3de8-1a50-4fc9-aefa-c11a7e616a45&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://travelers.wd5.myworkdayjobs.com/external/job/CT---Hartford/Software-Engineer-I_R-51276-1"
-    },
-    {
       "id": "2ff4a8fd-df6a-4a9a-9a48-33082d60eba6",
       "company": "ASSYST, Inc.",
       "title": "Junior Full Stack Developer",
@@ -2210,7 +2187,7 @@
       "listingUrl": "https://job-boards.greenhouse.io/captivation/jobs/5265659008"
     },
     {
-      "id": "e872dc6c-a251-4992-9eb4-9013de162042",
+      "id": "82a8374f-32bf-40e5-97d4-cebff55b6c7a",
       "company": "Salesforce",
       "title": "Software Engineering AMTS (College Grad)",
       "location": "San Francisco, US, CA",
@@ -2218,8 +2195,8 @@
       "matchKind": "explicit",
       "posted": "2026-06-16",
       "age": "38d",
-      "url": "https://applyguy.ai/jobs?company=Salesforce&job=e872dc6c-a251-4992-9eb4-9013de162042&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400-1"
+      "url": "https://applyguy.ai/jobs?company=Salesforce&job=82a8374f-32bf-40e5-97d4-cebff55b6c7a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://salesforce.wd12.myworkdayjobs.com/futureforce_newgradroles/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400"
     },
     {
       "id": "6773f4ea-649f-4cf5-9988-fba219d2d212",
