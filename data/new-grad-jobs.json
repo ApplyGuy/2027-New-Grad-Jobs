@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T21:45:29.898Z",
+  "updatedAt": "2026-07-24T22:00:49.425Z",
   "jobs": [
     {
       "id": "ad2d1429-b030-4ac9-b4a4-83ac3fda0545",
@@ -37,6 +37,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=5cff820b-0433-46bf-93f4-7fe86b4a3dcc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I----Test-Solutions---Onsite_01836492"
+    },
+    {
+      "id": "16ae421d-e20e-4a2a-8e0d-f40b0d4c4821",
+      "company": "Strongtie",
+      "title": "Associate Software Engineer — Cloud Services & API Platform (C#/Azure track)",
+      "location": "Plano, TX",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Strongtie&job=16ae421d-e20e-4a2a-8e0d-f40b0d4c4821&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://strongtie.wd1.myworkdayjobs.com/external/job/Plano-TX/Associate-Software-Engineer---Cloud-Services---API-Platform--C--Azure-track-_R7829"
     },
     {
       "id": "d94669ec-ceb8-478f-aca8-360377140ca0",
@@ -97,18 +109,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=KBS+Analytics+LLC&job=161ecaa1-8549-4992-867d-5031beb062e0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4355546"
-    },
-    {
-      "id": "5ebd735a-f7e1-4186-bef0-ec79f82974a5",
-      "company": "Liberty",
-      "title": "Software Developer I for Information Services",
-      "location": "Remote, U.S.",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-23",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Liberty&job=5ebd735a-f7e1-4186-bef0-ec79f82974a5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://liberty.wd5.myworkdayjobs.com/lu_job_board_staff/job/Remote-Location/Software-Developer-I-for-Information-Services_R0011992-1"
     },
     {
       "id": "e86d7426-6941-4907-9eab-67bd59f9b029",
