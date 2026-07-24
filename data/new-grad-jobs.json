@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T23:00:29.049Z",
+  "updatedAt": "2026-07-24T23:16:41.358Z",
   "jobs": [
     {
       "id": "5d34e1da-8e2b-4002-a79b-f30ec9d801a1",
@@ -85,6 +85,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Toyota&job=35d6894c-43e1-407c-ae41-a16a1467f886&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer--Early-Career-Professional-_10329087"
+    },
+    {
+      "id": "fa38ae90-07ae-4061-b4f2-ed1f0738e727",
+      "company": "Volaris Group",
+      "title": "Software Developer I (Analyst)",
+      "location": "Worcester, MA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Volaris+Group&job=fa38ae90-07ae-4061-b4f2-ed1f0738e727&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://volarisgroup.wd3.myworkdayjobs.com/volaris/job/United-States---Worcester-MA/Software-Developer-I--Analyst-_R70138-1"
     },
     {
       "id": "d94669ec-ceb8-478f-aca8-360377140ca0",
@@ -2281,18 +2293,6 @@
       "age": "45d",
       "url": "https://applyguy.ai/jobs?company=Freedom+Technology+Solutions+Group&job=f9d7dc42-3495-4799-9296-5fd87b0fc585&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5160107007"
-    },
-    {
-      "id": "f17e6f79-0ffe-473f-ac9d-36e638d3ac9e",
-      "company": "Umd",
-      "title": "Junior Data Engineer (Faculty Specialist)",
-      "location": "University of Maryland College Park",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-06-08",
-      "age": "46d",
-      "url": "https://applyguy.ai/jobs?company=Umd&job=f17e6f79-0ffe-473f-ac9d-36e638d3ac9e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://umd.wd1.myworkdayjobs.com/umcp/job/University-of-Maryland-College-Park/Junior-Data-Engineer--Faculty-Specialist-_JR104102"
     },
     {
       "id": "77fcf424-23b6-4d72-984b-93978acb54a7",
