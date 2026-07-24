@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T16:59:25.272Z",
+  "updatedAt": "2026-07-24T17:03:14.261Z",
   "jobs": [
     {
       "id": "ad2d1429-b030-4ac9-b4a4-83ac3fda0545",
@@ -356,19 +356,6 @@
       "applySupported": false
     },
     {
-      "id": "custom:microsoft:00de5ac015bf13bded81",
-      "company": "Microsoft",
-      "title": "Software Engineer II",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-22",
-      "age": "2d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556870502",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556870502",
-      "applySupported": false
-    },
-    {
       "id": "e060da97-4ea9-4e36-97bf-3f1c7ec8a597",
       "company": "NVIDIA",
       "title": "Software R&D Engineer, VLSI Physical Design - New College Grad 2026",
@@ -475,19 +462,6 @@
       "age": "3d",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556867395",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556867395",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:90d6ae546445e1b57ef7",
-      "company": "Microsoft",
-      "title": "Software Engineer II - Finance Data & Experiences",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-21",
-      "age": "3d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556937301",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556937301",
       "applySupported": false
     },
     {
