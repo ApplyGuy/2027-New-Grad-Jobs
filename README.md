@@ -1,6 +1,6 @@
 # 2027 New Grad Software Engineering Jobs
 
-[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-206-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](#how-this-list-is-built) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/jobs?seniority=new_grad&utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
+[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-204-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](#how-this-list-is-built) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/jobs?seniority=new_grad&utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
 
 A continuously verified list of **2027 New Grad software engineering jobs**, **entry-level software engineer jobs**, and early-career developer roles in the United States. Listings come directly from employer career pages and are maintained by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs).
 
@@ -8,12 +8,12 @@ A continuously verified list of **2027 New Grad software engineering jobs**, **e
 
 ⭐ **Star this repo** to keep the list one click away.
 
-- **206** active U.S. software roles posted within the last **60 days**
+- **204** active U.S. software roles posted within the last **60 days**
 - **50** explicitly labeled New Grad / university graduate / early career
-- **156** narrowly matched entry-level aliases such as Software Engineer I, SDE I, AMTS, and Junior Software Engineer
+- **154** narrowly matched entry-level aliases such as Software Engineer I, SDE I, AMTS, and Junior Software Engineer
 - Every displayed date comes from the employer's ATS—not when Apply Guy first discovered the job
 - Closed and expired roles are removed automatically
-- Last refresh: **Jul 24, 2026, 9:59 AM PDT**
+- Last refresh: **Jul 24, 2026, 10:03 AM PDT**
 - Machine-readable feed: [data/new-grad-jobs.json](data/new-grad-jobs.json)
 
 Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
@@ -51,7 +51,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | Microsoft | Software Engineer-II - Azure Core Storage | US | Entry Level | 2d | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556941610) |
 | Microsoft | Software Engineering - CTJ - Poly | Redmond, WA · Reston, VA · MD | Entry Level | 2d | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556858723) |
 | Microsoft | Software Engineer - CTJ - Poly | Reston, VA · MD | Entry Level | 2d | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556860973) |
-| Microsoft | Software Engineer II | Redmond, WA | Entry Level | 2d | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556870502) |
 | NVIDIA | Software R&D Engineer, VLSI Physical Design - New College Grad 2026 | Austin, TX | New Grad | 2d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=NVIDIA&job=e060da97-4ea9-4e36-97bf-3f1c7ec8a597&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/Software-R-D-Engineer--VLSI-Physical-Design---New-College-Grad-2026_JR2019330) |
 | NVIDIA | Deep Learning Software Engineer, Inference - New College Grad 2026 | Remote, CA | New Grad | 2d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=NVIDIA&job=d626d915-b45d-4a1d-96da-b35c1dd55487&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Deep-Learning-Software-Engineer--Inference---New-College-Grad-2026_JR2021742) |
 | Roberthalf | Software Engineer I | San Ramon, CA | Entry Level | 2d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Roberthalf&job=e1482e27-bed2-405f-b1b5-dea7e6e8439e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-259943) |
@@ -61,7 +60,6 @@ Orange **Apply Guy** actions support one-click apply. Blue **View** actions open
 | U.S. Bank | Software Engineer 1 (React + API + Cloud Migration) | Irving, TX | Entry Level | 2d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=U.S.+Bank&job=80d3afe4-ba49-4178-9f30-e644d5de8693&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Irving-TX/Software-Engineer-1--React---API---Cloud-Migration-_2026-0021655) |
 | Leidos | Junior Software Engineer (SWE-1) | 3325 Fort George G. Meade, MD | Entry Level | 3d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Leidos&job=5e881c4f-7753-4be5-8b9c-aee74b7088bd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://leidos.wd5.myworkdayjobs.com/external/job/3325-Fort-George-G-Meade-MD/Junior-Software-Engineer--SWE-2-_R-00185405) |
 | Microsoft | Software Engineer - CTJ - Poly | Redmond, WA | Entry Level | 3d | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556867395) |
-| Microsoft | Software Engineer II - Finance Data & Experiences | Redmond, WA | Entry Level | 3d | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556937301) |
 | New Relic | Associate Software Engineer- Infrastructure | Atlanta, GA | Entry Level | 3d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=New+Relic&job=01d32a43-d17b-4ab0-a457-91bb5e5e36c3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/newrelic/jobs/5294386008) |
 | Quickenloans | Software Developer I | Seattle, WA | Entry Level | 3d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Quickenloans&job=8ec34f1a-137c-4fd2-9967-375d6ac860c7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Software-Developer-I_R-083083) |
 | Radiancetech | Junior Software Engineer | Stennis Space Center, MS | Entry Level | 3d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Radiancetech&job=94ae2f4b-4acb-47b7-9073-2b3234a331f2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://radiancetech.wd12.myworkdayjobs.com/radiance_external/job/Stennis-Space-Center-MS/Junior-Software-Engineer_HR102305) |
