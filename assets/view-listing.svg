@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="46" height="24" viewBox="0 0 46 24" role="img" aria-label="View original listing">
+  <rect width="46" height="24" rx="6" fill="#2563EB"/>
+  <path d="M1 6a5 5 0 0 1 5-5h34a5 5 0 0 1 5 5" fill="none" stroke="#FFFFFF" stroke-opacity=".18"/>
+  <text x="10" y="16" fill="#FFFFFF" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="10" font-weight="700">View</text>
+</svg>
