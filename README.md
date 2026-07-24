@@ -13,7 +13,7 @@ A continuously verified list of **2027 New Grad software engineering jobs**, **e
 - Last refresh: **Jul 24, 2026, 10:10 AM PDT**
 - Machine-readable feed: [data/new-grad-jobs.json](data/new-grad-jobs.json)
 
-Orange **Apply Guy** actions support one-click apply. Blue **View** actions open the employer's career site directly.
+Listings with the orange **Apply Guy** button support one-click apply through [Apply Guy](https://applyguy.ai/jobs?seniority=new_grad&utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs). Blue **View** buttons open the employer's career site directly.
 
 ## Open New Grad & Entry-Level Software Jobs
 
