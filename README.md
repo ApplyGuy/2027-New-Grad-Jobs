@@ -8,6 +8,8 @@ A continuously verified list of **2027 New Grad software engineering jobs**, **e
 
 ⭐ **Star this repo** to keep the list one click away.
 
+🎒 **Looking for internships?** Browse [2027 SWE & Product Internships →](https://github.com/ApplyGuy/2027-Internships)
+
 - **204** active U.S. software roles posted within the last **60 days**
 - **50** explicitly labeled New Grad / university graduate / early career
 - Last refresh: **Jul 24, 2026, 10:10 AM PDT**
