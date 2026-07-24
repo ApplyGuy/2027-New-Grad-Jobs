@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-07-24T22:30:43.388Z",
+  "updatedAt": "2026-07-24T22:45:58.582Z",
   "jobs": [
+    {
+      "id": "5d34e1da-8e2b-4002-a79b-f30ec9d801a1",
+      "company": "Fhcsd",
+      "title": "QA Software Engineer I",
+      "location": "HITEC Center - San Diego, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Fhcsd&job=5d34e1da-8e2b-4002-a79b-f30ec9d801a1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://fhcsd.wd1.myworkdayjobs.com/main/job/HITEC-Center---San-Diego-CA/QA-Software-Engineer-I_R0022801"
+    },
     {
       "id": "ad2d1429-b030-4ac9-b4a4-83ac3fda0545",
       "company": "Medtronic",
@@ -837,18 +849,6 @@
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=Captivation+Software&job=94403e6c-8da6-46a1-8243-306c79c3e2f2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/captivation/jobs/5362075008"
-    },
-    {
-      "id": "f1e447d0-ee58-42e9-964f-35c343b05d4c",
-      "company": "GE HealthCare",
-      "title": "Software Engineer I",
-      "location": "OH05-01-Beachwood-Science Park Drive",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-16",
-      "age": "8d",
-      "url": "https://applyguy.ai/jobs?company=GE+HealthCare&job=f1e447d0-ee58-42e9-964f-35c343b05d4c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://gehc.wd5.myworkdayjobs.com/gehc_externalsite/job/OH05-01-Beachwood-Science-Park-Drive/Software-Engineer-I_R4040485-2"
     },
     {
       "id": "933abc8e-62d8-48d0-b5ea-eddefebae8ac",
