@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T15:30:46.063Z",
+  "updatedAt": "2026-07-25T15:45:54.853Z",
   "jobs": [
     {
       "id": "5d34e1da-8e2b-4002-a79b-f30ec9d801a1",
@@ -2211,6 +2211,18 @@
       "listingUrl": "https://www.jamf.com/about/careers/jobs/?gh_jid=6017936004&gh_jid=6017936004"
     },
     {
+      "id": "e294da14-ea66-4ed4-b0db-b9a9d55d82bd",
+      "company": "NVIDIA",
+      "title": "Software Quality Assurance Engineer - 2026 New College Grad",
+      "location": "Santa Clara, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-06-15",
+      "age": "40d",
+      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=e294da14-ea66-4ed4-b0db-b9a9d55d82bd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Quality-Assurance-Engineer---2026-New-College-Grad_JR2019924-1"
+    },
+    {
       "id": "56128c22-8cc1-44bb-ba85-49cf1c4dd3bb",
       "company": "Palantir Technologies",
       "title": "Forward Deployed Software Engineer, New Grad - Intel, US Government",
@@ -2307,6 +2319,30 @@
       "listingUrl": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5160107007"
     },
     {
+      "id": "7b714272-b82a-4dba-b367-71a068537775",
+      "company": "NVIDIA",
+      "title": "Software Engineer, Hardware Tools and Methodology - New College Grad 2026",
+      "location": "Santa Clara, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-06-03",
+      "age": "52d",
+      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=7b714272-b82a-4dba-b367-71a068537775&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659"
+    },
+    {
+      "id": "e4e157cb-171a-4905-8a08-e75b100ab951",
+      "company": "NVIDIA",
+      "title": "Software R&D Engineer, Digital Logic Synthesis - New College Grad 2026",
+      "location": "Santa Clara, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-06-02",
+      "age": "53d",
+      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=e4e157cb-171a-4905-8a08-e75b100ab951&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-R-D-Engineer--Digital-Logic-Synthesis---New-College-Grad-2026_JR2018263"
+    },
+    {
       "id": "77fcf424-23b6-4d72-984b-93978acb54a7",
       "company": "Redhorse Corporation",
       "title": "Junior Data Engineer",
@@ -2353,6 +2389,18 @@
       "age": "57d",
       "url": "https://applyguy.ai/jobs?company=Magnitudesoftware&job=bde3e75c-a4b5-4120-b416-ef3848e36b68&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://magnitudesoftware.wd1.myworkdayjobs.com/external/job/USA---Remote/Associate-Data-Engineer_REQ000670"
+    },
+    {
+      "id": "3121c444-d69b-4c6e-85c0-0be6ad6576ee",
+      "company": "NVIDIA",
+      "title": "Software Engineer, TensorRT Specialized Platforms - New College Grad 2025",
+      "location": "Santa Clara, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-05-29",
+      "age": "57d",
+      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=3121c444-d69b-4c6e-85c0-0be6ad6576ee&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--TensorRT-Specialized-Platforms---New-College-Grad-2025_JR2002870"
     },
     {
       "id": "2c15cf95-da61-4663-99d3-e6a3d4a4ba2a",
