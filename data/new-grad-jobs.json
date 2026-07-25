@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T20:30:33.824Z",
+  "updatedAt": "2026-07-25T20:45:35.870Z",
   "jobs": [
     {
       "id": "5d34e1da-8e2b-4002-a79b-f30ec9d801a1",
@@ -2461,18 +2461,6 @@
       "age": "59d",
       "url": "https://applyguy.ai/jobs?company=Bakertilly&job=0060300c-dda0-4cf1-bab3-f02bfb7bf022&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/USA-TX-Frisco/Associate-Data-Engineer_JR106581"
-    },
-    {
-      "id": "61f89d44-8120-45dc-8b23-a46285ed9df5",
-      "company": "PolicyMe",
-      "title": "Junior Software Engineer (Remote)",
-      "location": "Ontario, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-05-26",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=PolicyMe&job=61f89d44-8120-45dc-8b23-a46285ed9df5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.lever.co/policyme/2ce5251f-54b8-4430-bda6-1ca19dabba4e"
     }
   ]
 }
