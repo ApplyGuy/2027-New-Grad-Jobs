@@ -1,6 +1,6 @@
 # 2027 New Grad Software Engineering Jobs
 
-[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-205-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/jobs?seniority=new_grad&utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
+[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-204-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/jobs?seniority=new_grad&utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
 
 A continuously verified list of **2027 New Grad software engineering jobs**, **entry-level software engineer jobs**, and early-career developer roles in the United States. Listings come directly from employer career pages and are maintained by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs).
 
@@ -10,9 +10,9 @@ A continuously verified list of **2027 New Grad software engineering jobs**, **e
 
 🎒 **Looking for internships?** Browse [2027 SWE & Product Internships →](https://github.com/ApplyGuy/2027-Internships)
 
-- **205** active U.S. software roles posted within the last **60 days**
+- **204** active U.S. software roles posted within the last **60 days**
 - **52** explicitly labeled New Grad / university graduate / early career
-- Last refresh: **Jul 25, 2026, 1:30 PM PDT**
+- Last refresh: **Jul 25, 2026, 1:45 PM PDT**
 - Machine-readable feed: [data/new-grad-jobs.json](data/new-grad-jobs.json)
 
 Listings with the orange **Apply Guy** button support one-click apply through [Apply Guy](https://applyguy.ai/jobs?seniority=new_grad&utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs). Blue **View** buttons open the employer's career site directly.
@@ -225,7 +225,6 @@ Listings with the orange **Apply Guy** button support one-click apply through [A
 | Epic Kids Inc. | Junior Software Engineer, Full-Stack | Remote, U.S. | 58d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Epic+Kids+Inc.&job=fc2d6159-140c-4945-871e-8e0db91d0c46&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/epickids/jobs/7751646003) |
 | Relay | Associate Software Engineer, Site Reliability | Raleigh, NC | 58d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Relay&job=c01edcf2-1387-477d-99e1-209db9ac84a0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/relaypro/jobs/7950142) |
 | Bakertilly | Associate Data Engineer | Frisco, TX | 59d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Bakertilly&job=0060300c-dda0-4cf1-bab3-f02bfb7bf022&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/USA-TX-Frisco/Associate-Data-Engineer_JR106581) |
-| PolicyMe | Junior Software Engineer (Remote) | Ontario, CA | 60d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=PolicyMe&job=61f89d44-8120-45dc-8b23-a46285ed9df5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://jobs.lever.co/policyme/2ce5251f-54b8-4430-bda6-1ca19dabba4e) |
 
 ## Contributing
 
