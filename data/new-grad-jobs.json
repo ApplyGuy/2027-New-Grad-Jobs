@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-07-27T00:01:21.943Z",
+  "updatedAt": "2026-07-27T00:15:41.533Z",
   "jobs": [
+    {
+      "id": "c2f977d8-46c5-4aee-a28a-a9e51c1067ee",
+      "company": "Texas Sports Academy Main",
+      "title": "Junior Software Engineer (AI-Forward)",
+      "location": "Austin, TX",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-26",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Texas+Sports+Academy+Main&job=c2f977d8-46c5-4aee-a28a-a9e51c1067ee&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.workable.com/view/cYKKWJBcBcnWHxuuG5trgR/junior-software-engineer-(ai-forward)-in-austin-at-texas-sports-academy-main"
+    },
     {
       "id": "5d34e1da-8e2b-4002-a79b-f30ec9d801a1",
       "company": "Fhcsd",
