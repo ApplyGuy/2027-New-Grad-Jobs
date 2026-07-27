@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-07-27T18:00:27.743Z",
+  "updatedAt": "2026-07-27T18:15:49.374Z",
   "jobs": [
+    {
+      "id": "0879606c-6003-4f98-9423-8fdbf13c4f01",
+      "company": "Cox",
+      "title": "Software Engineer I - 18525",
+      "location": "Austin, TX",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-27",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Cox&job=0879606c-6003-4f98-9423-8fdbf13c4f01&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Austin-TX/Software-Engineer-I---18525_R202680328"
+    },
     {
       "id": "fd42bfec-0a9d-42ec-9d13-b5467593c8ff",
       "company": "Fmr",
