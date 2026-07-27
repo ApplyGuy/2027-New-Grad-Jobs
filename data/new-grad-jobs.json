@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T23:30:57.723Z",
+  "updatedAt": "2026-07-27T23:45:58.335Z",
   "jobs": [
     {
       "id": "389d27b5-9c40-486e-a297-b70f3f8fab47",
@@ -108,6 +108,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=The+Trade+Desk&job=b572e113-4658-42b8-9891-47402f2df0cf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/thetradedesk/jobs/5196864007"
+    },
+    {
+      "id": "4e175d34-abeb-4473-b758-a190ad356c03",
+      "company": "Ttmtech",
+      "title": "Embedded Software Engineer I",
+      "location": "Farmingdale, NY",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-27",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Ttmtech&job=4e175d34-abeb-4473-b758-a190ad356c03&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://ttmtech.wd5.myworkdayjobs.com/jobs/job/Farmingdale-NY/Embedded-Software-Engineer-II_R15693"
     },
     {
       "id": "c2f977d8-46c5-4aee-a28a-a9e51c1067ee",
