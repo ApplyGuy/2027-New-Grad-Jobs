@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T16:45:29.242Z",
+  "updatedAt": "2026-07-27T17:01:01.106Z",
   "jobs": [
     {
       "id": "ccb3045b-353f-472f-b4b1-8e993f64bb5e",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=6c2b43c1-c01b-45dd-9dd4-915730938ff5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Java-Software-Engineer-I--On-Site-_01860806"
+    },
+    {
+      "id": "fc632166-f0a6-46fa-9023-0c981450427f",
+      "company": "Symbotic",
+      "title": "New Grad- Software Engineer",
+      "location": "USA Wilmington, MA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-07-27",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Symbotic&job=fc632166-f0a6-46fa-9023-0c981450427f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Software-Engineer_R6770"
     },
     {
       "id": "c2f977d8-46c5-4aee-a28a-a9e51c1067ee",
