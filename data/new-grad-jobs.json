@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-07-27T20:15:55.174Z",
+  "updatedAt": "2026-07-27T20:30:26.291Z",
   "jobs": [
+    {
+      "id": "389d27b5-9c40-486e-a297-b70f3f8fab47",
+      "company": "Comcast",
+      "title": "Jr Software Engineer- 2 Days Onsite- Reston, VA- FreeWheel",
+      "location": "Reston, VA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-27",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Comcast&job=389d27b5-9c40-486e-a297-b70f3f8fab47&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://comcast.wd5.myworkdayjobs.com/comcast_careers/job/VA---Reston-11951-Freedom-Dr-Ste-900/Jr-Software-Engineer--2-Days-Onsite--Reston--VA--FreeWheel_R441903"
+    },
     {
       "id": "0879606c-6003-4f98-9423-8fdbf13c4f01",
       "company": "Cox",
