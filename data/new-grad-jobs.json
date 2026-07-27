@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T23:15:52.768Z",
+  "updatedAt": "2026-07-27T23:30:57.723Z",
   "jobs": [
     {
       "id": "389d27b5-9c40-486e-a297-b70f3f8fab47",
@@ -96,6 +96,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Symbotic&job=fc632166-f0a6-46fa-9023-0c981450427f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Software-Engineer_R6770"
+    },
+    {
+      "id": "b572e113-4658-42b8-9891-47402f2df0cf",
+      "company": "The Trade Desk",
+      "title": "Software Engineer I",
+      "location": "Bellevue, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-27",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=The+Trade+Desk&job=b572e113-4658-42b8-9891-47402f2df0cf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/thetradedesk/jobs/5196864007"
     },
     {
       "id": "c2f977d8-46c5-4aee-a28a-a9e51c1067ee",
@@ -2521,18 +2533,6 @@
       "age": "59d",
       "url": "https://applyguy.ai/jobs?company=Relay&job=2c15cf95-da61-4663-99d3-e6a3d4a4ba2a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/relaypro/jobs/7968124"
-    },
-    {
-      "id": "c01edcf2-1387-477d-99e1-209db9ac84a0",
-      "company": "Relay",
-      "title": "Associate Software Engineer, Site Reliability",
-      "location": "Raleigh, NC",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-05-28",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Relay&job=c01edcf2-1387-477d-99e1-209db9ac84a0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/relaypro/jobs/7950142"
     }
   ]
 }
