@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T21:45:50.547Z",
+  "updatedAt": "2026-07-27T22:00:47.950Z",
   "jobs": [
     {
       "id": "389d27b5-9c40-486e-a297-b70f3f8fab47",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Comcast&job=389d27b5-9c40-486e-a297-b70f3f8fab47&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://comcast.wd5.myworkdayjobs.com/comcast_careers/job/VA---Reston-11951-Freedom-Dr-Ste-900/Jr-Software-Engineer--2-Days-Onsite--Reston--VA--FreeWheel_R441903"
+    },
+    {
+      "id": "3ec2be07-fea9-473e-8ab6-a5425392c574",
+      "company": "Costar",
+      "title": "Software Engineer I- CoStar Suite- Arlington, VA",
+      "location": "VA Arlington",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-27",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Costar&job=3ec2be07-fea9-473e-8ab6-a5425392c574&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://costar.wd1.myworkdayjobs.com/costarcareers/job/US-VA-Arlington/Software-Engineer-I--CoStar-Suite--Arlington--VA_R39484"
     },
     {
       "id": "0879606c-6003-4f98-9423-8fdbf13c4f01",
@@ -120,19 +132,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Medtronic&job=ad2d1429-b030-4ac9-b4a4-83ac3fda0545&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/Lafayette-Colorado-United-States-of-America/Software-Engineer-I--AI-Driven-Data-Solutions----Lafayette--CO_R72435-1"
-    },
-    {
-      "id": "custom:microsoft:6d6c90f7032131386171",
-      "company": "Microsoft",
-      "title": "Software Engineer IDNA",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-24",
-      "age": "3d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556932425",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556932425",
-      "applySupported": false
     },
     {
       "id": "b2f287ae-275b-4e3a-8710-1fb9e9d9b818",
@@ -277,19 +276,6 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Mastercard&job=e86d7426-6941-4907-9eab-67bd59f9b029&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/OFallon-Missouri/Software-Development-Engineer_R-284435"
-    },
-    {
-      "id": "custom:microsoft:03d65b2b10e701c197e7",
-      "company": "Microsoft",
-      "title": "Software Engineering - Commercial Engineering & AI (CEAI)",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-23",
-      "age": "4d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
-      "applySupported": false
     },
     {
       "id": "7dbdf7dc-4df1-4363-ba69-411da76f152d",
@@ -473,58 +459,6 @@
       "listingUrl": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Engineer-1_RQ224845-1"
     },
     {
-      "id": "custom:microsoft:4c558e4a2a35af1d2461",
-      "company": "Microsoft",
-      "title": "Software Engineer",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-22",
-      "age": "5d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556940367",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556940367",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:0fe5259909ad920fd133",
-      "company": "Microsoft",
-      "title": "Software Engineer-II - Azure Core Storage",
-      "location": "US",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-22",
-      "age": "5d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556941610",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556941610",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:d021de3d39fd02480f33",
-      "company": "Microsoft",
-      "title": "Software Engineering - CTJ - Poly",
-      "location": "Redmond, WA · Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-22",
-      "age": "5d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:698bf1cfd0197fa8f311",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-22",
-      "age": "5d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "applySupported": false
-    },
-    {
       "id": "e060da97-4ea9-4e36-97bf-3f1c7ec8a597",
       "company": "NVIDIA",
       "title": "Software R&D Engineer, VLSI Physical Design - New College Grad 2026",
@@ -619,19 +553,6 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=5e881c4f-7753-4be5-8b9c-aee74b7088bd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/3325-Fort-George-G-Meade-MD/Junior-Software-Engineer--SWE-2-_R-00185405"
-    },
-    {
-      "id": "custom:microsoft:297a9c934e3b48c279c8",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-21",
-      "age": "6d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556867395",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556867395",
-      "applySupported": false
     },
     {
       "id": "01d32a43-d17b-4ab0-a457-91bb5e5e36c3",
@@ -1293,19 +1214,6 @@
       "age": "14d",
       "url": "https://applyguy.ai/jobs?company=Hudson+River+Trading&job=8e0c87b3-2594-40aa-a80d-c3f93f48f656&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052122"
-    },
-    {
-      "id": "custom:microsoft:bd09edb153d64145ce49",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Redmond, WA · Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-13",
-      "age": "14d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556926963",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556926963",
-      "applySupported": false
     },
     {
       "id": "7bb5c6d5-6950-4d3d-882a-de41853ef6b8",
@@ -2509,18 +2417,6 @@
       "age": "59d",
       "url": "https://applyguy.ai/jobs?company=Relay&job=2c15cf95-da61-4663-99d3-e6a3d4a4ba2a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/relaypro/jobs/7968124"
-    },
-    {
-      "id": "fe0736cd-d3cd-45d6-bb90-240233cd0cc2",
-      "company": "Axon",
-      "title": "Software Engineer I",
-      "location": "Sterling, VA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-05-28",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Axon&job=fe0736cd-d3cd-45d6-bb90-240233cd0cc2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/axon/jobs/7738253003"
     },
     {
       "id": "c01edcf2-1387-477d-99e1-209db9ac84a0",
