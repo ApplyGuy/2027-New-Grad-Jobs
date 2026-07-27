@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T19:45:56.487Z",
+  "updatedAt": "2026-07-27T20:00:49.372Z",
   "jobs": [
     {
       "id": "0879606c-6003-4f98-9423-8fdbf13c4f01",
@@ -2497,18 +2497,6 @@
       "age": "60d",
       "url": "https://applyguy.ai/jobs?company=Axon&job=fe0736cd-d3cd-45d6-bb90-240233cd0cc2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/axon/jobs/7738253003"
-    },
-    {
-      "id": "fc2d6159-140c-4945-871e-8e0db91d0c46",
-      "company": "Epic Kids Inc.",
-      "title": "Junior Software Engineer, Full-Stack",
-      "location": "Remote, U.S.",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-05-28",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Epic+Kids+Inc.&job=fc2d6159-140c-4945-871e-8e0db91d0c46&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/epickids/jobs/7751646003"
     },
     {
       "id": "c01edcf2-1387-477d-99e1-209db9ac84a0",
