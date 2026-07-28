@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-07-28T23:30:39.771Z",
+  "updatedAt": "2026-07-28T23:46:04.403Z",
   "jobs": [
+    {
+      "id": "15d0dbeb-44aa-450f-ad37-21b18d3ea229",
+      "company": "Boeing",
+      "title": "Entry-level Software Engineer–Developers",
+      "location": "Multiple U.S. locations",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-07-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Boeing&job=15d0dbeb-44aa-450f-ad37-21b18d3ea229&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---El-Segundo-CA/Entry-level-Software-Engineer-Developers_JR2026518452-1"
+    },
     {
       "id": "d1fb2f89-6402-4cfd-afd3-05c0f8bd9b27",
       "company": "Cubic",
