@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T22:30:33.989Z",
+  "updatedAt": "2026-07-28T22:45:43.275Z",
   "jobs": [
     {
       "id": "5a9b6547-6add-4c91-afdd-5fb90ad0260b",
@@ -2544,18 +2544,6 @@
       "age": "56d",
       "url": "https://applyguy.ai/jobs?company=True+Anomaly&job=111ee930-d96b-4986-91e4-3ec71a8616f1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5152215007"
-    },
-    {
-      "id": "2c15cf95-da61-4663-99d3-e6a3d4a4ba2a",
-      "company": "Relay",
-      "title": "Associate Software Engineer, Embedded Development",
-      "location": "Raleigh, NC",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-05-29",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Relay&job=2c15cf95-da61-4663-99d3-e6a3d4a4ba2a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/relaypro/jobs/7968124"
     }
   ]
 }
