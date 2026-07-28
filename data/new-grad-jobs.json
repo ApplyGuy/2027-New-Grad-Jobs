@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T18:01:08.384Z",
+  "updatedAt": "2026-07-28T18:15:41.162Z",
   "jobs": [
     {
       "id": "9afdcfb2-bc7a-4ed2-91fa-80578a5b2317",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=9afdcfb2-bc7a-4ed2-91fa-80578a5b2317&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-1---Engine-Indication---Crew-Alerting-Systems--Onsite-_01848535-2"
+    },
+    {
+      "id": "ccb3045b-353f-472f-b4b1-8e993f64bb5e",
+      "company": "RTX",
+      "title": "Software Engineer I (On-Site)",
+      "location": "Dulles, VA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=ccb3045b-353f-472f-b4b1-8e993f64bb5e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-VA-DULLES-710--22110-Pacific-Blvd--BLDG-10/Software-Engineer-I--On-Site-_01860803"
     },
     {
       "id": "6c2b43c1-c01b-45dd-9dd4-915730938ff5",
@@ -1570,6 +1582,18 @@
       "age": "20d",
       "url": "https://applyguy.ai/jobs?company=CACI&job=061cee5f-51c7-46c1-8c43-9e719e314506&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Junior-Software-Engineer_327867"
+    },
+    {
+      "id": "fce54ba6-55ed-4517-b4c0-bad39167730d",
+      "company": "Life.Church",
+      "title": "Associate Software Engineer",
+      "location": "Edmond, OK",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-08",
+      "age": "20d",
+      "url": "https://applyguy.ai/jobs?company=Life.Church&job=fce54ba6-55ed-4517-b4c0-bad39167730d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.lever.co/life/40e4d965-d90d-4408-bddf-b0f5e840648c"
     },
     {
       "id": "5f999c09-d5be-4424-82c7-43b34c912456",
