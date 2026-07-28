@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-07-28T21:46:03.546Z",
+  "updatedAt": "2026-07-28T22:00:35.848Z",
   "jobs": [
+    {
+      "id": "5a9b6547-6add-4c91-afdd-5fb90ad0260b",
+      "company": "Leidos",
+      "title": "Entry Level Software Tester",
+      "location": "Lawton, OK",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-07-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Leidos&job=5a9b6547-6add-4c91-afdd-5fb90ad0260b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Lawton-OK/Entry-Level-Software-Tester_R-00187901"
+    },
     {
       "id": "02120f30-c237-4470-bea7-b17c506c293d",
       "company": "RTX",
