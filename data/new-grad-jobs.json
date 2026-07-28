@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T05:00:27.729Z",
+  "updatedAt": "2026-07-28T05:15:36.085Z",
   "jobs": [
     {
       "id": "aa79b2cd-59ea-4327-8a38-905a6117a45c",
@@ -533,19 +533,6 @@
       "listingUrl": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Engineer-1_RQ224845-1"
     },
     {
-      "id": "custom:microsoft:4c558e4a2a35af1d2461",
-      "company": "Microsoft",
-      "title": "Software Engineer",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-22",
-      "age": "6d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556940367",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556940367",
-      "applySupported": false
-    },
-    {
       "id": "custom:microsoft:0fe5259909ad920fd133",
       "company": "Microsoft",
       "title": "Software Engineer-II - Azure Core Storage",
@@ -691,6 +678,19 @@
       "age": "7d",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556867395",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556867395",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:0c315efaf0721f1471dd",
+      "company": "Microsoft",
+      "title": "Software Engineer",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-21",
+      "age": "7d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556941288",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556941288",
       "applySupported": false
     },
     {
@@ -1353,19 +1353,6 @@
       "age": "15d",
       "url": "https://applyguy.ai/jobs?company=Hudson+River+Trading&job=8e0c87b3-2594-40aa-a80d-c3f93f48f656&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052122"
-    },
-    {
-      "id": "custom:microsoft:bd09edb153d64145ce49",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Redmond, WA · Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-13",
-      "age": "15d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556926963",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556926963",
-      "applySupported": false
     },
     {
       "id": "7bb5c6d5-6950-4d3d-882a-de41853ef6b8",
