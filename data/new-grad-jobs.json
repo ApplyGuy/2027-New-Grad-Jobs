@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-07-28T16:30:58.815Z",
+  "updatedAt": "2026-07-28T16:46:00.209Z",
   "jobs": [
+    {
+      "id": "9afdcfb2-bc7a-4ed2-91fa-80578a5b2317",
+      "company": "RTX",
+      "title": "Software Engineer 1 - Engine Indication & Crew Alerting Systems (Onsite)",
+      "location": "Cedar Rapids, IA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=9afdcfb2-bc7a-4ed2-91fa-80578a5b2317&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-1---Engine-Indication---Crew-Alerting-Systems--Onsite-_01848535-2"
+    },
     {
       "id": "6c2b43c1-c01b-45dd-9dd4-915730938ff5",
       "company": "RTX",
