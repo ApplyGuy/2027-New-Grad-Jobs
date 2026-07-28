@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-07-28T15:45:31.991Z",
+  "updatedAt": "2026-07-28T16:00:40.066Z",
   "jobs": [
+    {
+      "id": "6c2b43c1-c01b-45dd-9dd4-915730938ff5",
+      "company": "RTX",
+      "title": "Java Software Engineer I (On-Site)",
+      "location": "State College, PA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=6c2b43c1-c01b-45dd-9dd4-915730938ff5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Java-Software-Engineer-I--On-Site-_01860806"
+    },
     {
       "id": "aa79b2cd-59ea-4327-8a38-905a6117a45c",
       "company": "Barrywehmiller",
