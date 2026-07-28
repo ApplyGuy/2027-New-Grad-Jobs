@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T00:00:43.195Z",
+  "updatedAt": "2026-07-28T00:16:06.377Z",
   "jobs": [
     {
       "id": "389d27b5-9c40-486e-a297-b70f3f8fab47",
@@ -84,6 +84,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=6c2b43c1-c01b-45dd-9dd4-915730938ff5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Java-Software-Engineer-I--On-Site-_01860806"
+    },
+    {
+      "id": "cdaabe55-8a9b-4112-ad57-3e96c619144f",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Cedar Rapids, IA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-27",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=cdaabe55-8a9b-4112-ad57-3e96c619144f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I--Onsite-_01861300"
     },
     {
       "id": "fc632166-f0a6-46fa-9023-0c981450427f",
@@ -410,18 +422,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=408d5992-08a8-4519-9ee2-b5a7ae96dbc9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01844595"
-    },
-    {
-      "id": "3fa40cdf-6248-4b5f-bbb9-4593b82fb7e1",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Cedar Rapids, IA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-23",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=3fa40cdf-6248-4b5f-bbb9-4593b82fb7e1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01861196"
     },
     {
       "id": "10f7b2fb-f10f-4560-bdbc-0315c967e20f",
