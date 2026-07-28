@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-07-28T23:16:02.357Z",
+  "updatedAt": "2026-07-28T23:30:39.771Z",
   "jobs": [
+    {
+      "id": "d1fb2f89-6402-4cfd-afd3-05c0f8bd9b27",
+      "company": "Cubic",
+      "title": "Software Engineer I – Unified Video Sustainment",
+      "location": "Ashburn, VA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Cubic&job=d1fb2f89-6402-4cfd-afd3-05c0f8bd9b27&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://cubic.wd1.myworkdayjobs.com/cubic_usa_careers/job/Ashburn-Virginia/Software-Engineer-I---Unified-Video-Sustainment_REQ_49558"
+    },
     {
       "id": "5a9b6547-6add-4c91-afdd-5fb90ad0260b",
       "company": "Leidos",
