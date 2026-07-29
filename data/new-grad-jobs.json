@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-07-29T06:00:36.360Z",
+  "updatedAt": "2026-07-29T06:16:12.973Z",
   "jobs": [
+    {
+      "id": "579ceb0e-8bd0-4a71-b8a0-846f5f392c88",
+      "company": "Texas Sports Academy Main",
+      "title": "Junior Software Engineer (AI-Forward)",
+      "location": "Austin, TX",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-29",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Texas+Sports+Academy+Main&job=579ceb0e-8bd0-4a71-b8a0-846f5f392c88&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.workable.com/view/pogRjyniMY8psAvWcSvSXL/junior-software-engineer-(ai-forward)-in-austin-at-texas-sports-academy-main"
+    },
     {
       "id": "01484a08-b2e8-4829-aa63-49cf8964e359",
       "company": "Boeing",
@@ -228,18 +240,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=The+Trade+Desk&job=b572e113-4658-42b8-9891-47402f2df0cf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/thetradedesk/jobs/5196864007"
-    },
-    {
-      "id": "c2f977d8-46c5-4aee-a28a-a9e51c1067ee",
-      "company": "Texas Sports Academy Main",
-      "title": "Junior Software Engineer (AI-Forward)",
-      "location": "Austin, TX",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-26",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=Texas+Sports+Academy+Main&job=c2f977d8-46c5-4aee-a28a-a9e51c1067ee&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.workable.com/view/cYKKWJBcBcnWHxuuG5trgR/junior-software-engineer-(ai-forward)-in-austin-at-texas-sports-academy-main"
     },
     {
       "id": "5d34e1da-8e2b-4002-a79b-f30ec9d801a1",
