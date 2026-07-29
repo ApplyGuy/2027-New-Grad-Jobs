@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T15:15:45.405Z",
+  "updatedAt": "2026-07-29T15:31:15.507Z",
   "jobs": [
     {
       "id": "9826a773-1548-4a77-a8cb-57973ad26acd",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Abnormal&job=9826a773-1548-4a77-a8cb-57973ad26acd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://abnormal.ai/careers/jobs/7814567003?gh_jid=7814567003"
+    },
+    {
+      "id": "7142fdfe-7055-442c-8a4f-1e0f7775c562",
+      "company": "Snapfinance",
+      "title": "Software Engineer I",
+      "location": "Arizona",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-29",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Snapfinance&job=7142fdfe-7055-442c-8a4f-1e0f7775c562&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://snapfinance.wd1.myworkdayjobs.com/snap_external_careers/job/Arizona/Software-Engineer-I_R-2796"
     },
     {
       "id": "579ceb0e-8bd0-4a71-b8a0-846f5f392c88",
