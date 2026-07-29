@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T22:45:37.726Z",
+  "updatedAt": "2026-07-29T23:00:45.501Z",
   "jobs": [
     {
       "id": "9826a773-1548-4a77-a8cb-57973ad26acd",
@@ -49,6 +49,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Remitly&job=879049d2-c85a-4b1e-9f09-0ffded85d15d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Arlington-Virginia-United-States/Fullstack-Software-Development-Engineer-I--Card_R_106624"
+    },
+    {
+      "id": "2abd8ea6-a87a-4404-9f6b-42e738d62608",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Fulton, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-29",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=2abd8ea6-a87a-4404-9f6b-42e738d62608&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Software-Engineer-I--Onsite-_01856767"
     },
     {
       "id": "b189c2c0-e2b1-4b2e-93f6-bda1d9886c82",
