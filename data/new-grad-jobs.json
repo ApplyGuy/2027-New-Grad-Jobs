@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T02:45:42.314Z",
+  "updatedAt": "2026-07-29T03:00:59.423Z",
   "jobs": [
     {
       "id": "01484a08-b2e8-4829-aa63-49cf8964e359",
@@ -110,18 +110,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineer-I--On-Site-_01862497"
     },
     {
-      "id": "9afdcfb2-bc7a-4ed2-91fa-80578a5b2317",
-      "company": "RTX",
-      "title": "Software Engineer 1 - Engine Indication & Crew Alerting Systems (Onsite)",
-      "location": "Cedar Rapids, IA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-28",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=9afdcfb2-bc7a-4ed2-91fa-80578a5b2317&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-1---Engine-Indication---Crew-Alerting-Systems--Onsite-_01848535-2"
-    },
-    {
       "id": "3f63c6d6-e5bb-4256-879c-927b902f82e4",
       "company": "RTX",
       "title": "Software Engineer I (Onsite)",
@@ -230,18 +218,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I--Onsite-_01861300"
     },
     {
-      "id": "fc632166-f0a6-46fa-9023-0c981450427f",
-      "company": "Symbotic",
-      "title": "New Grad- Software Engineer",
-      "location": "USA Wilmington, MA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-07-27",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=Symbotic&job=fc632166-f0a6-46fa-9023-0c981450427f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Software-Engineer_R6770"
-    },
-    {
       "id": "b572e113-4658-42b8-9891-47402f2df0cf",
       "company": "The Trade Desk",
       "title": "Software Engineer I",
@@ -252,18 +228,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=The+Trade+Desk&job=b572e113-4658-42b8-9891-47402f2df0cf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/thetradedesk/jobs/5196864007"
-    },
-    {
-      "id": "4e175d34-abeb-4473-b758-a190ad356c03",
-      "company": "Ttmtech",
-      "title": "Embedded Software Engineer I",
-      "location": "Farmingdale, NY",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-27",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=Ttmtech&job=4e175d34-abeb-4473-b758-a190ad356c03&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://ttmtech.wd5.myworkdayjobs.com/jobs/job/Farmingdale-NY/Embedded-Software-Engineer-II_R15693"
     },
     {
       "id": "c2f977d8-46c5-4aee-a28a-a9e51c1067ee",
