@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T16:46:11.571Z",
+  "updatedAt": "2026-07-29T17:01:08.210Z",
   "jobs": [
     {
       "id": "9826a773-1548-4a77-a8cb-57973ad26acd",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Abnormal&job=9826a773-1548-4a77-a8cb-57973ad26acd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://abnormal.ai/careers/jobs/7814567003?gh_jid=7814567003"
+    },
+    {
+      "id": "b189c2c0-e2b1-4b2e-93f6-bda1d9886c82",
+      "company": "RTX",
+      "title": "Software Engineer I, Connected Aviation Solutions (Hybrid - Aguadilla, PR)",
+      "location": "Aguadilla, PR",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-29",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=b189c2c0-e2b1-4b2e-93f6-bda1d9886c82&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--Connected-Aviation-Solutions--Hybrid---Aguadilla--PR-_01860661-2"
     },
     {
       "id": "7142fdfe-7055-442c-8a4f-1e0f7775c562",
@@ -494,18 +506,6 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Pipe17&job=04c6455f-d5af-450e-b6be-98c24ad85722&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/pipe17/jobs/4717950005"
-    },
-    {
-      "id": "d6168563-6b49-4167-9bc7-5f099792c7fc",
-      "company": "RTX",
-      "title": "Software Engineer I, Connected Aviation Solutions (Hybrid - Aguadilla, PR)",
-      "location": "Aguadilla, PR",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-23",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=d6168563-6b49-4167-9bc7-5f099792c7fc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--Connected-Aviation-Solutions--Hybrid---Aguadilla--PR-_01860661"
     },
     {
       "id": "6e45d5d7-de8b-464a-aade-bc1d5dbdbc6e",
