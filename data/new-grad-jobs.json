@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-07-29T10:45:41.460Z",
+  "updatedAt": "2026-07-29T11:01:09.910Z",
   "jobs": [
+    {
+      "id": "9826a773-1548-4a77-a8cb-57973ad26acd",
+      "company": "Abnormal",
+      "title": "Software Engineer I, Data Platform",
+      "location": "Remote, U.S.",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-29",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Abnormal&job=9826a773-1548-4a77-a8cb-57973ad26acd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://abnormal.ai/careers/jobs/7814567003?gh_jid=7814567003"
+    },
     {
       "id": "579ceb0e-8bd0-4a71-b8a0-846f5f392c88",
       "company": "Texas Sports Academy Main",
