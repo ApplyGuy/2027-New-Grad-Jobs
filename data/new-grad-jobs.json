@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T23:00:45.501Z",
+  "updatedAt": "2026-07-29T23:15:47.802Z",
   "jobs": [
     {
       "id": "9826a773-1548-4a77-a8cb-57973ad26acd",
@@ -109,6 +109,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Texas+Sports+Academy+Main&job=579ceb0e-8bd0-4a71-b8a0-846f5f392c88&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.workable.com/view/pogRjyniMY8psAvWcSvSXL/junior-software-engineer-(ai-forward)-in-austin-at-texas-sports-academy-main"
+    },
+    {
+      "id": "5cbc79dc-d389-45ad-8261-30bec8aac21b",
+      "company": "Themis Insight",
+      "title": "Jr. Software Engineer",
+      "location": "Fort Meade, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-29",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Themis+Insight&job=5cbc79dc-d389-45ad-8261-30bec8aac21b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://themis-insight.breezy.hr/p/7cf99faec54a-jr-software-engineer"
     },
     {
       "id": "01484a08-b2e8-4829-aa63-49cf8964e359",
