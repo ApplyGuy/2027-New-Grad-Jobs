@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T18:45:43.251Z",
+  "updatedAt": "2026-07-29T19:00:45.271Z",
   "jobs": [
     {
       "id": "9826a773-1548-4a77-a8cb-57973ad26acd",
@@ -48,6 +48,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=b189c2c0-e2b1-4b2e-93f6-bda1d9886c82&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--Connected-Aviation-Solutions--Hybrid---Aguadilla--PR-_01860661-2"
+    },
+    {
+      "id": "4eb91250-7bd7-4c20-8b3a-8be97648b0c5",
+      "company": "RTX",
+      "title": "2026 Raytheon Full Time-Software Engineer I – EOIR Advanced Products and Solutions (Onsite)",
+      "location": "Mckinney, TX",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-29",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=4eb91250-7bd7-4c20-8b3a-8be97648b0c5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/XMLNAME-2026-Raytheon-Full-Time-Software-Engineer-I---EOIR-Advanced-Products-and-Solutions--Onsite-_01851718"
     },
     {
       "id": "7142fdfe-7055-442c-8a4f-1e0f7775c562",
