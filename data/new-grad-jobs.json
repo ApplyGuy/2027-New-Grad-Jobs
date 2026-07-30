@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T21:00:34.061Z",
+  "updatedAt": "2026-07-30T21:16:01.616Z",
   "jobs": [
     {
       "id": "e52352c5-9548-4926-a690-454c3f7e9fd0",
@@ -48,6 +48,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Resmed&job=19e1dd9d-b688-477e-b255-8751c41f03a9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://resmed.wd3.myworkdayjobs.com/resmed_external_careers/job/San-Diego-CA-United-States/Associate-Software-Engineer_JR_052316-1"
+    },
+    {
+      "id": "ee77807e-4cc4-48bd-95d0-bfa3c0a76762",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Fulton, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-30",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=ee77807e-4cc4-48bd-95d0-bfa3c0a76762&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Software-Engineer-I--Onsite-_01856767-1"
     },
     {
       "id": "c5c256b7-afdf-4de3-ac46-2fab5499daf5",
@@ -134,6 +146,19 @@
       "listingUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Hyderabad---TS---IN/Software-Engineer-I---Scrum-Master---Business-Analyst_R1604887"
     },
     {
+      "id": "custom:microsoft:bd09edb153d64145ce49",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Redmond, WA · Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-29",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556926963",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556926963",
+      "applySupported": false
+    },
+    {
       "id": "879049d2-c85a-4b1e-9f09-0ffded85d15d",
       "company": "Remitly",
       "title": "Fullstack Software Development Engineer I, Card",
@@ -144,18 +169,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Remitly&job=879049d2-c85a-4b1e-9f09-0ffded85d15d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Arlington-Virginia-United-States/Fullstack-Software-Development-Engineer-I--Card_R_106624"
-    },
-    {
-      "id": "2abd8ea6-a87a-4404-9f6b-42e738d62608",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Fulton, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-29",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=2abd8ea6-a87a-4404-9f6b-42e738d62608&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Software-Engineer-I--Onsite-_01856767"
     },
     {
       "id": "b189c2c0-e2b1-4b2e-93f6-bda1d9886c82",
@@ -420,6 +433,19 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Medtronic&job=ad2d1429-b030-4ac9-b4a4-83ac3fda0545&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/Lafayette-Colorado-United-States-of-America/Software-Engineer-I--AI-Driven-Data-Solutions----Lafayette--CO_R72435-1"
+    },
+    {
+      "id": "custom:microsoft:6d6c90f7032131386171",
+      "company": "Microsoft",
+      "title": "Software Engineer IDNA",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-24",
+      "age": "6d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556932425",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556932425",
+      "applySupported": false
     },
     {
       "id": "5cff820b-0433-46bf-93f4-7fe86b4a3dcc",
@@ -699,6 +725,32 @@
       "listingUrl": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Engineer-1_RQ224845-1"
     },
     {
+      "id": "custom:microsoft:d021de3d39fd02480f33",
+      "company": "Microsoft",
+      "title": "Software Engineering - CTJ - Poly",
+      "location": "Redmond, WA · Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-22",
+      "age": "8d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:698bf1cfd0197fa8f311",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-22",
+      "age": "8d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "applySupported": false
+    },
+    {
       "id": "e060da97-4ea9-4e36-97bf-3f1c7ec8a597",
       "company": "NVIDIA",
       "title": "Software R&D Engineer, VLSI Physical Design - New College Grad 2026",
@@ -793,6 +845,19 @@
       "age": "9d",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=5e881c4f-7753-4be5-8b9c-aee74b7088bd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/3325-Fort-George-G-Meade-MD/Junior-Software-Engineer--SWE-2-_R-00185405"
+    },
+    {
+      "id": "custom:microsoft:297a9c934e3b48c279c8",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-21",
+      "age": "9d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556867395",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556867395",
+      "applySupported": false
     },
     {
       "id": "01d32a43-d17b-4ab0-a457-91bb5e5e36c3",
