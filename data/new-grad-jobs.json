@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-07-30T17:31:06.486Z",
+  "updatedAt": "2026-07-30T17:45:40.962Z",
   "jobs": [
+    {
+      "id": "e52352c5-9548-4926-a690-454c3f7e9fd0",
+      "company": "Freedom Technology Solutions Group",
+      "title": "Junior Software Engineer 744",
+      "location": "Annapolis Junction, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-30",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Freedom+Technology+Solutions+Group&job=e52352c5-9548-4926-a690-454c3f7e9fd0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5199607007"
+    },
     {
       "id": "c5c256b7-afdf-4de3-ac46-2fab5499daf5",
       "company": "RTX",
@@ -36,6 +48,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=06fd61d2-6479-441d-86a3-5517116f25c7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01863236"
+    },
+    {
+      "id": "96c71e4b-0b5c-4b53-b943-5d77bdd3e8db",
+      "company": "upbound",
+      "title": "Software Engineer I",
+      "location": "Plano, TX",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-30",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=upbound&job=96c71e4b-0b5c-4b53-b943-5d77bdd3e8db&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://upbound.wd501.myworkdayjobs.com/upbound/job/Plano-TX/Software-Engineer-I_R-100706"
     },
     {
       "id": "9826a773-1548-4a77-a8cb-57973ad26acd",
