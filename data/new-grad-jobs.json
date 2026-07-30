@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T06:45:29.590Z",
+  "updatedAt": "2026-07-30T07:01:00.761Z",
   "jobs": [
     {
       "id": "9826a773-1548-4a77-a8cb-57973ad26acd",
@@ -494,19 +494,6 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Mastercard&job=e86d7426-6941-4907-9eab-67bd59f9b029&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/OFallon-Missouri/Software-Development-Engineer_R-284435"
-    },
-    {
-      "id": "custom:microsoft:03d65b2b10e701c197e7",
-      "company": "Microsoft",
-      "title": "Software Engineering - Commercial Engineering & AI (CEAI)",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-23",
-      "age": "7d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
-      "applySupported": false
     },
     {
       "id": "7dbdf7dc-4df1-4363-ba69-411da76f152d",
