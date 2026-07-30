@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-07-30T23:15:32.481Z",
+  "updatedAt": "2026-07-30T23:30:34.306Z",
   "jobs": [
+    {
+      "id": "b9c3c184-5d10-4922-a724-c92156d48ed5",
+      "company": "Cisco",
+      "title": "Software Engineer I (Full Time) – United States",
+      "location": "San Jose, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-30",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Cisco&job=b9c3c184-5d10-4922-a724-c92156d48ed5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-I--Full-Time----United-States_1449197"
+    },
     {
       "id": "e52352c5-9548-4926-a690-454c3f7e9fd0",
       "company": "Freedom Technology Solutions Group",
