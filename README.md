@@ -1,6 +1,6 @@
 # 2027 New Grad Software Engineering Jobs
 
-[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-220-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
+[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-219-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
 
 A continuously verified list of **2027 New Grad software engineering jobs**, **entry-level software engineer jobs**, and early-career developer roles in the United States. Listings come directly from employer career pages and are maintained by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs).
 
@@ -10,9 +10,9 @@ A continuously verified list of **2027 New Grad software engineering jobs**, **e
 
 🎒 **Looking for internships?** Browse [2027 SWE & Product Internships →](https://github.com/ApplyGuy/2027-Internships)
 
-- **220** active U.S. software roles posted within the last **60 days**
+- **219** active U.S. software roles posted within the last **60 days**
 - **57** explicitly labeled New Grad / university graduate / early career
-- Last refresh: **Jul 29, 2026, 11:45 PM PDT**
+- Last refresh: **Jul 30, 2026, 12:00 AM PDT**
 - Machine-readable feed: [data/new-grad-jobs.json](data/new-grad-jobs.json)
 
 Listings with the orange **Apply Guy** button support one-click apply through [Apply Guy](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs). Blue **View** buttons open the employer's career site directly.
@@ -62,7 +62,6 @@ Listings with the orange **Apply Guy** button support one-click apply through [A
 | J.B. Hunt | Software Engineer I | Lowell, AR | 7d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=J.B.+Hunt&job=175453b3-acc7-4231-98e4-a11d06859c8a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://jbhunt.wd501.myworkdayjobs.com/careers/job/Lowell-AR---JB-Hunt-Corporate-E/Software-Engineer-I_00635661) |
 | KBS Analytics LLC | Junior Data Engineer | Remote, U.S. | 7d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=KBS+Analytics+LLC&job=161ecaa1-8549-4992-867d-5031beb062e0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4355546) |
 | Mastercard | Software Engineer I | O'Fallon, MO | 7d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Mastercard&job=e86d7426-6941-4907-9eab-67bd59f9b029&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/OFallon-Missouri/Software-Development-Engineer_R-284435) |
-| Microsoft | Software Engineering - Commercial Engineering & AI (CEAI) | Redmond, WA | 7d | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556914839) |
 | Northrop Grumman | Associate Software Engineer / Software Engineer | Melbourne, FL | 7d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Northrop+Grumman&job=7dbdf7dc-4df1-4363-ba69-411da76f152d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/Associate-Software-Engineer---Software-Engineer_R10239254) |
 | NVIDIA | AI and ML Infra Software Engineer, GPU Clusters - New College Grad 2026 | Santa Clara, CA | 7d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=NVIDIA&job=df3d3cb1-db3f-4e10-839b-e7d17151123a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-ML-Infra-Software-Engineer--GPU-Clusters---New-College-Grad-2026_JR2021591) |
 | NVIDIA | Software Engineer, Physical Design Infrastructure - New College Grad 2026 | Santa Clara, CA | 7d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=NVIDIA&job=854d218e-1cac-42de-9f3e-f9323cbd8603&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Physical-Design-Infrastructure---New-College-Grad-2026_JR2021823) |
