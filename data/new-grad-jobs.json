@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T20:15:42.725Z",
+  "updatedAt": "2026-07-30T20:30:45.605Z",
   "jobs": [
     {
       "id": "e52352c5-9548-4926-a690-454c3f7e9fd0",
@@ -36,6 +36,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=475206db-b559-43e5-a4cf-7bb6751db4b9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027--Associate-Software-Engineer---Software-Engineer_R10243060"
+    },
+    {
+      "id": "19e1dd9d-b688-477e-b255-8751c41f03a9",
+      "company": "Resmed",
+      "title": "Associate Software Engineer",
+      "location": "San Diego, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-30",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Resmed&job=19e1dd9d-b688-477e-b255-8751c41f03a9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://resmed.wd3.myworkdayjobs.com/resmed_external_careers/job/San-Diego-CA-United-States/Associate-Software-Engineer_JR_052316-1"
     },
     {
       "id": "c5c256b7-afdf-4de3-ac46-2fab5499daf5",
