@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T02:30:49.421Z",
+  "updatedAt": "2026-07-31T02:45:50.332Z",
   "jobs": [
     {
       "id": "b9c3c184-5d10-4922-a724-c92156d48ed5",
@@ -182,6 +182,19 @@
       "listingUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Hyderabad---TS---IN/Software-Engineer-I---Scrum-Master---Business-Analyst_R1604887"
     },
     {
+      "id": "custom:microsoft:bd09edb153d64145ce49",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Redmond, WA · Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-29",
+      "age": "2d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556926963",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556926963",
+      "applySupported": false
+    },
+    {
       "id": "b189c2c0-e2b1-4b2e-93f6-bda1d9886c82",
       "company": "RTX",
       "title": "Software Engineer I, Connected Aviation Solutions (Hybrid - Aguadilla, PR)",
@@ -348,6 +361,19 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Medtronic&job=ad2d1429-b030-4ac9-b4a4-83ac3fda0545&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/Lafayette-Colorado-United-States-of-America/Software-Engineer-I--AI-Driven-Data-Solutions----Lafayette--CO_R72435-1"
+    },
+    {
+      "id": "custom:microsoft:6d6c90f7032131386171",
+      "company": "Microsoft",
+      "title": "Software Engineer IDNA",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-24",
+      "age": "7d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556932425",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556932425",
+      "applySupported": false
     },
     {
       "id": "5cff820b-0433-46bf-93f4-7fe86b4a3dcc",
@@ -627,6 +653,32 @@
       "listingUrl": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Engineer-1_RQ224845-1"
     },
     {
+      "id": "custom:microsoft:d021de3d39fd02480f33",
+      "company": "Microsoft",
+      "title": "Software Engineering - CTJ - Poly",
+      "location": "Redmond, WA · Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-22",
+      "age": "9d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:698bf1cfd0197fa8f311",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-22",
+      "age": "9d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "applySupported": false
+    },
+    {
       "id": "e060da97-4ea9-4e36-97bf-3f1c7ec8a597",
       "company": "NVIDIA",
       "title": "Software R&D Engineer, VLSI Physical Design - New College Grad 2026",
@@ -721,6 +773,19 @@
       "age": "10d",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=5e881c4f-7753-4be5-8b9c-aee74b7088bd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/3325-Fort-George-G-Meade-MD/Junior-Software-Engineer--SWE-2-_R-00185405"
+    },
+    {
+      "id": "custom:microsoft:297a9c934e3b48c279c8",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-21",
+      "age": "10d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556867395",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556867395",
+      "applySupported": false
     },
     {
       "id": "01d32a43-d17b-4ab0-a457-91bb5e5e36c3",
