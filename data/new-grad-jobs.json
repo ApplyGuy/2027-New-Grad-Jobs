@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T01:46:03.217Z",
+  "updatedAt": "2026-07-31T02:00:45.413Z",
   "jobs": [
     {
       "id": "b9c3c184-5d10-4922-a724-c92156d48ed5",
@@ -110,16 +110,40 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01863236"
     },
     {
-      "id": "96c71e4b-0b5c-4b53-b943-5d77bdd3e8db",
-      "company": "upbound",
-      "title": "Software Engineer I",
-      "location": "Plano, TX",
+      "id": "84d789dc-a493-4bbd-b1c3-c09febd48811",
+      "company": "RTX",
+      "title": "Software Engineer I (On-Site)",
+      "location": "Dulles, VA",
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-30",
       "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=upbound&job=96c71e4b-0b5c-4b53-b943-5d77bdd3e8db&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://upbound.wd501.myworkdayjobs.com/upbound/job/Plano-TX/Software-Engineer-I_R-100706"
+      "url": "https://applyguy.ai/jobs?company=RTX&job=84d789dc-a493-4bbd-b1c3-c09febd48811&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-VA-DULLES-710--22110-Pacific-Blvd--BLDG-10/Software-Engineer-I--On-Site--_01862276"
+    },
+    {
+      "id": "1d0a5c25-c8b1-4eeb-811e-27b6f7efa14d",
+      "company": "RTX",
+      "title": "Software Engineer I (On-Site)",
+      "location": "Woburn, MA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-30",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=1d0a5c25-c8b1-4eeb-811e-27b6f7efa14d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-I--On-Site-_01862626"
+    },
+    {
+      "id": "6c2b43c1-c01b-45dd-9dd4-915730938ff5",
+      "company": "RTX",
+      "title": "Java Software Engineer I (On-Site)",
+      "location": "State College, PA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-30",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=6c2b43c1-c01b-45dd-9dd4-915730938ff5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Java-Software-Engineer-I--On-Site-_01860806"
     },
     {
       "id": "9826a773-1548-4a77-a8cb-57973ad26acd",
@@ -158,31 +182,6 @@
       "listingUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Hyderabad---TS---IN/Software-Engineer-I---Scrum-Master---Business-Analyst_R1604887"
     },
     {
-      "id": "custom:microsoft:bd09edb153d64145ce49",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Redmond, WA · Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-29",
-      "age": "2d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556926963",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556926963",
-      "applySupported": false
-    },
-    {
-      "id": "879049d2-c85a-4b1e-9f09-0ffded85d15d",
-      "company": "Remitly",
-      "title": "Fullstack Software Development Engineer I, Card",
-      "location": "Arlington Virginia",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-29",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=Remitly&job=879049d2-c85a-4b1e-9f09-0ffded85d15d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Arlington-Virginia-United-States/Fullstack-Software-Development-Engineer-I--Card_R_106624"
-    },
-    {
       "id": "b189c2c0-e2b1-4b2e-93f6-bda1d9886c82",
       "company": "RTX",
       "title": "Software Engineer I, Connected Aviation Solutions (Hybrid - Aguadilla, PR)",
@@ -193,66 +192,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=b189c2c0-e2b1-4b2e-93f6-bda1d9886c82&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--Connected-Aviation-Solutions--Hybrid---Aguadilla--PR-_01860661-2"
-    },
-    {
-      "id": "84d789dc-a493-4bbd-b1c3-c09febd48811",
-      "company": "RTX",
-      "title": "Software Engineer I (On-Site)",
-      "location": "Dulles, VA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-29",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=84d789dc-a493-4bbd-b1c3-c09febd48811&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-VA-DULLES-710--22110-Pacific-Blvd--BLDG-10/Software-Engineer-I--On-Site--_01862276"
-    },
-    {
-      "id": "1d0a5c25-c8b1-4eeb-811e-27b6f7efa14d",
-      "company": "RTX",
-      "title": "Software Engineer I (On-Site)",
-      "location": "Woburn, MA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-29",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=1d0a5c25-c8b1-4eeb-811e-27b6f7efa14d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-I--On-Site-_01862626"
-    },
-    {
-      "id": "6c2b43c1-c01b-45dd-9dd4-915730938ff5",
-      "company": "RTX",
-      "title": "Java Software Engineer I (On-Site)",
-      "location": "State College, PA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-29",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=6c2b43c1-c01b-45dd-9dd4-915730938ff5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Java-Software-Engineer-I--On-Site-_01860806"
-    },
-    {
-      "id": "4eb91250-7bd7-4c20-8b3a-8be97648b0c5",
-      "company": "RTX",
-      "title": "2026 Raytheon Full Time-Software Engineer I – EOIR Advanced Products and Solutions (Onsite)",
-      "location": "Mckinney, TX",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-29",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=4eb91250-7bd7-4c20-8b3a-8be97648b0c5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/XMLNAME-2026-Raytheon-Full-Time-Software-Engineer-I---EOIR-Advanced-Products-and-Solutions--Onsite-_01851718"
-    },
-    {
-      "id": "7142fdfe-7055-442c-8a4f-1e0f7775c562",
-      "company": "Snapfinance",
-      "title": "Software Engineer I",
-      "location": "Arizona",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-29",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=Snapfinance&job=7142fdfe-7055-442c-8a4f-1e0f7775c562&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://snapfinance.wd1.myworkdayjobs.com/snap_external_careers/job/Arizona/Software-Engineer-I_R-2796"
     },
     {
       "id": "579ceb0e-8bd0-4a71-b8a0-846f5f392c88",
@@ -277,18 +216,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Themis+Insight&job=5cbc79dc-d389-45ad-8261-30bec8aac21b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://themis-insight.breezy.hr/p/7cf99faec54a-jr-software-engineer"
-    },
-    {
-      "id": "d1fb2f89-6402-4cfd-afd3-05c0f8bd9b27",
-      "company": "Cubic",
-      "title": "Software Engineer I – Unified Video Sustainment",
-      "location": "Ashburn, VA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-28",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=Cubic&job=d1fb2f89-6402-4cfd-afd3-05c0f8bd9b27&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://cubic.wd1.myworkdayjobs.com/cubic_usa_careers/job/Ashburn-Virginia/Software-Engineer-I---Unified-Video-Sustainment_REQ_49558"
     },
     {
       "id": "5a9b6547-6add-4c91-afdd-5fb90ad0260b",
@@ -363,18 +290,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/tebra/jobs/4714981005"
     },
     {
-      "id": "aa79b2cd-59ea-4327-8a38-905a6117a45c",
-      "company": "Barrywehmiller",
-      "title": "Entry Level Software Engineer",
-      "location": "Denver, CO",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-07-27",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=Barrywehmiller&job=aa79b2cd-59ea-4327-8a38-905a6117a45c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Denver-CO/Entry-Level-Software-Engineer_R022282"
-    },
-    {
       "id": "2c220f31-48e3-44e8-a645-0b3ae9fc1aad",
       "company": "CACI",
       "title": "Cloud Software and Support Engineer - Early Career",
@@ -397,18 +312,6 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Cox&job=0879606c-6003-4f98-9423-8fdbf13c4f01&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Austin-TX/Software-Engineer-I---18525_R202680328"
-    },
-    {
-      "id": "636ee0cf-c1d8-4660-bb80-19bb04ec9e6a",
-      "company": "Leidos",
-      "title": "Software Engineer (Tactical Decision Aids – Entry-Level)",
-      "location": "Bethesda, MD",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-07-27",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=Leidos&job=636ee0cf-c1d8-4660-bb80-19bb04ec9e6a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Bethesda-MD/Software-Engineer--Tactical-Decision-Aids---Entry-Level-_R-00188211"
     },
     {
       "id": "cdaabe55-8a9b-4112-ad57-3e96c619144f",
@@ -445,19 +348,6 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Medtronic&job=ad2d1429-b030-4ac9-b4a4-83ac3fda0545&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/Lafayette-Colorado-United-States-of-America/Software-Engineer-I--AI-Driven-Data-Solutions----Lafayette--CO_R72435-1"
-    },
-    {
-      "id": "custom:microsoft:6d6c90f7032131386171",
-      "company": "Microsoft",
-      "title": "Software Engineer IDNA",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-24",
-      "age": "7d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556932425",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556932425",
-      "applySupported": false
     },
     {
       "id": "5cff820b-0433-46bf-93f4-7fe86b4a3dcc",
@@ -737,32 +627,6 @@
       "listingUrl": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Engineer-1_RQ224845-1"
     },
     {
-      "id": "custom:microsoft:d021de3d39fd02480f33",
-      "company": "Microsoft",
-      "title": "Software Engineering - CTJ - Poly",
-      "location": "Redmond, WA · Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-22",
-      "age": "9d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:698bf1cfd0197fa8f311",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-22",
-      "age": "9d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "applySupported": false
-    },
-    {
       "id": "e060da97-4ea9-4e36-97bf-3f1c7ec8a597",
       "company": "NVIDIA",
       "title": "Software R&D Engineer, VLSI Physical Design - New College Grad 2026",
@@ -857,19 +721,6 @@
       "age": "10d",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=5e881c4f-7753-4be5-8b9c-aee74b7088bd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/3325-Fort-George-G-Meade-MD/Junior-Software-Engineer--SWE-2-_R-00185405"
-    },
-    {
-      "id": "custom:microsoft:297a9c934e3b48c279c8",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-21",
-      "age": "10d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556867395",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556867395",
-      "applySupported": false
     },
     {
       "id": "01d32a43-d17b-4ab0-a457-91bb5e5e36c3",
