@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T19:00:31.054Z",
+  "updatedAt": "2026-07-31T19:16:13.464Z",
   "jobs": [
     {
       "id": "8a404b81-fa27-4928-9406-da693549369c",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Bmo&job=8a404b81-fa27-4928-9406-da693549369c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://bmo.wd3.myworkdayjobs.com/campus/job/Irving-TX-USA/Software-Developer---Early-Career---15_R260021450-1"
+    },
+    {
+      "id": "fd42bfec-0a9d-42ec-9d13-b5467593c8ff",
+      "company": "Fmr",
+      "title": "Associate Software Engineer (Java/Angular)",
+      "location": "Westlake, TX",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-31",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Fmr&job=fd42bfec-0a9d-42ec-9d13-b5467593c8ff&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Associate-Full-Stack-Engineer_2128066"
     },
     {
       "id": "db71e11e-1bb2-4b37-98d9-3374f7c7d2ad",
