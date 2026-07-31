@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T18:15:59.597Z",
+  "updatedAt": "2026-07-31T18:31:05.232Z",
   "jobs": [
     {
       "id": "8a404b81-fa27-4928-9406-da693549369c",
@@ -36,6 +36,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Mimecast&job=de986c69-d93e-4128-9bfe-482ba2fa9950&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://mimecast.wd5.myworkdayjobs.com/mimecast-careers/job/United-States-of-America-Minnesota--Minneapolis/Software-Engineer-I_R6604-1"
+    },
+    {
+      "id": "aff3aa81-9127-43e1-bfd7-c9abfcbf986b",
+      "company": "Smartsheet",
+      "title": "Software Engineer I (Remote Eligible)",
+      "location": "Remote, U.S.",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-31",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Smartsheet&job=aff3aa81-9127-43e1-bfd7-c9abfcbf986b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/smartsheet/jobs/8070067"
     },
     {
       "id": "68e35b04-e769-40d9-a4be-9e97090fa705",
