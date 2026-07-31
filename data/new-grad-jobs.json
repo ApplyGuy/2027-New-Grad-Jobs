@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-07-31T16:16:07.560Z",
+  "updatedAt": "2026-07-31T16:30:31.175Z",
   "jobs": [
+    {
+      "id": "db71e11e-1bb2-4b37-98d9-3374f7c7d2ad",
+      "company": "Leidos",
+      "title": "Entry-Level Software Developer",
+      "location": "Saint Louis, MO",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-07-31",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Leidos&job=db71e11e-1bb2-4b37-98d9-3374f7c7d2ad&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/St-Louis-MO/Entry-Level-Software-Developer_R-00188494"
+    },
     {
       "id": "68e35b04-e769-40d9-a4be-9e97090fa705",
       "company": "Wgu",
