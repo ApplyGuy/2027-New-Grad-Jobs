@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T06:16:00.575Z",
+  "updatedAt": "2026-08-01T06:31:00.153Z",
   "jobs": [
     {
       "id": "8a404b81-fa27-4928-9406-da693549369c",
@@ -84,18 +84,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Smartsheet&job=aff3aa81-9127-43e1-bfd7-c9abfcbf986b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/smartsheet/jobs/8070067"
-    },
-    {
-      "id": "68e35b04-e769-40d9-a4be-9e97090fa705",
-      "company": "Wgu",
-      "title": "Software Engineer I - Full-Stack",
-      "location": "Salt Lake City, UT",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-31",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Wgu&job=68e35b04-e769-40d9-a4be-9e97090fa705&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Software-Engineer-Python-Angular_JR-025709"
     },
     {
       "id": "b9c3c184-5d10-4922-a724-c92156d48ed5",
