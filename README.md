@@ -12,7 +12,7 @@ A continuously verified list of **2027 New Grad software engineering jobs**, **e
 
 - **220** active U.S. software roles posted within the last **60 days**
 - **55** explicitly labeled New Grad / university graduate / early career
-- Last refresh: **Aug 1, 2026, 4:31 AM PDT**
+- Last refresh: **Aug 1, 2026, 4:45 AM PDT**
 - Machine-readable feed: [data/new-grad-jobs.json](data/new-grad-jobs.json)
 
 Listings with the orange **Apply Guy** button support one-click apply through [Apply Guy](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs). Blue **View** buttons open the employer's career site directly.
