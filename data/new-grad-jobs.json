@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T20:01:10.031Z",
+  "updatedAt": "2026-08-01T20:16:08.544Z",
   "jobs": [
     {
       "id": "8a404b81-fa27-4928-9406-da693549369c",
@@ -2602,18 +2602,6 @@
       "age": "59d",
       "url": "https://applyguy.ai/jobs?company=NVIDIA&job=7b714272-b82a-4dba-b367-71a068537775&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659"
-    },
-    {
-      "id": "77fcf424-23b6-4d72-984b-93978acb54a7",
-      "company": "Redhorse Corporation",
-      "title": "Junior Data Engineer",
-      "location": "Arlington, VA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-06-02",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Redhorse+Corporation&job=77fcf424-23b6-4d72-984b-93978acb54a7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.lever.co/redhorsecorp/f01b7b5b-3a03-4c20-a621-0d3f996e6469"
     }
   ]
 }
