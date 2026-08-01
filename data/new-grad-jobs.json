@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T19:15:54.718Z",
+  "updatedAt": "2026-08-01T19:30:34.714Z",
   "jobs": [
     {
       "id": "8a404b81-fa27-4928-9406-da693549369c",
@@ -24,18 +24,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=CACI&job=2c220f31-48e3-44e8-a645-0b3ae9fc1aad&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Hanover-MD-US/Cloud-Software-and-Support-Engineer---Early-Career_329648"
-    },
-    {
-      "id": "fd42bfec-0a9d-42ec-9d13-b5467593c8ff",
-      "company": "Fmr",
-      "title": "Associate Software Engineer (Java/Angular)",
-      "location": "Westlake, TX",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-31",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Fmr&job=fd42bfec-0a9d-42ec-9d13-b5467593c8ff&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Associate-Full-Stack-Engineer_2128066"
     },
     {
       "id": "db71e11e-1bb2-4b37-98d9-3374f7c7d2ad",
