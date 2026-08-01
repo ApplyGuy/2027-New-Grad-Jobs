@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T02:45:38.833Z",
+  "updatedAt": "2026-08-01T03:01:12.265Z",
   "jobs": [
     {
       "id": "8a404b81-fa27-4928-9406-da693549369c",
@@ -12,6 +12,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Bmo&job=8a404b81-fa27-4928-9406-da693549369c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://bmo.wd3.myworkdayjobs.com/campus/job/Irving-TX-USA/Software-Developer---Early-Career---15_R260021450-1"
+    },
+    {
+      "id": "2c220f31-48e3-44e8-a645-0b3ae9fc1aad",
+      "company": "CACI",
+      "title": "Cloud Software and Support Engineer - Early Career",
+      "location": "Hanover MD",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-07-31",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=CACI&job=2c220f31-48e3-44e8-a645-0b3ae9fc1aad&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Hanover-MD-US/Cloud-Software-and-Support-Engineer---Early-Career_329648"
     },
     {
       "id": "fd42bfec-0a9d-42ec-9d13-b5467593c8ff",
@@ -146,18 +158,6 @@
       "listingUrl": "https://resmed.wd3.myworkdayjobs.com/resmed_external_careers/job/San-Diego-CA-United-States/Associate-Software-Engineer_JR_052316-1"
     },
     {
-      "id": "ee77807e-4cc4-48bd-95d0-bfa3c0a76762",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Fulton, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-30",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=ee77807e-4cc4-48bd-95d0-bfa3c0a76762&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Software-Engineer-I--Onsite-_01856767-1"
-    },
-    {
       "id": "c5c256b7-afdf-4de3-ac46-2fab5499daf5",
       "company": "RTX",
       "title": "Software Engineer I (Onsite)",
@@ -252,18 +252,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Boeing&job=01484a08-b2e8-4829-aa63-49cf8964e359&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-level-Software-Engineer-Developers_JR2026518452-1"
-    },
-    {
-      "id": "31d3e0f9-bfd4-4f8c-a5cf-aff2d12d82eb",
-      "company": "Bristolmyerssquibb",
-      "title": "Software Engineer I - Scrum Master & Business Analyst",
-      "location": "Hyderabad, IN",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-29",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=Bristolmyerssquibb&job=31d3e0f9-bfd4-4f8c-a5cf-aff2d12d82eb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Hyderabad---TS---IN/Software-Engineer-I---Scrum-Master---Business-Analyst_R1604887"
     },
     {
       "id": "custom:microsoft:bd09edb153d64145ce49",
@@ -387,18 +375,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/tebra/jobs/4714981005"
     },
     {
-      "id": "2c220f31-48e3-44e8-a645-0b3ae9fc1aad",
-      "company": "CACI",
-      "title": "Cloud Software and Support Engineer - Early Career",
-      "location": "Hanover MD",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-07-27",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=CACI&job=2c220f31-48e3-44e8-a645-0b3ae9fc1aad&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Hanover-MD-US/Cloud-Software-and-Support-Engineer---Early-Career_329648"
-    },
-    {
       "id": "0879606c-6003-4f98-9423-8fdbf13c4f01",
       "company": "Cox",
       "title": "Software Engineer I - 18525",
@@ -482,18 +458,6 @@
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=Strongtie&job=16ae421d-e20e-4a2a-8e0d-f40b0d4c4821&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://strongtie.wd1.myworkdayjobs.com/external/job/Plano-TX/Associate-Software-Engineer---Cloud-Services---API-Platform--C--Azure-track-_R7829"
-    },
-    {
-      "id": "35d6894c-43e1-407c-ae41-a16a1467f886",
-      "company": "Toyota",
-      "title": "Software Engineer (Early Career Professional)",
-      "location": "Plano, TX",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-07-24",
-      "age": "8d",
-      "url": "https://applyguy.ai/jobs?company=Toyota&job=35d6894c-43e1-407c-ae41-a16a1467f886&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer--Early-Career-Professional-_10329087"
     },
     {
       "id": "fa38ae90-07ae-4061-b4f2-ed1f0738e727",
