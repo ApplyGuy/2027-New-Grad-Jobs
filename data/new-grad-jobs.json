@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T19:30:38.305Z",
+  "updatedAt": "2026-08-03T19:45:47.400Z",
   "jobs": [
     {
       "id": "custom:amazon:38e673d9be9ca62f6064",
@@ -37,6 +37,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=06fd61d2-6479-441d-86a3-5517116f25c7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01863236"
+    },
+    {
+      "id": "2abd8ea6-a87a-4404-9f6b-42e738d62608",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Fulton, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-03",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=2abd8ea6-a87a-4404-9f6b-42e738d62608&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Software-Engineer-I--Onsite-_01856767"
     },
     {
       "id": "8a404b81-fa27-4928-9406-da693549369c",
