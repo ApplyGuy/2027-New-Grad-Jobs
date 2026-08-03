@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T19:01:06.038Z",
+  "updatedAt": "2026-08-03T19:15:52.973Z",
   "jobs": [
     {
       "id": "custom:amazon:38e673d9be9ca62f6064",
@@ -1411,18 +1411,6 @@
       "age": "21d",
       "url": "https://applyguy.ai/jobs?company=Boeing&job=fb8da978-7c30-4985-9ead-644bef866e43&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026512717-2"
-    },
-    {
-      "id": "1b2b4062-4a52-4982-bfc3-0e9553fce82d",
-      "company": "Hudson River Trading",
-      "title": "Algorithm Developer (Quant Research & Trading) – 2027 Grads",
-      "location": "New York City, NY",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-07-13",
-      "age": "21d",
-      "url": "https://applyguy.ai/jobs?company=Hudson+River+Trading&job=1b2b4062-4a52-4982-bfc3-0e9553fce82d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052050"
     },
     {
       "id": "8e0c87b3-2594-40aa-a80d-c3f93f48f656",
