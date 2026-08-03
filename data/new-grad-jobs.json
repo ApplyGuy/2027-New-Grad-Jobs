@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-08-03T18:00:35.546Z",
+  "updatedAt": "2026-08-03T18:15:42.494Z",
   "jobs": [
+    {
+      "id": "custom:amazon:38e673d9be9ca62f6064",
+      "company": "Amazon",
+      "title": "Software Development Engineer I – AI/ML Network Infrastructure, Annapurna Labs",
+      "location": "Cupertino, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-03",
+      "age": "Today",
+      "url": "https://www.amazon.jobs/en/jobs/10490741/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
+      "listingUrl": "https://www.amazon.jobs/en/jobs/10490741/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
+      "applySupported": false
+    },
     {
       "id": "80d05b92-12e2-48c4-b186-b4879fb92693",
       "company": "RTX",
@@ -1086,19 +1099,6 @@
       "age": "18d",
       "url": "https://applyguy.ai/jobs?company=Adtran&job=a30e98f5-a530-4006-9c4f-49a0e743d994&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://adtran.wd3.myworkdayjobs.com/adtran/job/Atlanta-GA/Software-Engineer-I_R005697"
-    },
-    {
-      "id": "custom:amazon:45da888c3a6245bf278f",
-      "company": "Amazon",
-      "title": "Software Development Engineer I – AI/ML Network Infrastructure, Annapurna Labs",
-      "location": "Cupertino, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-16",
-      "age": "18d",
-      "url": "https://www.amazon.jobs/en/jobs/10475660/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
-      "listingUrl": "https://www.amazon.jobs/en/jobs/10475660/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
-      "applySupported": false
     },
     {
       "id": "14684c49-3a75-4af7-bb8b-61ea1a26efe0",
