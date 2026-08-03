@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-03T17:45:40.563Z",
+  "updatedAt": "2026-08-03T18:00:35.546Z",
   "jobs": [
+    {
+      "id": "80d05b92-12e2-48c4-b186-b4879fb92693",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Cedar Rapids, IA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-03",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=80d05b92-12e2-48c4-b186-b4879fb92693&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Software-Engineer-I--Onsite-_01863436-1"
+    },
     {
       "id": "06fd61d2-6479-441d-86a3-5517116f25c7",
       "company": "RTX",
@@ -325,18 +337,6 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Cox&job=0879606c-6003-4f98-9423-8fdbf13c4f01&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Austin-TX/Software-Engineer-I---18525_R202680328"
-    },
-    {
-      "id": "cdaabe55-8a9b-4112-ad57-3e96c619144f",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Cedar Rapids, IA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-27",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=cdaabe55-8a9b-4112-ad57-3e96c619144f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I--Onsite-_01861300"
     },
     {
       "id": "b572e113-4658-42b8-9891-47402f2df0cf",
