@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T23:30:44.559Z",
+  "updatedAt": "2026-08-03T23:46:08.507Z",
   "jobs": [
     {
       "id": "2fb5516f-ca87-49f0-ab3b-416479b8c211",
@@ -24,6 +24,19 @@
       "age": "Today",
       "url": "https://www.amazon.jobs/en/jobs/10490741/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
       "listingUrl": "https://www.amazon.jobs/en/jobs/10490741/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:03d65b2b10e701c197e7",
+      "company": "Microsoft",
+      "title": "Software Engineering - Commercial Engineering & AI (CEAI)",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-03",
+      "age": "Today",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
       "applySupported": false
     },
     {
