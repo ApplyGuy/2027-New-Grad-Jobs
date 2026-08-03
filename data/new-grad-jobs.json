@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T21:45:37.245Z",
+  "updatedAt": "2026-08-03T22:00:54.089Z",
   "jobs": [
     {
       "id": "2fb5516f-ca87-49f0-ab3b-416479b8c211",
@@ -159,6 +159,18 @@
       "listingUrl": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5199607007"
     },
     {
+      "id": "bf486d40-8714-4007-8016-01398434966e",
+      "company": "Jobgether",
+      "title": "Software Engineer I, Data Platform",
+      "location": "US",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-30",
+      "age": "4d",
+      "url": "https://applyguy.ai/jobs?company=Jobgether&job=bf486d40-8714-4007-8016-01398434966e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.lever.co/jobgether/f5ea9423-296c-4b29-96ad-7c22a4819b4f"
+    },
+    {
       "id": "70635e1a-9f05-4876-9733-48873ea59060",
       "company": "Manhattan Associates",
       "title": "Software Engineer - Early Career",
@@ -243,6 +255,19 @@
       "listingUrl": "https://abnormal.ai/careers/jobs/7814567003?gh_jid=7814567003"
     },
     {
+      "id": "custom:microsoft:bd09edb153d64145ce49",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Redmond, WA · Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-29",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556926963",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556926963",
+      "applySupported": false
+    },
+    {
       "id": "b189c2c0-e2b1-4b2e-93f6-bda1d9886c82",
       "company": "RTX",
       "title": "Software Engineer I, Connected Aviation Solutions (Hybrid - Aguadilla, PR)",
@@ -277,6 +302,18 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Themis+Insight&job=5cbc79dc-d389-45ad-8261-30bec8aac21b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://themis-insight.breezy.hr/p/7cf99faec54a-jr-software-engineer"
+    },
+    {
+      "id": "527b0d53-fb32-4444-81ca-8bf04d7c90dd",
+      "company": "Jobgether",
+      "title": "Software Engineer I - AssureHire (Go)",
+      "location": "US",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-28",
+      "age": "6d",
+      "url": "https://applyguy.ai/jobs?company=Jobgether&job=527b0d53-fb32-4444-81ca-8bf04d7c90dd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.lever.co/jobgether/e1d02f01-abc8-45da-8f25-bc46ebebc297"
     },
     {
       "id": "5a9b6547-6add-4c91-afdd-5fb90ad0260b",
@@ -385,6 +422,19 @@
       "age": "10d",
       "url": "https://applyguy.ai/jobs?company=Medtronic&job=ad2d1429-b030-4ac9-b4a4-83ac3fda0545&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/Lafayette-Colorado-United-States-of-America/Software-Engineer-I--AI-Driven-Data-Solutions----Lafayette--CO_R72435-1"
+    },
+    {
+      "id": "custom:microsoft:6d6c90f7032131386171",
+      "company": "Microsoft",
+      "title": "Software Engineer IDNA",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-24",
+      "age": "10d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556932425",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556932425",
+      "applySupported": false
     },
     {
       "id": "5cff820b-0433-46bf-93f4-7fe86b4a3dcc",
@@ -652,6 +702,32 @@
       "listingUrl": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Engineer-1_RQ224845-1"
     },
     {
+      "id": "custom:microsoft:d021de3d39fd02480f33",
+      "company": "Microsoft",
+      "title": "Software Engineering - CTJ - Poly",
+      "location": "Redmond, WA · Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-22",
+      "age": "12d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:698bf1cfd0197fa8f311",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-22",
+      "age": "12d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "applySupported": false
+    },
+    {
       "id": "e060da97-4ea9-4e36-97bf-3f1c7ec8a597",
       "company": "NVIDIA",
       "title": "Software R&D Engineer, VLSI Physical Design - New College Grad 2026",
@@ -746,6 +822,19 @@
       "age": "13d",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=5e881c4f-7753-4be5-8b9c-aee74b7088bd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/3325-Fort-George-G-Meade-MD/Junior-Software-Engineer--SWE-2-_R-00185405"
+    },
+    {
+      "id": "custom:microsoft:297a9c934e3b48c279c8",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-21",
+      "age": "13d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556867395",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556867395",
+      "applySupported": false
     },
     {
       "id": "01d32a43-d17b-4ab0-a457-91bb5e5e36c3",
@@ -1346,18 +1435,6 @@
       "age": "21d",
       "url": "https://applyguy.ai/jobs?company=Akuna+Capital&job=d5f1ab76-03f4-46b8-a223-1718d22a0da7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.akunacapital.com/careers/job/8013230/?gh_jid=8013230"
-    },
-    {
-      "id": "2ef4b2bd-767f-4146-812b-f7f2dd57d923",
-      "company": "Aurora Innovation",
-      "title": "Software Engineer I (Data Eng infra)",
-      "location": "Mountain View, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-13",
-      "age": "21d",
-      "url": "https://applyguy.ai/jobs?company=Aurora+Innovation&job=2ef4b2bd-767f-4146-812b-f7f2dd57d923&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://aurora.tech/jobs/8628066002?gh_jid=8628066002"
     },
     {
       "id": "fb8da978-7c30-4985-9ead-644bef866e43",
