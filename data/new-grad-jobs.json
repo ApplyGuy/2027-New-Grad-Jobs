@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-03T15:45:38.885Z",
+  "updatedAt": "2026-08-03T16:00:58.285Z",
   "jobs": [
+    {
+      "id": "06fd61d2-6479-441d-86a3-5517116f25c7",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Tewksbury, MA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-03",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=06fd61d2-6479-441d-86a3-5517116f25c7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01863236"
+    },
     {
       "id": "8a404b81-fa27-4928-9406-da693549369c",
       "company": "Bmo",
@@ -48,18 +60,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Mimecast&job=de986c69-d93e-4128-9bfe-482ba2fa9950&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://mimecast.wd5.myworkdayjobs.com/mimecast-careers/job/United-States-of-America-Minnesota--Minneapolis/Software-Engineer-I_R6604-1"
-    },
-    {
-      "id": "2cdebee3-b490-4032-8a39-8b7f923cf849",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Cedar Rapids, IA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-31",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=2cdebee3-b490-4032-8a39-8b7f923cf849&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Software-Engineer-I--Onsite-_01863436"
     },
     {
       "id": "aff3aa81-9127-43e1-bfd7-c9abfcbf986b",
@@ -168,42 +168,6 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=22249a2e-7b29-4e98-95f6-d56b19dc3d48&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineer-I--Onsite-_01863008"
-    },
-    {
-      "id": "06fd61d2-6479-441d-86a3-5517116f25c7",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Tewksbury, MA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-30",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=06fd61d2-6479-441d-86a3-5517116f25c7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01863236"
-    },
-    {
-      "id": "84d789dc-a493-4bbd-b1c3-c09febd48811",
-      "company": "RTX",
-      "title": "Software Engineer I (On-Site)",
-      "location": "Dulles, VA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-30",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=84d789dc-a493-4bbd-b1c3-c09febd48811&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-VA-DULLES-710--22110-Pacific-Blvd--BLDG-10/Software-Engineer-I--On-Site--_01862276"
-    },
-    {
-      "id": "1d0a5c25-c8b1-4eeb-811e-27b6f7efa14d",
-      "company": "RTX",
-      "title": "Software Engineer I (On-Site)",
-      "location": "Woburn, MA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-30",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=1d0a5c25-c8b1-4eeb-811e-27b6f7efa14d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-I--On-Site-_01862626"
     },
     {
       "id": "6c2b43c1-c01b-45dd-9dd4-915730938ff5",
@@ -361,6 +325,18 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Cox&job=0879606c-6003-4f98-9423-8fdbf13c4f01&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Austin-TX/Software-Engineer-I---18525_R202680328"
+    },
+    {
+      "id": "cdaabe55-8a9b-4112-ad57-3e96c619144f",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Cedar Rapids, IA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-27",
+      "age": "7d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=cdaabe55-8a9b-4112-ad57-3e96c619144f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I--Onsite-_01861300"
     },
     {
       "id": "b572e113-4658-42b8-9891-47402f2df0cf",
