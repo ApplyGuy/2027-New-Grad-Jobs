@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-03T20:31:09.012Z",
+  "updatedAt": "2026-08-03T20:45:52.467Z",
   "jobs": [
+    {
+      "id": "2fb5516f-ca87-49f0-ab3b-416479b8c211",
+      "company": "AeroVironment",
+      "title": "Entry-Level Software Engineer",
+      "location": "Dayton, OH",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-03",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=AeroVironment&job=2fb5516f-ca87-49f0-ab3b-416479b8c211&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://avav.wd1.myworkdayjobs.com/avav/job/Dayton-OH/Entry-Level-Software-Engineer_8010"
+    },
     {
       "id": "custom:amazon:38e673d9be9ca62f6064",
       "company": "Amazon",
