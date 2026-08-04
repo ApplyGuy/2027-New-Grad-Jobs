@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T09:45:42.227Z",
+  "updatedAt": "2026-08-04T10:00:44.846Z",
   "jobs": [
     {
       "id": "1ddb731c-0447-4605-a39e-0526813aa038",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Agate+Software&job=1ddb731c-0447-4605-a39e-0526813aa038&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/agatesoftware/60c278e1-9b47-4ba9-8961-0e0cf41e0739"
+    },
+    {
+      "id": "eb760293-7bad-41ce-8cd5-a64ebc9d9d33",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Fullerton, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-04",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=eb760293-7bad-41ce-8cd5-a64ebc9d9d33&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Software-Engineer-I--Onsite-_01864064"
     },
     {
       "id": "2fb5516f-ca87-49f0-ab3b-416479b8c211",
@@ -302,18 +314,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=c5c256b7-afdf-4de3-ac46-2fab5499daf5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineer-I--Onsite-_01863044"
-    },
-    {
-      "id": "22249a2e-7b29-4e98-95f6-d56b19dc3d48",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Fullerton, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-30",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=22249a2e-7b29-4e98-95f6-d56b19dc3d48&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineer-I--Onsite-_01863008"
     },
     {
       "id": "6c2b43c1-c01b-45dd-9dd4-915730938ff5",
