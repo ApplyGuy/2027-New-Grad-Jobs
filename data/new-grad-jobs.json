@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T16:00:41.287Z",
+  "updatedAt": "2026-08-04T16:15:45.744Z",
   "jobs": [
     {
       "id": "1ddb731c-0447-4605-a39e-0526813aa038",
@@ -232,18 +232,6 @@
       "listingUrl": "https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Software-Engineer-Python-Angular_JR-025709"
     },
     {
-      "id": "b9c3c184-5d10-4922-a724-c92156d48ed5",
-      "company": "Cisco",
-      "title": "Software Engineer I (Full Time) – United States",
-      "location": "San Jose, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-30",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Cisco&job=b9c3c184-5d10-4922-a724-c92156d48ed5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-I--Full-Time----United-States_1449197"
-    },
-    {
       "id": "e52352c5-9548-4926-a690-454c3f7e9fd0",
       "company": "Freedom Technology Solutions Group",
       "title": "Junior Software Engineer 744",
@@ -266,18 +254,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Jobgether&job=bf486d40-8714-4007-8016-01398434966e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/jobgether/f5ea9423-296c-4b29-96ad-7c22a4819b4f"
-    },
-    {
-      "id": "70635e1a-9f05-4876-9733-48873ea59060",
-      "company": "Manhattan Associates",
-      "title": "Software Engineer - Early Career",
-      "location": "Atlanta, GA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-07-30",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Manhattan+Associates&job=70635e1a-9f05-4876-9733-48873ea59060&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://manh.wd5.myworkdayjobs.com/campus/job/Atlanta-GA/Software-Engineer---Early-Career_16977"
     },
     {
       "id": "475206db-b559-43e5-a4cf-7bb6751db4b9",
@@ -435,18 +411,6 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=0a970f5b-fa0f-4912-8063-bd505bd875e6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-NY-BINGHAMTON-288--31-Lewis-Rd--LEWIS/Software-Engineer-I--Onsite-_01861373"
-    },
-    {
-      "id": "02120f30-c237-4470-bea7-b17c506c293d",
-      "company": "RTX",
-      "title": "Software Engineer I (On-Site)",
-      "location": "Mckinney, TX",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-28",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=02120f30-c237-4470-bea7-b17c506c293d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineer-I--On-Site-_01862497"
     },
     {
       "id": "3f63c6d6-e5bb-4256-879c-927b902f82e4",
