@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T21:30:38.086Z",
+  "updatedAt": "2026-08-04T21:46:20.912Z",
   "jobs": [
     {
       "id": "1ddb731c-0447-4605-a39e-0526813aa038",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Freedom+Technology+Solutions+Group&job=de05d50f-9382-482f-9bb1-2deacdcc5499&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5203005007"
+    },
+    {
+      "id": "f8a63e11-6831-4d72-b8c5-e87d796395a6",
+      "company": "Gentex",
+      "title": "Embedded Software Engineer I",
+      "location": "Zeeland, MI",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-04",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Gentex&job=f8a63e11-6831-4d72-b8c5-e87d796395a6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://gentex.wd5.myworkdayjobs.com/gentex/job/Zeeland-MI/Embedded-Software-Engineer-I_REQ026014"
     },
     {
       "id": "fe13f646-b027-4f58-b85a-cc9b3b974ab8",
@@ -60,6 +72,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Repligen&job=e98a78b2-5f1a-4bb9-b6e8-4bf175bb26d0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://repligen.wd108.myworkdayjobs.com/repligen_careers/job/Bridgewater-NJ/Software-Developer-I_R-583"
+    },
+    {
+      "id": "b4791c87-e030-4e0f-b8a1-3cfd47fb0bdc",
+      "company": "Rollsroyce",
+      "title": "Junior Machine Learning Engineer",
+      "location": "Indianapolis, IN",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-04",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Rollsroyce&job=b4791c87-e030-4e0f-b8a1-3cfd47fb0bdc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Indianapolis/Junior-Machine-Learning-Engineer_JR6155454-1"
     },
     {
       "id": "eb760293-7bad-41ce-8cd5-a64ebc9d9d33",
