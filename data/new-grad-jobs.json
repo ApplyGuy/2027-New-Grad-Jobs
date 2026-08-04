@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T18:30:36.478Z",
+  "updatedAt": "2026-08-04T18:46:08.921Z",
   "jobs": [
     {
       "id": "1ddb731c-0447-4605-a39e-0526813aa038",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Agate+Software&job=1ddb731c-0447-4605-a39e-0526813aa038&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/agatesoftware/60c278e1-9b47-4ba9-8961-0e0cf41e0739"
+    },
+    {
+      "id": "de05d50f-9382-482f-9bb1-2deacdcc5499",
+      "company": "Freedom Technology Solutions Group",
+      "title": "Associate Software Engineer 750",
+      "location": "Annapolis Junction, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-04",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Freedom+Technology+Solutions+Group&job=de05d50f-9382-482f-9bb1-2deacdcc5499&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5203005007"
     },
     {
       "id": "eb760293-7bad-41ce-8cd5-a64ebc9d9d33",
