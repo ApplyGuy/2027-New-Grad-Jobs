@@ -1,6 +1,6 @@
 # 2027 New Grad Software Engineering Jobs
 
-[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-218-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
+[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-219-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
 
 A continuously verified list of **2027 New Grad software engineering jobs**, **entry-level software engineer jobs**, and early-career developer roles in the United States. Listings come directly from employer career pages and are maintained by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs).
 
@@ -10,9 +10,9 @@ A continuously verified list of **2027 New Grad software engineering jobs**, **e
 
 🎒 **Looking for internships?** Browse [2027 SWE & Product Internships →](https://github.com/ApplyGuy/2027-Internships)
 
-- **218** active U.S. software roles posted within the last **60 days**
+- **219** active U.S. software roles posted within the last **60 days**
 - **53** explicitly labeled New Grad / university graduate / early career
-- Last refresh: **Aug 4, 2026, 11:30 AM PDT**
+- Last refresh: **Aug 4, 2026, 11:46 AM PDT**
 - Machine-readable feed: [data/new-grad-jobs.json](data/new-grad-jobs.json)
 
 Listings with the orange **Apply Guy** button support one-click apply through [Apply Guy](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs). Blue **View** buttons open the employer's career site directly.
@@ -22,6 +22,7 @@ Listings with the orange **Apply Guy** button support one-click apply through [A
 | Company | Role | Location | Posted | Actions |
 |---|---|---|---:|---|
 | Agate Software | Software Developer I - hybrid in Glendale AZ  [SD1-2026-08] | Glendale, AZ | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Agate+Software&job=1ddb731c-0447-4605-a39e-0526813aa038&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://jobs.lever.co/agatesoftware/60c278e1-9b47-4ba9-8961-0e0cf41e0739) |
+| Freedom Technology Solutions Group | Associate Software Engineer 750 | Annapolis Junction, MD | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Freedom+Technology+Solutions+Group&job=de05d50f-9382-482f-9bb1-2deacdcc5499&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/freedomconsulting/jobs/5203005007) |
 | RTX | Software Engineer I (Onsite) | Fullerton, CA | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=eb760293-7bad-41ce-8cd5-a64ebc9d9d33&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Software-Engineer-I--Onsite-_01864064) |
 | AeroVironment | Entry-Level Software Engineer | Dayton, OH | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=AeroVironment&job=2fb5516f-ca87-49f0-ab3b-416479b8c211&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://avav.wd1.myworkdayjobs.com/avav/job/Dayton-OH/Entry-Level-Software-Engineer_8010) |
 | Amazon | Software Development Engineer I – AI/ML Network Infrastructure, Annapurna Labs | Cupertino, CA | 1d | [![View original listing](assets/view-listing.svg)](https://www.amazon.jobs/en/jobs/10490741/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs) |
