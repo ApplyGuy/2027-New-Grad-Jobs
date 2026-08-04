@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T19:15:36.902Z",
+  "updatedAt": "2026-08-04T19:30:45.096Z",
   "jobs": [
     {
       "id": "1ddb731c-0447-4605-a39e-0526813aa038",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Freedom+Technology+Solutions+Group&job=de05d50f-9382-482f-9bb1-2deacdcc5499&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5203005007"
+    },
+    {
+      "id": "e98a78b2-5f1a-4bb9-b6e8-4bf175bb26d0",
+      "company": "Repligen",
+      "title": "Software Developer I",
+      "location": "Bridgewater, NJ",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-04",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Repligen&job=e98a78b2-5f1a-4bb9-b6e8-4bf175bb26d0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://repligen.wd108.myworkdayjobs.com/repligen_careers/job/Bridgewater-NJ/Software-Developer-I_R-583"
     },
     {
       "id": "eb760293-7bad-41ce-8cd5-a64ebc9d9d33",
