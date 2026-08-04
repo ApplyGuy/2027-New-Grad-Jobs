@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T01:16:44.072Z",
+  "updatedAt": "2026-08-04T01:30:39.919Z",
   "jobs": [
     {
       "id": "2fb5516f-ca87-49f0-ab3b-416479b8c211",
@@ -25,6 +25,18 @@
       "url": "https://www.amazon.jobs/en/jobs/10490741/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
       "listingUrl": "https://www.amazon.jobs/en/jobs/10490741/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
       "applySupported": false
+    },
+    {
+      "id": "53cfae87-d01f-4077-8524-8a7ab41afa4e",
+      "company": "Ballardspahr",
+      "title": "Junior Software Engineer",
+      "location": "Philadelphia, PA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-03",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Ballardspahr&job=53cfae87-d01f-4077-8524-8a7ab41afa4e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://ballardspahr.wd5.myworkdayjobs.com/ballard_spahr_llp/job/PA---Philadelphia/Junior-Software-Engineer_REQ-450"
     },
     {
       "id": "e183ddff-7bf4-4a73-b9f8-a83abdb517af",
