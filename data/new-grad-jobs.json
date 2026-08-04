@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T00:46:16.888Z",
+  "updatedAt": "2026-08-04T01:01:17.386Z",
   "jobs": [
     {
       "id": "2fb5516f-ca87-49f0-ab3b-416479b8c211",
@@ -27,6 +27,18 @@
       "applySupported": false
     },
     {
+      "id": "e183ddff-7bf4-4a73-b9f8-a83abdb517af",
+      "company": "Dealertire",
+      "title": "Jr. Software Developer (Canton, MI)",
+      "location": "Canton, MI",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-03",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Dealertire&job=e183ddff-7bf4-4a73-b9f8-a83abdb517af&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://dealertire.wd5.myworkdayjobs.com/ami/job/AMI-Corporate-Headquarters/Jr-Web-Developer--Canton--MI-_R14031"
+    },
+    {
       "id": "custom:microsoft:03d65b2b10e701c197e7",
       "company": "Microsoft",
       "title": "Software Engineering - Commercial Engineering & AI (CEAI)",
@@ -50,6 +62,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=NVIDIA&job=3a280089-2bd8-494a-b78e-0de5ad399e1d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083"
+    },
+    {
+      "id": "0db7acd6-61b7-4cb7-966e-6d116d940aff",
+      "company": "Redhat",
+      "title": "Associate Software Engineer, Red Hat Linux Virtualization Networking",
+      "location": "Raleigh, NC",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-03",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Redhat&job=0db7acd6-61b7-4cb7-966e-6d116d940aff&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Associate-Software-Engineer--Red-Hat-Linux-Virtualization-Networking_R-058759"
     },
     {
       "id": "80d05b92-12e2-48c4-b186-b4879fb92693",
@@ -86,6 +110,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=2abd8ea6-a87a-4404-9f6b-42e738d62608&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Software-Engineer-I--Onsite-_01856767"
+    },
+    {
+      "id": "d1a6a274-8d4d-401b-945b-262e33f49ae0",
+      "company": "SimpliSafe",
+      "title": "Software Engineer I- User Systems",
+      "location": "Boston, MA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-03",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=SimpliSafe&job=d1a6a274-8d4d-401b-945b-262e33f49ae0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/simplisafe/jobs/8095181"
     },
     {
       "id": "8a404b81-fa27-4928-9406-da693549369c",
