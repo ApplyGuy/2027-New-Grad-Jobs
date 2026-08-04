@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-04T06:00:41.108Z",
+  "updatedAt": "2026-08-04T06:15:38.697Z",
   "jobs": [
+    {
+      "id": "1ddb731c-0447-4605-a39e-0526813aa038",
+      "company": "Agate Software",
+      "title": "Software Developer I - hybrid in Glendale AZ  [SD1-2026-08]",
+      "location": "Glendale, AZ",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-04",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Agate+Software&job=1ddb731c-0447-4605-a39e-0526813aa038&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.lever.co/agatesoftware/60c278e1-9b47-4ba9-8961-0e0cf41e0739"
+    },
     {
       "id": "2fb5516f-ca87-49f0-ab3b-416479b8c211",
       "company": "AeroVironment",
