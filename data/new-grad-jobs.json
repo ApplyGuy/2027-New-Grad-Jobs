@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-08-05T18:45:42.743Z",
+  "updatedAt": "2026-08-05T19:00:42.029Z",
   "jobs": [
+    {
+      "id": "82943b3b-7cce-4706-9926-0e878b839a72",
+      "company": "Esri",
+      "title": "Software Developer I - Android Apps",
+      "location": "Portland, ME",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-05",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Esri&job=82943b3b-7cce-4706-9926-0e878b839a72&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://www.esri.com/careers/5199123007?gh_jid=5199123007"
+    },
+    {
+      "id": "bdda7a08-6255-4af8-8010-362f295f4325",
+      "company": "Esri",
+      "title": "C++ Software Engineer I – Maps SDKS",
+      "location": "Redlands, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-05",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Esri&job=bdda7a08-6255-4af8-8010-362f295f4325&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://www.esri.com/careers/5199136007?gh_jid=5199136007"
+    },
     {
       "id": "70635e1a-9f05-4876-9733-48873ea59060",
       "company": "Manhattan Associates",
