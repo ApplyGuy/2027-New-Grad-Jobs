@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T19:45:57.974Z",
+  "updatedAt": "2026-08-05T20:00:52.422Z",
   "jobs": [
     {
       "id": "82943b3b-7cce-4706-9926-0e878b839a72",
@@ -60,6 +60,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Muon+Space&job=e6cb5068-0d3d-4cf6-aa4e-0a2ec52ab94f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/muonspace/jobs/5204498007"
+    },
+    {
+      "id": "c088a457-10f3-41a0-aa40-a0501a82452f",
+      "company": "Northrop Grumman",
+      "title": "Associate Software Engineer",
+      "location": "Melbourne, FL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-05",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=c088a457-10f3-41a0-aa40-a0501a82452f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/Associate-Software-Engineer_R10239775"
     },
     {
       "id": "7b34976c-262f-488e-9bc6-60913ae3b5a9",
