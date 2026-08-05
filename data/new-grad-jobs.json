@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-05T20:00:52.422Z",
+  "updatedAt": "2026-08-05T20:15:59.930Z",
   "jobs": [
+    {
+      "id": "78a48e34-d1df-42d3-b017-10aedc415db8",
+      "company": "Cboe",
+      "title": "Associate Software Engineer, Web",
+      "location": "Kansas City, MO",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-05",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Cboe&job=78a48e34-d1df-42d3-b017-10aedc415db8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://cboe.wd1.myworkdayjobs.com/external_career_cboe/job/Kansas-City-MO/Associate-Software-Engineer--Web_R-4563"
+    },
     {
       "id": "82943b3b-7cce-4706-9926-0e878b839a72",
       "company": "Esri",
@@ -192,18 +204,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Gentex&job=f8a63e11-6831-4d72-b8c5-e87d796395a6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://gentex.wd5.myworkdayjobs.com/gentex/job/Zeeland-MI/Embedded-Software-Engineer-I_REQ026014"
-    },
-    {
-      "id": "fe13f646-b027-4f58-b85a-cc9b3b974ab8",
-      "company": "Nordsonhcm",
-      "title": "Software Engineer I",
-      "location": "Loveland, CO",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-04",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Nordsonhcm&job=fe13f646-b027-4f58-b85a-cc9b3b974ab8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Colorado---Loveland/Software-Engineer-I_REQ52110-1"
     },
     {
       "id": "e11ef533-a578-4591-a62c-3902f4dcb33f",
