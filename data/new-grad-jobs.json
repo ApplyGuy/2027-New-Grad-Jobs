@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T01:45:42.557Z",
+  "updatedAt": "2026-08-05T02:00:48.565Z",
   "jobs": [
     {
       "id": "1ddb731c-0447-4605-a39e-0526813aa038",
@@ -12,6 +12,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Agate+Software&job=1ddb731c-0447-4605-a39e-0526813aa038&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/agatesoftware/60c278e1-9b47-4ba9-8961-0e0cf41e0739"
+    },
+    {
+      "id": "988baaa9-fac7-42f8-b8b4-e93ec124d862",
+      "company": "Cox",
+      "title": "Entry Level Software Engineer - Atlanta, GA",
+      "location": "Atlanta, GA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-04",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Cox&job=988baaa9-fac7-42f8-b8b4-e93ec124d862&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Atlanta-GA/Entry-Level-Software-Engineer---Atlanta--GA_R202680858-1"
     },
     {
       "id": "de05d50f-9382-482f-9bb1-2deacdcc5499",
