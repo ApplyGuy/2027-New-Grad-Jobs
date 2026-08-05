@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T22:01:21.879Z",
+  "updatedAt": "2026-08-05T22:15:41.143Z",
   "jobs": [
     {
       "id": "78a48e34-d1df-42d3-b017-10aedc415db8",
@@ -110,6 +110,18 @@
       "listingUrl": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244"
     },
     {
+      "id": "ac5562b0-18be-4353-83c1-171436f6b4bb",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite - Secret Clearance)",
+      "location": "Aguadilla, PR",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-05",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=ac5562b0-18be-4353-83c1-171436f6b4bb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--Onsite---Secret-Clearance-_01864807"
+    },
+    {
       "id": "f14b49d0-e992-4e8f-8f26-fc6b50c7b073",
       "company": "RTX",
       "title": "Software Engineer I - Air Traffic Solutions (Onsite)",
@@ -144,6 +156,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Snapfinance&job=7142fdfe-7055-442c-8a4f-1e0f7775c562&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://snapfinance.wd1.myworkdayjobs.com/snap_external_careers/job/Arizona/Software-Engineer-I_R-2796"
+    },
+    {
+      "id": "64901d3c-e95f-49d4-861e-b1f5335cb637",
+      "company": "U.S. Bank",
+      "title": "Software Engineer 1- (Full Stack Developer)",
+      "location": "Atlanta, GA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-05",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=U.S.+Bank&job=64901d3c-e95f-49d4-861e-b1f5335cb637&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Atlanta-GA/Software-Engineer-1---Full-Stack-Developer-_2026-0022352"
     },
     {
       "id": "2d3762ef-27cd-4ae5-bd65-e0cad8cd5231",
