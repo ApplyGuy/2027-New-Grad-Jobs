@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T01:31:22.555Z",
+  "updatedAt": "2026-08-05T01:45:42.557Z",
   "jobs": [
     {
       "id": "1ddb731c-0447-4605-a39e-0526813aa038",
@@ -60,6 +60,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=e11ef533-a578-4591-a62c-3902f4dcb33f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/Associate-Software-Engineer---Software-Engineer_R10243047"
+    },
+    {
+      "id": "6f085430-1a23-4d26-ab87-c223adf8b48b",
+      "company": "Remitly",
+      "title": "Software Development Engineer I- IHUB",
+      "location": "Seattle, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-04",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Remitly&job=6f085430-1a23-4d26-ab87-c223adf8b48b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Seattle-Washington-United-States/Software-Development-Engineer-I--IHUB_R_106706"
     },
     {
       "id": "e98a78b2-5f1a-4bb9-b6e8-4bf175bb26d0",
