@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T19:31:20.364Z",
+  "updatedAt": "2026-08-05T19:45:57.974Z",
   "jobs": [
     {
       "id": "82943b3b-7cce-4706-9926-0e878b839a72",
@@ -120,6 +120,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Snapfinance&job=7142fdfe-7055-442c-8a4f-1e0f7775c562&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://snapfinance.wd1.myworkdayjobs.com/snap_external_careers/job/Arizona/Software-Engineer-I_R-2796"
+    },
+    {
+      "id": "2d3762ef-27cd-4ae5-bd65-e0cad8cd5231",
+      "company": "Wgu",
+      "title": "Associate Software Engineer",
+      "location": "Salt Lake City, UT",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-05",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Wgu&job=2d3762ef-27cd-4ae5-bd65-e0cad8cd5231&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Associate-Software-Engineer_JR-025311"
     },
     {
       "id": "1ddb731c-0447-4605-a39e-0526813aa038",
