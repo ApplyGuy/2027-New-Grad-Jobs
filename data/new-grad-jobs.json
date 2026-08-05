@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T05:00:43.768Z",
+  "updatedAt": "2026-08-05T05:15:39.804Z",
   "jobs": [
     {
       "id": "1ddb731c-0447-4605-a39e-0526813aa038",
@@ -943,19 +943,6 @@
       "age": "15d",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=5e881c4f-7753-4be5-8b9c-aee74b7088bd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/3325-Fort-George-G-Meade-MD/Junior-Software-Engineer--SWE-2-_R-00185405"
-    },
-    {
-      "id": "custom:microsoft:297a9c934e3b48c279c8",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-21",
-      "age": "15d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556867395",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556867395",
-      "applySupported": false
     },
     {
       "id": "01d32a43-d17b-4ab0-a457-91bb5e5e36c3",
