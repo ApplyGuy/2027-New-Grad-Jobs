@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T19:15:43.660Z",
+  "updatedAt": "2026-08-05T19:31:20.364Z",
   "jobs": [
     {
       "id": "82943b3b-7cce-4706-9926-0e878b839a72",
@@ -72,6 +72,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Peraton&job=7b34976c-262f-488e-9bc6-60913ae3b5a9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://careers-peraton.icims.com/jobs/169403/junior-software-developer---space-weather/job"
+    },
+    {
+      "id": "b787bb89-547d-4d4a-a2a3-59018fdd7969",
+      "company": "Roblox",
+      "title": "[2027] Software Engineer, Early Career",
+      "location": "San Mateo, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-05",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Roblox&job=b787bb89-547d-4d4a-a2a3-59018fdd7969&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244"
     },
     {
       "id": "f14b49d0-e992-4e8f-8f26-fc6b50c7b073",
