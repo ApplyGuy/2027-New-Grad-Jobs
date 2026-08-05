@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-05T13:15:42.165Z",
+  "updatedAt": "2026-08-05T13:30:40.564Z",
   "jobs": [
+    {
+      "id": "7b34976c-262f-488e-9bc6-60913ae3b5a9",
+      "company": "Peraton",
+      "title": "Junior Software Developer - Space Weather",
+      "location": "Colorado Springs, CO",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-05",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Peraton&job=7b34976c-262f-488e-9bc6-60913ae3b5a9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://careers-peraton.icims.com/jobs/169403/junior-software-developer---space-weather/job"
+    },
     {
       "id": "1ddb731c-0447-4605-a39e-0526813aa038",
       "company": "Agate Software",
