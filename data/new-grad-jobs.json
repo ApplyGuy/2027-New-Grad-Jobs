@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-05T16:00:43.385Z",
+  "updatedAt": "2026-08-05T16:15:47.714Z",
   "jobs": [
+    {
+      "id": "70635e1a-9f05-4876-9733-48873ea59060",
+      "company": "Manhattan Associates",
+      "title": "Software Engineer - Early Career",
+      "location": "Atlanta, GA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-05",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Manhattan+Associates&job=70635e1a-9f05-4876-9733-48873ea59060&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://manh.wd5.myworkdayjobs.com/campus/job/Atlanta-GA/Software-Engineer---Early-Career_16977"
+    },
     {
       "id": "7b34976c-262f-488e-9bc6-60913ae3b5a9",
       "company": "Peraton",
@@ -12,6 +24,42 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Peraton&job=7b34976c-262f-488e-9bc6-60913ae3b5a9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://careers-peraton.icims.com/jobs/169403/junior-software-developer---space-weather/job"
+    },
+    {
+      "id": "f14b49d0-e992-4e8f-8f26-fc6b50c7b073",
+      "company": "RTX",
+      "title": "Software Engineer I - Air Traffic Solutions (Onsite)",
+      "location": "Marlborough, MA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-05",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=f14b49d0-e992-4e8f-8f26-fc6b50c7b073&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I---Air-Traffic-Solutions--Onsite-_01864077"
+    },
+    {
+      "id": "a7ea6175-d816-4661-b23a-d7daa2fc42b4",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "El Segundo, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-05",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=a7ea6175-d816-4661-b23a-d7daa2fc42b4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Software-Engineer-I--Onsite-_01862140"
+    },
+    {
+      "id": "7142fdfe-7055-442c-8a4f-1e0f7775c562",
+      "company": "Snapfinance",
+      "title": "Software Engineer I",
+      "location": "Arizona",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-05",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Snapfinance&job=7142fdfe-7055-442c-8a4f-1e0f7775c562&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://snapfinance.wd1.myworkdayjobs.com/snap_external_careers/job/Arizona/Software-Engineer-I_R-2796"
     },
     {
       "id": "1ddb731c-0447-4605-a39e-0526813aa038",
@@ -232,18 +280,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Software-Engineer-I--Onsite-_01863436-1"
     },
     {
-      "id": "06fd61d2-6479-441d-86a3-5517116f25c7",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Tewksbury, MA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-03",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=06fd61d2-6479-441d-86a3-5517116f25c7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01863236"
-    },
-    {
       "id": "d1a6a274-8d4d-401b-945b-262e33f49ae0",
       "company": "SimpliSafe",
       "title": "Software Engineer I- User Systems",
@@ -316,18 +352,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/smartsheet/jobs/8070067"
     },
     {
-      "id": "68e35b04-e769-40d9-a4be-9e97090fa705",
-      "company": "Wgu",
-      "title": "Software Engineer I - Full-Stack",
-      "location": "Salt Lake City, UT",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-31",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Wgu&job=68e35b04-e769-40d9-a4be-9e97090fa705&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Software-Engineer-Python-Angular_JR-025709"
-    },
-    {
       "id": "e52352c5-9548-4926-a690-454c3f7e9fd0",
       "company": "Freedom Technology Solutions Group",
       "title": "Junior Software Engineer 744",
@@ -374,18 +398,6 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Resmed&job=19e1dd9d-b688-477e-b255-8751c41f03a9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://resmed.wd3.myworkdayjobs.com/resmed_external_careers/job/San-Diego-CA-United-States/Associate-Software-Engineer_JR_052316-1"
-    },
-    {
-      "id": "c5c256b7-afdf-4de3-ac46-2fab5499daf5",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Mckinney, TX",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-30",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=c5c256b7-afdf-4de3-ac46-2fab5499daf5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineer-I--Onsite-_01863044"
     },
     {
       "id": "6c2b43c1-c01b-45dd-9dd4-915730938ff5",
@@ -736,6 +748,18 @@
       "age": "13d",
       "url": "https://applyguy.ai/jobs?company=Pipe17&job=04c6455f-d5af-450e-b6be-98c24ad85722&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/pipe17/jobs/4717950005"
+    },
+    {
+      "id": "6e45d5d7-de8b-464a-aade-bc1d5dbdbc6e",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Tewksbury, MA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-23",
+      "age": "13d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=6e45d5d7-de8b-464a-aade-bc1d5dbdbc6e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01861526"
     },
     {
       "id": "408d5992-08a8-4519-9ee2-b5a7ae96dbc9",
