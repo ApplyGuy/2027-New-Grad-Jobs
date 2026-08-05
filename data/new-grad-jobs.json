@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T18:30:54.206Z",
+  "updatedAt": "2026-08-05T18:45:42.743Z",
   "jobs": [
     {
       "id": "70635e1a-9f05-4876-9733-48873ea59060",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Manhattan+Associates&job=70635e1a-9f05-4876-9733-48873ea59060&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://manh.wd5.myworkdayjobs.com/campus/job/Atlanta-GA/Software-Engineer---Early-Career_16977"
+    },
+    {
+      "id": "e9aca3e5-d31c-4c9f-ab1c-79ceccd6088c",
+      "company": "Medtronic",
+      "title": "Software Engineer I - CRM",
+      "location": "Minneapolis, MN",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-05",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Medtronic&job=e9aca3e5-d31c-4c9f-ab1c-79ceccd6088c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Software-Engineer-I---CRM_R73402-1"
     },
     {
       "id": "7b34976c-262f-488e-9bc6-60913ae3b5a9",
