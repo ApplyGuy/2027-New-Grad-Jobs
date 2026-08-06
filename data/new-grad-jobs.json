@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T19:16:06.239Z",
+  "updatedAt": "2026-08-06T19:30:45.274Z",
   "jobs": [
     {
       "id": "d0ba0e88-6c9a-4836-b9d3-d6aa8be1c4a5",
@@ -24,6 +24,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=IXL+Learning&job=d9435815-b375-4349-b8b9-e62404b00c64&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.ixl.com/company/jobs?gh_jid=8662881002"
+    },
+    {
+      "id": "41fd390f-54da-4c47-8a28-2cf5d0be6a73",
+      "company": "Litera",
+      "title": "Associate Software Engineer",
+      "location": "Denver, CO",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-06",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Litera&job=41fd390f-54da-4c47-8a28-2cf5d0be6a73&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://litera.wd12.myworkdayjobs.com/litera_careers/job/Denver-CO/Associate-Software-Engineer_R-501347"
+    },
+    {
+      "id": "c921858a-913d-4450-8e73-e8d51d8af098",
+      "company": "Ms",
+      "title": "Junior Full Stack Developer",
+      "location": "New York City, NY",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-06",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Ms&job=c921858a-913d-4450-8e73-e8d51d8af098&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://ms.wd5.myworkdayjobs.com/private/job/New-York-New-York-United-States-of-America/Junior-Full-Stack-Developer_PT-JR041853"
     },
     {
       "id": "a36fe68e-f3cd-44bc-a985-df64f220cb72",
