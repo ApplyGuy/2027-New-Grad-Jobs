@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T00:15:52.040Z",
+  "updatedAt": "2026-08-06T00:31:04.202Z",
   "jobs": [
     {
       "id": "78a48e34-d1df-42d3-b017-10aedc415db8",
@@ -108,6 +108,30 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Roblox&job=b787bb89-547d-4d4a-a2a3-59018fdd7969&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244"
+    },
+    {
+      "id": "97f1c385-ab32-4700-b148-cf86a5896592",
+      "company": "RTX",
+      "title": "Embedded Software Engineer I (Onsite)",
+      "location": "East Hartford, CT",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-05",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=97f1c385-ab32-4700-b148-cf86a5896592&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Embedded-Software-Engineer---P1_01864540"
+    },
+    {
+      "id": "31569cb4-081a-483d-ad0f-33fc76e32338",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Richardson, TX",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-05",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=31569cb4-081a-483d-ad0f-33fc76e32338&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-TX-RICHARDSON-461--3200-E-Renner-Rd--RENNER-BLDG-461/Software-Engineer-I--Onsite-_01863485"
     },
     {
       "id": "ac5562b0-18be-4353-83c1-171436f6b4bb",
