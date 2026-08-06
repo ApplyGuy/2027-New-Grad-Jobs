@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T20:00:51.394Z",
+  "updatedAt": "2026-08-06T20:16:11.806Z",
   "jobs": [
     {
       "id": "d0ba0e88-6c9a-4836-b9d3-d6aa8be1c4a5",
@@ -60,6 +60,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=a36fe68e-f3cd-44bc-a985-df64f220cb72&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Program-Protection-Software-Engineer-I--Onsite-_01864768"
+    },
+    {
+      "id": "8a874d3f-d3a8-4a01-a4fa-de0a4c1045c8",
+      "company": "UNITED STATES SOCCER FEDERATION 1",
+      "title": "Junior Data Engineer",
+      "location": "Remote, U.S.",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-06",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=UNITED+STATES+SOCCER+FEDERATION+1&job=8a874d3f-d3a8-4a01-a4fa-de0a4c1045c8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4397444"
     },
     {
       "id": "2d3762ef-27cd-4ae5-bd65-e0cad8cd5231",
@@ -228,18 +240,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=d13c4fab-4859-421f-9a7d-8deadb7f8c0d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2026-Associate-Software-Engineer-Software-Engineer_R10244101"
-    },
-    {
-      "id": "c088a457-10f3-41a0-aa40-a0501a82452f",
-      "company": "Northrop Grumman",
-      "title": "Associate Software Engineer",
-      "location": "Melbourne, FL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-05",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=c088a457-10f3-41a0-aa40-a0501a82452f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/Associate-Software-Engineer_R10239775"
     },
     {
       "id": "7b34976c-262f-488e-9bc6-60913ae3b5a9",
