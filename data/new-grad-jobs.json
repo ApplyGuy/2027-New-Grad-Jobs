@@ -1,32 +1,8 @@
 {
-  "updatedAt": "2026-08-06T01:46:04.647Z",
+  "updatedAt": "2026-08-06T02:00:54.558Z",
   "jobs": [
     {
-      "id": "be5f7bc9-a6e2-4f4c-988c-dbc453d2e786",
-      "company": "Boeing",
-      "title": "Associate Software Engineer",
-      "location": "Multiple U.S. locations",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-05",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Boeing&job=be5f7bc9-a6e2-4f4c-988c-dbc453d2e786&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Maryland-Heights-MO/Associate-Software-Engineer_JR2026516706-1"
-    },
-    {
-      "id": "bb8d2cf0-8421-4092-91a7-96439872f7e3",
-      "company": "Boeing",
-      "title": "Entry-Level Software Test Engineer",
-      "location": "Multiple U.S. locations",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-05",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Boeing&job=bb8d2cf0-8421-4092-91a7-96439872f7e3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Hazelwood-MO/Entry-Level-Software-Test-Engineer_JR2026516717-1"
-    },
-    {
-      "id": "4a3c406d-8901-4493-b5a9-e88544c7469c",
+      "id": "a7eccda0-9ade-4b4d-97f2-f20fbbde260b",
       "company": "Boeing",
       "title": "Entry-Level Software Engineer",
       "location": "Multiple U.S. locations",
@@ -34,8 +10,32 @@
       "matchKind": "explicit",
       "posted": "2026-08-05",
       "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Boeing&job=4a3c406d-8901-4493-b5a9-e88544c7469c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026516694-1"
+      "url": "https://applyguy.ai/jobs?company=Boeing&job=a7eccda0-9ade-4b4d-97f2-f20fbbde260b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026516694"
+    },
+    {
+      "id": "85bb4a2a-df45-40ff-ada3-87d6fd7b413f",
+      "company": "Boeing",
+      "title": "Associate Software Engineer",
+      "location": "Multiple U.S. locations",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-05",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Boeing&job=85bb4a2a-df45-40ff-ada3-87d6fd7b413f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Maryland-Heights-MO/Associate-Software-Engineer_JR2026516706"
+    },
+    {
+      "id": "2aafff0f-9e51-4213-9a99-005d81cd3f83",
+      "company": "Boeing",
+      "title": "Entry-Level Software Test Engineer",
+      "location": "Multiple U.S. locations",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-05",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Boeing&job=2aafff0f-9e51-4213-9a99-005d81cd3f83&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Hazelwood-MO/Entry-Level-Software-Test-Engineer_JR2026516717"
     },
     {
       "id": "78a48e34-d1df-42d3-b017-10aedc415db8",
@@ -120,6 +120,30 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Muon+Space&job=e6cb5068-0d3d-4cf6-aa4e-0a2ec52ab94f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/muonspace/jobs/5204498007"
+    },
+    {
+      "id": "dd456043-81fa-467f-8a50-aadc272c497d",
+      "company": "Northrop Grumman",
+      "title": "2027 Associate Software Engineer / Software Engineer",
+      "location": "Melbourne, FL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-05",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=dd456043-81fa-467f-8a50-aadc272c497d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer_R10243561"
+    },
+    {
+      "id": "d13c4fab-4859-421f-9a7d-8deadb7f8c0d",
+      "company": "Northrop Grumman",
+      "title": "2026 Associate Software Engineer/Software Engineer",
+      "location": "Melbourne, FL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-05",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=d13c4fab-4859-421f-9a7d-8deadb7f8c0d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2026-Associate-Software-Engineer-Software-Engineer_R10244101"
     },
     {
       "id": "c088a457-10f3-41a0-aa40-a0501a82452f",
@@ -542,18 +566,6 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Jobgether&job=bf486d40-8714-4007-8016-01398434966e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/jobgether/f5ea9423-296c-4b29-96ad-7c22a4819b4f"
-    },
-    {
-      "id": "475206db-b559-43e5-a4cf-7bb6751db4b9",
-      "company": "Northrop Grumman",
-      "title": "2027  Associate Software Engineer / Software Engineer",
-      "location": "Melbourne, FL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-30",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=475206db-b559-43e5-a4cf-7bb6751db4b9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027--Associate-Software-Engineer---Software-Engineer_R10243060"
     },
     {
       "id": "19e1dd9d-b688-477e-b255-8751c41f03a9",
