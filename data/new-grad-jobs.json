@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T01:15:39.074Z",
+  "updatedAt": "2026-08-06T01:30:50.546Z",
   "jobs": [
     {
       "id": "78a48e34-d1df-42d3-b017-10aedc415db8",
@@ -398,18 +398,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=NVIDIA&job=3a280089-2bd8-494a-b78e-0de5ad399e1d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083"
-    },
-    {
-      "id": "0db7acd6-61b7-4cb7-966e-6d116d940aff",
-      "company": "Redhat",
-      "title": "Associate Software Engineer, Red Hat Linux Virtualization Networking",
-      "location": "Raleigh, NC",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-03",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=Redhat&job=0db7acd6-61b7-4cb7-966e-6d116d940aff&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Associate-Software-Engineer--Red-Hat-Linux-Virtualization-Networking_R-058759"
     },
     {
       "id": "d1a6a274-8d4d-401b-945b-262e33f49ae0",
