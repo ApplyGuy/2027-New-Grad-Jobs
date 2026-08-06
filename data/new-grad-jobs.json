@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T16:01:02.542Z",
+  "updatedAt": "2026-08-06T16:15:45.254Z",
   "jobs": [
     {
       "id": "a7eccda0-9ade-4b4d-97f2-f20fbbde260b",
@@ -580,18 +580,6 @@
       "listingUrl": "https://jobs.lever.co/jobgether/f5ea9423-296c-4b29-96ad-7c22a4819b4f"
     },
     {
-      "id": "19e1dd9d-b688-477e-b255-8751c41f03a9",
-      "company": "Resmed",
-      "title": "Associate Software Engineer",
-      "location": "San Diego, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-30",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=Resmed&job=19e1dd9d-b688-477e-b255-8751c41f03a9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://resmed.wd3.myworkdayjobs.com/resmed_external_careers/job/San-Diego-CA-United-States/Associate-Software-Engineer_JR_052316-1"
-    },
-    {
       "id": "6c2b43c1-c01b-45dd-9dd4-915730938ff5",
       "company": "RTX",
       "title": "Java Software Engineer I (On-Site)",
@@ -735,18 +723,6 @@
       "age": "9d",
       "url": "https://applyguy.ai/jobs?company=Tebra&job=5d059d9f-4095-4312-9d48-ecd2a6bd4c8c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/tebra/jobs/4714981005"
-    },
-    {
-      "id": "0879606c-6003-4f98-9423-8fdbf13c4f01",
-      "company": "Cox",
-      "title": "Software Engineer I - 18525",
-      "location": "Austin, TX",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-27",
-      "age": "10d",
-      "url": "https://applyguy.ai/jobs?company=Cox&job=0879606c-6003-4f98-9423-8fdbf13c4f01&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Austin-TX/Software-Engineer-I---18525_R202680328"
     },
     {
       "id": "cdaabe55-8a9b-4112-ad57-3e96c619144f",
