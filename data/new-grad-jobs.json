@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-08-06T01:30:50.546Z",
+  "updatedAt": "2026-08-06T01:46:04.647Z",
   "jobs": [
+    {
+      "id": "be5f7bc9-a6e2-4f4c-988c-dbc453d2e786",
+      "company": "Boeing",
+      "title": "Associate Software Engineer",
+      "location": "Multiple U.S. locations",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-05",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Boeing&job=be5f7bc9-a6e2-4f4c-988c-dbc453d2e786&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Maryland-Heights-MO/Associate-Software-Engineer_JR2026516706-1"
+    },
+    {
+      "id": "bb8d2cf0-8421-4092-91a7-96439872f7e3",
+      "company": "Boeing",
+      "title": "Entry-Level Software Test Engineer",
+      "location": "Multiple U.S. locations",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-05",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Boeing&job=bb8d2cf0-8421-4092-91a7-96439872f7e3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Hazelwood-MO/Entry-Level-Software-Test-Engineer_JR2026516717-1"
+    },
+    {
+      "id": "4a3c406d-8901-4493-b5a9-e88544c7469c",
+      "company": "Boeing",
+      "title": "Entry-Level Software Engineer",
+      "location": "Multiple U.S. locations",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-05",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Boeing&job=4a3c406d-8901-4493-b5a9-e88544c7469c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026516694-1"
+    },
     {
       "id": "78a48e34-d1df-42d3-b017-10aedc415db8",
       "company": "Cboe",
@@ -36,6 +72,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Esri&job=bdda7a08-6255-4af8-8010-362f295f4325&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.esri.com/careers/5199136007?gh_jid=5199136007"
+    },
+    {
+      "id": "d5bcd942-59a6-4296-bafc-d07d45e8fbcf",
+      "company": "Harris",
+      "title": "Associate Software Engineer, RPG",
+      "location": "Tennessee",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-05",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Harris&job=d5bcd942-59a6-4296-bafc-d07d45e8fbcf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Tennessee-United-States/Associate-Software-Engineer--RPG_R0045601-1"
     },
     {
       "id": "70635e1a-9f05-4876-9733-48873ea59060",
