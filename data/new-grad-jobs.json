@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T01:01:19.969Z",
+  "updatedAt": "2026-08-06T01:15:39.074Z",
   "jobs": [
     {
       "id": "78a48e34-d1df-42d3-b017-10aedc415db8",
@@ -180,6 +180,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Snapfinance&job=7142fdfe-7055-442c-8a4f-1e0f7775c562&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://snapfinance.wd1.myworkdayjobs.com/snap_external_careers/job/Arizona/Software-Engineer-I_R-2796"
+    },
+    {
+      "id": "be66dbc6-7a6e-492a-a199-6304009b4e72",
+      "company": "Torc Robotics",
+      "title": "Software Engineer I - Metrics for Release",
+      "location": "Ann Arbor, MI",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-05",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Torc+Robotics&job=be66dbc6-7a6e-492a-a199-6304009b4e72&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/torcrobotics/jobs/8676173002"
     },
     {
       "id": "64901d3c-e95f-49d4-861e-b1f5335cb637",
