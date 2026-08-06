@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T02:30:56.297Z",
+  "updatedAt": "2026-08-06T02:45:55.115Z",
   "jobs": [
     {
       "id": "a7eccda0-9ade-4b4d-97f2-f20fbbde260b",
@@ -84,6 +84,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Harris&job=d5bcd942-59a6-4296-bafc-d07d45e8fbcf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Tennessee-United-States/Associate-Software-Engineer--RPG_R0045601-1"
+    },
+    {
+      "id": "1f5279e6-26dc-45e9-adaf-5d248189a0ce",
+      "company": "Harriscomputer",
+      "title": "Associate Software Engineer, RPG",
+      "location": "Tennessee",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-05",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Harriscomputer&job=1f5279e6-26dc-45e9-adaf-5d248189a0ce&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://harriscomputer.wd3.myworkdayjobs.com/htn/job/Tennessee-United-States/Associate-Software-Engineer--RPG_R0045601"
     },
     {
       "id": "70635e1a-9f05-4876-9733-48873ea59060",
