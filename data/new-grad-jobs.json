@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T19:16:04.725Z",
+  "updatedAt": "2026-08-07T19:30:46.202Z",
   "jobs": [
     {
       "id": "84c86b72-f1df-4c8b-b074-e34ed120324f",
@@ -169,18 +169,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Litera&job=41fd390f-54da-4c47-8a28-2cf5d0be6a73&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://litera.wd12.myworkdayjobs.com/litera_careers/job/Denver-CO/Associate-Software-Engineer_R-501347"
-    },
-    {
-      "id": "c921858a-913d-4450-8e73-e8d51d8af098",
-      "company": "Ms",
-      "title": "Junior Full Stack Developer",
-      "location": "New York City, NY",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-06",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Ms&job=c921858a-913d-4450-8e73-e8d51d8af098&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://ms.wd5.myworkdayjobs.com/private/job/New-York-New-York-United-States-of-America/Junior-Full-Stack-Developer_PT-JR041853"
     },
     {
       "id": "1082f351-c9f1-4cb1-9f8d-6df2705d6aea",
