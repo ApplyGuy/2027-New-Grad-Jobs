@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T18:01:22.759Z",
+  "updatedAt": "2026-08-07T18:15:50.984Z",
   "jobs": [
     {
       "id": "84c86b72-f1df-4c8b-b074-e34ed120324f",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Coke&job=75fbb2a1-357b-40dc-9cd5-723617fd3963&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Executive-Assistant--Data-and-Product---Global-Engineering_R-144422"
+    },
+    {
+      "id": "b34827b6-7bb6-4376-8610-cefa3a6e2238",
+      "company": "Costar",
+      "title": "Matterport - Software Engineer I",
+      "location": "Orange County -, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-07",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Costar&job=b34827b6-7bb6-4376-8610-cefa3a6e2238&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://costar.wd1.myworkdayjobs.com/costarcareers/job/Orange-County---CA/Matterport---Software-Engineer-I_R39503"
     },
     {
       "id": "3ec2be07-fea9-473e-8ab6-a5425392c574",
