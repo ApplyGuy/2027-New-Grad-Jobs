@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-08-07T08:00:43.204Z",
+  "updatedAt": "2026-08-07T08:15:44.560Z",
   "jobs": [
+    {
+      "id": "custom:google:78703249065943750",
+      "company": "Google",
+      "title": "Software Engineer, Early Career, Campus",
+      "location": "Multiple U.S. locations",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-07",
+      "age": "Today",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/78703249065943750-software-engineer-early-career-campus",
+      "listingUrl": "https://www.google.com/about/careers/applications/jobs/results/78703249065943750-software-engineer-early-career-campus",
+      "applySupported": false
+    },
     {
       "id": "a718502a-160b-40d5-aa4c-81d75129ef04",
       "company": "Jci",
