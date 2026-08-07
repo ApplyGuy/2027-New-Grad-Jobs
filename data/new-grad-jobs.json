@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-07T20:16:17.971Z",
+  "updatedAt": "2026-08-07T20:30:50.642Z",
   "jobs": [
+    {
+      "id": "b34a29be-b8d3-4f4b-a1ae-cc65a87eff8f",
+      "company": "CACI",
+      "title": "Associate Software Engineer",
+      "location": "King of Prussia PA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-07",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=CACI&job=b34a29be-b8d3-4f4b-a1ae-cc65a87eff8f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/King-of-Prussia-PA-US/Associate-Software-Engineer_330249"
+    },
     {
       "id": "84c86b72-f1df-4c8b-b074-e34ed120324f",
       "company": "Coke",
@@ -715,7 +727,7 @@
     {
       "id": "2c220f31-48e3-44e8-a645-0b3ae9fc1aad",
       "company": "CACI",
-      "title": "Cloud Software and Support Engineer - Early Career",
+      "title": "Software Support Engineer - Early Career - Cloud",
       "location": "Hanover MD",
       "eligibility": "New Grad",
       "matchKind": "explicit",
