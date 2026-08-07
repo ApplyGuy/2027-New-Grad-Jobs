@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T18:45:56.916Z",
+  "updatedAt": "2026-08-07T19:00:58.110Z",
   "jobs": [
     {
       "id": "84c86b72-f1df-4c8b-b074-e34ed120324f",
@@ -85,6 +85,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=U.S.+Bank&job=577a7dc9-5a84-4678-8b4b-c3bc7c6ea1d8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Irving-TX/Hogan-Software-Engineer-1_2026-0024257"
+    },
+    {
+      "id": "0db8b6ec-8b8e-4755-b4dd-097d3314da1a",
+      "company": "VetsEZ",
+      "title": "Junior Software Engineer – Security Release Engineering (SecRel)",
+      "location": "Tampa, FL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-07",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=VetsEZ&job=0db8b6ec-8b8e-4755-b4dd-097d3314da1a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://vetsez.breezy.hr/p/c976c120b64b01-junior-software-engineer-security-release-engineering-secrel"
+    },
+    {
+      "id": "39407128-e5e3-4ece-ad14-0a69bf4617ef",
+      "company": "VetsEZ",
+      "title": "Junior Software Engineer – Security Release Engineering (SecRel)",
+      "location": "Remote, U.S.",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-07",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=VetsEZ&job=39407128-e5e3-4ece-ad14-0a69bf4617ef&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://vetsez.breezy.hr/p/c492d2abf56301-junior-software-engineer-security-release-engineering-secrel"
     },
     {
       "id": "b3eeffaf-96ff-414b-9eb7-426418cc697c",
