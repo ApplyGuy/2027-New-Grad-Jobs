@@ -1,6 +1,6 @@
 # 2027 New Grad Software Engineering Jobs
 
-[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-251-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
+[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-253-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
 
 A continuously verified list of **2027 New Grad software engineering jobs**, **entry-level software engineer jobs**, and early-career developer roles in the United States. Listings come directly from employer career pages and are maintained by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs).
 
@@ -10,9 +10,9 @@ A continuously verified list of **2027 New Grad software engineering jobs**, **e
 
 🎒 **Looking for internships?** Browse [2027 SWE & Product Internships →](https://github.com/ApplyGuy/2027-Internships)
 
-- **251** active U.S. software roles posted within the last **60 days**
-- **60** explicitly labeled New Grad / university graduate / early career
-- Last refresh: **Aug 7, 2026, 1:00 PM PDT**
+- **253** active U.S. software roles posted within the last **60 days**
+- **61** explicitly labeled New Grad / university graduate / early career
+- Last refresh: **Aug 7, 2026, 1:16 PM PDT**
 - Machine-readable feed: [data/new-grad-jobs.json](data/new-grad-jobs.json)
 
 Listings with the orange **Apply Guy** button support one-click apply through [Apply Guy](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs). Blue **View** buttons open the employer's career site directly.
@@ -27,6 +27,8 @@ Listings with the orange **Apply Guy** button support one-click apply through [A
 | Costar | Software Engineer I- CoStar Suite- Arlington, VA | VA Arlington | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Costar&job=3ec2be07-fea9-473e-8ab6-a5425392c574&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://costar.wd1.myworkdayjobs.com/costarcareers/job/US-VA-Arlington/Software-Engineer-I--CoStar-Suite--Arlington--VA_R39484) |
 | Google | Software Engineer, Early Career, Campus | Multiple U.S. locations | Today | [![View original listing](assets/view-listing.svg)](https://www.google.com/about/careers/applications/jobs/results/78703249065943750-software-engineer-early-career-campus) |
 | Jci | Embedded Software Engineer I - Product Development | New Freedom-Pennsylvania-United States of America | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Jci&job=a718502a-160b-40d5-aa4c-81d75129ef04&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://jci.wd5.myworkdayjobs.com/jci/job/New-Freedom-Pennsylvania-United-States-of-America/Embedded-Software-Engineer-I---Product-Development_WD30272369) |
+| Starfish | Software Engineer I | Huntsville, AL | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Starfish&job=a001c1ae-62e6-4677-962a-649a1c1417c8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://starfish.wd501.myworkdayjobs.com/careers/job/Huntsville-AL/Software-Engineer-I_R1480) |
+| Troweprice | Associate Software Engineer (Entry-level) | Owings Mills, MD | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Troweprice&job=70cb2d8f-81d3-4b96-b979-8225aa0ff59b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://troweprice.wd5.myworkdayjobs.com/troweprice/job/Owings-Mills-MD/Associate-Software-Engineer--Entry-level-_82578) |
 | U.S. Bank | Hogan Software Engineer 1 | Irving, TX | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=U.S.+Bank&job=577a7dc9-5a84-4678-8b4b-c3bc7c6ea1d8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Irving-TX/Hogan-Software-Engineer-1_2026-0024257) |
 | VetsEZ | Junior Software Engineer – Security Release Engineering (SecRel) | Tampa, FL | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=VetsEZ&job=0db8b6ec-8b8e-4755-b4dd-097d3314da1a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://vetsez.breezy.hr/p/c976c120b64b01-junior-software-engineer-security-release-engineering-secrel) |
 | VetsEZ | Junior Software Engineer – Security Release Engineering (SecRel) | Remote, U.S. | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=VetsEZ&job=39407128-e5e3-4ece-ad14-0a69bf4617ef&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://vetsez.breezy.hr/p/c492d2abf56301-junior-software-engineer-security-release-engineering-secrel) |
