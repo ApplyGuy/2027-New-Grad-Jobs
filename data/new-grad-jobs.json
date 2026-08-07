@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T10:16:02.532Z",
+  "updatedAt": "2026-08-07T10:31:04.954Z",
   "jobs": [
     {
       "id": "custom:google:78703249065943750",
@@ -25,6 +25,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Jci&job=a718502a-160b-40d5-aa4c-81d75129ef04&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jci.wd5.myworkdayjobs.com/jci/job/New-Freedom-Pennsylvania-United-States-of-America/Embedded-Software-Engineer-I---Product-Development_WD30272369"
+    },
+    {
+      "id": "577a7dc9-5a84-4678-8b4b-c3bc7c6ea1d8",
+      "company": "U.S. Bank",
+      "title": "Hogan Software Engineer 1",
+      "location": "Irving, TX",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-07",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=U.S.+Bank&job=577a7dc9-5a84-4678-8b4b-c3bc7c6ea1d8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Irving-TX/Hogan-Software-Engineer-1_2026-0024257"
     },
     {
       "id": "d3da9bab-ce6c-47bd-a069-a41038cb93bb",
