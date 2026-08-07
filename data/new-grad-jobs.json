@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T22:31:18.553Z",
+  "updatedAt": "2026-08-07T22:46:21.117Z",
   "jobs": [
     {
       "id": "b34a29be-b8d3-4f4b-a1ae-cc65a87eff8f",
@@ -12,6 +12,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=CACI&job=b34a29be-b8d3-4f4b-a1ae-cc65a87eff8f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/King-of-Prussia-PA-US/Associate-Software-Engineer_330249"
+    },
+    {
+      "id": "e83ca55d-9a1e-43f5-bf02-f4c9bc8d6812",
+      "company": "CaseWorthy, LLC",
+      "title": "Software Engineer I",
+      "location": "Remote, U.S.",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-07",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=CaseWorthy%2C+LLC&job=e83ca55d-9a1e-43f5-bf02-f4c9bc8d6812&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4402175"
+    },
+    {
+      "id": "d278f167-1517-4900-a912-0ef0d958f6e2",
+      "company": "Coke",
+      "title": "Junior Machine Learning Engineer",
+      "location": "Atlanta, GA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-07",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Coke&job=d278f167-1517-4900-a912-0ef0d958f6e2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Junior-Machine-Learning-Engineer_R-144460-1"
     },
     {
       "id": "84c86b72-f1df-4c8b-b074-e34ed120324f",
