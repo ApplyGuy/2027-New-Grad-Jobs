@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T14:01:23.517Z",
+  "updatedAt": "2026-08-07T14:15:56.731Z",
   "jobs": [
     {
       "id": "3ec2be07-fea9-473e-8ab6-a5425392c574",
@@ -49,6 +49,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=U.S.+Bank&job=577a7dc9-5a84-4678-8b4b-c3bc7c6ea1d8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Irving-TX/Hogan-Software-Engineer-1_2026-0024257"
+    },
+    {
+      "id": "b3eeffaf-96ff-414b-9eb7-426418cc697c",
+      "company": "GDIT",
+      "title": "Junior Software Engineer (Clearance Sponsorship)",
+      "location": "Annapolis Junction, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-06",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=GDIT&job=b3eeffaf-96ff-414b-9eb7-426418cc697c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Junior-Software-Engineer--Clearance-Sponsorship-_RQ225645-1"
     },
     {
       "id": "d3da9bab-ce6c-47bd-a069-a41038cb93bb",
