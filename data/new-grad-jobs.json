@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-07T07:46:50.983Z",
+  "updatedAt": "2026-08-07T08:00:43.204Z",
   "jobs": [
+    {
+      "id": "a718502a-160b-40d5-aa4c-81d75129ef04",
+      "company": "Jci",
+      "title": "Embedded Software Engineer I - Product Development",
+      "location": "New Freedom-Pennsylvania-United States of America",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-07",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Jci&job=a718502a-160b-40d5-aa4c-81d75129ef04&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jci.wd5.myworkdayjobs.com/jci/job/New-Freedom-Pennsylvania-United-States-of-America/Embedded-Software-Engineer-I---Product-Development_WD30272369"
+    },
     {
       "id": "d3da9bab-ce6c-47bd-a069-a41038cb93bb",
       "company": "Intuitive Research and Technology Corporation (INTUITIVE®)",
