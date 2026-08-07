@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T16:00:48.296Z",
+  "updatedAt": "2026-08-07T16:16:08.966Z",
   "jobs": [
     {
       "id": "3ec2be07-fea9-473e-8ab6-a5425392c574",
@@ -399,18 +399,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--Onsite---Secret-Clearance-_01864807"
     },
     {
-      "id": "f14b49d0-e992-4e8f-8f26-fc6b50c7b073",
-      "company": "RTX",
-      "title": "Software Engineer I - Air Traffic Solutions (Onsite)",
-      "location": "Marlborough, MA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-05",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=f14b49d0-e992-4e8f-8f26-fc6b50c7b073&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I---Air-Traffic-Solutions--Onsite-_01864077"
-    },
-    {
       "id": "a7ea6175-d816-4661-b23a-d7daa2fc42b4",
       "company": "RTX",
       "title": "Software Engineer I (Onsite)",
@@ -421,18 +409,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=a7ea6175-d816-4661-b23a-d7daa2fc42b4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Software-Engineer-I--Onsite-_01862140"
-    },
-    {
-      "id": "7142fdfe-7055-442c-8a4f-1e0f7775c562",
-      "company": "Snapfinance",
-      "title": "Software Engineer I",
-      "location": "Arizona",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-05",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=Snapfinance&job=7142fdfe-7055-442c-8a4f-1e0f7775c562&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://snapfinance.wd1.myworkdayjobs.com/snap_external_careers/job/Arizona/Software-Engineer-I_R-2796"
     },
     {
       "id": "be66dbc6-7a6e-492a-a199-6304009b4e72",
@@ -616,6 +592,19 @@
       "listingUrl": "https://dealertire.wd5.myworkdayjobs.com/ami/job/AMI-Corporate-Headquarters/Jr-Web-Developer--Canton--MI-_R14031"
     },
     {
+      "id": "custom:microsoft:03d65b2b10e701c197e7",
+      "company": "Microsoft",
+      "title": "Software Engineering - Commercial Engineering & AI (CEAI)",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-03",
+      "age": "4d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
+      "applySupported": false
+    },
+    {
       "id": "3a280089-2bd8-494a-b78e-0de5ad399e1d",
       "company": "NVIDIA",
       "title": "Systems Software Engineer - New College Grad 2026",
@@ -640,18 +629,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/simplisafe/jobs/8095181"
     },
     {
-      "id": "8a404b81-fa27-4928-9406-da693549369c",
-      "company": "Bmo",
-      "title": "Software Developer ( Early Career )-15",
-      "location": "Irving, TX",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-07-31",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=Bmo&job=8a404b81-fa27-4928-9406-da693549369c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://bmo.wd3.myworkdayjobs.com/campus/job/Irving-TX-USA/Software-Developer---Early-Career---15_R260021450-1"
-    },
-    {
       "id": "2c220f31-48e3-44e8-a645-0b3ae9fc1aad",
       "company": "CACI",
       "title": "Cloud Software and Support Engineer - Early Career",
@@ -662,18 +639,6 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=CACI&job=2c220f31-48e3-44e8-a645-0b3ae9fc1aad&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Hanover-MD-US/Cloud-Software-and-Support-Engineer---Early-Career_329648"
-    },
-    {
-      "id": "db71e11e-1bb2-4b37-98d9-3374f7c7d2ad",
-      "company": "Leidos",
-      "title": "Entry-Level Software Developer",
-      "location": "Saint Louis, MO",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-07-31",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=Leidos&job=db71e11e-1bb2-4b37-98d9-3374f7c7d2ad&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/St-Louis-MO/Entry-Level-Software-Developer_R-00188494"
     },
     {
       "id": "de986c69-d93e-4128-9bfe-482ba2fa9950",
@@ -746,6 +711,19 @@
       "age": "9d",
       "url": "https://applyguy.ai/jobs?company=Abnormal&job=9826a773-1548-4a77-a8cb-57973ad26acd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://abnormal.ai/careers/jobs/7814567003?gh_jid=7814567003"
+    },
+    {
+      "id": "custom:microsoft:bd09edb153d64145ce49",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Redmond, WA · Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-29",
+      "age": "9d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556926963",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556926963",
+      "applySupported": false
     },
     {
       "id": "b189c2c0-e2b1-4b2e-93f6-bda1d9886c82",
@@ -892,16 +870,17 @@
       "listingUrl": "https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/Lafayette-Colorado-United-States-of-America/Software-Engineer-I--AI-Driven-Data-Solutions----Lafayette--CO_R72435-1"
     },
     {
-      "id": "5cff820b-0433-46bf-93f4-7fe86b4a3dcc",
-      "company": "RTX",
-      "title": "Software Engineer I -  Test Solutions - Onsite",
-      "location": "Tucson, AZ",
+      "id": "custom:microsoft:6d6c90f7032131386171",
+      "company": "Microsoft",
+      "title": "Software Engineer IDNA",
+      "location": "Redmond, WA",
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-24",
       "age": "14d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=5cff820b-0433-46bf-93f4-7fe86b4a3dcc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I----Test-Solutions---Onsite_01836492"
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556932425",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556932425",
+      "applySupported": false
     },
     {
       "id": "2d2c7a27-edeb-49d0-922b-ef98ac4ac327",
