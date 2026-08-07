@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-08-07T16:16:08.966Z",
+  "updatedAt": "2026-08-07T16:30:45.348Z",
   "jobs": [
+    {
+      "id": "84c86b72-f1df-4c8b-b074-e34ed120324f",
+      "company": "Coke",
+      "title": "Junior Software Engineer",
+      "location": "Atlanta, GA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-07",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Coke&job=84c86b72-f1df-4c8b-b074-e34ed120324f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Junior-Software-Engineer_R-144528-1"
+    },
+    {
+      "id": "75fbb2a1-357b-40dc-9cd5-723617fd3963",
+      "company": "Coke",
+      "title": "Junior Data Engineer",
+      "location": "Atlanta, GA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-07",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Coke&job=75fbb2a1-357b-40dc-9cd5-723617fd3963&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Executive-Assistant--Data-and-Product---Global-Engineering_R-144422"
+    },
     {
       "id": "3ec2be07-fea9-473e-8ab6-a5425392c574",
       "company": "Costar",
