@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T20:00:55.593Z",
+  "updatedAt": "2026-08-07T20:16:17.971Z",
   "jobs": [
     {
       "id": "84c86b72-f1df-4c8b-b074-e34ed120324f",
@@ -73,6 +73,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Jci&job=a718502a-160b-40d5-aa4c-81d75129ef04&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jci.wd5.myworkdayjobs.com/jci/job/New-Freedom-Pennsylvania-United-States-of-America/Embedded-Software-Engineer-I---Product-Development_WD30272369"
+    },
+    {
+      "id": "a001c1ae-62e6-4677-962a-649a1c1417c8",
+      "company": "Starfish",
+      "title": "Software Engineer I",
+      "location": "Huntsville, AL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-07",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Starfish&job=a001c1ae-62e6-4677-962a-649a1c1417c8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://starfish.wd501.myworkdayjobs.com/careers/job/Huntsville-AL/Software-Engineer-I_R1480"
+    },
+    {
+      "id": "70cb2d8f-81d3-4b96-b979-8225aa0ff59b",
+      "company": "Troweprice",
+      "title": "Associate Software Engineer (Entry-level)",
+      "location": "Owings Mills, MD",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-07",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Troweprice&job=70cb2d8f-81d3-4b96-b979-8225aa0ff59b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://troweprice.wd5.myworkdayjobs.com/troweprice/job/Owings-Mills-MD/Associate-Software-Engineer--Entry-level-_82578"
     },
     {
       "id": "577a7dc9-5a84-4678-8b4b-c3bc7c6ea1d8",
