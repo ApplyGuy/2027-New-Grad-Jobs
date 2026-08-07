@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T22:15:53.980Z",
+  "updatedAt": "2026-08-07T22:31:18.553Z",
   "jobs": [
     {
       "id": "b34a29be-b8d3-4f4b-a1ae-cc65a87eff8f",
@@ -147,6 +147,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=U.S.+Bank&job=577a7dc9-5a84-4678-8b4b-c3bc7c6ea1d8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Irving-TX/Hogan-Software-Engineer-1_2026-0024257"
+    },
+    {
+      "id": "e36d509e-73dc-4d6f-8339-cc2af06b6b40",
+      "company": "U.S. Bank",
+      "title": "Software Engineer 1 (Backend UI and AI)",
+      "location": "Earth City, MO",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-07",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=U.S.+Bank&job=e36d509e-73dc-4d6f-8339-cc2af06b6b40&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Earth-City-MO/Software-Engineer-1--Backend-UI-and-AI-_2026-0018795"
     },
     {
       "id": "0db8b6ec-8b8e-4755-b4dd-097d3314da1a",
