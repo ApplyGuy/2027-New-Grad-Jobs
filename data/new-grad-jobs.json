@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T01:30:51.471Z",
+  "updatedAt": "2026-08-07T01:45:53.030Z",
   "jobs": [
     {
       "id": "d3da9bab-ce6c-47bd-a069-a41038cb93bb",
@@ -72,6 +72,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=a36fe68e-f3cd-44bc-a985-df64f220cb72&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Program-Protection-Software-Engineer-I--Onsite-_01864768"
+    },
+    {
+      "id": "fe49152b-b1c0-4eab-be5f-6795c648baa6",
+      "company": "SMX",
+      "title": "Junior Software Engineer (5510)",
+      "location": "Huntsville, AL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-06",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=SMX&job=fe49152b-b1c0-4eab-be5f-6795c648baa6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://www.smxtech.com/careers/?gh_jid=7832667003"
     },
     {
       "id": "8a874d3f-d3a8-4a01-a4fa-de0a4c1045c8",
