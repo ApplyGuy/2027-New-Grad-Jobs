@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-07T01:00:46.030Z",
+  "updatedAt": "2026-08-07T01:15:48.854Z",
   "jobs": [
+    {
+      "id": "d3da9bab-ce6c-47bd-a069-a41038cb93bb",
+      "company": "Intuitive Research and Technology Corporation (INTUITIVE®)",
+      "title": "Entry Level Software Engineer",
+      "location": "Huntsville, AL",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-06",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Intuitive+Research+and+Technology+Corporation+%28INTUITIVE%C2%AE%29&job=d3da9bab-ce6c-47bd-a069-a41038cb93bb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://intuitive.wd1.myworkdayjobs.com/irtc_careers/job/Huntsville-AL/Entry-Level-Software-Engineer_2627-054"
+    },
     {
       "id": "d0ba0e88-6c9a-4836-b9d3-d6aa8be1c4a5",
       "company": "IXL Learning",
