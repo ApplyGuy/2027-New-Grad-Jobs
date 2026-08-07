@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T19:45:53.742Z",
+  "updatedAt": "2026-08-07T20:00:55.593Z",
   "jobs": [
     {
       "id": "84c86b72-f1df-4c8b-b074-e34ed120324f",
@@ -555,18 +555,6 @@
       "listingUrl": "https://gentex.wd5.myworkdayjobs.com/gentex/job/Zeeland-MI/Embedded-Software-Engineer-I_REQ026014"
     },
     {
-      "id": "e11ef533-a578-4591-a62c-3902f4dcb33f",
-      "company": "Northrop Grumman",
-      "title": "Associate Software Engineer / Software Engineer",
-      "location": "Melbourne, FL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-04",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=e11ef533-a578-4591-a62c-3902f4dcb33f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/Associate-Software-Engineer---Software-Engineer_R10243047"
-    },
-    {
       "id": "6f085430-1a23-4d26-ab87-c223adf8b48b",
       "company": "Remitly",
       "title": "Software Development Engineer I- IHUB",
@@ -1061,6 +1049,18 @@
       "age": "15d",
       "url": "https://applyguy.ai/jobs?company=Mastercard&job=e86d7426-6941-4907-9eab-67bd59f9b029&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/OFallon-Missouri/Software-Development-Engineer_R-284435"
+    },
+    {
+      "id": "7dbdf7dc-4df1-4363-ba69-411da76f152d",
+      "company": "Northrop Grumman",
+      "title": "Associate Software Engineer / Software Engineer",
+      "location": "Melbourne, FL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-23",
+      "age": "15d",
+      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=7dbdf7dc-4df1-4363-ba69-411da76f152d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/Associate-Software-Engineer---Software-Engineer_R10239254"
     },
     {
       "id": "df3d3cb1-db3f-4e10-839b-e7d17151123a",
