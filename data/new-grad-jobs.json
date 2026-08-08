@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T04:01:31.671Z",
+  "updatedAt": "2026-08-08T04:15:56.898Z",
   "jobs": [
     {
       "id": "fc197551-14ac-4102-92e2-e8a865cb3dcb",
@@ -2397,18 +2397,6 @@
       "age": "32d",
       "url": "https://applyguy.ai/jobs?company=GDIT&job=191cf864-8bb9-48d5-aa45-13626f84d595&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Junior-Software-Developer--Active-TS-SCI-with-Poly-Required-_RQ212931"
-    },
-    {
-      "id": "6aa858b0-eb3c-4bc1-8b33-f64f9ad83751",
-      "company": "Otter.ai",
-      "title": "Software Engineer, Backend (New Grad)",
-      "location": "Mountain View, CA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-07-07",
-      "age": "32d",
-      "url": "https://applyguy.ai/jobs?company=Otter.ai&job=6aa858b0-eb3c-4bc1-8b33-f64f9ad83751&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://otter.ai/careers?gh_jid=7798264003"
     },
     {
       "id": "8c1a2243-3a64-4e11-99be-29dd02924f34",
