@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T01:30:47.400Z",
+  "updatedAt": "2026-08-08T01:45:43.965Z",
   "jobs": [
     {
       "id": "b34a29be-b8d3-4f4b-a1ae-cc65a87eff8f",
@@ -147,6 +147,18 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556867395",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556867395",
       "applySupported": false
+    },
+    {
+      "id": "a0acf9f7-cb61-4956-a59d-ea9c7940e70a",
+      "company": "PayIt",
+      "title": "Associate Data Engineer",
+      "location": "Kansas City, MO",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-07",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=PayIt&job=a0acf9f7-cb61-4956-a59d-ea9c7940e70a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://payitgov.com/careers-list?gh_jid=7836825003"
     },
     {
       "id": "a001c1ae-62e6-4677-962a-649a1c1417c8",
