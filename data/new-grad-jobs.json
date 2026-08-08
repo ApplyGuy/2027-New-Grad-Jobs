@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T14:30:52.452Z",
+  "updatedAt": "2026-08-08T14:45:56.901Z",
   "jobs": [
     {
       "id": "50529b65-03b0-46d1-81af-30530c281578",
@@ -183,6 +183,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=PayIt&job=a0acf9f7-cb61-4956-a59d-ea9c7940e70a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://payitgov.com/careers-list?gh_jid=7836825003"
+    },
+    {
+      "id": "60ad68eb-13ee-4621-a067-d81ed50eba10",
+      "company": "Quickenloans",
+      "title": "Software Engineer I",
+      "location": "Detroit, MI",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-07",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Quickenloans&job=60ad68eb-13ee-4621-a067-d81ed50eba10&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Software-Engineer-I_R-083975"
     },
     {
       "id": "a001c1ae-62e6-4677-962a-649a1c1417c8",
