@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T01:01:17.832Z",
+  "updatedAt": "2026-08-08T01:16:05.235Z",
   "jobs": [
     {
       "id": "b34a29be-b8d3-4f4b-a1ae-cc65a87eff8f",
@@ -84,6 +84,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Costar&job=3ec2be07-fea9-473e-8ab6-a5425392c574&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://costar.wd1.myworkdayjobs.com/costarcareers/job/US-VA-Arlington/Software-Engineer-I--CoStar-Suite--Arlington--VA_R39484"
+    },
+    {
+      "id": "01cac459-7aa9-4d2a-8e94-76a884e9c1ef",
+      "company": "Freeform",
+      "title": "Software Engineer (New Grad December 2026)",
+      "location": "Los Angeles, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-07",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Freeform&job=01cac459-7aa9-4d2a-8e94-76a884e9c1ef&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7826634003"
     },
     {
       "id": "custom:google:78703249065943750",
