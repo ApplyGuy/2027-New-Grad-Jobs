@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T18:00:50.200Z",
+  "updatedAt": "2026-08-08T18:15:47.097Z",
   "jobs": [
     {
       "id": "50529b65-03b0-46d1-81af-30530c281578",
@@ -3130,18 +3130,6 @@
       "age": "59d",
       "url": "https://applyguy.ai/jobs?company=Pae&job=9dc3e8a4-043b-4a46-91c7-3fa34511dd9d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-MD-Fort-Meade/Software-Engineer-1_R0154171"
-    },
-    {
-      "id": "f9d7dc42-3495-4799-9296-5fd87b0fc585",
-      "company": "Freedom Technology Solutions Group",
-      "title": "Junior Software Developer 682",
-      "location": "Annapolis Junction, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-06-09",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Freedom+Technology+Solutions+Group&job=f9d7dc42-3495-4799-9296-5fd87b0fc585&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5160107007"
     }
   ]
 }
