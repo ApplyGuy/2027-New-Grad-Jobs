@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T21:30:47.605Z",
+  "updatedAt": "2026-08-08T21:45:42.646Z",
   "jobs": [
     {
       "id": "50529b65-03b0-46d1-81af-30530c281578",
@@ -12,6 +12,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Abbott&job=50529b65-03b0-46d1-81af-30530c281578&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Texas---Irving/Associate-Software-Engineer_31158107"
+    },
+    {
+      "id": "9282d1d9-411e-462f-8b99-70a631731695",
+      "company": "Ace IT Careers",
+      "title": "QA Software Tester - Entry Level",
+      "location": "Remote, U.S.",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-07",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Ace+IT+Careers&job=9282d1d9-411e-462f-8b99-70a631731695&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://apply.workable.com/ace-it-careers-1/j/123BC500CB/"
     },
     {
       "id": "fc197551-14ac-4102-92e2-e8a865cb3dcb",
