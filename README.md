@@ -1,6 +1,6 @@
 # 2027 New Grad Software Engineering Jobs
 
-[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-262-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
+[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-261-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
 
 A continuously verified list of **2027 New Grad software engineering jobs**, **entry-level software engineer jobs**, and early-career developer roles in the United States. Listings come directly from employer career pages and are maintained by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs).
 
@@ -10,9 +10,9 @@ A continuously verified list of **2027 New Grad software engineering jobs**, **e
 
 🎒 **Looking for internships?** Browse [2027 SWE & Product Internships →](https://github.com/ApplyGuy/2027-Internships)
 
-- **262** active U.S. software roles posted within the last **60 days**
-- **63** explicitly labeled New Grad / university graduate / early career
-- Last refresh: **Aug 7, 2026, 9:01 PM PDT**
+- **261** active U.S. software roles posted within the last **60 days**
+- **62** explicitly labeled New Grad / university graduate / early career
+- Last refresh: **Aug 7, 2026, 9:15 PM PDT**
 - Machine-readable feed: [data/new-grad-jobs.json](data/new-grad-jobs.json)
 
 Listings with the orange **Apply Guy** button support one-click apply through [Apply Guy](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs). Blue **View** buttons open the employer's career site directly.
@@ -220,7 +220,6 @@ Listings with the orange **Apply Guy** button support one-click apply through [A
 | RTX | Junior Data Engineer (Puerto Rico) | SANTA ISABEL B1 Felicia Industrial Park St B1 BLDG 1, PR | 31d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=4ee54c04-d67d-44fe-9709-7305280a0a72&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-SANTA-ISABEL-B1--Felicia-Industrial-Park---St-B1--BLDG-1/Junior-Data-Engineer--Puerto-Rico-_01840760) |
 | Assetmark | Associate Data Engineer | Charlotte, NC | 32d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Assetmark&job=c8369cff-3913-4fce-9087-2170f011e3fb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://assetmark.wd5.myworkdayjobs.com/assetmark_careers/job/Charlotte-NC/Associate-Data-Engineer_Req-003889) |
 | GDIT | Junior Software Developer (Active TS/SCI with Poly Required) | Annapolis Junction, MD | 32d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=GDIT&job=191cf864-8bb9-48d5-aa45-13626f84d595&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Junior-Software-Developer--Active-TS-SCI-with-Poly-Required-_RQ212931) |
-| Otter.ai | Software Engineer, Backend (New Grad) | Mountain View, CA | 32d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Otter.ai&job=6aa858b0-eb3c-4bc1-8b33-f64f9ad83751&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://otter.ai/careers?gh_jid=7798264003) |
 | Precisely US Jobs | Associate Software Engineer – Java (AI First) | Phoenix, AZ | 32d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Precisely+US+Jobs&job=8c1a2243-3a64-4e11-99be-29dd02924f34&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://www.precisely.com/careers-and-culture/us-jobs/job/4710649005?gh_jid=4710649005) |
 | Reliaquest | Associate Software Engineer | Tampa, FL | 32d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Reliaquest&job=72ca3767-e8b0-4c4c-af0b-8bcab9ea2022&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://reliaquest.wd5.myworkdayjobs.com/reliaquest_careers/job/Tampa-FL/Associate-Software-Engineer_R15047) |
 | RoadRunner Recycling Inc. | Software Engineer I (Full -Stack) | Remote, U.S. | 32d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RoadRunner+Recycling+Inc.&job=bfad72c0-dc28-4aaf-b5f7-8d28f736863f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/roadrunner/jobs/4307451009) |
