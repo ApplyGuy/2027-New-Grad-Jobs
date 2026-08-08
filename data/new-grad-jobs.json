@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T07:00:56.311Z",
+  "updatedAt": "2026-08-08T07:15:56.843Z",
   "jobs": [
     {
       "id": "50529b65-03b0-46d1-81af-30530c281578",
@@ -1074,19 +1074,6 @@
       "age": "15d",
       "url": "https://applyguy.ai/jobs?company=Medtronic&job=ad2d1429-b030-4ac9-b4a4-83ac3fda0545&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/Lafayette-Colorado-United-States-of-America/Software-Engineer-I--AI-Driven-Data-Solutions----Lafayette--CO_R72435-1"
-    },
-    {
-      "id": "custom:microsoft:6d6c90f7032131386171",
-      "company": "Microsoft",
-      "title": "Software Engineer IDNA",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-24",
-      "age": "15d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556932425",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556932425",
-      "applySupported": false
     },
     {
       "id": "2d2c7a27-edeb-49d0-922b-ef98ac4ac327",
