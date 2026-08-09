@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T20:45:49.377Z",
+  "updatedAt": "2026-08-09T21:01:10.718Z",
   "jobs": [
     {
       "id": "50529b65-03b0-46d1-81af-30530c281578",
@@ -411,42 +411,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Wgu&job=2d3762ef-27cd-4ae5-bd65-e0cad8cd5231&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Associate-Software-Engineer_JR-025311"
-    },
-    {
-      "id": "a7eccda0-9ade-4b4d-97f2-f20fbbde260b",
-      "company": "Boeing",
-      "title": "Entry-Level Software Engineer",
-      "location": "Multiple U.S. locations",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-05",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=Boeing&job=a7eccda0-9ade-4b4d-97f2-f20fbbde260b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026516694"
-    },
-    {
-      "id": "85bb4a2a-df45-40ff-ada3-87d6fd7b413f",
-      "company": "Boeing",
-      "title": "Associate Software Engineer",
-      "location": "Multiple U.S. locations",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-05",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=Boeing&job=85bb4a2a-df45-40ff-ada3-87d6fd7b413f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Maryland-Heights-MO/Associate-Software-Engineer_JR2026516706"
-    },
-    {
-      "id": "2aafff0f-9e51-4213-9a99-005d81cd3f83",
-      "company": "Boeing",
-      "title": "Entry-Level Software Test Engineer",
-      "location": "Multiple U.S. locations",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-05",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=Boeing&job=2aafff0f-9e51-4213-9a99-005d81cd3f83&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Hazelwood-MO/Entry-Level-Software-Test-Engineer_JR2026516717"
     },
     {
       "id": "78a48e34-d1df-42d3-b017-10aedc415db8",
