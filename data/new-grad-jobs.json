@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T04:00:48.098Z",
+  "updatedAt": "2026-08-09T04:16:20.944Z",
   "jobs": [
     {
       "id": "50529b65-03b0-46d1-81af-30530c281578",
@@ -2504,18 +2504,6 @@
       "age": "34d",
       "url": "https://applyguy.ai/jobs?company=Notion&job=593d939f-c5e6-4f65-9ca4-7194028373b6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28"
-    },
-    {
-      "id": "7e80bc97-66a1-4b3e-9750-ed47f5e77367",
-      "company": "STR",
-      "title": "Associate Software Engineer",
-      "location": "Arlington, VA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-06",
-      "age": "34d",
-      "url": "https://applyguy.ai/jobs?company=STR&job=7e80bc97-66a1-4b3e-9750-ed47f5e77367&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4694805006"
     },
     {
       "id": "8e13b47f-5222-49b4-9f36-83c4440c11fd",
