@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T20:00:39.025Z",
+  "updatedAt": "2026-08-10T20:15:41.941Z",
   "jobs": [
     {
       "id": "97f15148-cc3c-435b-a190-1c29ed97d2ed",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Mastercard&job=97f15148-cc3c-435b-a190-1c29ed97d2ed&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-280783"
+    },
+    {
+      "id": "34488725-5fae-4e8e-bb49-d597c35da7ad",
+      "company": "Observe.AI",
+      "title": "Software Engineer I - AI Agents",
+      "location": "Redwood City, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-10",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Observe.AI&job=34488725-5fae-4e8e-bb49-d597c35da7ad&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://www.observe.ai/position?gh_jid=5383979008"
     },
     {
       "id": "df892889-c83d-4a92-bc60-da1369c4e297",
