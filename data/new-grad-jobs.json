@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-10T22:45:37.559Z",
+  "updatedAt": "2026-08-10T23:00:44.608Z",
   "jobs": [
+    {
+      "id": "1da36f6a-e6f6-45a0-a814-ed5c8b790062",
+      "company": "Axon",
+      "title": "Software Engineer I",
+      "location": "Seattle, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-10",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Axon&job=1da36f6a-e6f6-45a0-a814-ed5c8b790062&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/axon/jobs/7576576003"
+    },
     {
       "id": "b09e7dd4-752a-4cf8-9303-3c33f9bb27db",
       "company": "BNH",
@@ -337,19 +349,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Jci&job=a718502a-160b-40d5-aa4c-81d75129ef04&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jci.wd5.myworkdayjobs.com/jci/job/New-Freedom-Pennsylvania-United-States-of-America/Embedded-Software-Engineer-I---Product-Development_WD30272369"
-    },
-    {
-      "id": "custom:microsoft:d021de3d39fd02480f33",
-      "company": "Microsoft",
-      "title": "Software Engineering - CTJ - Poly",
-      "location": "Redmond, WA · Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-07",
-      "age": "3d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
-      "applySupported": false
     },
     {
       "id": "a0acf9f7-cb61-4956-a59d-ea9c7940e70a",
@@ -1011,19 +1010,6 @@
       "age": "12d",
       "url": "https://applyguy.ai/jobs?company=Abnormal&job=9826a773-1548-4a77-a8cb-57973ad26acd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://abnormal.ai/careers/jobs/7814567003?gh_jid=7814567003"
-    },
-    {
-      "id": "custom:microsoft:bd09edb153d64145ce49",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Redmond, WA · Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-29",
-      "age": "12d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556926963",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556926963",
-      "applySupported": false
     },
     {
       "id": "b189c2c0-e2b1-4b2e-93f6-bda1d9886c82",
