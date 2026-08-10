@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T20:46:03.492Z",
+  "updatedAt": "2026-08-10T21:00:36.126Z",
   "jobs": [
     {
       "id": "b09e7dd4-752a-4cf8-9303-3c33f9bb27db",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=BNH&job=b09e7dd4-752a-4cf8-9303-3c33f9bb27db&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://careers-bnh.icims.com/jobs/24638/early-career-software-engineer/job"
+    },
+    {
+      "id": "3d617441-4b32-4b24-beae-3fb3ee19f343",
+      "company": "Flir",
+      "title": "Jr. Software Engineer",
+      "location": "Huntsville, AL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-10",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Flir&job=3d617441-4b32-4b24-beae-3fb3ee19f343&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Jr-Software-Engineer_REQ36188"
     },
     {
       "id": "26cd1d0c-ab84-4958-a8bc-3076a8081dac",
