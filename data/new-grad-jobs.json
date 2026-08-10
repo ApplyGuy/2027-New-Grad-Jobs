@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T16:30:40.968Z",
+  "updatedAt": "2026-08-10T16:46:04.745Z",
   "jobs": [
     {
       "id": "93a80e62-e47d-4244-abcd-054887fbfe4a",
@@ -3020,18 +3020,6 @@
       "age": "59d",
       "url": "https://applyguy.ai/jobs?company=Travelers&job=20e20e89-f1a0-4a85-8312-ed692d7942f4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://travelers.wd5.myworkdayjobs.com/external/job/GA---Atlanta/Software-Engineer-I--AI-Driven-_R-49831"
-    },
-    {
-      "id": "d24f5a0e-0dce-4e0c-9d06-21a355deffc8",
-      "company": "Anduril Industries",
-      "title": "2027 Early Career Software Engineer",
-      "location": "Atlanta, GA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-06-11",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Anduril+Industries&job=d24f5a0e-0dce-4e0c-9d06-21a355deffc8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007"
     }
   ]
 }
