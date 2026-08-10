@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-10T20:30:47.281Z",
+  "updatedAt": "2026-08-10T20:46:03.492Z",
   "jobs": [
+    {
+      "id": "b09e7dd4-752a-4cf8-9303-3c33f9bb27db",
+      "company": "BNH",
+      "title": "Early Career Software Engineer",
+      "location": "Arnold AFB, TN",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-10",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=BNH&job=b09e7dd4-752a-4cf8-9303-3c33f9bb27db&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://careers-bnh.icims.com/jobs/24638/early-career-software-engineer/job"
+    },
     {
       "id": "26cd1d0c-ab84-4958-a8bc-3076a8081dac",
       "company": "Mastercard",
@@ -96,6 +108,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Truist&job=a4f1d27f-c992-45bf-ae28-55a20f251daa&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://truist.wd1.myworkdayjobs.com/careers/job/Charlotte-NC/Associate-Software-Engineer_R0117651"
+    },
+    {
+      "id": "92ba6730-db6f-4e9d-9f6f-9574003d47c9",
+      "company": "Varsitybrands",
+      "title": "Software Engineer I",
+      "location": "Memphis, TN",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-10",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Varsitybrands&job=92ba6730-db6f-4e9d-9f6f-9574003d47c9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://varsitybrands.wd503.myworkdayjobs.com/externalcareersite/job/US---TN---Memphis---711-N-Front-St/Software-Engineer-I_JR113976-1"
     },
     {
       "id": "93a80e62-e47d-4244-abcd-054887fbfe4a",
@@ -277,6 +301,19 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Jci&job=a718502a-160b-40d5-aa4c-81d75129ef04&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jci.wd5.myworkdayjobs.com/jci/job/New-Freedom-Pennsylvania-United-States-of-America/Embedded-Software-Engineer-I---Product-Development_WD30272369"
+    },
+    {
+      "id": "custom:microsoft:d021de3d39fd02480f33",
+      "company": "Microsoft",
+      "title": "Software Engineering - CTJ - Poly",
+      "location": "Redmond, WA · Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-07",
+      "age": "3d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+      "applySupported": false
     },
     {
       "id": "a0acf9f7-cb61-4956-a59d-ea9c7940e70a",
@@ -938,6 +975,19 @@
       "age": "12d",
       "url": "https://applyguy.ai/jobs?company=Abnormal&job=9826a773-1548-4a77-a8cb-57973ad26acd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://abnormal.ai/careers/jobs/7814567003?gh_jid=7814567003"
+    },
+    {
+      "id": "custom:microsoft:bd09edb153d64145ce49",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Redmond, WA · Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-29",
+      "age": "12d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556926963",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556926963",
+      "applySupported": false
     },
     {
       "id": "b189c2c0-e2b1-4b2e-93f6-bda1d9886c82",
