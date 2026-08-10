@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-10T00:00:47.149Z",
+  "updatedAt": "2026-08-10T00:15:37.658Z",
   "jobs": [
+    {
+      "id": "93a80e62-e47d-4244-abcd-054887fbfe4a",
+      "company": "Leidos",
+      "title": "Junior Software Engineer",
+      "location": "Bowie, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-09",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Leidos&job=93a80e62-e47d-4244-abcd-054887fbfe4a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Bowie-MD/Junior-Software-Engineer_R-00189125"
+    },
     {
       "id": "50529b65-03b0-46d1-81af-30530c281578",
       "company": "Abbott",
