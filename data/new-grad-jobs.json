@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-10T18:45:44.315Z",
+  "updatedAt": "2026-08-10T19:01:12.917Z",
   "jobs": [
+    {
+      "id": "a4f1d27f-c992-45bf-ae28-55a20f251daa",
+      "company": "Truist",
+      "title": "Associate Software Engineer",
+      "location": "Charlotte, NC",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-10",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Truist&job=a4f1d27f-c992-45bf-ae28-55a20f251daa&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://truist.wd1.myworkdayjobs.com/careers/job/Charlotte-NC/Associate-Software-Engineer_R0117651"
+    },
     {
       "id": "93a80e62-e47d-4244-abcd-054887fbfe4a",
       "company": "Leidos",
