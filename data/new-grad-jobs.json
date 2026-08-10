@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T21:00:36.126Z",
+  "updatedAt": "2026-08-10T21:15:39.339Z",
   "jobs": [
     {
       "id": "b09e7dd4-752a-4cf8-9303-3c33f9bb27db",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=BNH&job=b09e7dd4-752a-4cf8-9303-3c33f9bb27db&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://careers-bnh.icims.com/jobs/24638/early-career-software-engineer/job"
+    },
+    {
+      "id": "dbcd2b65-1957-4d44-b29d-c3a6c552f3c6",
+      "company": "Cox",
+      "title": "Entry Level Software Engineer Carmel, IN",
+      "location": "Carmel, IN",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-10",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Cox&job=dbcd2b65-1957-4d44-b29d-c3a6c552f3c6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Carmel-IN/Entry-Level-Software-Engineer-Carmel--IN_R202680859"
     },
     {
       "id": "3d617441-4b32-4b24-beae-3fb3ee19f343",
@@ -48,6 +60,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Observe.AI&job=34488725-5fae-4e8e-bb49-d597c35da7ad&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.observe.ai/position?gh_jid=5383979008"
+    },
+    {
+      "id": "49bef747-c371-45e0-a524-5475cb4bdce7",
+      "company": "Quickenloans",
+      "title": "Software Developer I - Search",
+      "location": "Seattle, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-10",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Quickenloans&job=49bef747-c371-45e0-a524-5475cb4bdce7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Software-Developer-I---Search_R-083930"
     },
     {
       "id": "df892889-c83d-4a92-bc60-da1369c4e297",
