@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T03:00:55.788Z",
+  "updatedAt": "2026-08-10T03:19:06.414Z",
   "jobs": [
     {
       "id": "93a80e62-e47d-4244-abcd-054887fbfe4a",
@@ -181,6 +181,19 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Jci&job=a718502a-160b-40d5-aa4c-81d75129ef04&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jci.wd5.myworkdayjobs.com/jci/job/New-Freedom-Pennsylvania-United-States-of-America/Embedded-Software-Engineer-I---Product-Development_WD30272369"
+    },
+    {
+      "id": "custom:microsoft:d021de3d39fd02480f33",
+      "company": "Microsoft",
+      "title": "Software Engineering - CTJ - Poly",
+      "location": "Redmond, WA · Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-07",
+      "age": "3d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+      "applySupported": false
     },
     {
       "id": "a0acf9f7-cb61-4956-a59d-ea9c7940e70a",
@@ -723,19 +736,6 @@
       "listingUrl": "https://avav.wd1.myworkdayjobs.com/avav/job/Dayton-OH/Entry-Level-Software-Engineer_8010"
     },
     {
-      "id": "custom:amazon:38e673d9be9ca62f6064",
-      "company": "Amazon",
-      "title": "Software Development Engineer I – AI/ML Network Infrastructure, Annapurna Labs",
-      "location": "Cupertino, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-03",
-      "age": "7d",
-      "url": "https://www.amazon.jobs/en/jobs/10490741/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
-      "listingUrl": "https://www.amazon.jobs/en/jobs/10490741/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
-      "applySupported": false
-    },
-    {
       "id": "53cfae87-d01f-4077-8524-8a7ab41afa4e",
       "company": "Ballardspahr",
       "title": "Junior Software Engineer",
@@ -758,6 +758,19 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Dealertire&job=e183ddff-7bf4-4a73-b9f8-a83abdb517af&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://dealertire.wd5.myworkdayjobs.com/ami/job/AMI-Corporate-Headquarters/Jr-Web-Developer--Canton--MI-_R14031"
+    },
+    {
+      "id": "custom:microsoft:03d65b2b10e701c197e7",
+      "company": "Microsoft",
+      "title": "Software Engineering - Commercial Engineering & AI (CEAI)",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-03",
+      "age": "7d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
+      "applySupported": false
     },
     {
       "id": "3a280089-2bd8-494a-b78e-0de5ad399e1d",
@@ -854,6 +867,19 @@
       "age": "12d",
       "url": "https://applyguy.ai/jobs?company=Abnormal&job=9826a773-1548-4a77-a8cb-57973ad26acd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://abnormal.ai/careers/jobs/7814567003?gh_jid=7814567003"
+    },
+    {
+      "id": "custom:microsoft:bd09edb153d64145ce49",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Redmond, WA · Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-29",
+      "age": "12d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556926963",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556926963",
+      "applySupported": false
     },
     {
       "id": "b189c2c0-e2b1-4b2e-93f6-bda1d9886c82",
@@ -1226,19 +1252,6 @@
       "age": "18d",
       "url": "https://applyguy.ai/jobs?company=Zello&job=cecf1976-b4d3-453a-b4d9-ea3ed72a6efe&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/zello/66de7a50-17cb-42aa-87eb-cd40c637338e"
-    },
-    {
-      "id": "custom:amazon:b8631d9dfbf290884cd3",
-      "company": "Amazon",
-      "title": "EFA Network Software Engineer I, Annapurna Labs",
-      "location": "Seattle, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-22",
-      "age": "19d",
-      "url": "https://www.amazon.jobs/en/jobs/10481932/efa-network-software-engineer-i-annapurna-labs",
-      "listingUrl": "https://www.amazon.jobs/en/jobs/10481932/efa-network-software-engineer-i-annapurna-labs",
-      "applySupported": false
     },
     {
       "id": "169dce9c-1144-4f7d-a2d4-57f22668a655",
@@ -2189,19 +2202,6 @@
       "listingUrl": "https://jobs.ashbyhq.com/pylon-labs/38814ce7-217b-40f2-9ba5-8a7733a5691d"
     },
     {
-      "id": "custom:amazon:827b039a86dd2d40adfc",
-      "company": "Amazon",
-      "title": "Software Engineer I, Discovery",
-      "location": "San Francisco, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-08",
-      "age": "33d",
-      "url": "https://www.amazon.jobs/en/jobs/10468973/software-engineer-i-discovery",
-      "listingUrl": "https://www.amazon.jobs/en/jobs/10468973/software-engineer-i-discovery",
-      "applySupported": false
-    },
-    {
       "id": "207a68fe-3d2a-4cd9-a948-00e5c5082b7d",
       "company": "Built Technologies",
       "title": "Software Engineer I - Internal Tooling",
@@ -2476,32 +2476,6 @@
       "age": "39d",
       "url": "https://applyguy.ai/jobs?company=Varsitybrands&job=7aab87a0-2872-46c2-bf15-18c374462d9e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://varsitybrands.wd503.myworkdayjobs.com/externalcareersite/job/TX---Farmers-Branch/Software-Engineer---Early-Career_JR113366-1"
-    },
-    {
-      "id": "custom:amazon:4dece500058e808bae8c",
-      "company": "Amazon",
-      "title": "Software Development Engineer I, ML Infra Services, Annapurna Labs",
-      "location": "Cupertino, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-01",
-      "age": "40d",
-      "url": "https://www.amazon.jobs/en/jobs/10464055/software-development-engineer-i-ml-infra-services-annapurna-labs",
-      "listingUrl": "https://www.amazon.jobs/en/jobs/10464055/software-development-engineer-i-ml-infra-services-annapurna-labs",
-      "applySupported": false
-    },
-    {
-      "id": "custom:amazon:6a509702258b72abd57e",
-      "company": "Amazon",
-      "title": "Software Development Engineer I, ML Infra Services, Annapurna Labs",
-      "location": "Seattle, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-01",
-      "age": "40d",
-      "url": "https://www.amazon.jobs/en/jobs/10464043/software-development-engineer-i-ml-infra-services-annapurna-labs",
-      "listingUrl": "https://www.amazon.jobs/en/jobs/10464043/software-development-engineer-i-ml-infra-services-annapurna-labs",
-      "applySupported": false
     },
     {
       "id": "add63d48-e301-4898-9355-117a8966c1c5",
