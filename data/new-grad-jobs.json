@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T23:15:41.498Z",
+  "updatedAt": "2026-08-10T23:30:32.266Z",
   "jobs": [
     {
       "id": "1da36f6a-e6f6-45a0-a814-ed5c8b790062",
@@ -12,6 +12,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Axon&job=1da36f6a-e6f6-45a0-a814-ed5c8b790062&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/axon/jobs/7576576003"
+    },
+    {
+      "id": "192d2777-30de-480f-8c9d-6830f38d820e",
+      "company": "B Lab",
+      "title": "Junior Data Engineer (Philadelphia, PA)",
+      "location": "Philadelphia, PA metro area",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-10",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=B+Lab&job=192d2777-30de-480f-8c9d-6830f38d820e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/blab/jobs/8688450002"
+    },
+    {
+      "id": "5e879e23-9f55-46ae-8827-57c7aca56f8f",
+      "company": "B Lab",
+      "title": "Junior Data Engineer (New York, NY)",
+      "location": "New York City, NY metro area",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-10",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=B+Lab&job=5e879e23-9f55-46ae-8827-57c7aca56f8f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/blab/jobs/8688848002"
     },
     {
       "id": "b09e7dd4-752a-4cf8-9303-3c33f9bb27db",
