@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T01:15:35.378Z",
+  "updatedAt": "2026-08-11T01:31:08.247Z",
   "jobs": [
     {
       "id": "1da36f6a-e6f6-45a0-a814-ed5c8b790062",
@@ -194,18 +194,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I--Onsite-_01863755"
     },
     {
-      "id": "593f81fc-e7ea-41e3-98f1-61e9db233ddc",
-      "company": "RTX",
-      "title": "Embedded Cybersecurity Software Engineer I (Onsite)",
-      "location": "Cedar Rapids, IA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-10",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=593f81fc-e7ea-41e3-98f1-61e9db233ddc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Embedded-Cybersecurity-Software-Engineer-I--Onsite-_01829680-1"
-    },
-    {
       "id": "e99f5def-1e5e-4d1a-a7da-cdaf542177b7",
       "company": "Strategic Legal Practices",
       "title": "Junior Data Engineer",
@@ -300,18 +288,6 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Boeing&job=fc197551-14ac-4102-92e2-e8a865cb3dcb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/Entry-Level-or-Associate-Software-Safety-Engineer_JR2026520085"
-    },
-    {
-      "id": "b34a29be-b8d3-4f4b-a1ae-cc65a87eff8f",
-      "company": "CACI",
-      "title": "Associate Software Engineer",
-      "location": "King of Prussia PA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-07",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=CACI&job=b34a29be-b8d3-4f4b-a1ae-cc65a87eff8f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/King-of-Prussia-PA-US/Associate-Software-Engineer_330249"
     },
     {
       "id": "2c220f31-48e3-44e8-a645-0b3ae9fc1aad",
@@ -470,18 +446,6 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Quickenloans&job=60ad68eb-13ee-4621-a067-d81ed50eba10&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Software-Engineer-I_R-083975"
-    },
-    {
-      "id": "a001c1ae-62e6-4677-962a-649a1c1417c8",
-      "company": "Starfish",
-      "title": "Software Engineer I",
-      "location": "Huntsville, AL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-07",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=Starfish&job=a001c1ae-62e6-4677-962a-649a1c1417c8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://starfish.wd501.myworkdayjobs.com/careers/job/Huntsville-AL/Software-Engineer-I_R1480"
     },
     {
       "id": "70cb2d8f-81d3-4b96-b979-8225aa0ff59b",
@@ -844,18 +808,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I---Air-Traffic-Solutions--Onsite-_01864077"
     },
     {
-      "id": "a7ea6175-d816-4661-b23a-d7daa2fc42b4",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "El Segundo, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-05",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=a7ea6175-d816-4661-b23a-d7daa2fc42b4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Software-Engineer-I--Onsite-_01862140"
-    },
-    {
       "id": "be66dbc6-7a6e-492a-a199-6304009b4e72",
       "company": "Torc Robotics",
       "title": "Software Engineer I - Metrics for Release",
@@ -987,18 +939,6 @@
       "url": "https://www.amazon.jobs/en/jobs/10490741/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
       "listingUrl": "https://www.amazon.jobs/en/jobs/10490741/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
       "applySupported": false
-    },
-    {
-      "id": "53cfae87-d01f-4077-8524-8a7ab41afa4e",
-      "company": "Ballardspahr",
-      "title": "Junior Software Engineer",
-      "location": "Philadelphia, PA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-03",
-      "age": "8d",
-      "url": "https://applyguy.ai/jobs?company=Ballardspahr&job=53cfae87-d01f-4077-8524-8a7ab41afa4e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://ballardspahr.wd5.myworkdayjobs.com/ballard_spahr_llp/job/PA---Philadelphia/Junior-Software-Engineer_REQ-450"
     },
     {
       "id": "e183ddff-7bf4-4a73-b9f8-a83abdb517af",
