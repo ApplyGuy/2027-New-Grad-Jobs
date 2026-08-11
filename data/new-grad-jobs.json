@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T11:00:42.561Z",
+  "updatedAt": "2026-08-11T11:16:08.234Z",
   "jobs": [
     {
       "id": "63a72d5e-d0ed-435c-abbc-2e6812962f9d",
@@ -12,6 +12,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Nintendo&job=63a72d5e-d0ed-435c-abbc-2e6812962f9d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://careers.nintendo.com/?gh_jid=4094452009"
+    },
+    {
+      "id": "bcaeb723-966f-4737-90fd-e82a70578148",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Fulton, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-11",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=bcaeb723-966f-4737-90fd-e82a70578148&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Software-Engineer-I--Onsite-_01865828"
+    },
+    {
+      "id": "434f2e8a-d4e2-4bc8-bb79-454638db028f",
+      "company": "RTX",
+      "title": "Software Engineer I  (Onsite)",
+      "location": "Cedar Rapids, IA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-11",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=434f2e8a-d4e2-4bc8-bb79-454638db028f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I---Onsite-_01865303"
     },
     {
       "id": "1da36f6a-e6f6-45a0-a814-ed5c8b790062",
@@ -216,18 +240,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=9905aca7-656d-41a4-81a0-d1c6e8f889ae&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineer-I---Onsite-_01864802"
-    },
-    {
-      "id": "45f61388-2449-40f5-aa27-eeec7b5db48f",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Cedar Rapids, IA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-10",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=45f61388-2449-40f5-aa27-eeec7b5db48f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I--Onsite-_01863755"
     },
     {
       "id": "e99f5def-1e5e-4d1a-a7da-cdaf542177b7",
