@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T00:15:35.903Z",
+  "updatedAt": "2026-08-11T00:30:35.995Z",
   "jobs": [
     {
       "id": "1da36f6a-e6f6-45a0-a814-ed5c8b790062",
@@ -108,6 +108,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Mastercard&job=26cd1d0c-ab84-4958-a8bc-3076a8081dac&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/OFallon-Missouri/Software-Engineer-I_R-280783"
+    },
+    {
+      "id": "9240e3f6-ee87-446f-8b45-1b15dded34c4",
+      "company": "Micron",
+      "title": "New College Grad - IT Software Support Engineer",
+      "location": "Boise, ID",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-10",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Micron&job=9240e3f6-ee87-446f-8b45-1b15dded34c4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---ID1/New-College-Grad---IT-Software-Support-Engineer_JR108465"
     },
     {
       "id": "34488725-5fae-4e8e-bb49-d597c35da7ad",
