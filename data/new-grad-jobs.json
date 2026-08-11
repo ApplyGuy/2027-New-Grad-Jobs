@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T01:31:08.247Z",
+  "updatedAt": "2026-08-11T01:45:54.314Z",
   "jobs": [
     {
       "id": "1da36f6a-e6f6-45a0-a814-ed5c8b790062",
@@ -84,6 +84,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Cox&job=dbcd2b65-1957-4d44-b29d-c3a6c552f3c6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Carmel-IN/Entry-Level-Software-Engineer-Carmel--IN_R202680859"
+    },
+    {
+      "id": "c1f886b8-7801-4c1c-bfe8-dd085abd81ed",
+      "company": "DV Trading",
+      "title": "2027 Graduate Software Engineer (DV Commodities)",
+      "location": "New York",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-10",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=DV+Trading&job=c1f886b8-7801-4c1c-bfe8-dd085abd81ed&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/dvtrading/jobs/4719126005"
     },
     {
       "id": "3d617441-4b32-4b24-beae-3fb3ee19f343",
