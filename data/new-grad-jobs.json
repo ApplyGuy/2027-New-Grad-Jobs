@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T00:00:34.854Z",
+  "updatedAt": "2026-08-11T00:15:35.903Z",
   "jobs": [
     {
       "id": "1da36f6a-e6f6-45a0-a814-ed5c8b790062",
@@ -48,6 +48,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=BNH&job=b09e7dd4-752a-4cf8-9303-3c33f9bb27db&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://careers-bnh.icims.com/jobs/24638/early-career-software-engineer/job"
+    },
+    {
+      "id": "25e1047d-f966-41d5-8fb5-9c56b6cb8171",
+      "company": "Captivation Software",
+      "title": "Software Engineer 1 (Call-In Support) - Linux/Bash/Python/Java/Spring/NoSQL/Docker/Kafka/Ansible",
+      "location": "Annapolis Junction, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-10",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Captivation+Software&job=25e1047d-f966-41d5-8fb5-9c56b6cb8171&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/captivation/jobs/5385108008"
     },
     {
       "id": "e3866471-2ede-4e7e-be01-3cc201dbb1a0",
@@ -122,6 +134,18 @@
       "listingUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Software-Developer-I---Search_R-083930"
     },
     {
+      "id": "50969d4c-df1f-470f-9289-66ec857f09bc",
+      "company": "Redhorse Corporation",
+      "title": "Junior Software Engineer",
+      "location": "Chantilly, VA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-10",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Redhorse+Corporation&job=50969d4c-df1f-470f-9289-66ec857f09bc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.lever.co/redhorsecorp/d8f0b543-ab18-41e8-b17a-68b359f16568"
+    },
+    {
       "id": "df892889-c83d-4a92-bc60-da1369c4e297",
       "company": "RTX",
       "title": "Software Engineer I (Onsite)",
@@ -168,6 +192,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=593f81fc-e7ea-41e3-98f1-61e9db233ddc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Embedded-Cybersecurity-Software-Engineer-I--Onsite-_01829680-1"
+    },
+    {
+      "id": "e99f5def-1e5e-4d1a-a7da-cdaf542177b7",
+      "company": "Strategic Legal Practices",
+      "title": "Junior Data Engineer",
+      "location": "Los Angeles, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-10",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Strategic+Legal+Practices&job=e99f5def-1e5e-4d1a-a7da-cdaf542177b7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.workable.com/view/hz34V1e7BTSjVyHjiEAweo/junior-data-engineer-in-los-angeles-at-strategic-legal-practices"
     },
     {
       "id": "64d6ae29-bff4-4794-86a9-1d33c552c121",
