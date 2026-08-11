@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T02:01:24.325Z",
+  "updatedAt": "2026-08-11T02:15:52.459Z",
   "jobs": [
     {
       "id": "1da36f6a-e6f6-45a0-a814-ed5c8b790062",
@@ -144,6 +144,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Observe.AI&job=34488725-5fae-4e8e-bb49-d597c35da7ad&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.observe.ai/position?gh_jid=5383979008"
+    },
+    {
+      "id": "c6d71385-a4cb-4e4c-b93a-217c21144e0f",
+      "company": "PlayStation Global",
+      "title": "Software Engineer I SDK",
+      "location": "United States",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-10",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=PlayStation+Global&job=c6d71385-a4cb-4e4c-b93a-217c21144e0f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6119793004"
     },
     {
       "id": "49bef747-c371-45e0-a524-5475cb4bdce7",
