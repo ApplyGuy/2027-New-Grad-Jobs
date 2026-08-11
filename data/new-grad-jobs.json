@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T15:51:01.763Z",
+  "updatedAt": "2026-08-11T16:00:37.800Z",
   "jobs": [
     {
       "id": "63a72d5e-d0ed-435c-abbc-2e6812962f9d",
@@ -302,7 +302,7 @@
       "listingUrl": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Texas---Irving/Associate-Software-Engineer_31158107"
     },
     {
-      "id": "9282d1d9-411e-462f-8b99-70a631731695",
+      "id": "d7ffed8f-429c-474b-9827-225b9d5d674d",
       "company": "Ace IT Careers",
       "title": "QA Software Tester - Entry Level",
       "location": "Remote, U.S.",
@@ -310,8 +310,8 @@
       "matchKind": "explicit",
       "posted": "2026-08-07",
       "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=Ace+IT+Careers&job=9282d1d9-411e-462f-8b99-70a631731695&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://apply.workable.com/ace-it-careers-1/j/123BC500CB/"
+      "url": "https://applyguy.ai/jobs?company=Ace+IT+Careers&job=d7ffed8f-429c-474b-9827-225b9d5d674d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.workable.com/view/uiPKXpAagpWYecA7L7MdHj/remote-qa-software-tester---entry-level-in-indianapolis-at-ace-it-careers"
     },
     {
       "id": "fc197551-14ac-4102-92e2-e8a865cb3dcb",
@@ -433,19 +433,6 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Jci&job=a718502a-160b-40d5-aa4c-81d75129ef04&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jci.wd5.myworkdayjobs.com/jci/job/New-Freedom-Pennsylvania-United-States-of-America/Embedded-Software-Engineer-I---Product-Development_WD30272369"
-    },
-    {
-      "id": "custom:microsoft:d021de3d39fd02480f33",
-      "company": "Microsoft",
-      "title": "Software Engineering - CTJ - Poly",
-      "location": "Redmond, WA · Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-07",
-      "age": "4d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
-      "applySupported": false
     },
     {
       "id": "a0acf9f7-cb61-4956-a59d-ea9c7940e70a",
@@ -1035,19 +1022,6 @@
       "age": "13d",
       "url": "https://applyguy.ai/jobs?company=Abnormal&job=9826a773-1548-4a77-a8cb-57973ad26acd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://abnormal.ai/careers/jobs/7814567003?gh_jid=7814567003"
-    },
-    {
-      "id": "custom:microsoft:bd09edb153d64145ce49",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Redmond, WA · Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-29",
-      "age": "13d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556926963",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556926963",
-      "applySupported": false
     },
     {
       "id": "b189c2c0-e2b1-4b2e-93f6-bda1d9886c82",
