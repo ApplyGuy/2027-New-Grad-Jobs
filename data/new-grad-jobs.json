@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T20:16:09.510Z",
+  "updatedAt": "2026-08-11T20:30:35.675Z",
   "jobs": [
     {
       "id": "50529b65-03b0-46d1-81af-30530c281578",
@@ -3153,18 +3153,6 @@
       "age": "57d",
       "url": "https://applyguy.ai/jobs?company=Palantir+Technologies&job=56128c22-8cc1-44bb-ba85-49cf1c4dd3bb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382"
-    },
-    {
-      "id": "7ed529cb-d232-49e1-9d76-f051ce08970b",
-      "company": "LG Electronics",
-      "title": "Jr Software Engineer",
-      "location": "Alpharetta, GA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-06-12",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=LG+Electronics&job=7ed529cb-d232-49e1-9d76-f051ce08970b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/lgelectronics/jobs/5255339008"
     }
   ]
 }
