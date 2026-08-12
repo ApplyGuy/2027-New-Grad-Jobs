@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T16:31:13.294Z",
+  "updatedAt": "2026-08-12T16:46:02.939Z",
   "jobs": [
     {
       "id": "7848c1b3-2563-4cde-a685-37923e8cf07f",
@@ -84,6 +84,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Symbotic&job=fc632166-f0a6-46fa-9023-0c981450427f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Software-Engineer_R6770"
+    },
+    {
+      "id": "64901d3c-e95f-49d4-861e-b1f5335cb637",
+      "company": "U.S. Bank",
+      "title": "Software Engineer 1- (Full Stack Developer)",
+      "location": "Atlanta, GA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-12",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=U.S.+Bank&job=64901d3c-e95f-49d4-861e-b1f5335cb637&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Atlanta-GA/Software-Engineer-1---Full-Stack-Developer-_2026-0022352"
     },
     {
       "id": "50529b65-03b0-46d1-81af-30530c281578",
