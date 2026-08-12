@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T04:01:08.366Z",
+  "updatedAt": "2026-08-12T04:16:05.038Z",
   "jobs": [
     {
       "id": "50529b65-03b0-46d1-81af-30530c281578",
@@ -2771,18 +2771,6 @@
       "applySupported": false
     },
     {
-      "id": "add63d48-e301-4898-9355-117a8966c1c5",
-      "company": "Brain Corp",
-      "title": "Software Engineer I, SW Applications",
-      "location": "San Diego, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-01",
-      "age": "42d",
-      "url": "https://applyguy.ai/jobs?company=Brain+Corp&job=add63d48-e301-4898-9355-117a8966c1c5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://braincorp.com/open-positions?gh_jid=8617160002"
-    },
-    {
       "id": "e79070f3-2efb-4ddb-b2ad-c19f86760cc4",
       "company": "CEV MULTIMEDIA LTD",
       "title": "SDE I",
@@ -2987,18 +2975,6 @@
       "listingUrl": "https://jobs.ashbyhq.com/whoop/ede8ba03-c763-49a1-9e6c-4a296fefd087"
     },
     {
-      "id": "3769c10a-7c1b-4ed7-ab92-97be62ce83ea",
-      "company": "Aledade",
-      "title": "Software Engineer I",
-      "location": "Remote, U.S.",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-06-24",
-      "age": "49d",
-      "url": "https://applyguy.ai/jobs?company=Aledade&job=3769c10a-7c1b-4ed7-ab92-97be62ce83ea&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.lever.co/aledade/1f5c4e2f-d8f7-4c55-aefb-d4bf300b1e6f"
-    },
-    {
       "id": "048eeec4-f2a5-44db-8ebe-3679e915b5fc",
       "company": "Esri",
       "title": "Software Development Engineer I",
@@ -3201,18 +3177,6 @@
       "age": "57d",
       "url": "https://applyguy.ai/jobs?company=Captivation+Software&job=b5ee9e44-dd1a-40e9-a563-3278f5180dff&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/captivation/jobs/5265659008"
-    },
-    {
-      "id": "6773f4ea-649f-4cf5-9988-fba219d2d212",
-      "company": "Jamf",
-      "title": "Software Engineer I",
-      "location": "Austin, TX",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-06-15",
-      "age": "58d",
-      "url": "https://applyguy.ai/jobs?company=Jamf&job=6773f4ea-649f-4cf5-9988-fba219d2d212&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://www.jamf.com/about/careers/jobs/?gh_jid=6017936004&gh_jid=6017936004"
     },
     {
       "id": "e294da14-ea66-4ed4-b0db-b9a9d55d82bd",
