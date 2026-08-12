@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-12T14:16:02.740Z",
+  "updatedAt": "2026-08-12T14:31:10.212Z",
   "jobs": [
+    {
+      "id": "7848c1b3-2563-4cde-a685-37923e8cf07f",
+      "company": "Disney",
+      "title": "Product Software Engineer I",
+      "location": "Glendale, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-12",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Disney&job=7848c1b3-2563-4cde-a685-37923e8cf07f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Product-Software-Engineer-I_10151599"
+    },
     {
       "id": "6785ade0-9b1f-4061-9bf7-00e561ce9a74",
       "company": "Mach Industries",
