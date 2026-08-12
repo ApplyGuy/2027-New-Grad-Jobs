@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T17:15:47.770Z",
+  "updatedAt": "2026-08-12T17:31:08.398Z",
   "jobs": [
     {
       "id": "7848c1b3-2563-4cde-a685-37923e8cf07f",
@@ -48,6 +48,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=b7e619ce-4244-473d-8438-07b66510d810&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer-Software-Engineer_R10245233"
+    },
+    {
+      "id": "3644d7e0-8884-4eaa-857a-fc07c146f3e7",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Cedar Rapids, IA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-12",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=3644d7e0-8884-4eaa-857a-fc07c146f3e7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01865680"
+    },
+    {
+      "id": "110e55e4-3e69-4927-9982-8d48d62c5588",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Tucson, AZ",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-12",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=110e55e4-3e69-4927-9982-8d48d62c5588&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I--Onsite-_01865026-1"
     },
     {
       "id": "c0b399ca-b4b7-4f03-8f8c-95de32390f1f",
@@ -170,6 +194,19 @@
       "listingUrl": "https://job-boards.greenhouse.io/dmcengineering2024/jobs/5386606008"
     },
     {
+      "id": "custom:microsoft:5f5bddec87a71f9cb757",
+      "company": "Microsoft",
+      "title": "Software Engineer - Microsoft Defender for Endpoint",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-11",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556924230",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556924230",
+      "applySupported": false
+    },
+    {
       "id": "63a72d5e-d0ed-435c-abbc-2e6812962f9d",
       "company": "Nintendo",
       "title": "Software Engineer I, Game Development (NST)",
@@ -204,18 +241,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=f3519754-6c80-4efb-9e5d-fca0893e70f6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Software-Engineer-I--Onsite-_01864738"
-    },
-    {
-      "id": "3727c694-fced-4b60-97f6-1f47a0c41351",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Cedar Rapids, IA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-11",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=3727c694-fced-4b60-97f6-1f47a0c41351&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineer-I--Onsite-_01865485"
     },
     {
       "id": "b41323eb-23c1-4fbc-9328-da16f2485523",
@@ -613,6 +638,19 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Jci&job=a718502a-160b-40d5-aa4c-81d75129ef04&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jci.wd5.myworkdayjobs.com/jci/job/New-Freedom-Pennsylvania-United-States-of-America/Embedded-Software-Engineer-I---Product-Development_WD30272369"
+    },
+    {
+      "id": "custom:microsoft:d021de3d39fd02480f33",
+      "company": "Microsoft",
+      "title": "Software Engineering - CTJ - Poly",
+      "location": "Redmond, WA · Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-07",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+      "applySupported": false
     },
     {
       "id": "a0acf9f7-cb61-4956-a59d-ea9c7940e70a",
@@ -1178,6 +1216,19 @@
       "age": "14d",
       "url": "https://applyguy.ai/jobs?company=Abnormal&job=9826a773-1548-4a77-a8cb-57973ad26acd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://abnormal.ai/careers/jobs/7814567003?gh_jid=7814567003"
+    },
+    {
+      "id": "custom:microsoft:bd09edb153d64145ce49",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Redmond, WA · Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-29",
+      "age": "14d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556926963",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556926963",
+      "applySupported": false
     },
     {
       "id": "b189c2c0-e2b1-4b2e-93f6-bda1d9886c82",
