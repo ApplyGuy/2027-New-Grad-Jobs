@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T00:16:02.201Z",
+  "updatedAt": "2026-08-12T00:46:56.279Z",
   "jobs": [
     {
       "id": "50529b65-03b0-46d1-81af-30530c281578",
@@ -447,18 +447,6 @@
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4402175"
     },
     {
-      "id": "d278f167-1517-4900-a912-0ef0d958f6e2",
-      "company": "Coke",
-      "title": "Junior Machine Learning Engineer",
-      "location": "Atlanta, GA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-07",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Coke&job=d278f167-1517-4900-a912-0ef0d958f6e2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Junior-Machine-Learning-Engineer_R-144460-1"
-    },
-    {
       "id": "b34827b6-7bb6-4376-8610-cefa3a6e2238",
       "company": "Costar",
       "title": "Matterport - Software Engineer I",
@@ -711,18 +699,6 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=UNITED+STATES+SOCCER+FEDERATION+1&job=8a874d3f-d3a8-4a01-a4fa-de0a4c1045c8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4397444"
-    },
-    {
-      "id": "2d3762ef-27cd-4ae5-bd65-e0cad8cd5231",
-      "company": "Wgu",
-      "title": "Associate Software Engineer",
-      "location": "Salt Lake City, UT",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-06",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=Wgu&job=2d3762ef-27cd-4ae5-bd65-e0cad8cd5231&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Associate-Software-Engineer_JR-025311"
     },
     {
       "id": "78a48e34-d1df-42d3-b017-10aedc415db8",
