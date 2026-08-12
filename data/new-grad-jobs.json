@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-12T12:00:53.974Z",
+  "updatedAt": "2026-08-12T12:16:21.386Z",
   "jobs": [
+    {
+      "id": "6785ade0-9b1f-4061-9bf7-00e561ce9a74",
+      "company": "Mach Industries",
+      "title": "December 2026 New Graduate Engineer, Software / GNC",
+      "location": "Huntington Beach, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-12",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Mach+Industries&job=6785ade0-9b1f-4061-9bf7-00e561ce9a74&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.ashbyhq.com/mach/43c8b037-c77d-4efb-9379-52a6c3718bdb"
+    },
     {
       "id": "50529b65-03b0-46d1-81af-30530c281578",
       "company": "Abbott",
