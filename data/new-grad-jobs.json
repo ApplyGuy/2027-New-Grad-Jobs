@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T13:16:07.126Z",
+  "updatedAt": "2026-08-12T13:31:06.529Z",
   "jobs": [
     {
       "id": "6785ade0-9b1f-4061-9bf7-00e561ce9a74",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Mach+Industries&job=6785ade0-9b1f-4061-9bf7-00e561ce9a74&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/mach/43c8b037-c77d-4efb-9379-52a6c3718bdb"
+    },
+    {
+      "id": "fc632166-f0a6-46fa-9023-0c981450427f",
+      "company": "Symbotic",
+      "title": "New Grad- Software Engineer",
+      "location": "USA Wilmington, MA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-12",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Symbotic&job=fc632166-f0a6-46fa-9023-0c981450427f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Software-Engineer_R6770"
     },
     {
       "id": "50529b65-03b0-46d1-81af-30530c281578",
