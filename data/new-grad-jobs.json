@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T13:31:06.529Z",
+  "updatedAt": "2026-08-12T13:45:42.905Z",
   "jobs": [
     {
       "id": "6785ade0-9b1f-4061-9bf7-00e561ce9a74",
@@ -12,6 +12,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Mach+Industries&job=6785ade0-9b1f-4061-9bf7-00e561ce9a74&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/mach/43c8b037-c77d-4efb-9379-52a6c3718bdb"
+    },
+    {
+      "id": "c0b399ca-b4b7-4f03-8f8c-95de32390f1f",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Goleta, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-12",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=c0b399ca-b4b7-4f03-8f8c-95de32390f1f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Software-Engineer-I--Onsite-_01866229"
+    },
+    {
+      "id": "ba2359cd-f468-4da9-9b90-28f7ad3cf4a8",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Anaheim, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-12",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=ba2359cd-f468-4da9-9b90-28f7ad3cf4a8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-ANAHEIM-406--160-N-Riverview-Dr--BLDG-406-Ste-150/Software-Engineer-I--Onsite-_01861811"
     },
     {
       "id": "fc632166-f0a6-46fa-9023-0c981450427f",
