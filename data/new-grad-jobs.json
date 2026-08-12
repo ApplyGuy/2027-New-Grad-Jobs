@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T01:15:42.641Z",
+  "updatedAt": "2026-08-12T01:31:18.884Z",
   "jobs": [
     {
       "id": "50529b65-03b0-46d1-81af-30530c281578",
@@ -62,6 +62,18 @@
       "listingUrl": "https://cohesity.wd5.myworkdayjobs.com/cohesity_careers/job/Santa-Clara-CA---USA-Office/Software-Engineer_R01282"
     },
     {
+      "id": "1b96f4d3-9205-4fa7-b6dd-449f3e689b89",
+      "company": "DMC Engineering - Campus Recruiting",
+      "title": "Entry Level Software Engineer (UIUC 2026)",
+      "location": "Chicago, IL",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-11",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=DMC+Engineering+-+Campus+Recruiting&job=1b96f4d3-9205-4fa7-b6dd-449f3e689b89&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/dmcengineering2024/jobs/5386606008"
+    },
+    {
       "id": "custom:microsoft:5f5bddec87a71f9cb757",
       "company": "Microsoft",
       "title": "Software Engineer - Microsoft Defender for Endpoint",
@@ -99,7 +111,19 @@
       "listingUrl": "https://www.pathai.com/careers/8696764002?gh_jid=8696764002"
     },
     {
-      "id": "ebfc9cd6-436a-4130-b4c4-fcf5565a1776",
+      "id": "f3519754-6c80-4efb-9e5d-fca0893e70f6",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Jupiter, FL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-11",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=f3519754-6c80-4efb-9e5d-fca0893e70f6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Software-Engineer-I--Onsite-_01864738"
+    },
+    {
+      "id": "3727c694-fced-4b60-97f6-1f47a0c41351",
       "company": "RTX",
       "title": "Software Engineer I (Onsite)",
       "location": "Cedar Rapids, IA",
@@ -107,8 +131,8 @@
       "matchKind": "entry_level",
       "posted": "2026-08-11",
       "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=ebfc9cd6-436a-4130-b4c4-fcf5565a1776&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I--Onsite-_01858008"
+      "url": "https://applyguy.ai/jobs?company=RTX&job=3727c694-fced-4b60-97f6-1f47a0c41351&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineer-I--Onsite-_01865485"
     },
     {
       "id": "b41323eb-23c1-4fbc-9328-da16f2485523",
