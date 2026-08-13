@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T19:45:50.895Z",
+  "updatedAt": "2026-08-13T20:00:41.119Z",
   "jobs": [
     {
       "id": "7d11d608-6097-444d-afbf-d39c476cb74a",
@@ -39,6 +39,54 @@
       "applySupported": false
     },
     {
+      "id": "feb316f4-e803-43eb-9515-99cc904e0594",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Cedar Rapids, IA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=feb316f4-e803-43eb-9515-99cc904e0594&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I--Onsite-_01866927"
+    },
+    {
+      "id": "7e8145e1-1a41-429d-b1a8-9a6f30ced046",
+      "company": "RTX",
+      "title": "Software Engineer I -  Test Solutions - Onsite",
+      "location": "Tucson, AZ",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=7e8145e1-1a41-429d-b1a8-9a6f30ced046&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I----Test-Solutions---Onsite_01836492-1"
+    },
+    {
+      "id": "78433ac1-a7a2-48b8-8b53-c457a0b469b4",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Tucson, AZ",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=78433ac1-a7a2-48b8-8b53-c457a0b469b4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I--Onsite-_01866246"
+    },
+    {
+      "id": "48ad7504-c100-4a28-9197-2ee337a2c710",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Annapolis Junction, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=48ad7504-c100-4a28-9197-2ee337a2c710&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineer-I--Onsite-_01866357"
+    },
+    {
       "id": "8e2d1337-01a4-43b5-a530-15924ad2032a",
       "company": "RTX",
       "title": "Software Engineer I (Onsite)",
@@ -49,18 +97,6 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=8e2d1337-01a4-43b5-a530-15924ad2032a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Software-Engineer-I--Onsite-_01866787"
-    },
-    {
-      "id": "6caa7b36-a7af-4350-8f42-8536d807973d",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Cedar Rapids, IA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-13",
-      "age": "Today",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=6caa7b36-a7af-4350-8f42-8536d807973d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineer-I--Onsite-_01866138"
     },
     {
       "id": "68e35b04-e769-40d9-a4be-9e97090fa705",
@@ -301,30 +337,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=f1bc4ddc-6197-40e9-a566-37c6c6c3b4cf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I--Onsite-_01863042"
-    },
-    {
-      "id": "a0f7dcc5-013d-426b-acdb-6430c642c071",
-      "company": "RTX",
-      "title": "Software Engineer I",
-      "location": "Cedar Rapids, IA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-12",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=a0f7dcc5-013d-426b-acdb-6430c642c071&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I_01865652"
-    },
-    {
-      "id": "110e55e4-3e69-4927-9982-8d48d62c5588",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Tucson, AZ",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-12",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=110e55e4-3e69-4927-9982-8d48d62c5588&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I--Onsite-_01865026-1"
     },
     {
       "id": "ba2359cd-f468-4da9-9b90-28f7ad3cf4a8",
