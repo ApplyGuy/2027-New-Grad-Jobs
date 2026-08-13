@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T12:31:06.359Z",
+  "updatedAt": "2026-08-13T12:46:24.281Z",
   "jobs": [
     {
       "id": "7d11d608-6097-444d-afbf-d39c476cb74a",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Amat&job=7d11d608-6097-444d-afbf-d39c476cb74a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://amat.wd1.myworkdayjobs.com/external/job/GloucesterMA/XMLNAME-2027-Software-Engineer--DevOps---New-College-Grad---Bachelor-s--Gloucester--MA-_R2625762"
+    },
+    {
+      "id": "68e35b04-e769-40d9-a4be-9e97090fa705",
+      "company": "Wgu",
+      "title": "Software Engineer I - Full-Stack",
+      "location": "Salt Lake City, UT",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Wgu&job=68e35b04-e769-40d9-a4be-9e97090fa705&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Software-Engineer-Python-Angular_JR-025709"
     },
     {
       "id": "9ca2c2c6-3417-41d0-b1e9-8cf5977a7ab8",
