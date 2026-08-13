@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T03:15:56.085Z",
+  "updatedAt": "2026-08-13T03:30:49.839Z",
   "jobs": [
     {
       "id": "9ca2c2c6-3417-41d0-b1e9-8cf5977a7ab8",
@@ -122,6 +122,18 @@
       "listingUrl": "https://jobs.ashbyhq.com/mach/43c8b037-c77d-4efb-9379-52a6c3718bdb"
     },
     {
+      "id": "cf98cfdc-d54b-4268-85bc-f0232becd9e9",
+      "company": "Northrop Grumman",
+      "title": "Associate Software Engineer",
+      "location": "Rolling Meadows, IL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-12",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=cf98cfdc-d54b-4268-85bc-f0232becd9e9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Illinois-Rolling-Meadows/Associate-Software-Engineer_R10245470"
+    },
+    {
       "id": "b7e619ce-4244-473d-8438-07b66510d810",
       "company": "Northrop Grumman",
       "title": "2027 Associate Software Engineer/Software Engineer",
@@ -144,6 +156,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Pae&job=ee8c9cfc-55b0-42ae-8df6-4bbeb4bb423d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Dahlgren/Jr-Software-Developer_R0168146"
+    },
+    {
+      "id": "b935bac0-9a29-45cb-820c-0bf9dd323d3d",
+      "company": "Resmed",
+      "title": "Associate Software Engineer",
+      "location": "San Diego, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-12",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Resmed&job=b935bac0-9a29-45cb-820c-0bf9dd323d3d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://resmed.wd3.myworkdayjobs.com/resmed_external_careers/job/San-Diego-CA-United-States/Associate-Software-Engineer_JR_053125"
     },
     {
       "id": "cf343222-8607-4d4b-932d-3f1e328fc01f",
