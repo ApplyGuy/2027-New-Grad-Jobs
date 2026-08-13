@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T21:30:35.555Z",
+  "updatedAt": "2026-08-13T21:45:48.649Z",
   "jobs": [
     {
       "id": "7d11d608-6097-444d-afbf-d39c476cb74a",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Amat&job=7d11d608-6097-444d-afbf-d39c476cb74a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://amat.wd1.myworkdayjobs.com/external/job/GloucesterMA/XMLNAME-2027-Software-Engineer--DevOps---New-College-Grad---Bachelor-s--Gloucester--MA-_R2625762"
+    },
+    {
+      "id": "2b5af97c-19ac-4c65-8b6b-68f14fdbf40f",
+      "company": "Boeing",
+      "title": "Embedded Software Engineer - Entry-Level",
+      "location": "Multiple U.S. locations",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Boeing&job=2b5af97c-19ac-4c65-8b6b-68f14fdbf40f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Embedded-Software-Engineer---Entry-Level_JR2026522089-1"
     },
     {
       "id": "05bad1af-9630-46a2-94af-49dd26825599",
