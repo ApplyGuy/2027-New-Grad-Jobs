@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T01:16:03.138Z",
+  "updatedAt": "2026-08-13T01:31:05.763Z",
   "jobs": [
     {
       "id": "9ca2c2c6-3417-41d0-b1e9-8cf5977a7ab8",
@@ -12,6 +12,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Chamberlain&job=9ca2c2c6-3417-41d0-b1e9-8cf5977a7ab8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://chamberlain.wd1.myworkdayjobs.com/chamberlain_group/job/Remote---California/Software-Engineer-I---AI_JR30290"
+    },
+    {
+      "id": "68db4486-0a2e-457b-b640-7339d4576a6c",
+      "company": "CSpring",
+      "title": "Junior Software Developer",
+      "location": "Indianapolis, IN",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-12",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=CSpring&job=68db4486-0a2e-457b-b640-7339d4576a6c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4415195"
     },
     {
       "id": "7848c1b3-2563-4cde-a685-37923e8cf07f",
@@ -60,6 +72,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=99df2fc7-2911-4cc6-8a8f-ff3412e3da95&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Huntsville-AL/Junior-Software-Engineer---Kinetic-Effects_R-00189064"
+    },
+    {
+      "id": "e53effa5-c25a-4154-b524-b92fafd1b446",
+      "company": "Lennar",
+      "title": "Software Engineer I",
+      "location": "Miami, FL (Job Posting Location)",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-12",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Lennar&job=e53effa5-c25a-4154-b524-b92fafd1b446&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://lennar.wd1.myworkdayjobs.com/lennar_jobs/job/Miami-FL-Job-Posting-Location/Software-Engineer-I_R26_0000003523"
     },
     {
       "id": "41fd390f-54da-4c47-8a28-2cf5d0be6a73",
