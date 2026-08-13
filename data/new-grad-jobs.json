@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T00:30:35.055Z",
+  "updatedAt": "2026-08-13T00:46:06.603Z",
   "jobs": [
     {
       "id": "9ca2c2c6-3417-41d0-b1e9-8cf5977a7ab8",
@@ -38,6 +38,30 @@
       "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Warren-Michigan-United-States-of-America/Entry-Level-Software-Engineer_JR-202616904"
     },
     {
+      "id": "c66842f1-2012-44cd-9d6b-f9c27f6600d9",
+      "company": "Leidos",
+      "title": "Junior Software Engineer",
+      "location": "Huntsville, AL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-12",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Leidos&job=c66842f1-2012-44cd-9d6b-f9c27f6600d9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Huntsville-AL/Junior-Software-Engineer_R-00189408"
+    },
+    {
+      "id": "99df2fc7-2911-4cc6-8a8f-ff3412e3da95",
+      "company": "Leidos",
+      "title": "Junior Software Engineer - Kinetic Effects",
+      "location": "Huntsville, AL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-12",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Leidos&job=99df2fc7-2911-4cc6-8a8f-ff3412e3da95&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Huntsville-AL/Junior-Software-Engineer---Kinetic-Effects_R-00189064"
+    },
+    {
       "id": "6785ade0-9b1f-4061-9bf7-00e561ce9a74",
       "company": "Mach Industries",
       "title": "December 2026 New Graduate Engineer, Software / GNC",
@@ -60,6 +84,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=b7e619ce-4244-473d-8438-07b66510d810&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer-Software-Engineer_R10245233"
+    },
+    {
+      "id": "ee8c9cfc-55b0-42ae-8df6-4bbeb4bb423d",
+      "company": "Pae",
+      "title": "Jr Software Developer",
+      "location": "Dahlgren, VA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-12",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Pae&job=ee8c9cfc-55b0-42ae-8df6-4bbeb4bb423d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Dahlgren/Jr-Software-Developer_R0168146"
     },
     {
       "id": "f1bc4ddc-6197-40e9-a566-37c6c6c3b4cf",
