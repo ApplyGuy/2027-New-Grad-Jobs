@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T21:16:34.577Z",
+  "updatedAt": "2026-08-13T21:30:35.555Z",
   "jobs": [
     {
       "id": "7d11d608-6097-444d-afbf-d39c476cb74a",
@@ -48,6 +48,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Esri&job=55686403-7fb1-48b7-8088-442898b37530&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.esri.com/careers/5209466007?gh_jid=5209466007"
+    },
+    {
+      "id": "9fa07ff1-f227-412c-94f0-5560835d9a77",
+      "company": "Flir",
+      "title": "Associate Software Engineer",
+      "location": "Huntsville, AL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Flir&job=9fa07ff1-f227-412c-94f0-5560835d9a77&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Associate-Software-Engineer_REQ36189"
     },
     {
       "id": "custom:microsoft:ed995bbd690b14d9285a",
