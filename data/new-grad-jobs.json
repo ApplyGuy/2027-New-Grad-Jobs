@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T15:15:41.591Z",
+  "updatedAt": "2026-08-13T15:30:48.566Z",
   "jobs": [
     {
       "id": "7d11d608-6097-444d-afbf-d39c476cb74a",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Amat&job=7d11d608-6097-444d-afbf-d39c476cb74a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://amat.wd1.myworkdayjobs.com/external/job/GloucesterMA/XMLNAME-2027-Software-Engineer--DevOps---New-College-Grad---Bachelor-s--Gloucester--MA-_R2625762"
+    },
+    {
+      "id": "05bad1af-9630-46a2-94af-49dd26825599",
+      "company": "Dexcom",
+      "title": "Software Development Engineer 1",
+      "location": "Remote, U.S.",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Dexcom&job=05bad1af-9630-46a2-94af-49dd26825599&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://dexcom.wd1.myworkdayjobs.com/dexcom/job/Remote---United-States/Software-Development-Engineer-1_JR120540"
     },
     {
       "id": "8e2d1337-01a4-43b5-a530-15924ad2032a",
