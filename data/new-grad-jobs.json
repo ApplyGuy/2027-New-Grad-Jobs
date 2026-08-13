@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T05:01:10.052Z",
+  "updatedAt": "2026-08-13T05:15:55.824Z",
   "jobs": [
     {
       "id": "9ca2c2c6-3417-41d0-b1e9-8cf5977a7ab8",
@@ -1360,19 +1360,6 @@
       "age": "15d",
       "url": "https://applyguy.ai/jobs?company=Abnormal&job=9826a773-1548-4a77-a8cb-57973ad26acd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://abnormal.ai/careers/jobs/7814567003?gh_jid=7814567003"
-    },
-    {
-      "id": "custom:microsoft:bd09edb153d64145ce49",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Redmond, WA · Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-29",
-      "age": "15d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556926963",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556926963",
-      "applySupported": false
     },
     {
       "id": "b189c2c0-e2b1-4b2e-93f6-bda1d9886c82",
