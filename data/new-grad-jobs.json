@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T20:15:28.462Z",
+  "updatedAt": "2026-08-13T20:30:27.329Z",
   "jobs": [
     {
       "id": "7d11d608-6097-444d-afbf-d39c476cb74a",
@@ -24,6 +24,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Dexcom&job=05bad1af-9630-46a2-94af-49dd26825599&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://dexcom.wd1.myworkdayjobs.com/dexcom/job/Remote---United-States/Software-Development-Engineer-1_JR120540"
+    },
+    {
+      "id": "b10414aa-cd99-4db4-90a4-bff05545a58d",
+      "company": "Esri",
+      "title": "Software Development Engineer I",
+      "location": "Denver, CO",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Esri&job=b10414aa-cd99-4db4-90a4-bff05545a58d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://www.esri.com/careers/5209800007?gh_jid=5209800007"
+    },
+    {
+      "id": "55686403-7fb1-48b7-8088-442898b37530",
+      "company": "Esri",
+      "title": "Software Development Engineer I - Applied Research & Prototyping",
+      "location": "Redlands, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Esri&job=55686403-7fb1-48b7-8088-442898b37530&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://www.esri.com/careers/5209466007?gh_jid=5209466007"
     },
     {
       "id": "custom:microsoft:ed995bbd690b14d9285a",
