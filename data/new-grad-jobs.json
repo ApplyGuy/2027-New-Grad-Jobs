@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T00:46:06.603Z",
+  "updatedAt": "2026-08-13T01:00:51.476Z",
   "jobs": [
     {
       "id": "9ca2c2c6-3417-41d0-b1e9-8cf5977a7ab8",
@@ -60,6 +60,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=99df2fc7-2911-4cc6-8a8f-ff3412e3da95&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Huntsville-AL/Junior-Software-Engineer---Kinetic-Effects_R-00189064"
+    },
+    {
+      "id": "41fd390f-54da-4c47-8a28-2cf5d0be6a73",
+      "company": "Litera",
+      "title": "Associate Software Engineer",
+      "location": "Denver, CO",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-12",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Litera&job=41fd390f-54da-4c47-8a28-2cf5d0be6a73&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://litera.wd12.myworkdayjobs.com/litera_careers/job/Denver-CO/Associate-Software-Engineer_R-501347"
     },
     {
       "id": "6785ade0-9b1f-4061-9bf7-00e561ce9a74",
@@ -204,6 +216,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=U.S.+Bank&job=64901d3c-e95f-49d4-861e-b1f5335cb637&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Atlanta-GA/Software-Engineer-1---Full-Stack-Developer-_2026-0022352"
+    },
+    {
+      "id": "e36d509e-73dc-4d6f-8339-cc2af06b6b40",
+      "company": "U.S. Bank",
+      "title": "Software Engineer 1 (Backend UI and AI)",
+      "location": "Earth City, MO",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-12",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=U.S.+Bank&job=e36d509e-73dc-4d6f-8339-cc2af06b6b40&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Earth-City-MO/Software-Engineer-1--Backend-UI-and-AI-_2026-0018795"
     },
     {
       "id": "64fde33a-25fe-4c1d-9c3a-14a6be753749",
@@ -809,18 +833,6 @@
       "listingUrl": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Irving-TX/Hogan-Software-Engineer-1_2026-0024257"
     },
     {
-      "id": "e36d509e-73dc-4d6f-8339-cc2af06b6b40",
-      "company": "U.S. Bank",
-      "title": "Software Engineer 1 (Backend UI and AI)",
-      "location": "Earth City, MO",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-07",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=U.S.+Bank&job=e36d509e-73dc-4d6f-8339-cc2af06b6b40&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Earth-City-MO/Software-Engineer-1--Backend-UI-and-AI-_2026-0018795"
-    },
-    {
       "id": "0db8b6ec-8b8e-4755-b4dd-097d3314da1a",
       "company": "VetsEZ",
       "title": "Junior Software Engineer – Security Release Engineering (SecRel)",
@@ -845,30 +857,6 @@
       "listingUrl": "https://vetsez.breezy.hr/p/c492d2abf56301-junior-software-engineer-security-release-engineering-secrel"
     },
     {
-      "id": "b3eeffaf-96ff-414b-9eb7-426418cc697c",
-      "company": "GDIT",
-      "title": "Junior Software Engineer (Clearance Sponsorship)",
-      "location": "Annapolis Junction, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-06",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=GDIT&job=b3eeffaf-96ff-414b-9eb7-426418cc697c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Junior-Software-Engineer--Clearance-Sponsorship-_RQ225645-1"
-    },
-    {
-      "id": "d3da9bab-ce6c-47bd-a069-a41038cb93bb",
-      "company": "Intuitive Research and Technology Corporation (INTUITIVE®)",
-      "title": "Entry Level Software Engineer",
-      "location": "Huntsville, AL",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-06",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=Intuitive+Research+and+Technology+Corporation+%28INTUITIVE%C2%AE%29&job=d3da9bab-ce6c-47bd-a069-a41038cb93bb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://intuitive.wd1.myworkdayjobs.com/irtc_careers/job/Huntsville-AL/Entry-Level-Software-Engineer_2627-054"
-    },
-    {
       "id": "d0ba0e88-6c9a-4836-b9d3-d6aa8be1c4a5",
       "company": "IXL Learning",
       "title": "Software Engineer, New Grad",
@@ -891,30 +879,6 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=IXL+Learning&job=d9435815-b375-4349-b8b9-e62404b00c64&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.ixl.com/company/jobs?gh_jid=8662881002"
-    },
-    {
-      "id": "41fd390f-54da-4c47-8a28-2cf5d0be6a73",
-      "company": "Litera",
-      "title": "Associate Software Engineer",
-      "location": "Denver, CO",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-06",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=Litera&job=41fd390f-54da-4c47-8a28-2cf5d0be6a73&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://litera.wd12.myworkdayjobs.com/litera_careers/job/Denver-CO/Associate-Software-Engineer_R-501347"
-    },
-    {
-      "id": "1082f351-c9f1-4cb1-9f8d-6df2705d6aea",
-      "company": "Northrop Grumman",
-      "title": "2027 Associate Software Engineer",
-      "location": "Melbourne, FL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-06",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=1082f351-c9f1-4cb1-9f8d-6df2705d6aea&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer_R10244219"
     },
     {
       "id": "fe49152b-b1c0-4eab-be5f-6795c648baa6",
@@ -1013,18 +977,6 @@
       "listingUrl": "https://manh.wd5.myworkdayjobs.com/campus/job/Atlanta-GA/Software-Engineer---Early-Career_16977"
     },
     {
-      "id": "95e1bd0c-9ea0-478f-a6d4-de31ecae8646",
-      "company": "Medtronic",
-      "title": "Software Engineer I - CRM",
-      "location": "Minneapolis, MN",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-05",
-      "age": "8d",
-      "url": "https://applyguy.ai/jobs?company=Medtronic&job=95e1bd0c-9ea0-478f-a6d4-de31ecae8646&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Software-Engineer-I---CRM_R73402"
-    },
-    {
       "id": "e6cb5068-0d3d-4cf6-aa4e-0a2ec52ab94f",
       "company": "Muon Space",
       "title": "Software Engineer, Entry-Level",
@@ -1095,18 +1047,6 @@
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=ac5562b0-18be-4353-83c1-171436f6b4bb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--Onsite---Secret-Clearance-_01864807"
-    },
-    {
-      "id": "f14b49d0-e992-4e8f-8f26-fc6b50c7b073",
-      "company": "RTX",
-      "title": "Software Engineer I - Air Traffic Solutions (Onsite)",
-      "location": "Marlborough, MA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-05",
-      "age": "8d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=f14b49d0-e992-4e8f-8f26-fc6b50c7b073&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I---Air-Traffic-Solutions--Onsite-_01864077"
     },
     {
       "id": "be66dbc6-7a6e-492a-a199-6304009b4e72",
@@ -1385,18 +1325,6 @@
       "age": "16d",
       "url": "https://applyguy.ai/jobs?company=Jobgether&job=527b0d53-fb32-4444-81ca-8bf04d7c90dd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/jobgether/e1d02f01-abc8-45da-8f25-bc46ebebc297"
-    },
-    {
-      "id": "5a9b6547-6add-4c91-afdd-5fb90ad0260b",
-      "company": "Leidos",
-      "title": "Entry Level Software Tester",
-      "location": "Lawton, OK",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-07-28",
-      "age": "16d",
-      "url": "https://applyguy.ai/jobs?company=Leidos&job=5a9b6547-6add-4c91-afdd-5fb90ad0260b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Lawton-OK/Entry-Level-Software-Tester_R-00187901"
     },
     {
       "id": "3397ecb5-c5f1-417a-b6ea-1a251bc9af58",
