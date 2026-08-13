@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T01:31:05.763Z",
+  "updatedAt": "2026-08-13T01:46:08.415Z",
   "jobs": [
     {
       "id": "9ca2c2c6-3417-41d0-b1e9-8cf5977a7ab8",
@@ -134,6 +134,54 @@
       "listingUrl": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Dahlgren/Jr-Software-Developer_R0168146"
     },
     {
+      "id": "c7ed7488-9e78-493b-88fe-5e5599c0cd9c",
+      "company": "RTX",
+      "title": "Software Engineer I",
+      "location": "Richardson, TX",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-12",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=c7ed7488-9e78-493b-88fe-5e5599c0cd9c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I_01866279"
+    },
+    {
+      "id": "aca74a5d-c443-4ab9-8206-0028c54a3420",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Annapolis, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-12",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=aca74a5d-c443-4ab9-8206-0028c54a3420&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MD-ANNAPOLIS-905--2551-Riva-Rd--BLDG-905/Software-Engineer-I--Onsite-_01865987"
+    },
+    {
+      "id": "4fa96a88-083d-4812-a0d1-6c9b512faebb",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Cedar Rapids, IA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-12",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=4fa96a88-083d-4812-a0d1-6c9b512faebb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineer-I--Onsite-_01864603"
+    },
+    {
+      "id": "42257df1-fdca-449a-9160-0b2516300e11",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "West Valley City, UT",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-12",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=42257df1-fdca-449a-9160-0b2516300e11&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineer-I--Onsite-_01865956"
+    },
+    {
       "id": "f1bc4ddc-6197-40e9-a566-37c6c6c3b4cf",
       "company": "RTX",
       "title": "Software Engineer I (Onsite)",
@@ -156,30 +204,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=a0f7dcc5-013d-426b-acdb-6430c642c071&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I_01865652"
-    },
-    {
-      "id": "934df157-3cff-46d0-99c5-c2a5bb380ea9",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Annapolis, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-12",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=934df157-3cff-46d0-99c5-c2a5bb380ea9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Engineer-I--Onsite-_01864384"
-    },
-    {
-      "id": "914962ea-1d50-4385-8a7b-cc750607e611",
-      "company": "RTX",
-      "title": "Software Engineer I  (Onsite)",
-      "location": "Cedar Rapids, IA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-12",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=914962ea-1d50-4385-8a7b-cc750607e611&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineer-I---Onsite-_01866072"
     },
     {
       "id": "110e55e4-3e69-4927-9982-8d48d62c5588",
