@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T10:16:36.662Z",
+  "updatedAt": "2026-08-13T10:31:46.108Z",
   "jobs": [
     {
       "id": "7d11d608-6097-444d-afbf-d39c476cb74a",
@@ -434,19 +434,6 @@
       "listingUrl": "https://jobs.ashbyhq.com/handshake/fe319ff8-87e1-46d9-b23e-4b78cf6086f8"
     },
     {
-      "id": "custom:microsoft:5f5bddec87a71f9cb757",
-      "company": "Microsoft",
-      "title": "Software Engineer - Microsoft Defender for Endpoint",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-11",
-      "age": "2d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556924230",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556924230",
-      "applySupported": false
-    },
-    {
       "id": "63a72d5e-d0ed-435c-abbc-2e6812962f9d",
       "company": "Nintendo",
       "title": "Software Engineer I, Game Development (NST)",
@@ -878,19 +865,6 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Jci&job=a718502a-160b-40d5-aa4c-81d75129ef04&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jci.wd5.myworkdayjobs.com/jci/job/New-Freedom-Pennsylvania-United-States-of-America/Embedded-Software-Engineer-I---Product-Development_WD30272369"
-    },
-    {
-      "id": "custom:microsoft:d021de3d39fd02480f33",
-      "company": "Microsoft",
-      "title": "Software Engineering - CTJ - Poly",
-      "location": "Redmond, WA · Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-07",
-      "age": "6d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
-      "applySupported": false
     },
     {
       "id": "a0acf9f7-cb61-4956-a59d-ea9c7940e70a",
