@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T20:01:30.864Z",
+  "updatedAt": "2026-08-13T20:15:28.462Z",
   "jobs": [
     {
       "id": "7d11d608-6097-444d-afbf-d39c476cb74a",
@@ -1000,6 +1000,18 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=VetsEZ&job=39407128-e5e3-4ece-ad14-0a69bf4617ef&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://vetsez.breezy.hr/p/c492d2abf56301-junior-software-engineer-security-release-engineering-secrel"
+    },
+    {
+      "id": "324ac327-460c-43d0-acf0-b6d6cc1d98e6",
+      "company": "Impact.com",
+      "title": "Associate Software Engineer",
+      "location": "Santa Barbara, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-06",
+      "age": "7d",
+      "url": "https://applyguy.ai/jobs?company=Impact.com&job=324ac327-460c-43d0-acf0-b6d6cc1d98e6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/impact/jobs/8645964002"
     },
     {
       "id": "d0ba0e88-6c9a-4836-b9d3-d6aa8be1c4a5",
