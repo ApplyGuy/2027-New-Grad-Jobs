@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T13:30:58.682Z",
+  "updatedAt": "2026-08-13T13:45:37.346Z",
   "jobs": [
     {
       "id": "7d11d608-6097-444d-afbf-d39c476cb74a",
@@ -12,6 +12,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Amat&job=7d11d608-6097-444d-afbf-d39c476cb74a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://amat.wd1.myworkdayjobs.com/external/job/GloucesterMA/XMLNAME-2027-Software-Engineer--DevOps---New-College-Grad---Bachelor-s--Gloucester--MA-_R2625762"
+    },
+    {
+      "id": "8e2d1337-01a4-43b5-a530-15924ad2032a",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Goleta, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=8e2d1337-01a4-43b5-a530-15924ad2032a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Software-Engineer-I--Onsite-_01866787"
+    },
+    {
+      "id": "6caa7b36-a7af-4350-8f42-8536d807973d",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Cedar Rapids, IA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=6caa7b36-a7af-4350-8f42-8536d807973d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineer-I--Onsite-_01866138"
     },
     {
       "id": "68e35b04-e769-40d9-a4be-9e97090fa705",
@@ -230,18 +254,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MD-ANNAPOLIS-905--2551-Riva-Rd--BLDG-905/Software-Engineer-I--Onsite-_01865987"
     },
     {
-      "id": "4fa96a88-083d-4812-a0d1-6c9b512faebb",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Cedar Rapids, IA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-12",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=4fa96a88-083d-4812-a0d1-6c9b512faebb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineer-I--Onsite-_01864603"
-    },
-    {
       "id": "42257df1-fdca-449a-9160-0b2516300e11",
       "company": "RTX",
       "title": "Software Engineer I (Onsite)",
@@ -288,18 +300,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=110e55e4-3e69-4927-9982-8d48d62c5588&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I--Onsite-_01865026-1"
-    },
-    {
-      "id": "c0b399ca-b4b7-4f03-8f8c-95de32390f1f",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Goleta, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-12",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=c0b399ca-b4b7-4f03-8f8c-95de32390f1f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Software-Engineer-I--Onsite-_01866229"
     },
     {
       "id": "ba2359cd-f468-4da9-9b90-28f7ad3cf4a8",
@@ -444,6 +444,19 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Handshake&job=8cc764e1-9b3d-44a9-a1d8-97733e9f468c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/handshake/fe319ff8-87e1-46d9-b23e-4b78cf6086f8"
+    },
+    {
+      "id": "custom:microsoft:5f5bddec87a71f9cb757",
+      "company": "Microsoft",
+      "title": "Software Engineer - Microsoft Defender for Endpoint",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-11",
+      "age": "2d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556924230",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556924230",
+      "applySupported": false
     },
     {
       "id": "63a72d5e-d0ed-435c-abbc-2e6812962f9d",
@@ -877,6 +890,19 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Jci&job=a718502a-160b-40d5-aa4c-81d75129ef04&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jci.wd5.myworkdayjobs.com/jci/job/New-Freedom-Pennsylvania-United-States-of-America/Embedded-Software-Engineer-I---Product-Development_WD30272369"
+    },
+    {
+      "id": "custom:microsoft:d021de3d39fd02480f33",
+      "company": "Microsoft",
+      "title": "Software Engineering - CTJ - Poly",
+      "location": "Redmond, WA · Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-07",
+      "age": "6d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+      "applySupported": false
     },
     {
       "id": "a0acf9f7-cb61-4956-a59d-ea9c7940e70a",
