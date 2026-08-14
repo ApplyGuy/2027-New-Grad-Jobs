@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T21:00:42.621Z",
+  "updatedAt": "2026-08-14T21:16:12.196Z",
   "jobs": [
     {
       "id": "75fbb2a1-357b-40dc-9cd5-723617fd3963",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Coke&job=75fbb2a1-357b-40dc-9cd5-723617fd3963&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Executive-Assistant--Data-and-Product---Global-Engineering_R-144422"
+    },
+    {
+      "id": "3846eea5-c801-46d0-b74d-644d645524a9",
+      "company": "Crowe",
+      "title": "Machine Learning Software Engineer 1",
+      "location": "Chicago IL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Crowe&job=3846eea5-c801-46d0-b74d-644d645524a9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Machine-Learning-Software-Engineer-1_R-71006"
     },
     {
       "id": "63c2089b-3d08-4579-a432-7e843f561a69",
@@ -72,6 +84,90 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=NVIDIA&job=f5b64472-e47c-43c1-980d-a35770afd531&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Deep-Learning-Libraries---New-College-Graduate-2026_JR2023252"
+    },
+    {
+      "id": "124d4084-6626-46c5-a788-14ae58247cff",
+      "company": "SpaceX",
+      "title": "New Graduate Engineer, Software  - '26/'27  (Starlink)",
+      "location": "Bastrop, TX",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=SpaceX&job=124d4084-6626-46c5-a788-14ae58247cff&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://boards.greenhouse.io/spacex/jobs/8696097002?gh_jid=8696097002"
+    },
+    {
+      "id": "d5164c75-4ab0-40d8-92a5-9974aad5827f",
+      "company": "SpaceX",
+      "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
+      "location": "Palo Alto, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=SpaceX&job=d5164c75-4ab0-40d8-92a5-9974aad5827f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://boards.greenhouse.io/spacex/jobs/8696080002?gh_jid=8696080002"
+    },
+    {
+      "id": "4a1f44f8-890b-4bea-b720-1023ac20f82d",
+      "company": "SpaceX",
+      "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
+      "location": "Redmond, WA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=SpaceX&job=4a1f44f8-890b-4bea-b720-1023ac20f82d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002"
+    },
+    {
+      "id": "c0065153-9217-4f4f-aee3-71230ffe625f",
+      "company": "SpaceX",
+      "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
+      "location": "Palo Alto, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=SpaceX&job=c0065153-9217-4f4f-aee3-71230ffe625f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002"
+    },
+    {
+      "id": "dba8c7ba-6301-4e5e-be1e-5fd8d023d7bf",
+      "company": "SpaceX",
+      "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
+      "location": "Bastrop, TX",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=SpaceX&job=dba8c7ba-6301-4e5e-be1e-5fd8d023d7bf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002"
+    },
+    {
+      "id": "f07fa663-311b-4cad-9d45-762b444568f5",
+      "company": "SpaceX",
+      "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
+      "location": "Redmond, WA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=SpaceX&job=f07fa663-311b-4cad-9d45-762b444568f5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002"
+    },
+    {
+      "id": "2df2e586-e68d-4406-a287-c54178f64e37",
+      "company": "Twitch",
+      "title": "Software Engineer I, Payments",
+      "location": "San Francisco, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Twitch&job=2df2e586-e68d-4406-a287-c54178f64e37&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/twitch/jobs/8700578002"
     },
     {
       "id": "7d11d608-6097-444d-afbf-d39c476cb74a",
@@ -144,19 +240,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Flir&job=9fa07ff1-f227-412c-94f0-5560835d9a77&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Associate-Software-Engineer_REQ36189"
-    },
-    {
-      "id": "custom:microsoft:ed995bbd690b14d9285a",
-      "company": "Microsoft",
-      "title": "Software Engineer",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-13",
-      "age": "1d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556960468",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556960468",
-      "applySupported": false
     },
     {
       "id": "93ea3b5d-90ba-4632-932c-4f87ba72bfe2",
@@ -577,19 +660,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Handshake&job=8cc764e1-9b3d-44a9-a1d8-97733e9f468c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/handshake/fe319ff8-87e1-46d9-b23e-4b78cf6086f8"
-    },
-    {
-      "id": "custom:microsoft:5f5bddec87a71f9cb757",
-      "company": "Microsoft",
-      "title": "Software Engineer - Microsoft Defender for Endpoint",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-11",
-      "age": "3d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556924230",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556924230",
-      "applySupported": false
     },
     {
       "id": "63a72d5e-d0ed-435c-abbc-2e6812962f9d",
@@ -1023,19 +1093,6 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Jci&job=a718502a-160b-40d5-aa4c-81d75129ef04&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jci.wd5.myworkdayjobs.com/jci/job/New-Freedom-Pennsylvania-United-States-of-America/Embedded-Software-Engineer-I---Product-Development_WD30272369"
-    },
-    {
-      "id": "custom:microsoft:d021de3d39fd02480f33",
-      "company": "Microsoft",
-      "title": "Software Engineering - CTJ - Poly",
-      "location": "Redmond, WA · Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-07",
-      "age": "7d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
-      "applySupported": false
     },
     {
       "id": "a0acf9f7-cb61-4956-a59d-ea9c7940e70a",
