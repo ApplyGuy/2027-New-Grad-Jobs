@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T00:45:29.290Z",
+  "updatedAt": "2026-08-14T01:00:52.846Z",
   "jobs": [
     {
       "id": "7d11d608-6097-444d-afbf-d39c476cb74a",
@@ -1014,18 +1014,6 @@
       "listingUrl": "https://troweprice.wd5.myworkdayjobs.com/troweprice/job/Owings-Mills-MD/Associate-Software-Engineer--Entry-level-_82578"
     },
     {
-      "id": "577a7dc9-5a84-4678-8b4b-c3bc7c6ea1d8",
-      "company": "U.S. Bank",
-      "title": "Hogan Software Engineer 1",
-      "location": "Irving, TX",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-07",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=U.S.+Bank&job=577a7dc9-5a84-4678-8b4b-c3bc7c6ea1d8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Irving-TX/Hogan-Software-Engineer-1_2026-0024257"
-    },
-    {
       "id": "0db8b6ec-8b8e-4755-b4dd-097d3314da1a",
       "company": "VetsEZ",
       "title": "Junior Software Engineer – Security Release Engineering (SecRel)",
@@ -1471,18 +1459,6 @@
       "listingUrl": "https://abnormal.ai/careers/jobs/7814567003?gh_jid=7814567003"
     },
     {
-      "id": "b189c2c0-e2b1-4b2e-93f6-bda1d9886c82",
-      "company": "RTX",
-      "title": "Software Engineer I, Connected Aviation Solutions (Hybrid - Aguadilla, PR)",
-      "location": "Aguadilla, PR",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-29",
-      "age": "16d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=b189c2c0-e2b1-4b2e-93f6-bda1d9886c82&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--Connected-Aviation-Solutions--Hybrid---Aguadilla--PR-_01860661-2"
-    },
-    {
       "id": "579ceb0e-8bd0-4a71-b8a0-846f5f392c88",
       "company": "Texas Sports Academy Main",
       "title": "Junior Software Engineer (AI-Forward)",
@@ -1745,6 +1721,18 @@
       "age": "22d",
       "url": "https://applyguy.ai/jobs?company=Pipe17&job=04c6455f-d5af-450e-b6be-98c24ad85722&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/pipe17/jobs/4717950005"
+    },
+    {
+      "id": "d6168563-6b49-4167-9bc7-5f099792c7fc",
+      "company": "RTX",
+      "title": "Software Engineer I, Connected Aviation Solutions (Hybrid - Aguadilla, PR)",
+      "location": "Aguadilla, PR",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-23",
+      "age": "22d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=d6168563-6b49-4167-9bc7-5f099792c7fc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--Connected-Aviation-Solutions--Hybrid---Aguadilla--PR-_01860661"
     },
     {
       "id": "6e45d5d7-de8b-464a-aade-bc1d5dbdbc6e",
