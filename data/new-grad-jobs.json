@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T01:45:56.824Z",
+  "updatedAt": "2026-08-14T02:00:49.969Z",
   "jobs": [
     {
       "id": "7d11d608-6097-444d-afbf-d39c476cb74a",
@@ -85,6 +85,30 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556960468",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556960468",
       "applySupported": false
+    },
+    {
+      "id": "b2ad535e-6fe2-436b-92d1-d7818cd55abb",
+      "company": "RTX",
+      "title": "Software Engineer I",
+      "location": "Tucson, AZ",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-13",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=b2ad535e-6fe2-436b-92d1-d7818cd55abb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-AZ-TUCSON-9030--9030-S-Rita-Rd--BLDG-9030/Software-Engineer-I_01865110"
+    },
+    {
+      "id": "3af4c944-020a-4bc5-8e04-184c89ba0b6d",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "West Valley City, UT",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-13",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=3af4c944-020a-4bc5-8e04-184c89ba0b6d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineer-I--Onsite-_01866533"
     },
     {
       "id": "feb316f4-e803-43eb-9515-99cc904e0594",
@@ -361,18 +385,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=aca74a5d-c443-4ab9-8206-0028c54a3420&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MD-ANNAPOLIS-905--2551-Riva-Rd--BLDG-905/Software-Engineer-I--Onsite-_01865987"
-    },
-    {
-      "id": "42257df1-fdca-449a-9160-0b2516300e11",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "West Valley City, UT",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-12",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=42257df1-fdca-449a-9160-0b2516300e11&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineer-I--Onsite-_01865956"
     },
     {
       "id": "f1bc4ddc-6197-40e9-a566-37c6c6c3b4cf",
