@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T20:45:47.106Z",
+  "updatedAt": "2026-08-14T21:00:42.621Z",
   "jobs": [
     {
       "id": "75fbb2a1-357b-40dc-9cd5-723617fd3963",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Coke&job=75fbb2a1-357b-40dc-9cd5-723617fd3963&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Executive-Assistant--Data-and-Product---Global-Engineering_R-144422"
+    },
+    {
+      "id": "63c2089b-3d08-4579-a432-7e843f561a69",
+      "company": "Endictus Corp",
+      "title": "Jr Software Engineer / Software Developer I",
+      "location": "Washington, DC",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Endictus+Corp&job=63c2089b-3d08-4579-a432-7e843f561a69&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4417648"
     },
     {
       "id": "db4c63df-296b-4061-84c9-f7c7c8071a4c",
@@ -36,6 +48,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Kbr&job=1cd39d77-9800-4d0e-9f0c-7f2a021adff6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Beavercreek-Ohio/Jr-Software-Engineer_R2126837"
+    },
+    {
+      "id": "135b087d-e634-4e60-8aab-d0987ca6f5af",
+      "company": "New Relic",
+      "title": "Associate Software Engineer - Java (Distributed Systems and Databases)",
+      "location": "Portland, OR",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=New+Relic&job=135b087d-e634-4e60-8aab-d0987ca6f5af&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/newrelic/jobs/5390637008"
     },
     {
       "id": "f5b64472-e47c-43c1-980d-a35770afd531",
