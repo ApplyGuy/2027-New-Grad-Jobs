@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T16:01:15.568Z",
+  "updatedAt": "2026-08-14T16:16:33.298Z",
   "jobs": [
     {
       "id": "1cd39d77-9800-4d0e-9f0c-7f2a021adff6",
@@ -3465,18 +3465,6 @@
       "age": "59d",
       "url": "https://applyguy.ai/jobs?company=Captivation+Software&job=b5ee9e44-dd1a-40e9-a563-3278f5180dff&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/captivation/jobs/5265659008"
-    },
-    {
-      "id": "56128c22-8cc1-44bb-ba85-49cf1c4dd3bb",
-      "company": "Palantir Technologies",
-      "title": "Forward Deployed Software Engineer, New Grad - Intel, US Government",
-      "location": "Washington, D.C.",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-06-15",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Palantir+Technologies&job=56128c22-8cc1-44bb-ba85-49cf1c4dd3bb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382"
     }
   ]
 }
