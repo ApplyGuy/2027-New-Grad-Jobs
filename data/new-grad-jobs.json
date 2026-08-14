@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T21:46:14.506Z",
+  "updatedAt": "2026-08-14T22:00:37.829Z",
   "jobs": [
     {
       "id": "75fbb2a1-357b-40dc-9cd5-723617fd3963",
@@ -252,6 +252,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Flir&job=9fa07ff1-f227-412c-94f0-5560835d9a77&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Associate-Software-Engineer_REQ36189"
+    },
+    {
+      "id": "26e9b0cb-ea8d-47b4-92b4-0ced65ee17c8",
+      "company": "Generalmotors",
+      "title": "Machine Learning Engineer, AI Inference Solutions (University Grad)",
+      "location": "Sunnyvale, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-13",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Generalmotors&job=26e9b0cb-ea8d-47b4-92b4-0ced65ee17c8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/Machine-Learning-Engineer--AI-Inference-Solutions--University-Grad-_JR-202610103"
     },
     {
       "id": "custom:microsoft:ed995bbd690b14d9285a",
