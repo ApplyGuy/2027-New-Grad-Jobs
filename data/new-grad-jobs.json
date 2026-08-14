@@ -1,8 +1,20 @@
 {
-  "updatedAt": "2026-08-14T15:45:46.734Z",
+  "updatedAt": "2026-08-14T16:01:15.568Z",
   "jobs": [
     {
-      "id": "43deb1ab-cf1e-46a0-bc85-11f44279c72b",
+      "id": "1cd39d77-9800-4d0e-9f0c-7f2a021adff6",
+      "company": "Kbr",
+      "title": "Jr Software Engineer",
+      "location": "Beavercreek, OH",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Kbr&job=1cd39d77-9800-4d0e-9f0c-7f2a021adff6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Beavercreek-Ohio/Jr-Software-Engineer_R2126837"
+    },
+    {
+      "id": "f5b64472-e47c-43c1-980d-a35770afd531",
       "company": "NVIDIA",
       "title": "Software Engineer, Deep Learning Libraries - New College Graduate 2026",
       "location": "Santa Clara, CA",
@@ -10,8 +22,8 @@
       "matchKind": "explicit",
       "posted": "2026-08-14",
       "age": "Today",
-      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=43deb1ab-cf1e-46a0-bc85-11f44279c72b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Deep-Learning-Libraries---New-College-Graduate-2026_JR2023252"
+      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=f5b64472-e47c-43c1-980d-a35770afd531&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Deep-Learning-Libraries---New-College-Graduate-2026_JR2023252"
     },
     {
       "id": "7d11d608-6097-444d-afbf-d39c476cb74a",
@@ -243,18 +255,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/generalmatter/jobs/5375987008"
     },
     {
-      "id": "d10069f5-7458-4ec8-becc-d3baacf531cb",
-      "company": "Generalmotors",
-      "title": "Entry Level Software Engineer",
-      "location": "Warren, MI",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-12",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=Generalmotors&job=d10069f5-7458-4ec8-becc-d3baacf531cb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Warren-Michigan-United-States-of-America/Entry-Level-Software-Engineer_JR-202616904"
-    },
-    {
       "id": "c66842f1-2012-44cd-9d6b-f9c27f6600d9",
       "company": "Leidos",
       "title": "Junior Software Engineer",
@@ -435,18 +435,6 @@
       "listingUrl": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Software-Engineer_R6770"
     },
     {
-      "id": "64901d3c-e95f-49d4-861e-b1f5335cb637",
-      "company": "U.S. Bank",
-      "title": "Software Engineer 1- (Full Stack Developer)",
-      "location": "Atlanta, GA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-12",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=U.S.+Bank&job=64901d3c-e95f-49d4-861e-b1f5335cb637&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Atlanta-GA/Software-Engineer-1---Full-Stack-Developer-_2026-0022352"
-    },
-    {
       "id": "e36d509e-73dc-4d6f-8339-cc2af06b6b40",
       "company": "U.S. Bank",
       "title": "Software Engineer 1 (Backend UI and AI)",
@@ -578,18 +566,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=PathAI&job=a7a2e37d-08bc-424a-afc0-c095238b5784&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.pathai.com/careers/8696764002?gh_jid=8696764002"
-    },
-    {
-      "id": "f3519754-6c80-4efb-9e5d-fca0893e70f6",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Jupiter, FL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-11",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=f3519754-6c80-4efb-9e5d-fca0893e70f6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Software-Engineer-I--Onsite-_01864738"
     },
     {
       "id": "b41323eb-23c1-4fbc-9328-da16f2485523",
@@ -818,18 +794,6 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=df892889-c83d-4a92-bc60-da1369c4e297&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01865154"
-    },
-    {
-      "id": "9905aca7-656d-41a4-81a0-d1c6e8f889ae",
-      "company": "RTX",
-      "title": "Software Engineer I -(Onsite)",
-      "location": "Sterling, VA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-10",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=9905aca7-656d-41a4-81a0-d1c6e8f889ae&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineer-I---Onsite-_01864802"
     },
     {
       "id": "e99f5def-1e5e-4d1a-a7da-cdaf542177b7",
