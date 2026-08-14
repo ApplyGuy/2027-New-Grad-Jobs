@@ -1,6 +1,6 @@
 # 2027 New Grad Software Engineering Jobs
 
-[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-289-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
+[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-288-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
 
 A continuously verified list of **2027 New Grad software engineering jobs**, **entry-level software engineer jobs**, and early-career developer roles in the United States. Listings come directly from employer career pages and are maintained by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs).
 
@@ -10,9 +10,9 @@ A continuously verified list of **2027 New Grad software engineering jobs**, **e
 
 🎒 **Looking for internships?** Browse [2027 SWE & Product Internships →](https://github.com/ApplyGuy/2027-Internships)
 
-- **289** active U.S. software roles posted within the last **60 days**
-- **71** explicitly labeled New Grad / university graduate / early career
-- Last refresh: **Aug 14, 2026, 9:01 AM PDT**
+- **288** active U.S. software roles posted within the last **60 days**
+- **70** explicitly labeled New Grad / university graduate / early career
+- Last refresh: **Aug 14, 2026, 9:16 AM PDT**
 - Machine-readable feed: [data/new-grad-jobs.json](data/new-grad-jobs.json)
 
 Listings with the orange **Apply Guy** button support one-click apply through [Apply Guy](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs). Blue **View** buttons open the employer's career site directly.
@@ -309,7 +309,6 @@ Listings with the orange **Apply Guy** button support one-click apply through [A
 | ARSIEM | 390 - Jr. Software Engineer | Ft. Meade, MD | 59d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=ARSIEM&job=705b742d-a49f-4a7a-88b0-bbeb1550c965&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://jobs.lever.co/arsiem/55fc1d5c-1a48-4386-a1e5-3ac54ca2dee7) |
 | Captivation Software | Software Engineer 1 - Java/Angular/Gitlab/Docker/Kubernetes/Elasticsearch | Annapolis Junction, MD | 59d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Captivation+Software&job=c51cde31-d7cd-40d3-a81e-d339632c67ec&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/captivation/jobs/5265768008) |
 | Captivation Software | Software Engineer 1 - UI/UX | Annapolis Junction, MD | 59d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Captivation+Software&job=b5ee9e44-dd1a-40e9-a563-3278f5180dff&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/captivation/jobs/5265659008) |
-| Palantir Technologies | Forward Deployed Software Engineer, New Grad - Intel, US Government | Washington, D.C. | 60d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Palantir+Technologies&job=56128c22-8cc1-44bb-ba85-49cf1c4dd3bb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382) |
 
 ## Contributing
 
