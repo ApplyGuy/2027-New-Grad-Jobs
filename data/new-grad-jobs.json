@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T01:45:48.286Z",
+  "updatedAt": "2026-08-15T02:01:05.803Z",
   "jobs": [
     {
       "id": "3846eea5-c801-46d0-b74d-644d645524a9",
@@ -84,6 +84,114 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=NVIDIA&job=f5b64472-e47c-43c1-980d-a35770afd531&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Deep-Learning-Libraries---New-College-Graduate-2026_JR2023252"
+    },
+    {
+      "id": "d75a9110-7631-4316-947b-744f92519a10",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Winston Salem, NC",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-14",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=d75a9110-7631-4316-947b-744f92519a10&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-NC-WINSTON-SALEM-175--175-Oak-Plaza-Blvd--BLDG-175/Software-Engineer-I--Onsite-_01866721"
+    },
+    {
+      "id": "c9819176-ae3d-4f83-b668-9abf898e99da",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Cedar Rapids, IA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-14",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=c9819176-ae3d-4f83-b668-9abf898e99da&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineer-I--Onsite-_01863513"
+    },
+    {
+      "id": "c0529cf0-52e4-4c0b-931c-6c0452846e3a",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Burnsville, MN",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-14",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=c0529cf0-52e4-4c0b-931c-6c0452846e3a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MN-BURNSVILLE-NORTH--2900-County-Rd-42-W--NORTH-BLDG/Software-Engineer-I--Onsite-_01866686"
+    },
+    {
+      "id": "793ec079-1f1f-4acf-8e7b-10d28fc34226",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "El Segundo, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-14",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=793ec079-1f1f-4acf-8e7b-10d28fc34226&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/Software-Engineer-I--Onsite-_01866621"
+    },
+    {
+      "id": "4e1ded17-6192-48d7-9a81-1ccf5138280a",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Fullerton, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-14",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=4e1ded17-6192-48d7-9a81-1ccf5138280a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Software-Engineer-I--Onsite-_01867438"
+    },
+    {
+      "id": "382195a8-b160-43f5-8451-fc590b71589a",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Tucson, AZ",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-14",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=382195a8-b160-43f5-8451-fc590b71589a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01866775"
+    },
+    {
+      "id": "2cf94ec2-3b78-4ded-822a-33ceb3d42145",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "East Hartford, CT",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-14",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=2cf94ec2-3b78-4ded-822a-33ceb3d42145&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CT-EAST-HARTFORD-J--400-Main-St--BLDG-J/Software-Engineer-I--Onsite-_01865467"
+    },
+    {
+      "id": "2058bdcc-252f-4885-a0f9-df029c6b2544",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Melbourne, FL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-14",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=2058bdcc-252f-4885-a0f9-df029c6b2544&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-FL-MELBOURNE-307--1100-W-Hibiscus-Blvd--BLDG-307/Software-Engineer-I--Onsite-_01866124"
+    },
+    {
+      "id": "0cdf5d27-2a96-41e0-8962-465b2c30b746",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Annapolis, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-14",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=0cdf5d27-2a96-41e0-8962-465b2c30b746&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Engineer-I--Onsite-_01867023"
     },
     {
       "id": "124d4084-6626-46c5-a788-14ae58247cff",
@@ -327,18 +435,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineer-I--Onsite-_01866533"
     },
     {
-      "id": "feb316f4-e803-43eb-9515-99cc904e0594",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Cedar Rapids, IA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-13",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=feb316f4-e803-43eb-9515-99cc904e0594&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I--Onsite-_01866927"
-    },
-    {
       "id": "7e8145e1-1a41-429d-b1a8-9a6f30ced046",
       "company": "RTX",
       "title": "Software Engineer I -  Test Solutions - Onsite",
@@ -349,18 +445,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=7e8145e1-1a41-429d-b1a8-9a6f30ced046&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I----Test-Solutions---Onsite_01836492-1"
-    },
-    {
-      "id": "78433ac1-a7a2-48b8-8b53-c457a0b469b4",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Tucson, AZ",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-13",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=78433ac1-a7a2-48b8-8b53-c457a0b469b4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I--Onsite-_01866246"
     },
     {
       "id": "48ad7504-c100-4a28-9197-2ee337a2c710",
@@ -565,18 +649,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=c7ed7488-9e78-493b-88fe-5e5599c0cd9c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I_01866279"
-    },
-    {
-      "id": "aca74a5d-c443-4ab9-8206-0028c54a3420",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Annapolis, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-12",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=aca74a5d-c443-4ab9-8206-0028c54a3420&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MD-ANNAPOLIS-905--2551-Riva-Rd--BLDG-905/Software-Engineer-I--Onsite-_01865987"
     },
     {
       "id": "f1bc4ddc-6197-40e9-a566-37c6c6c3b4cf",
@@ -1697,18 +1769,6 @@
       "age": "18d",
       "url": "https://applyguy.ai/jobs?company=Qualifacts&job=3397ecb5-c5f1-417a-b6ea-1a251bc9af58&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://qualifacts.wd5.myworkdayjobs.com/qualifacts_external_careers/job/Ontario---Remote/Software-Engineer-I--P1-_R-102648"
-    },
-    {
-      "id": "3f63c6d6-e5bb-4256-879c-927b902f82e4",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "East Hartford, CT",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-28",
-      "age": "18d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=3f63c6d6-e5bb-4256-879c-927b902f82e4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Methods-Engineer-I--Summer-2027-_01862159"
     },
     {
       "id": "5d059d9f-4095-4312-9d48-ecd2a6bd4c8c",
