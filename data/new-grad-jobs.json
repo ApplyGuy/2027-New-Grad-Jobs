@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T20:30:54.005Z",
+  "updatedAt": "2026-08-15T20:46:34.282Z",
   "jobs": [
     {
       "id": "3846eea5-c801-46d0-b74d-644d645524a9",
@@ -3656,18 +3656,6 @@
       "age": "59d",
       "url": "https://applyguy.ai/jobs?company=Travelers&job=f5670608-7f30-4c0d-8a35-0277f2a4c80c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://travelers.wd5.myworkdayjobs.com/external/job/MN---St-Paul/Software-Engineer-I---Loss-Sensitive--Java--Spring-Boot--TypeScript--Nodejs--AI-_R-50957"
-    },
-    {
-      "id": "c51cde31-d7cd-40d3-a81e-d339632c67ec",
-      "company": "Captivation Software",
-      "title": "Software Engineer 1 - Java/Angular/Gitlab/Docker/Kubernetes/Elasticsearch",
-      "location": "Annapolis Junction, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-06-16",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Captivation+Software&job=c51cde31-d7cd-40d3-a81e-d339632c67ec&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/captivation/jobs/5265768008"
     }
   ]
 }
