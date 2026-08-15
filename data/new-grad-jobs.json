@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T00:01:02.056Z",
+  "updatedAt": "2026-08-15T00:15:46.388Z",
   "jobs": [
     {
       "id": "3846eea5-c801-46d0-b74d-644d645524a9",
@@ -60,6 +60,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=New+Relic&job=135b087d-e634-4e60-8aab-d0987ca6f5af&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/newrelic/jobs/5390637008"
+    },
+    {
+      "id": "b72b65fa-0517-4150-9c04-7b653e630a59",
+      "company": "Notion",
+      "title": "Software Engineer, New Grad (Dec 2026)",
+      "location": "San Francisco, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-14",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Notion&job=b72b65fa-0517-4150-9c04-7b653e630a59&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816"
     },
     {
       "id": "f5b64472-e47c-43c1-980d-a35770afd531",
@@ -144,6 +156,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=SpaceX&job=f07fa663-311b-4cad-9d45-762b444568f5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002"
+    },
+    {
+      "id": "c3d32fd1-4b15-427b-b95c-80cfd9ae124e",
+      "company": "Sunayu",
+      "title": "MD-Software Engineer 1 - TS/SCI w/ Polygraph",
+      "location": "Contractor Site, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-14",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Sunayu&job=c3d32fd1-4b15-427b-b95c-80cfd9ae124e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://sunayu.bamboohr.com/careers/406"
     },
     {
       "id": "2df2e586-e68d-4406-a287-c54178f64e37",
