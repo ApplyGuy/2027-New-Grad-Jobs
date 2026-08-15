@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T16:00:46.194Z",
+  "updatedAt": "2026-08-15T16:16:03.543Z",
   "jobs": [
     {
       "id": "3846eea5-c801-46d0-b74d-644d645524a9",
@@ -459,18 +459,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I----Test-Solutions---Onsite_01836492-1"
     },
     {
-      "id": "48ad7504-c100-4a28-9197-2ee337a2c710",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Annapolis Junction, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-13",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=48ad7504-c100-4a28-9197-2ee337a2c710&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineer-I--Onsite-_01866357"
-    },
-    {
       "id": "8e2d1337-01a4-43b5-a530-15924ad2032a",
       "company": "RTX",
       "title": "Software Engineer I (Onsite)",
@@ -721,18 +709,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Uniswap+Labs&job=64fde33a-25fe-4c1d-9c3a-14a6be753749&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/uniswap/fb4d4137-f003-4669-beb7-2a5caca88012"
-    },
-    {
-      "id": "50529b65-03b0-46d1-81af-30530c281578",
-      "company": "Abbott",
-      "title": "Associate Software Engineer",
-      "location": "Irving, TX",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-11",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=Abbott&job=50529b65-03b0-46d1-81af-30530c281578&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Texas---Irving/Associate-Software-Engineer_31158107"
     },
     {
       "id": "cea0bfe3-53db-45f6-99b5-1e40158b71ac",
@@ -1276,18 +1252,6 @@
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=Quickenloans&job=60ad68eb-13ee-4621-a067-d81ed50eba10&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Software-Engineer-I_R-083975"
-    },
-    {
-      "id": "70cb2d8f-81d3-4b96-b979-8225aa0ff59b",
-      "company": "Troweprice",
-      "title": "Associate Software Engineer (Entry-level)",
-      "location": "Owings Mills, MD",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-07",
-      "age": "8d",
-      "url": "https://applyguy.ai/jobs?company=Troweprice&job=70cb2d8f-81d3-4b96-b979-8225aa0ff59b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://troweprice.wd5.myworkdayjobs.com/troweprice/job/Owings-Mills-MD/Associate-Software-Engineer--Entry-level-_82578"
     },
     {
       "id": "0db8b6ec-8b8e-4755-b4dd-097d3314da1a",
