@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T04:00:53.180Z",
+  "updatedAt": "2026-08-16T04:15:48.557Z",
   "jobs": [
     {
       "id": "3846eea5-c801-46d0-b74d-644d645524a9",
@@ -2597,18 +2597,6 @@
       "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Hazelwood-MO/Associate-Software-Engineer_JR2026511462-1"
     },
     {
-      "id": "ef66159b-5c64-4ddc-8ffe-00f229a7aa25",
-      "company": "Esri",
-      "title": "Software Development Engineer I - ArcGIS Enterprise",
-      "location": "Redlands, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-14",
-      "age": "33d",
-      "url": "https://applyguy.ai/jobs?company=Esri&job=ef66159b-5c64-4ddc-8ffe-00f229a7aa25&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://www.esri.com/careers/5185716007?gh_jid=5185716007"
-    },
-    {
       "id": "829dba65-6a8a-4be1-b13c-ac5882366094",
       "company": "Esri",
       "title": "Software Development Engineer I – Agentic AI, ArcGIS Enterprise",
@@ -2787,18 +2775,6 @@
       "age": "34d",
       "url": "https://applyguy.ai/jobs?company=Old+Mission&job=c8ca21fd-6d2e-4e4b-b43f-c979bd2289dc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.oldmissioncapital.com/careers/?gh_jid=7796048003"
-    },
-    {
-      "id": "a116d314-41cc-4852-b2a8-b00be6395b76",
-      "company": "Peraton",
-      "title": "Entry-Level Full Stack Software Developer",
-      "location": "US",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-07-13",
-      "age": "34d",
-      "url": "https://applyguy.ai/jobs?company=Peraton&job=a116d314-41cc-4852-b2a8-b00be6395b76&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://careers-peraton.icims.com/jobs/168438/entry-level-full-stack-software-developer/job"
     },
     {
       "id": "a2a78be0-da2a-401d-86de-0825b85339eb",
