@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T18:00:32.023Z",
+  "updatedAt": "2026-08-17T18:15:32.909Z",
   "jobs": [
     {
       "id": "b7a5389c-99e1-4a57-821e-16e7d862e8c5",
@@ -62,6 +62,42 @@
       "listingUrl": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4705344006"
     },
     {
+      "id": "4e9581e3-cbf2-4caa-bbb2-b96048d02f06",
+      "company": "Applied Intuition",
+      "title": "Embedded Software Engineer - New Grad (2027)",
+      "location": "Sunnyvale, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-14",
+      "age": "3d",
+      "url": "https://applyguy.ai/jobs?company=Applied+Intuition&job=4e9581e3-cbf2-4caa-bbb2-b96048d02f06&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44"
+    },
+    {
+      "id": "26647379-2d57-4304-98d4-be27c47a67b0",
+      "company": "Applied Intuition",
+      "title": "Software Engineer - New Grad (December 2026)",
+      "location": "Sunnyvale, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-14",
+      "age": "3d",
+      "url": "https://applyguy.ai/jobs?company=Applied+Intuition&job=26647379-2d57-4304-98d4-be27c47a67b0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694"
+    },
+    {
+      "id": "01e6b429-83f6-4521-bd92-14dd603b4d61",
+      "company": "Applied Intuition",
+      "title": "Software Integration Engineer - New Grad (2027)",
+      "location": "Sunnyvale, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-14",
+      "age": "3d",
+      "url": "https://applyguy.ai/jobs?company=Applied+Intuition&job=01e6b429-83f6-4521-bd92-14dd603b4d61&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.ashbyhq.com/applied/250080bd-10a8-4e5f-82b8-506029292d19"
+    },
+    {
       "id": "41d216bc-98ff-43fa-8ec4-09bdafdffa1b",
       "company": "Boom Technology, Inc.",
       "title": "Software Engineer (Early Career, Exceptional Talent)",
@@ -96,6 +132,18 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Endictus+Corp&job=63c2089b-3d08-4579-a432-7e843f561a69&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4417648"
+    },
+    {
+      "id": "7740a069-0585-43fe-8e89-6236d9ff4493",
+      "company": "Flow Engineering",
+      "title": "Software Engineer, Early Career",
+      "location": "San Francisco, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-14",
+      "age": "3d",
+      "url": "https://applyguy.ai/jobs?company=Flow+Engineering&job=7740a069-0585-43fe-8e89-6236d9ff4493&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.ashbyhq.com/flowengineering/df49e713-ce33-40a8-8d6d-3759f61f4ea5"
     },
     {
       "id": "db4c63df-296b-4061-84c9-f7c7c8071a4c",
