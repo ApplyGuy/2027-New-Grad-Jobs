@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T05:00:56.569Z",
+  "updatedAt": "2026-08-17T05:16:47.502Z",
   "jobs": [
     {
       "id": "41d216bc-98ff-43fa-8ec4-09bdafdffa1b",
@@ -98,19 +98,7 @@
       "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Deep-Learning-Libraries---New-College-Graduate-2026_JR2023252"
     },
     {
-      "id": "d75a9110-7631-4316-947b-744f92519a10",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Winston Salem, NC",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-14",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=d75a9110-7631-4316-947b-744f92519a10&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-NC-WINSTON-SALEM-175--175-Oak-Plaza-Blvd--BLDG-175/Software-Engineer-I--Onsite-_01866721"
-    },
-    {
-      "id": "c9819176-ae3d-4f83-b668-9abf898e99da",
+      "id": "c2468b1b-67cd-4f3f-bb61-366a21556972",
       "company": "RTX",
       "title": "Software Engineer I (Onsite)",
       "location": "Cedar Rapids, IA",
@@ -118,20 +106,8 @@
       "matchKind": "entry_level",
       "posted": "2026-08-14",
       "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=c9819176-ae3d-4f83-b668-9abf898e99da&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineer-I--Onsite-_01863513"
-    },
-    {
-      "id": "c0529cf0-52e4-4c0b-931c-6c0452846e3a",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Burnsville, MN",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-14",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=c0529cf0-52e4-4c0b-931c-6c0452846e3a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MN-BURNSVILLE-NORTH--2900-County-Rd-42-W--NORTH-BLDG/Software-Engineer-I--Onsite-_01866686"
+      "url": "https://applyguy.ai/jobs?company=RTX&job=c2468b1b-67cd-4f3f-bb61-366a21556972&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01866531"
     },
     {
       "id": "793ec079-1f1f-4acf-8e7b-10d28fc34226",
@@ -180,30 +156,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=2cf94ec2-3b78-4ded-822a-33ceb3d42145&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CT-EAST-HARTFORD-J--400-Main-St--BLDG-J/Software-Engineer-I--Onsite-_01865467"
-    },
-    {
-      "id": "2058bdcc-252f-4885-a0f9-df029c6b2544",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Melbourne, FL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-14",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=2058bdcc-252f-4885-a0f9-df029c6b2544&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-FL-MELBOURNE-307--1100-W-Hibiscus-Blvd--BLDG-307/Software-Engineer-I--Onsite-_01866124"
-    },
-    {
-      "id": "0cdf5d27-2a96-41e0-8962-465b2c30b746",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Annapolis, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-14",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=0cdf5d27-2a96-41e0-8962-465b2c30b746&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Engineer-I--Onsite-_01867023"
     },
     {
       "id": "1cd5f716-4191-4355-a907-26f07f5ec150",
@@ -324,18 +276,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Ucar&job=b5497415-2e21-4d65-813b-4e27fb71e1fe&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://ucar.wd5.myworkdayjobs.com/ucar_careers/job/Boulder-CO/CESM-Software-Engineer-I_REQ-2026-117-1"
-    },
-    {
-      "id": "7d11d608-6097-444d-afbf-d39c476cb74a",
-      "company": "Amat",
-      "title": "2027 Software Engineer (DevOps), New College Grad - Bachelor's (Gloucester, MA)",
-      "location": "Gloucester, MA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-13",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=Amat&job=7d11d608-6097-444d-afbf-d39c476cb74a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://amat.wd1.myworkdayjobs.com/external/job/GloucesterMA/XMLNAME-2027-Software-Engineer--DevOps---New-College-Grad---Bachelor-s--Gloucester--MA-_R2625762"
     },
     {
       "id": "2b5af97c-19ac-4c65-8b6b-68f14fdbf40f",
@@ -661,18 +601,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=c7ed7488-9e78-493b-88fe-5e5599c0cd9c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I_01866279"
-    },
-    {
-      "id": "f1bc4ddc-6197-40e9-a566-37c6c6c3b4cf",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Ft Wayne, IN",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-12",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=f1bc4ddc-6197-40e9-a566-37c6c6c3b4cf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I--Onsite-_01863042"
     },
     {
       "id": "ba2359cd-f468-4da9-9b90-28f7ad3cf4a8",
