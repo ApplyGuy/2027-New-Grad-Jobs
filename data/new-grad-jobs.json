@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T04:01:20.025Z",
+  "updatedAt": "2026-08-17T04:15:36.235Z",
   "jobs": [
     {
       "id": "41d216bc-98ff-43fa-8ec4-09bdafdffa1b",
@@ -2646,18 +2646,6 @@
       "age": "34d",
       "url": "https://applyguy.ai/jobs?company=Boeing&job=fece533c-d2df-426f-b16d-61b728f9ac05&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Hazelwood-MO/Associate-Software-Engineer_JR2026511462-1"
-    },
-    {
-      "id": "829dba65-6a8a-4be1-b13c-ac5882366094",
-      "company": "Esri",
-      "title": "Software Development Engineer I – Agentic AI, ArcGIS Enterprise",
-      "location": "Redlands, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-14",
-      "age": "34d",
-      "url": "https://applyguy.ai/jobs?company=Esri&job=829dba65-6a8a-4be1-b13c-ac5882366094&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://www.esri.com/careers/5186832007?gh_jid=5186832007"
     },
     {
       "id": "3de4c809-7cdf-4aba-88d0-5037c04cdb2c",
