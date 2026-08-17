@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-08-17T15:45:42.239Z",
+  "updatedAt": "2026-08-17T16:00:33.105Z",
   "jobs": [
+    {
+      "id": "d366a11f-0781-4893-82d6-19570f31138b",
+      "company": "STR",
+      "title": "Associate Software Engineer",
+      "location": "San Diego, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-17",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=STR&job=d366a11f-0781-4893-82d6-19570f31138b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4705347006"
+    },
+    {
+      "id": "9833d8ff-761a-4348-b501-4962c10b0456",
+      "company": "STR",
+      "title": "Associate Software Engineer",
+      "location": "Woburn, MA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-17",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=STR&job=9833d8ff-761a-4348-b501-4962c10b0456&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4705344006"
+    },
     {
       "id": "41d216bc-98ff-43fa-8ec4-09bdafdffa1b",
       "company": "Boom Technology, Inc.",
