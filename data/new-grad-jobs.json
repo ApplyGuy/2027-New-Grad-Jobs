@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T01:15:31.259Z",
+  "updatedAt": "2026-08-18T01:30:44.865Z",
   "jobs": [
     {
       "id": "b7a5389c-99e1-4a57-821e-16e7d862e8c5",
@@ -48,6 +48,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Fhcsd&job=5d34e1da-8e2b-4002-a79b-f30ec9d801a1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://fhcsd.wd1.myworkdayjobs.com/main/job/HITEC-Center---San-Diego-CA/QA-Software-Engineer-I_R0022801"
+    },
+    {
+      "id": "9b365792-5318-48d4-9d3f-ed48dbe78aa5",
+      "company": "Leidos",
+      "title": "Junior Software Engineer",
+      "location": "Huntsville, AL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-17",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Leidos&job=9b365792-5318-48d4-9d3f-ed48dbe78aa5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Huntsville-AL/Junior-Software-Engineer_R-00189781"
     },
     {
       "id": "d366a11f-0781-4893-82d6-19570f31138b",
@@ -565,18 +577,6 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=General+Matter&job=c4656b86-d950-4d6a-bb5f-dfa3b1f9721d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/generalmatter/jobs/5375987008"
-    },
-    {
-      "id": "c66842f1-2012-44cd-9d6b-f9c27f6600d9",
-      "company": "Leidos",
-      "title": "Junior Software Engineer",
-      "location": "Huntsville, AL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-12",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=Leidos&job=c66842f1-2012-44cd-9d6b-f9c27f6600d9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Huntsville-AL/Junior-Software-Engineer_R-00189408"
     },
     {
       "id": "99df2fc7-2911-4cc6-8a8f-ff3412e3da95",
