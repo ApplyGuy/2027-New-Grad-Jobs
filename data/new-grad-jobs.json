@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T18:31:02.327Z",
+  "updatedAt": "2026-08-18T18:45:32.241Z",
   "jobs": [
     {
       "id": "cea0bfe3-53db-45f6-99b5-1e40158b71ac",
@@ -36,6 +36,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Cook+Systems&job=9e4c7495-c765-4374-a25c-7ca493642d2b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/cooksys/jobs/5386869008"
+    },
+    {
+      "id": "6e93fdd4-65cc-4999-b014-fad9d59fd0e6",
+      "company": "RTX",
+      "title": "Software Engineer I - Aircraft Interiors (ONSITE)",
+      "location": "WINSTON SALEM 175 175 Oak Plaza Blvd BLDG 175, NC",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-18",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=6e93fdd4-65cc-4999-b014-fad9d59fd0e6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NC-WINSTON-SALEM-175--175-Oak-Plaza-Blvd--BLDG-175/Software-Engineer-I---Aircraft-Interiors_01867177"
+    },
+    {
+      "id": "1638d0de-89cf-43ab-9cd8-e5ca4a9fe346",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Mckinney, TX",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-18",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=1638d0de-89cf-43ab-9cd8-e5ca4a9fe346&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Software-Engineer-I--Onsite-_01867976"
     },
     {
       "id": "3af4c944-020a-4bc5-8e04-184c89ba0b6d",
