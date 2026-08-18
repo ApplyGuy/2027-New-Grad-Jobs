@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T20:31:02.430Z",
+  "updatedAt": "2026-08-18T20:46:21.877Z",
   "jobs": [
     {
       "id": "cea0bfe3-53db-45f6-99b5-1e40158b71ac",
@@ -36,6 +36,66 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Cook+Systems&job=9e4c7495-c765-4374-a25c-7ca493642d2b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/cooksys/jobs/5386869008"
+    },
+    {
+      "id": "356ea4cb-7be2-40ca-a25a-dce9b2b18789",
+      "company": "Dark Wolf Solutions",
+      "title": "Junior Data Engineer",
+      "location": "Chantilly, VA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-18",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Dark+Wolf+Solutions&job=356ea4cb-7be2-40ca-a25a-dce9b2b18789&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886212003"
+    },
+    {
+      "id": "afc69f25-5f91-471d-875e-e2b3a9cfb972",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Marlborough, MA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-18",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=afc69f25-5f91-471d-875e-e2b3a9cfb972&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I--Onsite-_01867811"
+    },
+    {
+      "id": "927679ce-09fc-4ca3-8097-c1836c9cc73e",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Jupiter, FL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-18",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=927679ce-09fc-4ca3-8097-c1836c9cc73e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Software-Engineer-I--Onsite-_01865374"
+    },
+    {
+      "id": "8ab05158-a45c-452e-bafa-d9018cccdf2b",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Aurora, CO",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-18",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=8ab05158-a45c-452e-bafa-d9018cccdf2b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineer-I--Onsite-_01867905"
+    },
+    {
+      "id": "2dbc6e32-dd67-4dd9-a344-4b79e3577523",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Windsor Locks, CT",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-18",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=2dbc6e32-dd67-4dd9-a344-4b79e3577523&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Software-Engineer-I--Onsite-_01866057"
     },
     {
       "id": "6e93fdd4-65cc-4999-b014-fad9d59fd0e6",
@@ -2009,18 +2069,6 @@
       "age": "26d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=408d5992-08a8-4519-9ee2-b5a7ae96dbc9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01844595"
-    },
-    {
-      "id": "10f7b2fb-f10f-4560-bdbc-0315c967e20f",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Marlborough, MA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-23",
-      "age": "26d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=10f7b2fb-f10f-4560-bdbc-0315c967e20f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01861525"
     },
     {
       "id": "04f0f0fc-5c62-4b6c-9826-ed24c37bcf95",
