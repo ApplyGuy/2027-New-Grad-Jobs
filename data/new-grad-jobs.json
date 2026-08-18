@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-18T16:46:35.156Z",
+  "updatedAt": "2026-08-18T17:01:00.676Z",
   "jobs": [
+    {
+      "id": "cea0bfe3-53db-45f6-99b5-1e40158b71ac",
+      "company": "AeroVironment",
+      "title": "Software Engineer I-1",
+      "location": "Sunrise, FL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-18",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=AeroVironment&job=cea0bfe3-53db-45f6-99b5-1e40158b71ac&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://avav.wd1.myworkdayjobs.com/avav/job/Sunrise-FL/Software-Engineer-I-1_8366"
+    },
     {
       "id": "9e4c7495-c765-4374-a25c-7ca493642d2b",
       "company": "Cook Systems",
