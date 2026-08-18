@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T05:30:58.501Z",
+  "updatedAt": "2026-08-18T05:46:27.503Z",
   "jobs": [
     {
       "id": "9e4c7495-c765-4374-a25c-7ca493642d2b",
@@ -108,18 +108,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=STR&job=9833d8ff-761a-4348-b501-4962c10b0456&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4705344006"
-    },
-    {
-      "id": "64901d3c-e95f-49d4-861e-b1f5335cb637",
-      "company": "U.S. Bank",
-      "title": "Software Engineer 1- (Full Stack Developer)",
-      "location": "Atlanta, GA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-17",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=U.S.+Bank&job=64901d3c-e95f-49d4-861e-b1f5335cb637&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Atlanta-GA/Software-Engineer-1---Full-Stack-Developer-_2026-0022352"
     },
     {
       "id": "7aba27b6-d0c6-4bdb-b6d7-d9bd20369903",
@@ -506,6 +494,19 @@
       "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/Machine-Learning-Engineer--AI-Inference-Solutions--University-Grad-_JR-202610103"
     },
     {
+      "id": "custom:microsoft:ed995bbd690b14d9285a",
+      "company": "Microsoft",
+      "title": "Software Engineer",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-13",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556960468",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556960468",
+      "applySupported": false
+    },
+    {
       "id": "93ea3b5d-90ba-4632-932c-4f87ba72bfe2",
       "company": "RTX",
       "title": "Software Engineer I (Hybrid - Aguadilla, PR)",
@@ -792,18 +793,6 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=b41323eb-23c1-4fbc-9328-da16f2485523&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Embedded-Software-Engineer-I--Onsite-_01866161-1"
-    },
-    {
-      "id": "bcaeb723-966f-4737-90fd-e82a70578148",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Fulton, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-11",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=bcaeb723-966f-4737-90fd-e82a70578148&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Software-Engineer-I--Onsite-_01865828"
     },
     {
       "id": "ca5f112a-ff29-46aa-b7b4-04c06fee3ba6",
@@ -1177,6 +1166,19 @@
       "age": "11d",
       "url": "https://applyguy.ai/jobs?company=Jci&job=a718502a-160b-40d5-aa4c-81d75129ef04&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jci.wd5.myworkdayjobs.com/jci/job/New-Freedom-Pennsylvania-United-States-of-America/Embedded-Software-Engineer-I---Product-Development_WD30272369"
+    },
+    {
+      "id": "custom:microsoft:d021de3d39fd02480f33",
+      "company": "Microsoft",
+      "title": "Software Engineering - CTJ - Poly",
+      "location": "Redmond, WA · Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-07",
+      "age": "11d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+      "applySupported": false
     },
     {
       "id": "a0acf9f7-cb61-4956-a59d-ea9c7940e70a",
