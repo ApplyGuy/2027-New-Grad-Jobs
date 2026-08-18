@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T17:45:53.271Z",
+  "updatedAt": "2026-08-18T18:01:12.108Z",
   "jobs": [
     {
       "id": "cea0bfe3-53db-45f6-99b5-1e40158b71ac",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Cook+Systems&job=9e4c7495-c765-4374-a25c-7ca493642d2b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/cooksys/jobs/5386869008"
+    },
+    {
+      "id": "3af4c944-020a-4bc5-8e04-184c89ba0b6d",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "West Valley City, UT",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-18",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=3af4c944-020a-4bc5-8e04-184c89ba0b6d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineer-I--Onsite-_01866533"
     },
     {
       "id": "7142fdfe-7055-442c-8a4f-1e0f7775c562",
@@ -144,6 +156,19 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Usan&job=7aba27b6-d0c6-4bdb-b6d7-d9bd20369903&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://usan.bamboohr.com/careers/200"
+    },
+    {
+      "id": "custom:amazon:8dac7b7753315479f633",
+      "company": "Amazon",
+      "title": "Software Engineer I, Payments",
+      "location": "San Francisco, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-14",
+      "age": "4d",
+      "url": "https://www.amazon.jobs/en/jobs/10502486/software-engineer-i-payments",
+      "listingUrl": "https://www.amazon.jobs/en/jobs/10502486/software-engineer-i-payments",
+      "applySupported": false
     },
     {
       "id": "4e9581e3-cbf2-4caa-bbb2-b96048d02f06",
