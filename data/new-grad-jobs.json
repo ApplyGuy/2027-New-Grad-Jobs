@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T00:00:33.841Z",
+  "updatedAt": "2026-08-18T00:15:53.797Z",
   "jobs": [
     {
       "id": "b7a5389c-99e1-4a57-821e-16e7d862e8c5",
@@ -38,6 +38,18 @@
       "listingUrl": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Product-Software-Engineer-I_10157015"
     },
     {
+      "id": "5d34e1da-8e2b-4002-a79b-f30ec9d801a1",
+      "company": "Fhcsd",
+      "title": "QA Software Engineer I",
+      "location": "HITEC Center - San Diego, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-17",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Fhcsd&job=5d34e1da-8e2b-4002-a79b-f30ec9d801a1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://fhcsd.wd1.myworkdayjobs.com/main/job/HITEC-Center---San-Diego-CA/QA-Software-Engineer-I_R0022801"
+    },
+    {
       "id": "d366a11f-0781-4893-82d6-19570f31138b",
       "company": "STR",
       "title": "Associate Software Engineer",
@@ -72,6 +84,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=U.S.+Bank&job=64901d3c-e95f-49d4-861e-b1f5335cb637&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Atlanta-GA/Software-Engineer-1---Full-Stack-Developer-_2026-0022352"
+    },
+    {
+      "id": "7aba27b6-d0c6-4bdb-b6d7-d9bd20369903",
+      "company": "Usan",
+      "title": "Entry Level Software Engineer - Hybrid - Norcross, GA",
+      "location": "Norcross, GA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-17",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Usan&job=7aba27b6-d0c6-4bdb-b6d7-d9bd20369903&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://usan.bamboohr.com/careers/200"
     },
     {
       "id": "4e9581e3-cbf2-4caa-bbb2-b96048d02f06",
@@ -444,6 +468,19 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Generalmotors&job=26e9b0cb-ea8d-47b4-92b4-0ced65ee17c8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/Machine-Learning-Engineer--AI-Inference-Solutions--University-Grad-_JR-202610103"
+    },
+    {
+      "id": "custom:microsoft:ed995bbd690b14d9285a",
+      "company": "Microsoft",
+      "title": "Software Engineer",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-13",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556960468",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556960468",
+      "applySupported": false
     },
     {
       "id": "93ea3b5d-90ba-4632-932c-4f87ba72bfe2",
@@ -1131,6 +1168,19 @@
       "listingUrl": "https://jci.wd5.myworkdayjobs.com/jci/job/New-Freedom-Pennsylvania-United-States-of-America/Embedded-Software-Engineer-I---Product-Development_WD30272369"
     },
     {
+      "id": "custom:microsoft:d021de3d39fd02480f33",
+      "company": "Microsoft",
+      "title": "Software Engineering - CTJ - Poly",
+      "location": "Redmond, WA · Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-07",
+      "age": "11d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+      "applySupported": false
+    },
+    {
       "id": "a0acf9f7-cb61-4956-a59d-ea9c7940e70a",
       "company": "PayIt",
       "title": "Associate Data Engineer",
@@ -1670,18 +1720,6 @@
       "age": "22d",
       "url": "https://applyguy.ai/jobs?company=The+Trade+Desk&job=b572e113-4658-42b8-9891-47402f2df0cf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/thetradedesk/jobs/5196864007"
-    },
-    {
-      "id": "4b7b59bd-d536-45fd-baf4-df1e3f79cd73",
-      "company": "Usan",
-      "title": "Entry Level Software Engineer - Hybrid - Norcross, GA",
-      "location": "Norcross, GA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-07-27",
-      "age": "22d",
-      "url": "https://applyguy.ai/jobs?company=Usan&job=4b7b59bd-d536-45fd-baf4-df1e3f79cd73&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://usan.bamboohr.com/careers/198"
     },
     {
       "id": "ad2d1429-b030-4ac9-b4a4-83ac3fda0545",
