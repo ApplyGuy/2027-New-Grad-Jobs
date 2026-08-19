@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T22:15:42.286Z",
+  "updatedAt": "2026-08-19T22:31:32.386Z",
   "jobs": [
     {
       "id": "5a7ca71d-0a43-40fb-ac75-eb14a2d7b5cb",
@@ -122,6 +122,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=261694dc-59b9-45da-a4f3-4b048e2d345e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01868189"
+    },
+    {
+      "id": "8c12cd26-5e09-4083-a226-bca2e0a490ee",
+      "company": "SpaceX",
+      "title": "New Graduate Engineer, Software (Application Software)",
+      "location": "Hawthorne, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-19",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=SpaceX&job=8c12cd26-5e09-4083-a226-bca2e0a490ee&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://boards.greenhouse.io/spacex/jobs/8730567002?gh_jid=8730567002"
     },
     {
       "id": "58986cd8-3d18-4b54-803a-67e2c0b3a4a3",
