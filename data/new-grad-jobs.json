@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T00:15:39.840Z",
+  "updatedAt": "2026-08-19T00:30:48.731Z",
   "jobs": [
     {
       "id": "cea0bfe3-53db-45f6-99b5-1e40158b71ac",
@@ -48,6 +48,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Dark+Wolf+Solutions&job=356ea4cb-7be2-40ca-a25a-dce9b2b18789&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886212003"
+    },
+    {
+      "id": "40e0d6b3-4285-4ca3-b56a-f8aeebc07253",
+      "company": "Johnson Health Tech Companies",
+      "title": "Software Tester – Entry Level",
+      "location": "Cottage Grove, WI",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-18",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Johnson+Health+Tech+Companies&job=40e0d6b3-4285-4ca3-b56a-f8aeebc07253&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4431115"
     },
     {
       "id": "d9007a83-d60a-4e5e-9d1e-7bbba6779db3",
