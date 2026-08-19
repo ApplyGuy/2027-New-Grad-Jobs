@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-19T17:00:43.512Z",
+  "updatedAt": "2026-08-19T17:16:17.449Z",
   "jobs": [
+    {
+      "id": "5a7ca71d-0a43-40fb-ac75-eb14a2d7b5cb",
+      "company": "AeroVironment",
+      "title": "Software Engineer I-2",
+      "location": "Sunrise, FL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-19",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=AeroVironment&job=5a7ca71d-0a43-40fb-ac75-eb14a2d7b5cb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://avav.wd1.myworkdayjobs.com/avav/job/Sunrise-FL/Software-Engineer-I-2_8367"
+    },
     {
       "id": "b34a29be-b8d3-4f4b-a1ae-cc65a87eff8f",
       "company": "CACI",
