@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T16:31:01.892Z",
+  "updatedAt": "2026-08-19T16:45:35.827Z",
   "jobs": [
     {
       "id": "b34a29be-b8d3-4f4b-a1ae-cc65a87eff8f",
@@ -36,6 +36,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=SpaceX&job=58986cd8-3d18-4b54-803a-67e2c0b3a4a3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boards.greenhouse.io/spacex/jobs/8729121002?gh_jid=8729121002"
+    },
+    {
+      "id": "401b32c4-a494-4ea6-af38-695971dca0ae",
+      "company": "Volaris Group",
+      "title": "Jr. Software Engineer",
+      "location": "Warner Robins, GA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-19",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Volaris+Group&job=401b32c4-a494-4ea6-af38-695971dca0ae&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://volarisgroup.wd3.myworkdayjobs.com/silvervine/job/United-States---Warner-Robins-GA/Jr-Software-Engineer_R70583"
     },
     {
       "id": "cea0bfe3-53db-45f6-99b5-1e40158b71ac",
