@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T02:00:54.206Z",
+  "updatedAt": "2026-08-19T02:16:18.209Z",
   "jobs": [
     {
       "id": "cea0bfe3-53db-45f6-99b5-1e40158b71ac",
@@ -12,18 +12,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=AeroVironment&job=cea0bfe3-53db-45f6-99b5-1e40158b71ac&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://avav.wd1.myworkdayjobs.com/avav/job/Sunrise-FL/Software-Engineer-I-1_8366"
-    },
-    {
-      "id": "0b037d65-3878-4164-9f4b-c49bc1406e9c",
-      "company": "Cae",
-      "title": "Associate Software Engineer",
-      "location": "Binghamton, NY",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-18",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Cae&job=0b037d65-3878-4164-9f4b-c49bc1406e9c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://cae.wd3.myworkdayjobs.com/career/job/Binghamton-NY/Associate-Software-Engineer_123243"
     },
     {
       "id": "9e4c7495-c765-4374-a25c-7ca493642d2b",
@@ -218,18 +206,6 @@
       "listingUrl": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Product-Software-Engineer-I_10157015"
     },
     {
-      "id": "5d34e1da-8e2b-4002-a79b-f30ec9d801a1",
-      "company": "Fhcsd",
-      "title": "QA Software Engineer I",
-      "location": "HITEC Center - San Diego, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-17",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=Fhcsd&job=5d34e1da-8e2b-4002-a79b-f30ec9d801a1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://fhcsd.wd1.myworkdayjobs.com/main/job/HITEC-Center---San-Diego-CA/QA-Software-Engineer-I_R0022801"
-    },
-    {
       "id": "9b365792-5318-48d4-9d3f-ed48dbe78aa5",
       "company": "Leidos",
       "title": "Junior Software Engineer",
@@ -421,18 +397,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Notion&job=b72b65fa-0517-4150-9c04-7b653e630a59&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816"
-    },
-    {
-      "id": "f5b64472-e47c-43c1-980d-a35770afd531",
-      "company": "NVIDIA",
-      "title": "Software Engineer, Deep Learning Libraries - New College Graduate 2026",
-      "location": "Santa Clara, CA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-14",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=f5b64472-e47c-43c1-980d-a35770afd531&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Deep-Learning-Libraries---New-College-Graduate-2026_JR2023252"
     },
     {
       "id": "c2468b1b-67cd-4f3f-bb61-366a21556972",
@@ -1216,18 +1180,6 @@
       "listingUrl": "https://jobs.lever.co/weride/5cde0d09-ba2d-408d-947e-4a42028cd4f7"
     },
     {
-      "id": "93a80e62-e47d-4244-abcd-054887fbfe4a",
-      "company": "Leidos",
-      "title": "Junior Software Engineer",
-      "location": "Bowie, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-09",
-      "age": "10d",
-      "url": "https://applyguy.ai/jobs?company=Leidos&job=93a80e62-e47d-4244-abcd-054887fbfe4a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Bowie-MD/Junior-Software-Engineer_R-00189125"
-    },
-    {
       "id": "d7ffed8f-429c-474b-9827-225b9d5d674d",
       "company": "Ace IT Careers",
       "title": "QA Software Tester - Entry Level",
@@ -1250,18 +1202,6 @@
       "age": "12d",
       "url": "https://applyguy.ai/jobs?company=Boeing&job=fc197551-14ac-4102-92e2-e8a865cb3dcb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/Entry-Level-or-Associate-Software-Safety-Engineer_JR2026520085"
-    },
-    {
-      "id": "2c220f31-48e3-44e8-a645-0b3ae9fc1aad",
-      "company": "CACI",
-      "title": "Software Support Engineer - Early Career - Cloud",
-      "location": "Hanover MD",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-07",
-      "age": "12d",
-      "url": "https://applyguy.ai/jobs?company=CACI&job=2c220f31-48e3-44e8-a645-0b3ae9fc1aad&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Hanover-MD-US/Cloud-Software-and-Support-Engineer---Early-Career_329648"
     },
     {
       "id": "e83ca55d-9a1e-43f5-bf02-f4c9bc8d6812",
