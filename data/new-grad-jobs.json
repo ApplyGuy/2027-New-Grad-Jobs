@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-19T12:46:13.072Z",
+  "updatedAt": "2026-08-19T13:01:07.553Z",
   "jobs": [
+    {
+      "id": "261694dc-59b9-45da-a4f3-4b048e2d345e",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Tucson, AZ",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-19",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=261694dc-59b9-45da-a4f3-4b048e2d345e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01868189"
+    },
     {
       "id": "58986cd8-3d18-4b54-803a-67e2c0b3a4a3",
       "company": "SpaceX",
@@ -423,18 +435,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Software-Engineer-I--Onsite-_01867438"
     },
     {
-      "id": "382195a8-b160-43f5-8451-fc590b71589a",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Tucson, AZ",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-14",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=382195a8-b160-43f5-8451-fc590b71589a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01866775"
-    },
-    {
       "id": "2cf94ec2-3b78-4ded-822a-33ceb3d42145",
       "company": "RTX",
       "title": "Software Engineer I (Onsite)",
@@ -625,6 +625,19 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Generalmotors&job=26e9b0cb-ea8d-47b4-92b4-0ced65ee17c8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/Machine-Learning-Engineer--AI-Inference-Solutions--University-Grad-_JR-202610103"
+    },
+    {
+      "id": "custom:microsoft:ed995bbd690b14d9285a",
+      "company": "Microsoft",
+      "title": "Software Engineer",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-13",
+      "age": "6d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556960468",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556960468",
+      "applySupported": false
     },
     {
       "id": "93ea3b5d-90ba-4632-932c-4f87ba72bfe2",
@@ -1262,6 +1275,19 @@
       "age": "12d",
       "url": "https://applyguy.ai/jobs?company=Jci&job=a718502a-160b-40d5-aa4c-81d75129ef04&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jci.wd5.myworkdayjobs.com/jci/job/New-Freedom-Pennsylvania-United-States-of-America/Embedded-Software-Engineer-I---Product-Development_WD30272369"
+    },
+    {
+      "id": "custom:microsoft:d021de3d39fd02480f33",
+      "company": "Microsoft",
+      "title": "Software Engineering - CTJ - Poly",
+      "location": "Redmond, WA · Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-07",
+      "age": "12d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+      "applySupported": false
     },
     {
       "id": "a0acf9f7-cb61-4956-a59d-ea9c7940e70a",
