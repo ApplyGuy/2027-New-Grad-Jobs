@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-19T10:01:06.283Z",
+  "updatedAt": "2026-08-19T10:15:53.741Z",
   "jobs": [
+    {
+      "id": "58986cd8-3d18-4b54-803a-67e2c0b3a4a3",
+      "company": "SpaceX",
+      "title": "New Graduate Engineer, Software (Starship)",
+      "location": "Starbase, TX",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-19",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=SpaceX&job=58986cd8-3d18-4b54-803a-67e2c0b3a4a3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://boards.greenhouse.io/spacex/jobs/8729121002?gh_jid=8729121002"
+    },
     {
       "id": "cea0bfe3-53db-45f6-99b5-1e40158b71ac",
       "company": "AeroVironment",
@@ -613,19 +625,6 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Generalmotors&job=26e9b0cb-ea8d-47b4-92b4-0ced65ee17c8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/Machine-Learning-Engineer--AI-Inference-Solutions--University-Grad-_JR-202610103"
-    },
-    {
-      "id": "custom:microsoft:ed995bbd690b14d9285a",
-      "company": "Microsoft",
-      "title": "Software Engineer",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-13",
-      "age": "6d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556960468",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556960468",
-      "applySupported": false
     },
     {
       "id": "93ea3b5d-90ba-4632-932c-4f87ba72bfe2",
@@ -1263,19 +1262,6 @@
       "age": "12d",
       "url": "https://applyguy.ai/jobs?company=Jci&job=a718502a-160b-40d5-aa4c-81d75129ef04&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jci.wd5.myworkdayjobs.com/jci/job/New-Freedom-Pennsylvania-United-States-of-America/Embedded-Software-Engineer-I---Product-Development_WD30272369"
-    },
-    {
-      "id": "custom:microsoft:d021de3d39fd02480f33",
-      "company": "Microsoft",
-      "title": "Software Engineering - CTJ - Poly",
-      "location": "Redmond, WA · Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-07",
-      "age": "12d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
-      "applySupported": false
     },
     {
       "id": "a0acf9f7-cb61-4956-a59d-ea9c7940e70a",
