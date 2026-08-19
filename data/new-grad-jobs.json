@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T21:16:30.951Z",
+  "updatedAt": "2026-08-19T21:30:52.541Z",
   "jobs": [
     {
       "id": "5a7ca71d-0a43-40fb-ac75-eb14a2d7b5cb",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=AeroVironment&job=5a7ca71d-0a43-40fb-ac75-eb14a2d7b5cb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://avav.wd1.myworkdayjobs.com/avav/job/Sunrise-FL/Software-Engineer-I-2_8367"
+    },
+    {
+      "id": "be3b3bed-964d-4027-97ea-f6d58168fb94",
+      "company": "Bitdeer Technologies Group",
+      "title": "SRE Platform Software Engineer (Early Career / Temporary)",
+      "location": "Remote, U.S.",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-19",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Bitdeer+Technologies+Group&job=be3b3bed-964d-4027-97ea-f6d58168fb94&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://bitdeer.breezy.hr/p/ed6314823d0c-sre-platform-software-engineer-early-career-temporary"
     },
     {
       "id": "b34a29be-b8d3-4f4b-a1ae-cc65a87eff8f",
