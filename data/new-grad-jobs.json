@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T02:30:50.846Z",
+  "updatedAt": "2026-08-19T02:45:41.396Z",
   "jobs": [
     {
       "id": "cea0bfe3-53db-45f6-99b5-1e40158b71ac",
@@ -12,18 +12,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=AeroVironment&job=cea0bfe3-53db-45f6-99b5-1e40158b71ac&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://avav.wd1.myworkdayjobs.com/avav/job/Sunrise-FL/Software-Engineer-I-1_8366"
-    },
-    {
-      "id": "9e4c7495-c765-4374-a25c-7ca493642d2b",
-      "company": "Cook Systems",
-      "title": "Entry-Level Software Developer",
-      "location": "Nashville, TN",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-18",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Cook+Systems&job=9e4c7495-c765-4374-a25c-7ca493642d2b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/cooksys/jobs/5386869008"
     },
     {
       "id": "356ea4cb-7be2-40ca-a25a-dce9b2b18789",
