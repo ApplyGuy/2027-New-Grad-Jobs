@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T22:01:12.118Z",
+  "updatedAt": "2026-08-19T22:15:42.286Z",
   "jobs": [
     {
       "id": "5a7ca71d-0a43-40fb-ac75-eb14a2d7b5cb",
@@ -36,6 +36,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=CACI&job=b34a29be-b8d3-4f4b-a1ae-cc65a87eff8f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/King-of-Prussia-PA-US/Associate-Software-Engineer_330249"
+    },
+    {
+      "id": "a45db522-b15a-42df-a5a0-4f0ec3af0931",
+      "company": "Disney",
+      "title": "Software Engineer I",
+      "location": "Glendale, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-19",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Disney&job=a45db522-b15a-42df-a5a0-4f0ec3af0931&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Software-Engineer-I_10158076"
     },
     {
       "id": "bd64bc48-0cba-4265-a7c5-041ddc2355cc",
@@ -316,18 +328,6 @@
       "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Hanover-MD-US/Software-Engineer---Early-Career---Cloud_330679"
     },
     {
-      "id": "5ae37b12-b152-4713-96a6-a8003f3eadc9",
-      "company": "Disney",
-      "title": "Software Engineer I",
-      "location": "Glendale CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-17",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=Disney&job=5ae37b12-b152-4713-96a6-a8003f3eadc9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Software-Engineer-I_10157423"
-    },
-    {
       "id": "a4f33086-4971-420a-8235-700ed4193a4d",
       "company": "Disney",
       "title": "Product Software Engineer I",
@@ -367,7 +367,7 @@
       "id": "9833d8ff-761a-4348-b501-4962c10b0456",
       "company": "STR",
       "title": "Associate Software Engineer",
-      "location": "Woburn, MA",
+      "location": "Arlington, VA",
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-17",
