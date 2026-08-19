@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T20:00:38.133Z",
+  "updatedAt": "2026-08-19T20:15:51.818Z",
   "jobs": [
     {
       "id": "5a7ca71d-0a43-40fb-ac75-eb14a2d7b5cb",
@@ -24,6 +24,19 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=CACI&job=b34a29be-b8d3-4f4b-a1ae-cc65a87eff8f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/King-of-Prussia-PA-US/Associate-Software-Engineer_330249"
+    },
+    {
+      "id": "custom:microsoft:698bf1cfd0197fa8f311",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-19",
+      "age": "Today",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "applySupported": false
     },
     {
       "id": "custom:microsoft:6b64606a1fd63afbb43a",
@@ -85,6 +98,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Volaris+Group&job=401b32c4-a494-4ea6-af38-695971dca0ae&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://volarisgroup.wd3.myworkdayjobs.com/silvervine/job/United-States---Warner-Robins-GA/Jr-Software-Engineer_R70583"
+    },
+    {
+      "id": "954c593e-cc65-4bc0-9d56-e43264d06932",
+      "company": "Worth Finance Corporation",
+      "title": "Software QA Tester - Entry Level",
+      "location": "Austin, TX",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-19",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Worth+Finance+Corporation&job=954c593e-cc65-4bc0-9d56-e43264d06932&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.workable.com/view/tQq87azczgHvziCjULk6Dt/software-qa-tester---entry-level-in-austin-at-worth-finance-corporation"
     },
     {
       "id": "cea0bfe3-53db-45f6-99b5-1e40158b71ac",
