@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T21:00:46.349Z",
+  "updatedAt": "2026-08-19T21:16:30.951Z",
   "jobs": [
     {
       "id": "5a7ca71d-0a43-40fb-ac75-eb14a2d7b5cb",
@@ -36,6 +36,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=JND&job=bd64bc48-0cba-4265-a7c5-041ddc2355cc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jnd-inc.breezy.hr/p/87fd346a82c7-entry-level-software-tester-2608-2"
+    },
+    {
+      "id": "c7f21bfe-5cf4-4296-9064-c43548f26e3e",
+      "company": "Lnw",
+      "title": "Associate Software Engineer",
+      "location": "Reno, NV",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-19",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Lnw&job=c7f21bfe-5cf4-4296-9064-c43548f26e3e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Associate-Software-Engineer_R322683"
     },
     {
       "id": "custom:microsoft:698bf1cfd0197fa8f311",
