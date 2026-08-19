@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T17:45:51.451Z",
+  "updatedAt": "2026-08-19T18:01:16.484Z",
   "jobs": [
     {
       "id": "5a7ca71d-0a43-40fb-ac75-eb14a2d7b5cb",
@@ -24,6 +24,19 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=CACI&job=b34a29be-b8d3-4f4b-a1ae-cc65a87eff8f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/King-of-Prussia-PA-US/Associate-Software-Engineer_330249"
+    },
+    {
+      "id": "custom:microsoft:6b64606a1fd63afbb43a",
+      "company": "Microsoft",
+      "title": "Software Engineer",
+      "location": "US",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-19",
+      "age": "Today",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556928331",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556928331",
+      "applySupported": false
     },
     {
       "id": "261694dc-59b9-45da-a4f3-4b048e2d345e",
