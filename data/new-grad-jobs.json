@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T04:00:41.527Z",
+  "updatedAt": "2026-08-20T04:16:19.468Z",
   "jobs": [
     {
       "id": "4e646993-5eda-4baf-a943-0fec9dafef7f",
@@ -3309,42 +3309,6 @@
       "age": "44d",
       "url": "https://applyguy.ai/jobs?company=SimpliSafe&job=a901ef55-9ea4-4480-934d-e4f60f8107ff&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/simplisafe/jobs/8049515"
-    },
-    {
-      "id": "ac1a5d12-5d5b-48a3-bc8a-3dc996a0a198",
-      "company": "SimpliSafe",
-      "title": "Software Engineer I - Video Platform",
-      "location": "Boston, MA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-07",
-      "age": "44d",
-      "url": "https://applyguy.ai/jobs?company=SimpliSafe&job=ac1a5d12-5d5b-48a3-bc8a-3dc996a0a198&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/simplisafe/jobs/8049510"
-    },
-    {
-      "id": "150dcdff-fec3-4fa1-a99b-ed37ee71c608",
-      "company": "StubHub",
-      "title": "Software Engineer I - Core Platform - Streaming & Storage",
-      "location": "New York City, NY",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-07",
-      "age": "44d",
-      "url": "https://applyguy.ai/jobs?company=StubHub&job=150dcdff-fec3-4fa1-a99b-ed37ee71c608&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4906492101"
-    },
-    {
-      "id": "ae623039-27e9-4b40-a565-2bd31176023f",
-      "company": "StubHub",
-      "title": "Software Engineer I - Core Compute Platform",
-      "location": "New York City, NY",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-07",
-      "age": "44d",
-      "url": "https://applyguy.ai/jobs?company=StubHub&job=ae623039-27e9-4b40-a565-2bd31176023f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4921819101"
     },
     {
       "id": "f6ac0626-f368-461e-9e85-704b339d5658",
