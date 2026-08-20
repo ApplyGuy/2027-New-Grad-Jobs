@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T03:16:04.641Z",
+  "updatedAt": "2026-08-20T03:30:33.508Z",
   "jobs": [
     {
       "id": "5a7ca71d-0a43-40fb-ac75-eb14a2d7b5cb",
@@ -48,6 +48,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Disney&job=a45db522-b15a-42df-a5a0-4f0ec3af0931&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Software-Engineer-I_10158076"
+    },
+    {
+      "id": "159941a8-8b9e-471d-8f95-06bc469156b1",
+      "company": "Freeform",
+      "title": "Software Engineer (New Grad Summer 2027)",
+      "location": "Los Angeles, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-19",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Freeform&job=159941a8-8b9e-471d-8f95-06bc469156b1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003"
     },
     {
       "id": "80dd6e8b-c02e-4903-ac25-0e3cece7694a",
