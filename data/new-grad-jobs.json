@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T22:00:37.579Z",
+  "updatedAt": "2026-08-20T22:16:21.494Z",
   "jobs": [
     {
       "id": "dc0399ce-23c6-4d75-8328-ff1ff317cee0",
@@ -48,6 +48,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Modmed&job=afd44a4d-902f-43e8-b1f3-ec6c7e7ff3a7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://modmed.wd501.myworkdayjobs.com/modmed12/job/Boca-Raton-FL/Software-Engineer-1_R4917"
+    },
+    {
+      "id": "1143c629-67ab-4163-8856-9c1e4c507c4b",
+      "company": "Momentive",
+      "title": "Associate Data Engineer",
+      "location": "Niskayuna, NY",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-20",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Momentive&job=1143c629-67ab-4163-8856-9c1e4c507c4b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Associate-Data-Engineer_R9821"
     },
     {
       "id": "2058bdcc-252f-4885-a0f9-df029c6b2544",
