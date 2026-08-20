@@ -1,6 +1,6 @@
 # 2027 New Grad Software Engineering Jobs
 
-[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-308-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
+[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-309-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
 
 A continuously verified list of **2027 New Grad software engineering jobs**, **entry-level software engineer jobs**, and early-career developer roles in the United States. Listings come directly from employer career pages and are maintained by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs).
 
@@ -10,9 +10,9 @@ A continuously verified list of **2027 New Grad software engineering jobs**, **e
 
 🎒 **Looking for internships?** Browse [2027 SWE & Product Internships →](https://github.com/ApplyGuy/2027-Internships)
 
-- **308** active U.S. software roles posted within the last **60 days**
+- **309** active U.S. software roles posted within the last **60 days**
 - **85** explicitly labeled New Grad / university graduate / early career
-- Last refresh: **Aug 19, 2026, 11:01 PM PDT**
+- Last refresh: **Aug 19, 2026, 11:15 PM PDT**
 - Machine-readable feed: [data/new-grad-jobs.json](data/new-grad-jobs.json)
 
 Listings with the orange **Apply Guy** button support one-click apply through [Apply Guy](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs). Blue **View** buttons open the employer's career site directly.
@@ -21,6 +21,7 @@ Listings with the orange **Apply Guy** button support one-click apply through [A
 
 | Company | Role | Location | Posted | Actions |
 |---|---|---|---:|---|
+| Crusoe | Software Engineer I, Network | San Francisco, CA | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Crusoe&job=dc0399ce-23c6-4d75-8328-ff1ff317cee0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed) |
 | Kikoff | Software Engineer - Recent Grad | San Francisco, CA | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Kikoff&job=4e646993-5eda-4baf-a943-0fec9dafef7f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/kikoff/jobs/4376677009) |
 | AeroVironment | Software Engineer I-2 | Sunrise, FL | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=AeroVironment&job=5a7ca71d-0a43-40fb-ac75-eb14a2d7b5cb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://avav.wd1.myworkdayjobs.com/avav/job/Sunrise-FL/Software-Engineer-I-2_8367) |
 | Bitdeer Technologies Group | SRE Platform Software Engineer (Early Career / Temporary) | Remote, U.S. | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Bitdeer+Technologies+Group&job=be3b3bed-964d-4027-97ea-f6d58168fb94&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://bitdeer.breezy.hr/p/ed6314823d0c-sre-platform-software-engineer-early-career-temporary) |
