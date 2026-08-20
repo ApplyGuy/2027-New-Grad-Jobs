@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T02:00:51.988Z",
+  "updatedAt": "2026-08-20T02:16:45.263Z",
   "jobs": [
     {
       "id": "5a7ca71d-0a43-40fb-ac75-eb14a2d7b5cb",
@@ -340,18 +340,6 @@
       "listingUrl": "https://snapfinance.wd1.myworkdayjobs.com/snap_external_careers/job/Arizona/Software-Engineer-I_R-2796"
     },
     {
-      "id": "b7a5389c-99e1-4a57-821e-16e7d862e8c5",
-      "company": "CACI",
-      "title": "Early Career NASA Space Reactor – 1 Freedom Flight Software Development Engineer",
-      "location": "Houston, TX",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-17",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=CACI&job=b7a5389c-99e1-4a57-821e-16e7d862e8c5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Houston-TX-US/Early-Career-NASA-Space-Reactor---1-Freedom-Flight-Software-Development-Engineer_330677"
-    },
-    {
       "id": "0d17efee-c4f5-46fb-b43b-132911ca54db",
       "company": "CACI",
       "title": "Software Engineer - Early Career - Cloud",
@@ -374,18 +362,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Disney&job=a4f33086-4971-420a-8235-700ed4193a4d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Product-Software-Engineer-I_10157015"
-    },
-    {
-      "id": "9b365792-5318-48d4-9d3f-ed48dbe78aa5",
-      "company": "Leidos",
-      "title": "Junior Software Engineer",
-      "location": "Huntsville, AL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-17",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=Leidos&job=9b365792-5318-48d4-9d3f-ed48dbe78aa5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Huntsville-AL/Junior-Software-Engineer_R-00189781"
     },
     {
       "id": "d366a11f-0781-4893-82d6-19570f31138b",
@@ -725,18 +701,6 @@
       "listingUrl": "https://ucar.wd5.myworkdayjobs.com/ucar_careers/job/Boulder-CO/CESM-Software-Engineer-I_REQ-2026-117-1"
     },
     {
-      "id": "2b5af97c-19ac-4c65-8b6b-68f14fdbf40f",
-      "company": "Boeing",
-      "title": "Embedded Software Engineer - Entry-Level",
-      "location": "Multiple U.S. locations",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-13",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=Boeing&job=2b5af97c-19ac-4c65-8b6b-68f14fdbf40f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Embedded-Software-Engineer---Entry-Level_JR2026522089-1"
-    },
-    {
       "id": "b10414aa-cd99-4db4-90a4-bff05545a58d",
       "company": "Esri",
       "title": "Software Development Engineer I",
@@ -858,18 +822,6 @@
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4415195"
     },
     {
-      "id": "7848c1b3-2563-4cde-a685-37923e8cf07f",
-      "company": "Disney",
-      "title": "Product Software Engineer I",
-      "location": "Glendale, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-12",
-      "age": "8d",
-      "url": "https://applyguy.ai/jobs?company=Disney&job=7848c1b3-2563-4cde-a685-37923e8cf07f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Product-Software-Engineer-I_10151599"
-    },
-    {
       "id": "c4656b86-d950-4d6a-bb5f-dfa3b1f9721d",
       "company": "General Matter",
       "title": "Software Engineer (New Grad)",
@@ -880,6 +832,18 @@
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=General+Matter&job=c4656b86-d950-4d6a-bb5f-dfa3b1f9721d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/generalmatter/jobs/5375987008"
+    },
+    {
+      "id": "c66842f1-2012-44cd-9d6b-f9c27f6600d9",
+      "company": "Leidos",
+      "title": "Junior Software Engineer",
+      "location": "Huntsville, AL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-12",
+      "age": "8d",
+      "url": "https://applyguy.ai/jobs?company=Leidos&job=c66842f1-2012-44cd-9d6b-f9c27f6600d9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Huntsville-AL/Junior-Software-Engineer_R-00189408"
     },
     {
       "id": "99df2fc7-2911-4cc6-8a8f-ff3412e3da95",
@@ -1156,18 +1120,6 @@
       "age": "10d",
       "url": "https://applyguy.ai/jobs?company=Captivation+Software&job=25e1047d-f966-41d5-8fb5-9c56b6cb8171&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/captivation/jobs/5385108008"
-    },
-    {
-      "id": "dbcd2b65-1957-4d44-b29d-c3a6c552f3c6",
-      "company": "Cox",
-      "title": "Entry Level Software Engineer Carmel, IN",
-      "location": "Carmel, IN",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-10",
-      "age": "10d",
-      "url": "https://applyguy.ai/jobs?company=Cox&job=dbcd2b65-1957-4d44-b29d-c3a6c552f3c6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Carmel-IN/Entry-Level-Software-Engineer-Carmel--IN_R202680859"
     },
     {
       "id": "c1f886b8-7801-4c1c-bfe8-dd085abd81ed",
@@ -1734,18 +1686,6 @@
       "age": "16d",
       "url": "https://applyguy.ai/jobs?company=Belvedere+Trading&job=18f6f6cf-af8d-49a7-b987-1dc4711e7599&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f"
-    },
-    {
-      "id": "988baaa9-fac7-42f8-b8b4-e93ec124d862",
-      "company": "Cox",
-      "title": "Entry Level Software Engineer - Atlanta, GA",
-      "location": "Atlanta, GA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-04",
-      "age": "16d",
-      "url": "https://applyguy.ai/jobs?company=Cox&job=988baaa9-fac7-42f8-b8b4-e93ec124d862&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Atlanta-GA/Entry-Level-Software-Engineer---Atlanta--GA_R202680858-1"
     },
     {
       "id": "de05d50f-9382-482f-9bb1-2deacdcc5499",
