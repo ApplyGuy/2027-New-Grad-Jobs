@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-20T06:01:06.425Z",
+  "updatedAt": "2026-08-20T06:15:34.012Z",
   "jobs": [
+    {
+      "id": "dc0399ce-23c6-4d75-8328-ff1ff317cee0",
+      "company": "Crusoe",
+      "title": "Software Engineer I, Network",
+      "location": "San Francisco, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-20",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Crusoe&job=dc0399ce-23c6-4d75-8328-ff1ff317cee0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.ashbyhq.com/crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed"
+    },
     {
       "id": "4e646993-5eda-4baf-a943-0fec9dafef7f",
       "company": "Kikoff",
