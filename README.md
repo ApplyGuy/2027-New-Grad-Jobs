@@ -1,6 +1,6 @@
 # 2027 New Grad Software Engineering Jobs
 
-[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-311-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
+[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-308-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
 
 A continuously verified list of **2027 New Grad software engineering jobs**, **entry-level software engineer jobs**, and early-career developer roles in the United States. Listings come directly from employer career pages and are maintained by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs).
 
@@ -10,9 +10,9 @@ A continuously verified list of **2027 New Grad software engineering jobs**, **e
 
 🎒 **Looking for internships?** Browse [2027 SWE & Product Internships →](https://github.com/ApplyGuy/2027-Internships)
 
-- **311** active U.S. software roles posted within the last **60 days**
+- **308** active U.S. software roles posted within the last **60 days**
 - **85** explicitly labeled New Grad / university graduate / early career
-- Last refresh: **Aug 19, 2026, 9:00 PM PDT**
+- Last refresh: **Aug 19, 2026, 9:16 PM PDT**
 - Machine-readable feed: [data/new-grad-jobs.json](data/new-grad-jobs.json)
 
 Listings with the orange **Apply Guy** button support one-click apply through [Apply Guy](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs). Blue **View** buttons open the employer's career site directly.
@@ -296,9 +296,6 @@ Listings with the orange **Apply Guy** button support one-click apply through [A
 | Reliaquest | Associate Software Engineer | Tampa, FL | 44d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Reliaquest&job=72ca3767-e8b0-4c4c-af0b-8bcab9ea2022&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://reliaquest.wd5.myworkdayjobs.com/reliaquest_careers/job/Tampa-FL/Associate-Software-Engineer_R15047) |
 | RoadRunner Recycling Inc. | Software Engineer I (Full -Stack) | Remote, U.S. | 44d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RoadRunner+Recycling+Inc.&job=bfad72c0-dc28-4aaf-b5f7-8d28f736863f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/roadrunner/jobs/4307451009) |
 | SimpliSafe | Software Engineer I - Device Control | Boston, MA | 44d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=SimpliSafe&job=a901ef55-9ea4-4480-934d-e4f60f8107ff&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/simplisafe/jobs/8049515) |
-| SimpliSafe | Software Engineer I - Video Platform | Boston, MA | 44d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=SimpliSafe&job=ac1a5d12-5d5b-48a3-bc8a-3dc996a0a198&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/simplisafe/jobs/8049510) |
-| StubHub | Software Engineer I - Core Platform - Streaming & Storage | New York City, NY | 44d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=StubHub&job=150dcdff-fec3-4fa1-a99b-ed37ee71c608&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4906492101) |
-| StubHub | Software Engineer I - Core Compute Platform | New York City, NY | 44d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=StubHub&job=ae623039-27e9-4b40-a565-2bd31176023f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4921819101) |
 | Notion | Software Engineer, Early Career | San Francisco, CA | 45d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Notion&job=f6ac0626-f368-461e-9e85-704b339d5658&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f) |
 | Notion | Software Engineer, Early Career (AI) | San Francisco, CA | 45d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Notion&job=593d939f-c5e6-4f65-9ca4-7194028373b6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28) |
 | Waymark | Junior Software Engineer | Remote, U.S. | 45d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Waymark&job=8e13b47f-5222-49b4-9f36-83c4440c11fd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/waymark/jobs/4711827005) |
