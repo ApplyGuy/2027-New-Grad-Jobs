@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T22:16:08.864Z",
+  "updatedAt": "2026-08-21T22:31:17.868Z",
   "jobs": [
     {
       "id": "85bb4a2a-df45-40ff-ada3-87d6fd7b413f",
@@ -182,18 +182,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Kikoff&job=4e646993-5eda-4baf-a943-0fec9dafef7f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/kikoff/jobs/4376677009"
-    },
-    {
-      "id": "1143c629-67ab-4163-8856-9c1e4c507c4b",
-      "company": "Momentive",
-      "title": "Associate Data Engineer",
-      "location": "Niskayuna, NY",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-20",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Momentive&job=1143c629-67ab-4163-8856-9c1e4c507c4b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Associate-Data-Engineer_R9821"
     },
     {
       "id": "3cbc2b10-d9ab-4cc6-9e02-997ae8443a12",
