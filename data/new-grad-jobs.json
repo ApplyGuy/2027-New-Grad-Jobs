@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T21:30:39.407Z",
+  "updatedAt": "2026-08-21T21:46:03.752Z",
   "jobs": [
     {
       "id": "85bb4a2a-df45-40ff-ada3-87d6fd7b413f",
@@ -60,6 +60,19 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=db71e11e-1bb2-4b37-98d9-3374f7c7d2ad&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/St-Louis-MO/Entry-Level-Software-Developer_R-00188494"
+    },
+    {
+      "id": "custom:microsoft:8a2cc77b4b241f96367e",
+      "company": "Microsoft",
+      "title": "Pre-Training",
+      "location": "US",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-21",
+      "age": "Today",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
+      "applySupported": false
     },
     {
       "id": "custom:microsoft:6984f806da11ed694bbe",
@@ -157,18 +170,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Kikoff&job=4e646993-5eda-4baf-a943-0fec9dafef7f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/kikoff/jobs/4376677009"
-    },
-    {
-      "id": "afd44a4d-902f-43e8-b1f3-ec6c7e7ff3a7",
-      "company": "Modmed",
-      "title": "Software Engineer 1",
-      "location": "Boca Raton, FL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-20",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Modmed&job=afd44a4d-902f-43e8-b1f3-ec6c7e7ff3a7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://modmed.wd501.myworkdayjobs.com/modmed12/job/Boca-Raton-FL/Software-Engineer-1_R4917"
     },
     {
       "id": "1143c629-67ab-4163-8856-9c1e4c507c4b",
