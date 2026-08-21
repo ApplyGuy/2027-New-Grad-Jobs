@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-21T02:16:01.380Z",
+  "updatedAt": "2026-08-21T02:31:14.422Z",
   "jobs": [
+    {
+      "id": "3846eea5-c801-46d0-b74d-644d645524a9",
+      "company": "Crowe",
+      "title": "Machine Learning Software Engineer 1",
+      "location": "Chicago IL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-20",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Crowe&job=3846eea5-c801-46d0-b74d-644d645524a9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Machine-Learning-Software-Engineer-1_R-71006"
+    },
     {
       "id": "dc0399ce-23c6-4d75-8328-ff1ff317cee0",
       "company": "Crusoe",
@@ -108,6 +120,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=2058bdcc-252f-4885-a0f9-df029c6b2544&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-FL-MELBOURNE-307--1100-W-Hibiscus-Blvd--BLDG-307/Software-Engineer-I--Onsite-_01866124"
+    },
+    {
+      "id": "7e8145e1-1a41-429d-b1a8-9a6f30ced046",
+      "company": "RTX",
+      "title": "Software Engineer I -  Test Solutions - Onsite",
+      "location": "Tucson, AZ",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-20",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=7e8145e1-1a41-429d-b1a8-9a6f30ced046&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I----Test-Solutions---Onsite_01836492-1"
     },
     {
       "id": "be3b3bed-964d-4027-97ea-f6d58168fb94",
@@ -557,18 +581,6 @@
       "listingUrl": "https://ats.rippling.com/boom-supersonic/jobs/a6ea239b-70a4-4d72-b7d8-3ab1312568dc"
     },
     {
-      "id": "3846eea5-c801-46d0-b74d-644d645524a9",
-      "company": "Crowe",
-      "title": "Machine Learning Software Engineer 1",
-      "location": "Chicago IL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-14",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=Crowe&job=3846eea5-c801-46d0-b74d-644d645524a9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Machine-Learning-Software-Engineer-1_R-71006"
-    },
-    {
       "id": "63c2089b-3d08-4579-a432-7e843f561a69",
       "company": "Endictus Corp",
       "title": "Jr Software Engineer / Software Developer I",
@@ -603,18 +615,6 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Kbr&job=db4c63df-296b-4061-84c9-f7c7c8071a4c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Colorado-Springs-Colorado/Jr-Software-Developer_R2128352"
-    },
-    {
-      "id": "1cd39d77-9800-4d0e-9f0c-7f2a021adff6",
-      "company": "Kbr",
-      "title": "Jr Software Engineer",
-      "location": "Beavercreek, OH",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-14",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=Kbr&job=1cd39d77-9800-4d0e-9f0c-7f2a021adff6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Beavercreek-Ohio/Jr-Software-Engineer_R2126837"
     },
     {
       "id": "135b087d-e634-4e60-8aab-d0987ca6f5af",
@@ -675,18 +675,6 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=2cf94ec2-3b78-4ded-822a-33ceb3d42145&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CT-EAST-HARTFORD-J--400-Main-St--BLDG-J/Software-Engineer-I--Onsite-_01865467"
-    },
-    {
-      "id": "1cd5f716-4191-4355-a907-26f07f5ec150",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "San Jose, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-14",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=1cd5f716-4191-4355-a907-26f07f5ec150&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineer-I--Onsite-_01867385"
     },
     {
       "id": "124d4084-6626-46c5-a788-14ae58247cff",
@@ -855,18 +843,6 @@
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=93ea3b5d-90ba-4632-932c-4f87ba72bfe2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--Hybrid---Aguadilla--PR-_01864890"
-    },
-    {
-      "id": "7e8145e1-1a41-429d-b1a8-9a6f30ced046",
-      "company": "RTX",
-      "title": "Software Engineer I -  Test Solutions - Onsite",
-      "location": "Tucson, AZ",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-13",
-      "age": "8d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=7e8145e1-1a41-429d-b1a8-9a6f30ced046&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I----Test-Solutions---Onsite_01836492-1"
     },
     {
       "id": "56769b8e-e4d5-41c0-99d2-bbb3bc745868",
@@ -1842,18 +1818,6 @@
       "url": "https://www.amazon.jobs/en/jobs/10490741/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
       "listingUrl": "https://www.amazon.jobs/en/jobs/10490741/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
       "applySupported": false
-    },
-    {
-      "id": "e183ddff-7bf4-4a73-b9f8-a83abdb517af",
-      "company": "Dealertire",
-      "title": "Jr. Software Developer (Canton, MI)",
-      "location": "Canton, MI",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-03",
-      "age": "18d",
-      "url": "https://applyguy.ai/jobs?company=Dealertire&job=e183ddff-7bf4-4a73-b9f8-a83abdb517af&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://dealertire.wd5.myworkdayjobs.com/ami/job/AMI-Corporate-Headquarters/Jr-Web-Developer--Canton--MI-_R14031"
     },
     {
       "id": "3a280089-2bd8-494a-b78e-0de5ad399e1d",
