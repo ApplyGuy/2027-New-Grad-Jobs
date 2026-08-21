@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T13:30:38.906Z",
+  "updatedAt": "2026-08-21T13:45:54.200Z",
   "jobs": [
     {
       "id": "b7a5389c-99e1-4a57-821e-16e7d862e8c5",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=CACI&job=b7a5389c-99e1-4a57-821e-16e7d862e8c5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Houston-TX-US/Early-Career-NASA-Space-Reactor---1-Freedom-Flight-Software-Development-Engineer_330677"
+    },
+    {
+      "id": "db71e11e-1bb2-4b37-98d9-3374f7c7d2ad",
+      "company": "Leidos",
+      "title": "Entry-Level Software Developer",
+      "location": "Saint Louis, MO",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-21",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Leidos&job=db71e11e-1bb2-4b37-98d9-3374f7c7d2ad&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/St-Louis-MO/Entry-Level-Software-Developer_R-00188494"
     },
     {
       "id": "3846eea5-c801-46d0-b74d-644d645524a9",
