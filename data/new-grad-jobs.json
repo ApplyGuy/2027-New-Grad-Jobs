@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T03:01:07.250Z",
+  "updatedAt": "2026-08-21T03:16:04.080Z",
   "jobs": [
     {
       "id": "3846eea5-c801-46d0-b74d-644d645524a9",
@@ -84,6 +84,30 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Roberthalf&job=3cbc2b10-d9ab-4cc6-9e02-997ae8443a12&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-261277"
+    },
+    {
+      "id": "f5c636f4-9b34-4caa-bec7-098ff43d5816",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Tucson, AZ",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-20",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=f5c636f4-9b34-4caa-bec7-098ff43d5816&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01868189-1"
+    },
+    {
+      "id": "0f828d0f-14f8-46f0-8dc3-e3518c69c54a",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Aurora, CO",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-20",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=0f828d0f-14f8-46f0-8dc3-e3518c69c54a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineer-I--Onsite-_01868305"
     },
     {
       "id": "419bf2b5-7e25-4840-8c87-d965899c6e39",
@@ -244,18 +268,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I---Onsite-_01868027"
     },
     {
-      "id": "261694dc-59b9-45da-a4f3-4b048e2d345e",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Tucson, AZ",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-19",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=261694dc-59b9-45da-a4f3-4b048e2d345e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01868189"
-    },
-    {
       "id": "8c12cd26-5e09-4083-a226-bca2e0a490ee",
       "company": "SpaceX",
       "title": "New Graduate Engineer, Software (Application Software)",
@@ -386,18 +398,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=927679ce-09fc-4ca3-8097-c1836c9cc73e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Software-Engineer-I--Onsite-_01865374"
-    },
-    {
-      "id": "8ab05158-a45c-452e-bafa-d9018cccdf2b",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Aurora, CO",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-18",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=8ab05158-a45c-452e-bafa-d9018cccdf2b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineer-I--Onsite-_01867905"
     },
     {
       "id": "2dbc6e32-dd67-4dd9-a344-4b79e3577523",
