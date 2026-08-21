@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T19:00:42.525Z",
+  "updatedAt": "2026-08-21T19:15:39.989Z",
   "jobs": [
     {
       "id": "b7a5389c-99e1-4a57-821e-16e7d862e8c5",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Expedia&job=44a07bce-5f6c-44b1-bd37-2ad54fecd4fd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-108739"
+    },
+    {
+      "id": "56f8a5c8-412c-4d49-b34a-6970e9717f39",
+      "company": "HP",
+      "title": "Software and Engineering Graduate Roles - HP Solutions (HPS)",
+      "location": "Fort Collins, CO",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-21",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=HP&job=56f8a5c8-412c-4d49-b34a-6970e9717f39&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Fort-Collins-Colorado-United-States-of-America/Software-and-Engineering-Graduate-Roles---HP-Solutions--HPS-_3167276-1"
     },
     {
       "id": "db71e11e-1bb2-4b37-98d9-3374f7c7d2ad",
