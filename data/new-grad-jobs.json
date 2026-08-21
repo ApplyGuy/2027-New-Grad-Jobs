@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T23:15:46.844Z",
+  "updatedAt": "2026-08-21T23:30:54.211Z",
   "jobs": [
     {
       "id": "85bb4a2a-df45-40ff-ada3-87d6fd7b413f",
@@ -146,6 +146,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=True+Anomaly&job=f6470e7a-c59a-41c3-95f2-035f11bac538&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5218935007"
+    },
+    {
+      "id": "7565a893-dce8-4875-b573-d4b30849b91a",
+      "company": "Wfscorp",
+      "title": "IT Software Engineer I",
+      "location": "San Jose, COSTA RICA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-21",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Wfscorp&job=7565a893-dce8-4875-b573-d4b30849b91a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/SAN-JOSE-COSTA-RICA/IT-Software-Engineer-I_R22896"
     },
     {
       "id": "3846eea5-c801-46d0-b74d-644d645524a9",
