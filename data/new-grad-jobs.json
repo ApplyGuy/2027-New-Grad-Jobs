@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T22:45:36.663Z",
+  "updatedAt": "2026-08-21T23:01:20.794Z",
   "jobs": [
     {
       "id": "85bb4a2a-df45-40ff-ada3-87d6fd7b413f",
@@ -134,6 +134,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Synnex&job=fe162183-4467-4c46-afc7-3a93a72b3055&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Fremont-CA/Software-Engineer--New-College-Grad-_R55432"
+    },
+    {
+      "id": "f6470e7a-c59a-41c3-95f2-035f11bac538",
+      "company": "True Anomaly",
+      "title": "DevOps Engineer I (New Grad)",
+      "location": "Denver, CO",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-21",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=True+Anomaly&job=f6470e7a-c59a-41c3-95f2-035f11bac538&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5218935007"
     },
     {
       "id": "3846eea5-c801-46d0-b74d-644d645524a9",
