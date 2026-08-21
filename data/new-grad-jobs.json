@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T17:15:57.697Z",
+  "updatedAt": "2026-08-21T17:30:54.971Z",
   "jobs": [
     {
       "id": "b7a5389c-99e1-4a57-821e-16e7d862e8c5",
@@ -49,6 +49,18 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556972157",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972157",
       "applySupported": false
+    },
+    {
+      "id": "49bef747-c371-45e0-a524-5475cb4bdce7",
+      "company": "Quickenloans",
+      "title": "Software Developer I - Search",
+      "location": "San Francisco, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-21",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Quickenloans&job=49bef747-c371-45e0-a524-5475cb4bdce7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930"
     },
     {
       "id": "3846eea5-c801-46d0-b74d-644d645524a9",
@@ -1312,18 +1324,6 @@
       "age": "11d",
       "url": "https://applyguy.ai/jobs?company=PlayStation+Global&job=c6d71385-a4cb-4e4c-b93a-217c21144e0f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6119793004"
-    },
-    {
-      "id": "49bef747-c371-45e0-a524-5475cb4bdce7",
-      "company": "Quickenloans",
-      "title": "Software Developer I - Search",
-      "location": "Seattle, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-10",
-      "age": "11d",
-      "url": "https://applyguy.ai/jobs?company=Quickenloans&job=49bef747-c371-45e0-a524-5475cb4bdce7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Software-Developer-I---Search_R-083930"
     },
     {
       "id": "50969d4c-df1f-470f-9289-66ec857f09bc",
