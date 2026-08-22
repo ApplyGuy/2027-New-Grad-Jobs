@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T23:15:44.709Z",
+  "updatedAt": "2026-08-22T23:30:51.835Z",
   "jobs": [
     {
       "id": "315c4b81-dcf7-494a-b164-ffea439f76df",
@@ -1854,18 +1854,6 @@
       "age": "18d",
       "url": "https://applyguy.ai/jobs?company=Repligen&job=e98a78b2-5f1a-4bb9-b6e8-4bf175bb26d0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://repligen.wd108.myworkdayjobs.com/repligen_careers/job/Bridgewater-NJ/Software-Developer-I_R-583"
-    },
-    {
-      "id": "2fb5516f-ca87-49f0-ab3b-416479b8c211",
-      "company": "AeroVironment",
-      "title": "Entry-Level Software Engineer",
-      "location": "Dayton, OH",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-03",
-      "age": "19d",
-      "url": "https://applyguy.ai/jobs?company=AeroVironment&job=2fb5516f-ca87-49f0-ab3b-416479b8c211&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://avav.wd1.myworkdayjobs.com/avav/job/Dayton-OH/Entry-Level-Software-Engineer_8010"
     },
     {
       "id": "custom:amazon:38e673d9be9ca62f6064",
