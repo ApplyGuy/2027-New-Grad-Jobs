@@ -1,6 +1,6 @@
 # 2027 New Grad Software Engineering Jobs
 
-[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-309-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
+[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-308-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
 
 A continuously verified list of **2027 New Grad software engineering jobs**, **entry-level software engineer jobs**, and early-career developer roles in the United States. Listings come directly from employer career pages and are maintained by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs).
 
@@ -10,9 +10,9 @@ A continuously verified list of **2027 New Grad software engineering jobs**, **e
 
 🎒 **Looking for internships?** Browse [2027 SWE & Product Internships →](https://github.com/ApplyGuy/2027-Internships)
 
-- **309** active U.S. software roles posted within the last **60 days**
-- **93** explicitly labeled New Grad / university graduate / early career
-- Last refresh: **Aug 22, 2026, 4:15 PM PDT**
+- **308** active U.S. software roles posted within the last **60 days**
+- **92** explicitly labeled New Grad / university graduate / early career
+- Last refresh: **Aug 22, 2026, 4:30 PM PDT**
 - Machine-readable feed: [data/new-grad-jobs.json](data/new-grad-jobs.json)
 
 Listings with the orange **Apply Guy** button support one-click apply through [Apply Guy](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs). Blue **View** buttons open the employer's career site directly.
@@ -175,7 +175,6 @@ Listings with the orange **Apply Guy** button support one-click apply through [A
 | Gentex | Embedded Software Engineer I | Zeeland, MI | 18d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Gentex&job=f8a63e11-6831-4d72-b8c5-e87d796395a6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://gentex.wd5.myworkdayjobs.com/gentex/job/Zeeland-MI/Embedded-Software-Engineer-I_REQ026014) |
 | Remitly | Software Development Engineer I- IHUB | Seattle, WA | 18d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Remitly&job=6f085430-1a23-4d26-ab87-c223adf8b48b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Seattle-Washington-United-States/Software-Development-Engineer-I--IHUB_R_106706) |
 | Repligen | Software Developer I | Bridgewater, NJ | 18d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Repligen&job=e98a78b2-5f1a-4bb9-b6e8-4bf175bb26d0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://repligen.wd108.myworkdayjobs.com/repligen_careers/job/Bridgewater-NJ/Software-Developer-I_R-583) |
-| AeroVironment | Entry-Level Software Engineer | Dayton, OH | 19d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=AeroVironment&job=2fb5516f-ca87-49f0-ab3b-416479b8c211&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://avav.wd1.myworkdayjobs.com/avav/job/Dayton-OH/Entry-Level-Software-Engineer_8010) |
 | Amazon | Software Development Engineer I – AI/ML Network Infrastructure, Annapurna Labs | Cupertino, CA | 19d | [![View original listing](assets/view-listing.svg)](https://www.amazon.jobs/en/jobs/10490741/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs) |
 | NVIDIA | Systems Software Engineer - New College Grad 2026 | US, OR, Hillsboro | 19d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=NVIDIA&job=3a280089-2bd8-494a-b78e-0de5ad399e1d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083) |
 | SimpliSafe | Software Engineer I- User Systems | Boston, MA | 19d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=SimpliSafe&job=d1a6a274-8d4d-401b-945b-262e33f49ae0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/simplisafe/jobs/8095181) |
