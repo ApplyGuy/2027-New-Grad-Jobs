@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T05:00:38.144Z",
+  "updatedAt": "2026-08-22T05:15:43.259Z",
   "jobs": [
     {
       "id": "62275d5f-9d45-4815-99ae-53560a21d3a1",
@@ -182,6 +182,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Tmobile&job=d0d3a20d-68a4-4229-b1e0-cc0c5b7540fb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://tmobile.wd1.myworkdayjobs.com/external/job/Atlanta-Georgia/Associate-Software-Engineer_REQ369269"
+    },
+    {
+      "id": "4ba82972-5fcb-48be-9839-367c6b08e90b",
+      "company": "True Anomaly",
+      "title": "Software Engineer I, QA (New Grad)",
+      "location": "Denver, CO",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-21",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=True+Anomaly&job=4ba82972-5fcb-48be-9839-367c6b08e90b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5219057007"
     },
     {
       "id": "f6470e7a-c59a-41c3-95f2-035f11bac538",
@@ -1506,19 +1518,6 @@
       "age": "15d",
       "url": "https://applyguy.ai/jobs?company=Jci&job=a718502a-160b-40d5-aa4c-81d75129ef04&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jci.wd5.myworkdayjobs.com/jci/job/New-Freedom-Pennsylvania-United-States-of-America/Embedded-Software-Engineer-I---Product-Development_WD30272369"
-    },
-    {
-      "id": "custom:microsoft:d021de3d39fd02480f33",
-      "company": "Microsoft",
-      "title": "Software Engineering - CTJ - Poly",
-      "location": "Redmond, WA · Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-07",
-      "age": "15d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
-      "applySupported": false
     },
     {
       "id": "a0acf9f7-cb61-4956-a59d-ea9c7940e70a",
