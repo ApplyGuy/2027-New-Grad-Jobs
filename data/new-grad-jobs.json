@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T21:16:03.385Z",
+  "updatedAt": "2026-08-22T21:30:53.442Z",
   "jobs": [
     {
       "id": "315c4b81-dcf7-494a-b164-ffea439f76df",
@@ -3718,18 +3718,6 @@
       "age": "59d",
       "url": "https://applyguy.ai/jobs?company=Wyetech&job=cfbf7711-a9b0-4bbb-9b99-6ac51ea3e44d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/wyetechllc/afdaaf60-9a49-4930-beb8-c68be4fd5f16"
-    },
-    {
-      "id": "d015d6a4-ed62-4255-8c0d-7e8f51b0ede7",
-      "company": "iSpot",
-      "title": "Software Development Engineer 1",
-      "location": "Bellevue, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-06-23",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=iSpot&job=d015d6a4-ed62-4255-8c0d-7e8f51b0ede7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/ispottv/jobs/4708631005"
     }
   ]
 }
