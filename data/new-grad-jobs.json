@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T03:15:40.581Z",
+  "updatedAt": "2026-08-22T03:30:56.733Z",
   "jobs": [
     {
       "id": "85bb4a2a-df45-40ff-ada3-87d6fd7b413f",
@@ -146,6 +146,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Synnex&job=fe162183-4467-4c46-afc7-3a93a72b3055&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Fremont-CA/Software-Engineer--New-College-Grad-_R55432"
+    },
+    {
+      "id": "d0d3a20d-68a4-4229-b1e0-cc0c5b7540fb",
+      "company": "Tmobile",
+      "title": "Associate Software Engineer",
+      "location": "Atlanta, GA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-21",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Tmobile&job=d0d3a20d-68a4-4229-b1e0-cc0c5b7540fb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://tmobile.wd1.myworkdayjobs.com/external/job/Atlanta-Georgia/Associate-Software-Engineer_REQ369269"
     },
     {
       "id": "f6470e7a-c59a-41c3-95f2-035f11bac538",
