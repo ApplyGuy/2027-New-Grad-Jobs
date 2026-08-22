@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T01:15:42.110Z",
+  "updatedAt": "2026-08-22T01:30:37.665Z",
   "jobs": [
     {
       "id": "85bb4a2a-df45-40ff-ada3-87d6fd7b413f",
@@ -74,32 +74,6 @@
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/St-Louis-MO/Entry-Level-Software-Developer_R-00188494"
     },
     {
-      "id": "custom:microsoft:8a2cc77b4b241f96367e",
-      "company": "Microsoft",
-      "title": "Pre-Training",
-      "location": "US",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-21",
-      "age": "1d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:6984f806da11ed694bbe",
-      "company": "Microsoft",
-      "title": "Software Engineering IC2",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-21",
-      "age": "1d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972157",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972157",
-      "applySupported": false
-    },
-    {
       "id": "2a4d7f98-c3a5-48e5-8f0d-920314f53f20",
       "company": "Pae",
       "title": "Software Programmer - Entry Level",
@@ -122,6 +96,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Quickenloans&job=49bef747-c371-45e0-a524-5475cb4bdce7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930"
+    },
+    {
+      "id": "a950faf7-5ced-43a8-b51d-60f57e64f425",
+      "company": "RTX",
+      "title": "Software Engineer I, Onsite",
+      "location": "Ft Wayne, IN",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-21",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=a950faf7-5ced-43a8-b51d-60f57e64f425&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I--Onsite_01868070"
     },
     {
       "id": "fe162183-4467-4c46-afc7-3a93a72b3055",
@@ -256,18 +242,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineer-I--Onsite-_01867061"
     },
     {
-      "id": "0599db49-976f-487c-b4ac-cbb00475a29c",
-      "company": "RTX",
-      "title": "Jr. Data Engineer (Puerto Rico)",
-      "location": "SANTA ISABEL B1 Felicia Industrial Park St B1 BLDG 1, PR",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-20",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=0599db49-976f-487c-b4ac-cbb00475a29c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-SANTA-ISABEL-B1--Felicia-Industrial-Park---St-B1--BLDG-1/Jr-Data-Engineer--Puerto-Rico-_01868395-1"
-    },
-    {
       "id": "2058bdcc-252f-4885-a0f9-df029c6b2544",
       "company": "RTX",
       "title": "Software Engineer I (Onsite)",
@@ -352,32 +326,6 @@
       "listingUrl": "https://jnd-inc.breezy.hr/p/87fd346a82c7-entry-level-software-tester-2608-2"
     },
     {
-      "id": "custom:microsoft:698bf1cfd0197fa8f311",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-19",
-      "age": "3d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:6b64606a1fd63afbb43a",
-      "company": "Microsoft",
-      "title": "Software Engineer",
-      "location": "US",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-19",
-      "age": "3d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556928331",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556928331",
-      "applySupported": false
-    },
-    {
       "id": "1cfa0c53-d6a0-4a73-9c2c-b4c095cb0bdf",
       "company": "Relx",
       "title": "Software Engineer I",
@@ -388,18 +336,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Relx&job=1cfa0c53-d6a0-4a73-9c2c-b4c095cb0bdf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://relx.wd3.myworkdayjobs.com/lexisnexislegal/job/Raleigh-NC/Software-Engineer-I_R117314"
-    },
-    {
-      "id": "8e4d6b8d-a172-4901-8de9-148874fa3bd9",
-      "company": "RTX",
-      "title": "Software Engineer I -(Onsite)",
-      "location": "Ft Wayne, IN",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-19",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=8e4d6b8d-a172-4901-8de9-148874fa3bd9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I---Onsite-_01868027"
     },
     {
       "id": "8c12cd26-5e09-4083-a226-bca2e0a490ee",
@@ -1566,19 +1502,6 @@
       "age": "15d",
       "url": "https://applyguy.ai/jobs?company=Jci&job=a718502a-160b-40d5-aa4c-81d75129ef04&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jci.wd5.myworkdayjobs.com/jci/job/New-Freedom-Pennsylvania-United-States-of-America/Embedded-Software-Engineer-I---Product-Development_WD30272369"
-    },
-    {
-      "id": "custom:microsoft:d021de3d39fd02480f33",
-      "company": "Microsoft",
-      "title": "Software Engineering - CTJ - Poly",
-      "location": "Redmond, WA · Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-07",
-      "age": "15d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
-      "applySupported": false
     },
     {
       "id": "a0acf9f7-cb61-4956-a59d-ea9c7940e70a",
