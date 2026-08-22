@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T02:45:40.809Z",
+  "updatedAt": "2026-08-22T03:00:45.673Z",
   "jobs": [
     {
       "id": "85bb4a2a-df45-40ff-ada3-87d6fd7b413f",
@@ -50,7 +50,7 @@
       "listingUrl": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-108739"
     },
     {
-      "id": "56f8a5c8-412c-4d49-b34a-6970e9717f39",
+      "id": "50a25693-781c-40e9-b345-967c4e1d81a7",
       "company": "HP",
       "title": "Software and Engineering Graduate Roles - HP Solutions (HPS)",
       "location": "Fort Collins, CO",
@@ -58,8 +58,8 @@
       "matchKind": "explicit",
       "posted": "2026-08-21",
       "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=HP&job=56f8a5c8-412c-4d49-b34a-6970e9717f39&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Fort-Collins-Colorado-United-States-of-America/Software-and-Engineering-Graduate-Roles---HP-Solutions--HPS-_3167276-1"
+      "url": "https://applyguy.ai/jobs?company=HP&job=50a25693-781c-40e9-b345-967c4e1d81a7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Fort-Collins-Colorado-United-States-of-America/Software-and-Engineering-Graduate-Roles---HP-Solutions--HPS-_3167276"
     },
     {
       "id": "db71e11e-1bb2-4b37-98d9-3374f7c7d2ad",
@@ -72,32 +72,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=db71e11e-1bb2-4b37-98d9-3374f7c7d2ad&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/St-Louis-MO/Entry-Level-Software-Developer_R-00188494"
-    },
-    {
-      "id": "custom:microsoft:8a2cc77b4b241f96367e",
-      "company": "Microsoft",
-      "title": "Pre-Training",
-      "location": "US",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-21",
-      "age": "1d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:6984f806da11ed694bbe",
-      "company": "Microsoft",
-      "title": "Software Engineering IC2",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-21",
-      "age": "1d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972157",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972157",
-      "applySupported": false
     },
     {
       "id": "2a4d7f98-c3a5-48e5-8f0d-920314f53f20",
@@ -338,32 +312,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=JND&job=bd64bc48-0cba-4265-a7c5-041ddc2355cc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jnd-inc.breezy.hr/p/87fd346a82c7-entry-level-software-tester-2608-2"
-    },
-    {
-      "id": "custom:microsoft:698bf1cfd0197fa8f311",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-19",
-      "age": "3d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:6b64606a1fd63afbb43a",
-      "company": "Microsoft",
-      "title": "Software Engineer",
-      "location": "US",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-19",
-      "age": "3d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556928331",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556928331",
-      "applySupported": false
     },
     {
       "id": "1cfa0c53-d6a0-4a73-9c2c-b4c095cb0bdf",
@@ -1470,19 +1418,6 @@
       "age": "15d",
       "url": "https://applyguy.ai/jobs?company=Jci&job=a718502a-160b-40d5-aa4c-81d75129ef04&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jci.wd5.myworkdayjobs.com/jci/job/New-Freedom-Pennsylvania-United-States-of-America/Embedded-Software-Engineer-I---Product-Development_WD30272369"
-    },
-    {
-      "id": "custom:microsoft:d021de3d39fd02480f33",
-      "company": "Microsoft",
-      "title": "Software Engineering - CTJ - Poly",
-      "location": "Redmond, WA · Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-07",
-      "age": "15d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
-      "applySupported": false
     },
     {
       "id": "a0acf9f7-cb61-4956-a59d-ea9c7940e70a",
