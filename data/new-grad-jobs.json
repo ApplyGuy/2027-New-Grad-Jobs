@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T22:15:44.547Z",
+  "updatedAt": "2026-08-23T22:31:37.843Z",
   "jobs": [
     {
       "id": "315c4b81-dcf7-494a-b164-ffea439f76df",
@@ -3622,18 +3622,6 @@
       "age": "59d",
       "url": "https://applyguy.ai/jobs?company=Whoop&job=d843e5cd-02a4-4c3e-824c-d08336a8ba88&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/whoop/ede8ba03-c763-49a1-9e6c-4a296fefd087"
-    },
-    {
-      "id": "f00a2f4d-203d-4c84-b920-7d719891f7f6",
-      "company": "OptiTrack",
-      "title": "Associate Software Engineer",
-      "location": "Corvallis, OR",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-06-24",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=OptiTrack&job=f00a2f4d-203d-4c84-b920-7d719891f7f6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.workable.com/view/v9bPjPpxbu6w7ZW8rWPW6D/associate-software-engineer-in-corvallis-at-optitrack"
     }
   ]
 }
