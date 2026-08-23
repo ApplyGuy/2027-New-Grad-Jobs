@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T14:15:43.661Z",
+  "updatedAt": "2026-08-23T14:31:00.521Z",
   "jobs": [
     {
       "id": "315c4b81-dcf7-494a-b164-ffea439f76df",
@@ -3646,18 +3646,6 @@
       "age": "60d",
       "url": "https://applyguy.ai/jobs?company=OptiTrack&job=f00a2f4d-203d-4c84-b920-7d719891f7f6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.workable.com/view/v9bPjPpxbu6w7ZW8rWPW6D/associate-software-engineer-in-corvallis-at-optitrack"
-    },
-    {
-      "id": "cfbf7711-a9b0-4bbb-9b99-6ac51ea3e44d",
-      "company": "Wyetech",
-      "title": "Software Engineer 1",
-      "location": "Laurel, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-06-24",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Wyetech&job=cfbf7711-a9b0-4bbb-9b99-6ac51ea3e44d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.lever.co/wyetechllc/afdaaf60-9a49-4930-beb8-c68be4fd5f16"
     }
   ]
 }
