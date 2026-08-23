@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T19:45:37.319Z",
+  "updatedAt": "2026-08-23T20:00:46.105Z",
   "jobs": [
     {
       "id": "315c4b81-dcf7-494a-b164-ffea439f76df",
@@ -3622,18 +3622,6 @@
       "age": "59d",
       "url": "https://applyguy.ai/jobs?company=Whoop&job=d843e5cd-02a4-4c3e-824c-d08336a8ba88&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/whoop/ede8ba03-c763-49a1-9e6c-4a296fefd087"
-    },
-    {
-      "id": "048eeec4-f2a5-44db-8ebe-3679e915b5fc",
-      "company": "Esri",
-      "title": "Software Development Engineer I",
-      "location": "Saint Louis, MO",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-06-24",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Esri&job=048eeec4-f2a5-44db-8ebe-3679e915b5fc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://www.esri.com/careers/5173239007?gh_jid=5173239007"
     },
     {
       "id": "f00a2f4d-203d-4c84-b920-7d719891f7f6",
