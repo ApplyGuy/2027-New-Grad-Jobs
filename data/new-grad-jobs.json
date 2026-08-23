@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T04:00:41.438Z",
+  "updatedAt": "2026-08-23T04:15:37.269Z",
   "jobs": [
     {
       "id": "315c4b81-dcf7-494a-b164-ffea439f76df",
@@ -2386,18 +2386,6 @@
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/3325-Fort-George-G-Meade-MD/Junior-Software-Engineer--SWE-2-_R-00185405"
     },
     {
-      "id": "01d32a43-d17b-4ab0-a457-91bb5e5e36c3",
-      "company": "New Relic",
-      "title": "Associate Software Engineer- Infrastructure",
-      "location": "Atlanta, GA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-21",
-      "age": "33d",
-      "url": "https://applyguy.ai/jobs?company=New+Relic&job=01d32a43-d17b-4ab0-a457-91bb5e5e36c3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/newrelic/jobs/5294386008"
-    },
-    {
       "id": "8ec34f1a-137c-4fd2-9967-375d6ac860c7",
       "company": "Quickenloans",
       "title": "Software Developer I",
@@ -2468,18 +2456,6 @@
       "age": "33d",
       "url": "https://applyguy.ai/jobs?company=Vadum+Inc&job=f8b2b173-36f4-43e3-9978-a4c46c9b3e39&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4349207"
-    },
-    {
-      "id": "2f9696b6-fec1-48fe-9e2b-992183bb146e",
-      "company": "AST SpaceMobile",
-      "title": "ATE Associate Software Engineer",
-      "location": "Midland, TX",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-20",
-      "age": "34d",
-      "url": "https://applyguy.ai/jobs?company=AST+SpaceMobile&job=2f9696b6-fec1-48fe-9e2b-992183bb146e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://ast-science.com/company/careers/?gh_jid=4716870005"
     },
     {
       "id": "87a72957-c694-4819-8a2c-82a1ad0a7596",
