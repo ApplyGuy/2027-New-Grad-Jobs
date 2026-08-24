@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T17:30:36.703Z",
+  "updatedAt": "2026-08-24T17:45:40.646Z",
   "jobs": [
     {
       "id": "custom:google:84680705375642310",
@@ -38,6 +38,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Nwis&job=abfacdb1-6826-4555-b9c4-e73216d5ba55&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://nwis.wd12.myworkdayjobs.com/nw/job/Sterling-VA/Software-Engineer-I_JR101958"
+    },
+    {
+      "id": "8e37a80e-35b8-48fa-ae08-fa518e298c96",
+      "company": "RTX",
+      "title": "Software Engineer I",
+      "location": "Tucson, AZ",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=8e37a80e-35b8-48fa-ae08-fa518e298c96&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I_01861317-1"
     },
     {
       "id": "de57c3d0-72f3-4a3e-b377-d5218581e2f6",
