@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T22:30:52.095Z",
+  "updatedAt": "2026-08-24T22:45:41.304Z",
   "jobs": [
     {
       "id": "custom:google:84680705375642310",
@@ -86,6 +86,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=TraceLink%2C+Inc&job=de57c3d0-72f3-4a3e-b377-d5218581e2f6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.tracelink.com/about/culture-and-careers/jobs?gh_jid=5217396007"
+    },
+    {
+      "id": "2bcbc0aa-bafe-4768-acdd-19801b9ca7d8",
+      "company": "VectorVMS",
+      "title": "Associate Software Engineer",
+      "location": "Raleigh, NC",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=VectorVMS&job=2bcbc0aa-bafe-4768-acdd-19801b9ca7d8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://vectorvms.breezy.hr/p/677ae6c42f23-associate-software-engineer"
     },
     {
       "id": "ddf94828-bee8-4b95-998d-7bdd59e588ee",
