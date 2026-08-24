@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T04:00:48.159Z",
+  "updatedAt": "2026-08-24T04:15:54.534Z",
   "jobs": [
     {
       "id": "315c4b81-dcf7-494a-b164-ffea439f76df",
@@ -2241,18 +2241,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01861434"
     },
     {
-      "id": "3126faa1-a327-450c-8b3a-b371d358e863",
-      "company": "Troweprice",
-      "title": "2027 Global Technology - Associate Software Engineer",
-      "location": "Baltimore, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-23",
-      "age": "32d",
-      "url": "https://applyguy.ai/jobs?company=Troweprice&job=3126faa1-a327-450c-8b3a-b371d358e863&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://troweprice.wd5.myworkdayjobs.com/troweprice/job/Baltimore-MD/XMLNAME-2027-Global-Technology---Associate-Software-Engineer_82752"
-    },
-    {
       "id": "cecf1976-b4d3-453a-b4d9-ea3ed72a6efe",
       "company": "Zello",
       "title": "Software Engineer I - AI Generalist",
@@ -2782,18 +2770,6 @@
       "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Maryland-Heights-MO/Associate-Software-Engineer_JR2026513142"
     },
     {
-      "id": "9d7d8ca7-27ba-47ee-81ea-488965bbef3d",
-      "company": "Cox",
-      "title": "Software Engineer I",
-      "location": "Atlanta, GA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-15",
-      "age": "40d",
-      "url": "https://applyguy.ai/jobs?company=Cox&job=9d7d8ca7-27ba-47ee-81ea-488965bbef3d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Atlanta-GA/Software-Engineer-I_R202679352"
-    },
-    {
       "id": "3336911d-4152-4938-95fc-599d57c88102",
       "company": "Fuse Integration",
       "title": "Software Engineer I",
@@ -3203,18 +3179,6 @@
       "listingUrl": "https://jobs.lever.co/life/40e4d965-d90d-4408-bddf-b0f5e840648c"
     },
     {
-      "id": "5f999c09-d5be-4424-82c7-43b34c912456",
-      "company": "Precisely US Jobs",
-      "title": "Associate Software Engineer – Frontend (AI First)",
-      "location": "Phoenix, AZ",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-08",
-      "age": "47d",
-      "url": "https://applyguy.ai/jobs?company=Precisely+US+Jobs&job=5f999c09-d5be-4424-82c7-43b34c912456&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://www.precisely.com/careers-and-culture/us-jobs/job/4710641005?gh_jid=4710641005"
-    },
-    {
       "id": "8f5bf9be-e7be-4114-95e5-568ed21ccfbf",
       "company": "Precisely US Jobs",
       "title": "Associate Software Engineer – Full Stack (AI First)",
@@ -3371,7 +3335,7 @@
       "listingUrl": "https://job-boards.greenhouse.io/waymark/jobs/4711827005"
     },
     {
-      "id": "a604be6d-f611-4d6e-8678-91a7580c019b",
+      "id": "518ea800-ed8e-44d4-864e-97d669780400",
       "company": "Visalaw AI",
       "title": "Associate Software Developer",
       "location": "Memphis, TN",
@@ -3379,8 +3343,8 @@
       "matchKind": "entry_level",
       "posted": "2026-07-04",
       "age": "51d",
-      "url": "https://applyguy.ai/jobs?company=Visalaw+AI&job=a604be6d-f611-4d6e-8678-91a7580c019b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.workable.com/view/vsdXT7cHFJinb68equzHXA/hybrid-associate-software-developer-in-memphis-at-visalaw-ai"
+      "url": "https://applyguy.ai/jobs?company=Visalaw+AI&job=518ea800-ed8e-44d4-864e-97d669780400&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://apply.workable.com/visalawai/j/419E9D403F/"
     },
     {
       "id": "ab27dcf0-c624-452d-a44b-d5fe47182c40",
