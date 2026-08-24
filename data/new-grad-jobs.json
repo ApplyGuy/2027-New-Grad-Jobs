@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T02:46:25.040Z",
+  "updatedAt": "2026-08-24T03:00:35.017Z",
   "jobs": [
     {
       "id": "315c4b81-dcf7-494a-b164-ffea439f76df",
@@ -1505,19 +1505,6 @@
       "age": "17d",
       "url": "https://applyguy.ai/jobs?company=Freeform&job=01cac459-7aa9-4d2a-8e94-76a884e9c1ef&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7826634003"
-    },
-    {
-      "id": "custom:google:78703249065943750",
-      "company": "Google",
-      "title": "Software Engineer, Early Career, Campus",
-      "location": "Multiple U.S. locations",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-07",
-      "age": "17d",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/78703249065943750-software-engineer-early-career-campus",
-      "listingUrl": "https://www.google.com/about/careers/applications/jobs/results/78703249065943750-software-engineer-early-career-campus",
-      "applySupported": false
     },
     {
       "id": "a718502a-160b-40d5-aa4c-81d75129ef04",
