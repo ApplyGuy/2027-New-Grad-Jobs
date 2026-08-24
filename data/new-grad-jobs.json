@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T21:30:35.049Z",
+  "updatedAt": "2026-08-24T21:45:43.118Z",
   "jobs": [
     {
       "id": "custom:google:84680705375642310",
@@ -38,6 +38,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Nwis&job=abfacdb1-6826-4555-b9c4-e73216d5ba55&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://nwis.wd12.myworkdayjobs.com/nw/job/Sterling-VA/Software-Engineer-I_JR101958"
+    },
+    {
+      "id": "5b944ea8-9b08-44e3-a500-d1c2c273efc6",
+      "company": "RTX",
+      "title": "Software Engineer I (Hybrid - Aguadilla, PR)",
+      "location": "Aguadilla, PR",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=5b944ea8-9b08-44e3-a500-d1c2c273efc6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--Hybrid---Aguadilla--PR-_01864890-2"
     },
     {
       "id": "315c4b81-dcf7-494a-b164-ffea439f76df",
@@ -172,6 +184,32 @@
       "listingUrl": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Fort-Collins-Colorado-United-States-of-America/Software-and-Engineering-Graduate-Roles---HP-Solutions--HPS-_3167276"
     },
     {
+      "id": "custom:microsoft:8a2cc77b4b241f96367e",
+      "company": "Microsoft",
+      "title": "Pre-Training",
+      "location": "US",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-21",
+      "age": "3d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:6984f806da11ed694bbe",
+      "company": "Microsoft",
+      "title": "Software Engineering IC2",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-21",
+      "age": "3d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972157",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972157",
+      "applySupported": false
+    },
+    {
       "id": "2a4d7f98-c3a5-48e5-8f0d-920314f53f20",
       "company": "Pae",
       "title": "Software Programmer - Entry Level",
@@ -206,18 +244,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=a950faf7-5ced-43a8-b51d-60f57e64f425&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I--Onsite_01868070"
-    },
-    {
-      "id": "fe162183-4467-4c46-afc7-3a93a72b3055",
-      "company": "Synnex",
-      "title": "Software Engineer (New College Grad)",
-      "location": "Fremont, CA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-21",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=Synnex&job=fe162183-4467-4c46-afc7-3a93a72b3055&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Fremont-CA/Software-Engineer--New-College-Grad-_R55432"
     },
     {
       "id": "d0d3a20d-68a4-4229-b1e0-cc0c5b7540fb",
@@ -290,18 +316,6 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Crusoe&job=dc0399ce-23c6-4d75-8328-ff1ff317cee0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed"
-    },
-    {
-      "id": "0db83253-d810-43ed-9da5-dae59d704f0b",
-      "company": "Firstorion",
-      "title": "Associate Software Engineer",
-      "location": "North Little Rock, AR",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-20",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=Firstorion&job=0db83253-d810-43ed-9da5-dae59d704f0b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://firstorion.wd1.myworkdayjobs.com/first_orion/job/North-Little-Rock-AR/Software-Engineer_R726"
     },
     {
       "id": "4e646993-5eda-4baf-a943-0fec9dafef7f",
@@ -434,6 +448,32 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=JND&job=bd64bc48-0cba-4265-a7c5-041ddc2355cc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jnd-inc.breezy.hr/p/87fd346a82c7-entry-level-software-tester-2608-2"
+    },
+    {
+      "id": "custom:microsoft:698bf1cfd0197fa8f311",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-19",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:6b64606a1fd63afbb43a",
+      "company": "Microsoft",
+      "title": "Software Engineer",
+      "location": "US",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-19",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556928331",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556928331",
+      "applySupported": false
     },
     {
       "id": "1cfa0c53-d6a0-4a73-9c2c-b4c095cb0bdf",
@@ -951,18 +991,6 @@
       "age": "11d",
       "url": "https://applyguy.ai/jobs?company=Generalmotors&job=26e9b0cb-ea8d-47b4-92b4-0ced65ee17c8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/Machine-Learning-Engineer--AI-Inference-Solutions--University-Grad-_JR-202610103"
-    },
-    {
-      "id": "93ea3b5d-90ba-4632-932c-4f87ba72bfe2",
-      "company": "RTX",
-      "title": "Software Engineer I (Hybrid - Aguadilla, PR)",
-      "location": "Aguadilla, PR",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-13",
-      "age": "11d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=93ea3b5d-90ba-4632-932c-4f87ba72bfe2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--Hybrid---Aguadilla--PR-_01864890"
     },
     {
       "id": "56769b8e-e4d5-41c0-99d2-bbb3bc745868",
