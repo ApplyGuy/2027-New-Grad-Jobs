@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-08-24T16:00:54.278Z",
+  "updatedAt": "2026-08-24T16:16:05.353Z",
   "jobs": [
+    {
+      "id": "custom:google:84680705375642310",
+      "company": "Google",
+      "title": "Software Engineer, Infrastructure, PhD, Early Career, 2027 Start",
+      "location": "Multiple U.S. locations",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-24",
+      "age": "Today",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/84680705375642310-software-engineer-infrastructure-phd-early-career-2027-start",
+      "listingUrl": "https://www.google.com/about/careers/applications/jobs/results/84680705375642310-software-engineer-infrastructure-phd-early-career-2027-start",
+      "applySupported": false
+    },
     {
       "id": "custom:google:123087196289671878",
       "company": "Google",
