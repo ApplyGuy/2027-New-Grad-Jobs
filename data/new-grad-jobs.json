@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T19:30:36.780Z",
+  "updatedAt": "2026-08-24T19:46:09.214Z",
   "jobs": [
     {
       "id": "custom:google:84680705375642310",
@@ -62,6 +62,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=TraceLink%2C+Inc&job=de57c3d0-72f3-4a3e-b377-d5218581e2f6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.tracelink.com/about/culture-and-careers/jobs?gh_jid=5217396007"
+    },
+    {
+      "id": "ddf94828-bee8-4b95-998d-7bdd59e588ee",
+      "company": "Wexinc",
+      "title": "Software Development Engineer 1",
+      "location": "Remote, U.S.",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Wexinc&job=ddf94828-bee8-4b95-998d-7bdd59e588ee&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://wexinc.wd5.myworkdayjobs.com/wexinc/job/US---Remote/Software-Development-Engineer-1_R22758"
     },
     {
       "id": "315c4b81-dcf7-494a-b164-ffea439f76df",
