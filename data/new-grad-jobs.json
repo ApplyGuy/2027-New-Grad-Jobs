@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T23:16:40.589Z",
+  "updatedAt": "2026-08-24T23:30:34.920Z",
   "jobs": [
     {
       "id": "custom:google:84680705375642310",
@@ -194,32 +194,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=HP&job=50a25693-781c-40e9-b345-967c4e1d81a7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Fort-Collins-Colorado-United-States-of-America/Software-and-Engineering-Graduate-Roles---HP-Solutions--HPS-_3167276"
-    },
-    {
-      "id": "custom:microsoft:8a2cc77b4b241f96367e",
-      "company": "Microsoft",
-      "title": "Pre-Training",
-      "location": "US",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-21",
-      "age": "3d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:6984f806da11ed694bbe",
-      "company": "Microsoft",
-      "title": "Software Engineering IC2",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-21",
-      "age": "3d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972157",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972157",
-      "applySupported": false
     },
     {
       "id": "2a4d7f98-c3a5-48e5-8f0d-920314f53f20",
@@ -462,32 +436,6 @@
       "listingUrl": "https://jnd-inc.breezy.hr/p/87fd346a82c7-entry-level-software-tester-2608-2"
     },
     {
-      "id": "custom:microsoft:698bf1cfd0197fa8f311",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-19",
-      "age": "5d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:6b64606a1fd63afbb43a",
-      "company": "Microsoft",
-      "title": "Software Engineer",
-      "location": "US",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-19",
-      "age": "5d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556928331",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556928331",
-      "applySupported": false
-    },
-    {
       "id": "1cfa0c53-d6a0-4a73-9c2c-b4c095cb0bdf",
       "company": "Relx",
       "title": "Software Engineer I",
@@ -510,6 +458,18 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=SpaceX&job=8c12cd26-5e09-4083-a226-bca2e0a490ee&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boards.greenhouse.io/spacex/jobs/8730567002?gh_jid=8730567002"
+    },
+    {
+      "id": "19fbb7b4-86a6-4e32-8d75-4e70215e9f27",
+      "company": "SpaceX",
+      "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
+      "location": "Hawthorne, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-19",
+      "age": "5d",
+      "url": "https://applyguy.ai/jobs?company=SpaceX&job=19fbb7b4-86a6-4e32-8d75-4e70215e9f27&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://boards.greenhouse.io/spacex/jobs/8724316002?gh_jid=8724316002"
     },
     {
       "id": "58986cd8-3d18-4b54-803a-67e2c0b3a4a3",
