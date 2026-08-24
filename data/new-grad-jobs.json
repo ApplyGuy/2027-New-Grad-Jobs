@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T14:45:40.011Z",
+  "updatedAt": "2026-08-24T15:00:54.619Z",
   "jobs": [
     {
       "id": "custom:google:123087196289671878",
@@ -3539,18 +3539,6 @@
       "age": "59d",
       "url": "https://applyguy.ai/jobs?company=Babel+Street&job=4c093501-2949-4c8b-9bed-325eeb440154&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/babelstreet/jobs/8030833"
-    },
-    {
-      "id": "44ffd5c9-515c-4146-99f4-5c893b3f506e",
-      "company": "Four Hands",
-      "title": "Entry level Data Engineer – New Grad",
-      "location": "Austin, TX",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-06-25",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Four+Hands&job=44ffd5c9-515c-4146-99f4-5c893b3f506e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/fourhands/jobs/4297618009"
     }
   ]
 }
