@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-08-24T07:31:04.771Z",
+  "updatedAt": "2026-08-24T07:46:05.292Z",
   "jobs": [
+    {
+      "id": "custom:google:123087196289671878",
+      "company": "Google",
+      "title": "Software Engineer, AI/Machine Learning,  PhD, Early Career, 2027 Start",
+      "location": "Multiple U.S. locations",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-24",
+      "age": "Today",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/123087196289671878-software-engineer-ai-machine-learning-phd-early-career-2027-start",
+      "listingUrl": "https://www.google.com/about/careers/applications/jobs/results/123087196289671878-software-engineer-ai-machine-learning-phd-early-career-2027-start",
+      "applySupported": false
+    },
     {
       "id": "315c4b81-dcf7-494a-b164-ffea439f76df",
       "company": "RTX",
