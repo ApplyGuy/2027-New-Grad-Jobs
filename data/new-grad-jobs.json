@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T20:15:46.339Z",
+  "updatedAt": "2026-08-25T20:30:43.429Z",
   "jobs": [
     {
       "id": "02b07628-f7d5-4092-9ad7-58340ea6ff58",
@@ -3624,18 +3624,6 @@
       "age": "57d",
       "url": "https://applyguy.ai/jobs?company=Saalex&job=31678f1b-8f8c-4382-b794-e63165e87362&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.workable.com/view/sp2KLeEsmsAg2AJ92yukGH/junior-software-developer-in-lexington-park-at-saalex"
-    },
-    {
-      "id": "4c093501-2949-4c8b-9bed-325eeb440154",
-      "company": "Babel Street",
-      "title": "Data Warehouse Software Engineer I",
-      "location": "Remote, U.S.",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-06-26",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Babel+Street&job=4c093501-2949-4c8b-9bed-325eeb440154&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/babelstreet/jobs/8030833"
     }
   ]
 }
