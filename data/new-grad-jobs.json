@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-08-25T17:31:03.063Z",
+  "updatedAt": "2026-08-25T17:46:25.782Z",
   "jobs": [
+    {
+      "id": "02b07628-f7d5-4092-9ad7-58340ea6ff58",
+      "company": "Alarm.com",
+      "title": "Embedded Software Engineer I",
+      "location": "Tysons, VA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Alarm.com&job=02b07628-f7d5-4092-9ad7-58340ea6ff58&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/alarmcom/jobs/8622530002"
+    },
+    {
+      "id": "5d34e1da-8e2b-4002-a79b-f30ec9d801a1",
+      "company": "Fhcsd",
+      "title": "QA Software Engineer I",
+      "location": "HITEC Center - San Diego, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Fhcsd&job=5d34e1da-8e2b-4002-a79b-f30ec9d801a1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://fhcsd.wd1.myworkdayjobs.com/main/job/HITEC-Center---San-Diego-CA/QA-Software-Engineer-I_R0022801"
+    },
     {
       "id": "0a963204-6332-496d-93bd-f2ef70483729",
       "company": "Metron",
@@ -160,18 +184,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--Connected-Aviation-Solutions--Hybrid---Aguadilla--PR-_01869189"
     },
     {
-      "id": "8e37a80e-35b8-48fa-ae08-fa518e298c96",
-      "company": "RTX",
-      "title": "Software Engineer I",
-      "location": "Tucson, AZ",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-24",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=8e37a80e-35b8-48fa-ae08-fa518e298c96&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I_01861317-1"
-    },
-    {
       "id": "de57c3d0-72f3-4a3e-b377-d5218581e2f6",
       "company": "TraceLink, Inc",
       "title": "Software Engineer I",
@@ -290,32 +302,6 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=HP&job=50a25693-781c-40e9-b345-967c4e1d81a7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Fort-Collins-Colorado-United-States-of-America/Software-and-Engineering-Graduate-Roles---HP-Solutions--HPS-_3167276"
-    },
-    {
-      "id": "custom:microsoft:8a2cc77b4b241f96367e",
-      "company": "Microsoft",
-      "title": "Pre-Training",
-      "location": "US",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-21",
-      "age": "4d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:6984f806da11ed694bbe",
-      "company": "Microsoft",
-      "title": "Software Engineering IC2",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-21",
-      "age": "4d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972157",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972157",
-      "applySupported": false
     },
     {
       "id": "2a4d7f98-c3a5-48e5-8f0d-920314f53f20",
@@ -556,32 +542,6 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=JND&job=bd64bc48-0cba-4265-a7c5-041ddc2355cc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jnd-inc.breezy.hr/p/87fd346a82c7-entry-level-software-tester-2608-2"
-    },
-    {
-      "id": "custom:microsoft:698bf1cfd0197fa8f311",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-19",
-      "age": "6d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:6b64606a1fd63afbb43a",
-      "company": "Microsoft",
-      "title": "Software Engineer",
-      "location": "US",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-19",
-      "age": "6d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556928331",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556928331",
-      "applySupported": false
     },
     {
       "id": "1cfa0c53-d6a0-4a73-9c2c-b4c095cb0bdf",
