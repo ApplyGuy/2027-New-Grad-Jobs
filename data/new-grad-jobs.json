@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T21:46:02.355Z",
+  "updatedAt": "2026-08-25T22:00:40.996Z",
   "jobs": [
     {
       "id": "02b07628-f7d5-4092-9ad7-58340ea6ff58",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Alarm.com&job=02b07628-f7d5-4092-9ad7-58340ea6ff58&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/alarmcom/jobs/8622530002"
+    },
+    {
+      "id": "617edc15-8c03-4e69-aedc-604f45479908",
+      "company": "Expression",
+      "title": "Junior Data Engineer (DEA)",
+      "location": "Washington, DC",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Expression&job=617edc15-8c03-4e69-aedc-604f45479908&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://expression-networks.breezy.hr/p/7290840a45a5-junior-data-engineer-dea"
     },
     {
       "id": "5d34e1da-8e2b-4002-a79b-f30ec9d801a1",
