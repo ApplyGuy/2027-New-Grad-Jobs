@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T23:00:40.251Z",
+  "updatedAt": "2026-08-25T23:16:08.025Z",
   "jobs": [
     {
       "id": "02b07628-f7d5-4092-9ad7-58340ea6ff58",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Alarm.com&job=02b07628-f7d5-4092-9ad7-58340ea6ff58&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/alarmcom/jobs/8622530002"
+    },
+    {
+      "id": "7445b97b-ef54-4235-a69f-e3dd23987fec",
+      "company": "Disney",
+      "title": "Associate Software Engineer",
+      "location": "Orlando, FL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Disney&job=7445b97b-ef54-4235-a69f-e3dd23987fec&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Orlando-FL-USA/Associate-Software-Engineer_10157526"
     },
     {
       "id": "617edc15-8c03-4e69-aedc-604f45479908",
