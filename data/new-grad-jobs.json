@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T13:30:54.382Z",
+  "updatedAt": "2026-08-25T13:45:40.195Z",
   "jobs": [
     {
       "id": "507000ce-6ec6-407d-99ce-bd3136e8e436",
@@ -194,18 +194,6 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Boeing&job=85bb4a2a-df45-40ff-ada3-87d6fd7b413f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Maryland-Heights-MO/Associate-Software-Engineer_JR2026516706"
-    },
-    {
-      "id": "b7a5389c-99e1-4a57-821e-16e7d862e8c5",
-      "company": "CACI",
-      "title": "Early Career NASA Space Reactor – 1 Freedom Flight Software Development Engineer",
-      "location": "Houston, TX",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-21",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=CACI&job=b7a5389c-99e1-4a57-821e-16e7d862e8c5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Houston-TX-US/Early-Career-NASA-Space-Reactor---1-Freedom-Flight-Software-Development-Engineer_330677"
     },
     {
       "id": "62f4374e-4f30-4b68-88b0-16178e49760d",
