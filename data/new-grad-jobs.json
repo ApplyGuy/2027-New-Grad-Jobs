@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T22:45:59.273Z",
+  "updatedAt": "2026-08-25T23:00:40.251Z",
   "jobs": [
     {
       "id": "02b07628-f7d5-4092-9ad7-58340ea6ff58",
@@ -36,6 +36,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Fhcsd&job=5d34e1da-8e2b-4002-a79b-f30ec9d801a1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://fhcsd.wd1.myworkdayjobs.com/main/job/HITEC-Center---San-Diego-CA/QA-Software-Engineer-I_R0022801"
+    },
+    {
+      "id": "8e446a1b-8658-4b8e-bc36-96fcf29ece42",
+      "company": "Freedom Technology Solutions Group",
+      "title": "Junior Software Engineer 760",
+      "location": "Annapolis Junction, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Freedom+Technology+Solutions+Group&job=8e446a1b-8658-4b8e-bc36-96fcf29ece42&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5221705007"
     },
     {
       "id": "0a963204-6332-496d-93bd-f2ef70483729",
