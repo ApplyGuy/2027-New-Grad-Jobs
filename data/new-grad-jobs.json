@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-25T03:45:36.143Z",
+  "updatedAt": "2026-08-25T04:00:54.439Z",
   "jobs": [
+    {
+      "id": "b048e099-00f4-4bfc-8f2f-70c3e4e190f2",
+      "company": "Cisco",
+      "title": "Software Engineer I (Full Time) - United States",
+      "location": "Milpitas California",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-24",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Cisco&job=b048e099-00f4-4bfc-8f2f-70c3e4e190f2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer-I--Full-Time----United-States_2023527"
+    },
     {
       "id": "custom:google:84680705375642310",
       "company": "Google",
@@ -50,6 +62,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Nwis&job=abfacdb1-6826-4555-b9c4-e73216d5ba55&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://nwis.wd12.myworkdayjobs.com/nw/job/Sterling-VA/Software-Engineer-I_JR101958"
+    },
+    {
+      "id": "8a961882-ebd6-4948-833d-ed60cec58026",
+      "company": "RTX",
+      "title": "Software Engineer I- (Onsite)",
+      "location": "Andover, MA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-24",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=8a961882-ebd6-4948-833d-ed60cec58026&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-ANDOVER-AN0--366-Lowell-St--BLDG-AN0/Software-Engineer-I---Onsite-_01867989"
     },
     {
       "id": "5b944ea8-9b08-44e3-a500-d1c2c273efc6",
