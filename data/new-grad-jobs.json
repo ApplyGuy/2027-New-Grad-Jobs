@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T14:15:39.212Z",
+  "updatedAt": "2026-08-25T14:31:14.078Z",
   "jobs": [
     {
       "id": "7f6b4e0e-e03f-4879-b893-fd7b9cb5dac7",
@@ -1955,18 +1955,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5199607007"
     },
     {
-      "id": "bf486d40-8714-4007-8016-01398434966e",
-      "company": "Jobgether",
-      "title": "Software Engineer I, Data Platform",
-      "location": "US",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-30",
-      "age": "26d",
-      "url": "https://applyguy.ai/jobs?company=Jobgether&job=bf486d40-8714-4007-8016-01398434966e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.lever.co/jobgether/f5ea9423-296c-4b29-96ad-7c22a4819b4f"
-    },
-    {
       "id": "9826a773-1548-4a77-a8cb-57973ad26acd",
       "company": "Abnormal",
       "title": "Software Engineer I, Data Platform",
@@ -2001,18 +1989,6 @@
       "age": "27d",
       "url": "https://applyguy.ai/jobs?company=Themis+Insight&job=5cbc79dc-d389-45ad-8261-30bec8aac21b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://themis-insight.breezy.hr/p/7cf99faec54a-jr-software-engineer"
-    },
-    {
-      "id": "527b0d53-fb32-4444-81ca-8bf04d7c90dd",
-      "company": "Jobgether",
-      "title": "Software Engineer I - AssureHire (Go)",
-      "location": "US",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-28",
-      "age": "28d",
-      "url": "https://applyguy.ai/jobs?company=Jobgether&job=527b0d53-fb32-4444-81ca-8bf04d7c90dd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.lever.co/jobgether/e1d02f01-abc8-45da-8f25-bc46ebebc297"
     },
     {
       "id": "3397ecb5-c5f1-417a-b6ea-1a251bc9af58",
