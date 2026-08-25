@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T23:16:08.025Z",
+  "updatedAt": "2026-08-25T23:31:28.960Z",
   "jobs": [
     {
       "id": "02b07628-f7d5-4092-9ad7-58340ea6ff58",
@@ -84,6 +84,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=812bd563-d821-432e-b3b2-6dd242e540cf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Huntsville-AL_R10247580-1"
+    },
+    {
+      "id": "d28a4422-9dba-493e-80e2-ab78d56d295a",
+      "company": "PayIt",
+      "title": "Associate Software Engineer",
+      "location": "Kansas City, MO",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=PayIt&job=d28a4422-9dba-493e-80e2-ab78d56d295a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://payitgov.com/careers-list?gh_jid=7975853003"
     },
     {
       "id": "7975c789-322e-446b-abe1-0a2ce6371bda",
