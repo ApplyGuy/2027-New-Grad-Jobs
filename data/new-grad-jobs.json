@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T23:31:11.570Z",
+  "updatedAt": "2026-08-26T23:45:44.919Z",
   "jobs": [
     {
       "id": "custom:amazon:1bcd77e56ccd10ad7bf3",
@@ -169,6 +169,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=8e37a80e-35b8-48fa-ae08-fa518e298c96&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I_01861317-1"
+    },
+    {
+      "id": "f2b9c638-e283-4b0c-acbe-07db9453b447",
+      "company": "TeleTracking Technologies, Inc.",
+      "title": "Software Engineer I",
+      "location": "Pittsburgh, PA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-26",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=TeleTracking+Technologies%2C+Inc.&job=f2b9c638-e283-4b0c-acbe-07db9453b447&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/5397299008"
     },
     {
       "id": "e6e30371-1c6d-4d07-a770-a836f769cbaf",
