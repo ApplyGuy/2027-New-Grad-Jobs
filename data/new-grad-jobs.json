@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-08-26T16:46:21.281Z",
+  "updatedAt": "2026-08-26T17:01:19.342Z",
   "jobs": [
+    {
+      "id": "custom:amazon:1bcd77e56ccd10ad7bf3",
+      "company": "Amazon",
+      "title": "Software Engineer I, Memberships",
+      "location": "San Francisco, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-26",
+      "age": "Today",
+      "url": "https://www.amazon.jobs/en/jobs/10515912/software-engineer-i-memberships",
+      "listingUrl": "https://www.amazon.jobs/en/jobs/10515912/software-engineer-i-memberships",
+      "applySupported": false
+    },
     {
       "id": "b7a5389c-99e1-4a57-821e-16e7d862e8c5",
       "company": "CACI",
