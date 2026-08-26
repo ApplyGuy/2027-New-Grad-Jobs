@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-26T08:45:50.665Z",
+  "updatedAt": "2026-08-26T09:00:49.617Z",
   "jobs": [
+    {
+      "id": "e504539a-f5a4-42fb-8533-bb8a82706020",
+      "company": "Leidos",
+      "title": "Junior Software Engineer",
+      "location": "Laurel, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-26",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Leidos&job=e504539a-f5a4-42fb-8533-bb8a82706020&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Laurel-MD/Junior-Software-Engineer_R-00190592"
+    },
     {
       "id": "02b07628-f7d5-4092-9ad7-58340ea6ff58",
       "company": "Alarm.com",
