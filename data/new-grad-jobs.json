@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-26T12:31:04.072Z",
+  "updatedAt": "2026-08-26T12:45:57.453Z",
   "jobs": [
+    {
+      "id": "b7a5389c-99e1-4a57-821e-16e7d862e8c5",
+      "company": "CACI",
+      "title": "Early Career NASA Space Reactor – 1 Freedom Flight Software Development Engineer",
+      "location": "Houston, TX",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-26",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=CACI&job=b7a5389c-99e1-4a57-821e-16e7d862e8c5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Houston-TX-US/Early-Career-NASA-Space-Reactor---1-Freedom-Flight-Software-Development-Engineer_330677"
+    },
     {
       "id": "e504539a-f5a4-42fb-8533-bb8a82706020",
       "company": "Leidos",
