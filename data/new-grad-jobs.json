@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T05:45:51.159Z",
+  "updatedAt": "2026-08-26T06:01:08.834Z",
   "jobs": [
     {
       "id": "02b07628-f7d5-4092-9ad7-58340ea6ff58",
@@ -72,6 +72,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Freedom+Technology+Solutions+Group&job=8e446a1b-8658-4b8e-bc36-96fcf29ece42&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5221705007"
+    },
+    {
+      "id": "30899070-8e93-4658-b1cf-980212e2a5e5",
+      "company": "GDIT",
+      "title": "Software Engineer 1",
+      "location": "Annapolis Junction, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-25",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=GDIT&job=30899070-8e93-4658-b1cf-980212e2a5e5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Engineer-1_RQ227090-1"
     },
     {
       "id": "d5bcd942-59a6-4296-bafc-d07d45e8fbcf",
@@ -2482,18 +2494,6 @@
       "age": "35d",
       "url": "https://applyguy.ai/jobs?company=Danaher&job=169dce9c-1144-4f7d-a2d4-57f22668a655&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/USA---Indianapolis---Lakeview-Parkway---Multiple-OpCo/Software-Engineer-I_R1312947"
-    },
-    {
-      "id": "ae46f769-4777-4f28-84b1-c6aaa9dad5d5",
-      "company": "GDIT",
-      "title": "Software Engineer 1",
-      "location": "Annapolis Junction, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-22",
-      "age": "35d",
-      "url": "https://applyguy.ai/jobs?company=GDIT&job=ae46f769-4777-4f28-84b1-c6aaa9dad5d5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Engineer-1_RQ224845-1"
     },
     {
       "id": "e060da97-4ea9-4e36-97bf-3f1c7ec8a597",
