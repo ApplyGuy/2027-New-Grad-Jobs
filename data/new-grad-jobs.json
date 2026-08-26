@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T00:01:05.935Z",
+  "updatedAt": "2026-08-26T00:15:51.719Z",
   "jobs": [
     {
       "id": "02b07628-f7d5-4092-9ad7-58340ea6ff58",
@@ -110,6 +110,18 @@
       "listingUrl": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--ALDP-_JR103414-1"
     },
     {
+      "id": "65d2d79f-2141-4350-a344-f529146e250c",
+      "company": "Prophet Security",
+      "title": "Software Engineer, Backend New Graduate",
+      "location": "Palo Alto, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-25",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Prophet+Security&job=65d2d79f-2141-4350-a344-f529146e250c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.ashbyhq.com/prophet-security/51415149-9b19-4164-84b9-2ffa78478069"
+    },
+    {
       "id": "7f6b4e0e-e03f-4879-b893-fd7b9cb5dac7",
       "company": "RTX",
       "title": "Software Engineer I  (Onsite)",
@@ -132,6 +144,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=4eb91250-7bd7-4c20-8b3a-8be97648b0c5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/XMLNAME-2026-Raytheon-Full-Time-Software-Engineer-I---EOIR-Advanced-Products-and-Solutions--Onsite-_01851718"
+    },
+    {
+      "id": "02b427fa-d862-4b7d-b239-9efc73ed9065",
+      "company": "Solace",
+      "title": "Associate Platform Engineer (College Grad 2027)",
+      "location": "Redwood City, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-25",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Solace&job=02b427fa-d862-4b7d-b239-9efc73ed9065&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.ashbyhq.com/solace/bbdb1020-2900-4d63-908a-20cea79a65cd"
     },
     {
       "id": "ea54db15-4129-427d-ada6-780eb2e1410f",
@@ -180,6 +204,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=True+Anomaly&job=c054e31b-04b6-4af4-9a24-b675642ccf61&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221572007"
+    },
+    {
+      "id": "ada42bac-7871-46d2-a2c6-974efc073c2f",
+      "company": "Wgu",
+      "title": "Associate Data Engineer",
+      "location": "Salt Lake City, UT",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-25",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Wgu&job=ada42bac-7871-46d2-a2c6-974efc073c2f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Associate-Data-Engineer_JR-025987"
     },
     {
       "id": "a978a53d-5a12-4231-9175-8863cf93acc9",
