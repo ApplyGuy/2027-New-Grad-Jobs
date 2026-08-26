@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T01:46:01.469Z",
+  "updatedAt": "2026-08-26T02:00:38.260Z",
   "jobs": [
     {
       "id": "02b07628-f7d5-4092-9ad7-58340ea6ff58",
@@ -278,6 +278,18 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/123087196289671878-software-engineer-ai-machine-learning-phd-early-career-2027-start",
       "listingUrl": "https://www.google.com/about/careers/applications/jobs/results/123087196289671878-software-engineer-ai-machine-learning-phd-early-career-2027-start",
       "applySupported": false
+    },
+    {
+      "id": "6953c199-198b-4c36-87fd-c5cd9d1c90b0",
+      "company": "Kbr",
+      "title": "Jr Software Developer",
+      "location": "Colorado Springs, CO",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-24",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=Kbr&job=6953c199-198b-4c36-87fd-c5cd9d1c90b0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Colorado-Springs-Colorado/Jr-Software-Developer_R2128436"
     },
     {
       "id": "ed73ed7d-4c96-4558-8f2a-0e14c947fc22",
@@ -1063,18 +1075,6 @@
       "age": "12d",
       "url": "https://applyguy.ai/jobs?company=Flow+Engineering&job=7740a069-0585-43fe-8e89-6236d9ff4493&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/flowengineering/df49e713-ce33-40a8-8d6d-3759f61f4ea5"
-    },
-    {
-      "id": "db4c63df-296b-4061-84c9-f7c7c8071a4c",
-      "company": "Kbr",
-      "title": "Jr Software Developer",
-      "location": "Colorado Springs, CO",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-14",
-      "age": "12d",
-      "url": "https://applyguy.ai/jobs?company=Kbr&job=db4c63df-296b-4061-84c9-f7c7c8071a4c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Colorado-Springs-Colorado/Jr-Software-Developer_R2128352"
     },
     {
       "id": "135b087d-e634-4e60-8aab-d0987ca6f5af",
