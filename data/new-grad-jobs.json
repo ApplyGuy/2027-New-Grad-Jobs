@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T02:00:38.260Z",
+  "updatedAt": "2026-08-26T02:16:15.323Z",
   "jobs": [
     {
       "id": "02b07628-f7d5-4092-9ad7-58340ea6ff58",
@@ -12,6 +12,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Alarm.com&job=02b07628-f7d5-4092-9ad7-58340ea6ff58&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/alarmcom/jobs/8622530002"
+    },
+    {
+      "id": "84ed1de3-76ae-4eb6-b15f-e20cac9b9f2b",
+      "company": "Cox",
+      "title": "Entry Level Software Engineer (Burlington, VT)",
+      "location": "Burlington, VT",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-25",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Cox&job=84ed1de3-76ae-4eb6-b15f-e20cac9b9f2b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Burlington-VT/Entry-Level-Software-Engineer--Burlington--VT-_R202681784"
     },
     {
       "id": "7445b97b-ef54-4235-a69f-e3dd23987fec",
@@ -120,6 +132,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Prophet+Security&job=65d2d79f-2141-4350-a344-f529146e250c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/prophet-security/51415149-9b19-4164-84b9-2ffa78478069"
+    },
+    {
+      "id": "9c039a31-2307-477a-8d37-cd0949e7c602",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Huntsville, AL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-25",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=9c039a31-2307-477a-8d37-cd0949e7c602&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Software-Engineer-I--Onsite-_01868829"
     },
     {
       "id": "7f6b4e0e-e03f-4879-b893-fd7b9cb5dac7",
@@ -2674,18 +2698,6 @@
       "age": "36d",
       "url": "https://applyguy.ai/jobs?company=Vadum+Inc&job=f8b2b173-36f4-43e3-9978-a4c46c9b3e39&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4349207"
-    },
-    {
-      "id": "87a72957-c694-4819-8a2c-82a1ad0a7596",
-      "company": "Cox",
-      "title": "Entry Level Software Engineer (Burlington, VT)",
-      "location": "Burlington, VT",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-07-20",
-      "age": "37d",
-      "url": "https://applyguy.ai/jobs?company=Cox&job=87a72957-c694-4819-8a2c-82a1ad0a7596&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Burlington-VT/Entry-Level-Software-Engineer--Burlington--VT-_R202679034"
     },
     {
       "id": "745a1279-6dfd-4206-a5af-af70ce57c7a7",
