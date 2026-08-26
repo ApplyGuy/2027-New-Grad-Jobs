@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T15:01:18.250Z",
+  "updatedAt": "2026-08-26T15:15:39.054Z",
   "jobs": [
     {
       "id": "b7a5389c-99e1-4a57-821e-16e7d862e8c5",
@@ -36,6 +36,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=e504539a-f5a4-42fb-8533-bb8a82706020&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Laurel-MD/Junior-Software-Engineer_R-00190592"
+    },
+    {
+      "id": "99df2fc7-2911-4cc6-8a8f-ff3412e3da95",
+      "company": "Leidos",
+      "title": "Junior Software Engineer - Kinetic Effects",
+      "location": "Huntsville, AL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-26",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Leidos&job=99df2fc7-2911-4cc6-8a8f-ff3412e3da95&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Huntsville-AL/Junior-Software-Engineer---Kinetic-Effects_R-00189064"
     },
     {
       "id": "02b07628-f7d5-4092-9ad7-58340ea6ff58",
