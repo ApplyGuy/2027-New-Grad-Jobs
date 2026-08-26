@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T20:15:38.163Z",
+  "updatedAt": "2026-08-26T20:31:09.304Z",
   "jobs": [
     {
       "id": "custom:amazon:1bcd77e56ccd10ad7bf3",
@@ -25,6 +25,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=CACI&job=b7a5389c-99e1-4a57-821e-16e7d862e8c5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Houston-TX-US/Early-Career-NASA-Space-Reactor---1-Freedom-Flight-Software-Development-Engineer_330677"
+    },
+    {
+      "id": "6fb184d6-7ec0-4930-98ab-2d9e09f0e840",
+      "company": "Cox",
+      "title": "Entry Level Software Engineer (Draper, UT)",
+      "location": "Draper, UT",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-26",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Cox&job=6fb184d6-7ec0-4930-98ab-2d9e09f0e840&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Draper-UT/Entry-Level-Software-Engineer--Draper--UT-_R202681804"
     },
     {
       "id": "d1fb2f89-6402-4cfd-afd3-05c0f8bd9b27",
