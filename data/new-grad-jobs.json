@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T17:45:41.053Z",
+  "updatedAt": "2026-08-27T18:01:01.975Z",
   "jobs": [
     {
       "id": "45e13644-1357-421e-a2f9-680aa38524f0",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Hatch+IT&job=65772c20-ea73-4992-8437-59f401402ffd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/hatchit/7f2e771d-2363-4e85-b62f-ca130c478a97"
+    },
+    {
+      "id": "6953c199-198b-4c36-87fd-c5cd9d1c90b0",
+      "company": "Kbr",
+      "title": "Jr Software Developer",
+      "location": "Colorado Springs, CO",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-27",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Kbr&job=6953c199-198b-4c36-87fd-c5cd9d1c90b0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Colorado-Springs-Colorado/Jr-Software-Developer_R2128436"
     },
     {
       "id": "3c29cbae-3f5d-49b6-b184-2f8cf16a92d8",
@@ -181,6 +193,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Energy+Solutions+-+USA&job=d8c02382-6012-4598-a11f-2cec81d9d206&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/energysolutions/jobs/5201891007"
+    },
+    {
+      "id": "30899070-8e93-4658-b1cf-980212e2a5e5",
+      "company": "GDIT",
+      "title": "Software Engineer 1",
+      "location": "Annapolis Junction, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-26",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=GDIT&job=30899070-8e93-4658-b1cf-980212e2a5e5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Engineer-1_RQ227090-1"
     },
     {
       "id": "d10069f5-7458-4ec8-becc-d3baacf531cb",
@@ -397,18 +421,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Freedom+Technology+Solutions+Group&job=8e446a1b-8658-4b8e-bc36-96fcf29ece42&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5221705007"
-    },
-    {
-      "id": "30899070-8e93-4658-b1cf-980212e2a5e5",
-      "company": "GDIT",
-      "title": "Software Engineer 1",
-      "location": "Annapolis Junction, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-25",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=GDIT&job=30899070-8e93-4658-b1cf-980212e2a5e5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Engineer-1_RQ227090-1"
     },
     {
       "id": "d5bcd942-59a6-4296-bafc-d07d45e8fbcf",
@@ -653,18 +665,6 @@
       "applySupported": false
     },
     {
-      "id": "6953c199-198b-4c36-87fd-c5cd9d1c90b0",
-      "company": "Kbr",
-      "title": "Jr Software Developer",
-      "location": "Colorado Springs, CO",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-24",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=Kbr&job=6953c199-198b-4c36-87fd-c5cd9d1c90b0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Colorado-Springs-Colorado/Jr-Software-Developer_R2128436"
-    },
-    {
       "id": "ed73ed7d-4c96-4558-8f2a-0e14c947fc22",
       "company": "Northrop Grumman",
       "title": "Associate Software Engineer",
@@ -675,42 +675,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=ed73ed7d-4c96-4558-8f2a-0e14c947fc22&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Maryland-Hollywood/Associate-Software-Engineer_R10247440"
-    },
-    {
-      "id": "abfacdb1-6826-4555-b9c4-e73216d5ba55",
-      "company": "Nwis",
-      "title": "Software Engineer I",
-      "location": "Sterling, VA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-24",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=Nwis&job=abfacdb1-6826-4555-b9c4-e73216d5ba55&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://nwis.wd12.myworkdayjobs.com/nw/job/Sterling-VA/Software-Engineer-I_JR101958"
-    },
-    {
-      "id": "8a961882-ebd6-4948-833d-ed60cec58026",
-      "company": "RTX",
-      "title": "Software Engineer I- (Onsite)",
-      "location": "Andover, MA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-24",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=8a961882-ebd6-4948-833d-ed60cec58026&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-ANDOVER-AN0--366-Lowell-St--BLDG-AN0/Software-Engineer-I---Onsite-_01867989"
-    },
-    {
-      "id": "5b944ea8-9b08-44e3-a500-d1c2c273efc6",
-      "company": "RTX",
-      "title": "Software Engineer I (Hybrid - Aguadilla, PR)",
-      "location": "Aguadilla, PR",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-24",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=5b944ea8-9b08-44e3-a500-d1c2c273efc6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--Hybrid---Aguadilla--PR-_01864890-2"
     },
     {
       "id": "de57c3d0-72f3-4a3e-b377-d5218581e2f6",
@@ -797,44 +761,6 @@
       "listingUrl": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-108739"
     },
     {
-      "id": "50a25693-781c-40e9-b345-967c4e1d81a7",
-      "company": "HP",
-      "title": "Software and Engineering Graduate Roles - HP Solutions (HPS)",
-      "location": "Fort Collins, CO",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-21",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=HP&job=50a25693-781c-40e9-b345-967c4e1d81a7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/Fort-Collins-Colorado-United-States-of-America/Software-and-Engineering-Graduate-Roles---HP-Solutions--HPS-_3167276"
-    },
-    {
-      "id": "custom:microsoft:8a2cc77b4b241f96367e",
-      "company": "Microsoft",
-      "title": "Pre-Training",
-      "location": "US",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-21",
-      "age": "6d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:6984f806da11ed694bbe",
-      "company": "Microsoft",
-      "title": "Software Engineering IC2",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-21",
-      "age": "6d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972157",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972157",
-      "applySupported": false
-    },
-    {
       "id": "2a4d7f98-c3a5-48e5-8f0d-920314f53f20",
       "company": "Pae",
       "title": "Software Programmer - Entry Level",
@@ -857,18 +783,6 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Quickenloans&job=49bef747-c371-45e0-a524-5475cb4bdce7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930"
-    },
-    {
-      "id": "a950faf7-5ced-43a8-b51d-60f57e64f425",
-      "company": "RTX",
-      "title": "Software Engineer I, Onsite",
-      "location": "Ft Wayne, IN",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-21",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=a950faf7-5ced-43a8-b51d-60f57e64f425&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I--Onsite_01868070"
     },
     {
       "id": "4ba82972-5fcb-48be-9839-367c6b08e90b",
@@ -943,30 +857,6 @@
       "listingUrl": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-261277"
     },
     {
-      "id": "0f828d0f-14f8-46f0-8dc3-e3518c69c54a",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Aurora, CO",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-20",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=0f828d0f-14f8-46f0-8dc3-e3518c69c54a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineer-I--Onsite-_01868305"
-    },
-    {
-      "id": "2058bdcc-252f-4885-a0f9-df029c6b2544",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Melbourne, FL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-20",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=2058bdcc-252f-4885-a0f9-df029c6b2544&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-FL-MELBOURNE-307--1100-W-Hibiscus-Blvd--BLDG-307/Software-Engineer-I--Onsite-_01866124"
-    },
-    {
       "id": "be3b3bed-964d-4027-97ea-f6d58168fb94",
       "company": "Bitdeer Technologies Group",
       "title": "SRE Platform Software Engineer (Early Career / Temporary)",
@@ -1001,19 +891,6 @@
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=JND&job=bd64bc48-0cba-4265-a7c5-041ddc2355cc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jnd-inc.breezy.hr/p/87fd346a82c7-entry-level-software-tester-2608-2"
-    },
-    {
-      "id": "custom:microsoft:698bf1cfd0197fa8f311",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-19",
-      "age": "8d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "applySupported": false
     },
     {
       "id": "1cfa0c53-d6a0-4a73-9c2c-b4c095cb0bdf",
@@ -1146,6 +1023,18 @@
       "age": "9d",
       "url": "https://applyguy.ai/jobs?company=Koah&job=d9007a83-d60a-4e5e-9d1e-7bbba6779db3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/koahlabs/197c931d-3cda-44b3-b26b-470976730808"
+    },
+    {
+      "id": "8ab05158-a45c-452e-bafa-d9018cccdf2b",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Aurora, CO",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-18",
+      "age": "9d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=8ab05158-a45c-452e-bafa-d9018cccdf2b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineer-I--Onsite-_01867905"
     },
     {
       "id": "6e93fdd4-65cc-4999-b014-fad9d59fd0e6",
@@ -2240,18 +2129,6 @@
       "age": "23d",
       "url": "https://applyguy.ai/jobs?company=Freedom+Technology+Solutions+Group&job=de05d50f-9382-482f-9bb1-2deacdcc5499&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5203005007"
-    },
-    {
-      "id": "f8a63e11-6831-4d72-b8c5-e87d796395a6",
-      "company": "Gentex",
-      "title": "Embedded Software Engineer I",
-      "location": "Zeeland, MI",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-04",
-      "age": "23d",
-      "url": "https://applyguy.ai/jobs?company=Gentex&job=f8a63e11-6831-4d72-b8c5-e87d796395a6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://gentex.wd5.myworkdayjobs.com/gentex/job/Zeeland-MI/Embedded-Software-Engineer-I_REQ026014"
     },
     {
       "id": "6f085430-1a23-4d26-ab87-c223adf8b48b",
