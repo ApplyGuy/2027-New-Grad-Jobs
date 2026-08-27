@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T23:15:42.005Z",
+  "updatedAt": "2026-08-27T23:31:13.900Z",
   "jobs": [
     {
       "id": "45e13644-1357-421e-a2f9-680aa38524f0",
@@ -12,6 +12,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=ASM&job=45e13644-1357-421e-a2f9-680aa38524f0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.asm.com/open-vacancies/?gh_jid=4876722101"
+    },
+    {
+      "id": "05bad1af-9630-46a2-94af-49dd26825599",
+      "company": "Dexcom",
+      "title": "Software Development Engineer 1",
+      "location": "Remote, U.S.",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-27",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Dexcom&job=05bad1af-9630-46a2-94af-49dd26825599&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://dexcom.wd1.myworkdayjobs.com/dexcom/job/Remote---United-States/Software-Development-Engineer-1_JR120540"
+    },
+    {
+      "id": "718e723e-176a-4d51-8a71-3a3bcaa91e43",
+      "company": "Esri",
+      "title": "Software Development Engineer I - AWS",
+      "location": "Redlands, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-27",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Esri&job=718e723e-176a-4d51-8a71-3a3bcaa91e43&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://www.esri.com/careers/5220060007?gh_jid=5220060007"
     },
     {
       "id": "65772c20-ea73-4992-8437-59f401402ffd",
