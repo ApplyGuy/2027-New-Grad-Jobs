@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T16:30:41.117Z",
+  "updatedAt": "2026-08-27T16:46:46.137Z",
   "jobs": [
     {
       "id": "45e13644-1357-421e-a2f9-680aa38524f0",
@@ -48,6 +48,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Snc&job=f15077dd-7f2a-49c2-96c2-1c1aac8b2ca5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0030529"
+    },
+    {
+      "id": "4911bef7-2906-4d0a-ba8b-09fc4a101fa1",
+      "company": "Wfscorp",
+      "title": "IT Software Engineer I",
+      "location": "San Jose, COSTA RICA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-27",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Wfscorp&job=4911bef7-2906-4d0a-ba8b-09fc4a101fa1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/SAN-JOSE-COSTA-RICA/IT-Software-Engineer-I_R22899"
     },
     {
       "id": "custom:amazon:1bcd77e56ccd10ad7bf3",
