@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T22:16:10.704Z",
+  "updatedAt": "2026-08-27T22:31:12.814Z",
   "jobs": [
     {
       "id": "45e13644-1357-421e-a2f9-680aa38524f0",
@@ -61,6 +61,18 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556972217",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972217",
       "applySupported": false
+    },
+    {
+      "id": "e2103f32-f0ef-42ad-be81-a8d829ed5941",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Richardson, TX",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-27",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=e2103f32-f0ef-42ad-be81-a8d829ed5941&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01869922"
     },
     {
       "id": "42c91976-2604-4f22-89cd-a10106324d71",
