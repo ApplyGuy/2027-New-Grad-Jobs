@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T04:01:17.061Z",
+  "updatedAt": "2026-08-27T04:16:07.536Z",
   "jobs": [
     {
       "id": "custom:amazon:1bcd77e56ccd10ad7bf3",
@@ -157,6 +157,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=99df2fc7-2911-4cc6-8a8f-ff3412e3da95&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Huntsville-AL/Junior-Software-Engineer---Kinetic-Effects_R-00189064"
+    },
+    {
+      "id": "e0950b6a-7e73-4bf0-9af2-72ce9f073e2a",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Tucson, AZ",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-26",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=e0950b6a-7e73-4bf0-9af2-72ce9f073e2a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Software-Engineer-I--Onsite-_01868770"
     },
     {
       "id": "8e37a80e-35b8-48fa-ae08-fa518e298c96",
@@ -883,18 +895,6 @@
       "listingUrl": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-261277"
     },
     {
-      "id": "f5c636f4-9b34-4caa-bec7-098ff43d5816",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Tucson, AZ",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-20",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=f5c636f4-9b34-4caa-bec7-098ff43d5816&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01868189-1"
-    },
-    {
       "id": "0f828d0f-14f8-46f0-8dc3-e3518c69c54a",
       "company": "RTX",
       "title": "Software Engineer I (Onsite)",
@@ -965,19 +965,6 @@
       "age": "8d",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:6b64606a1fd63afbb43a",
-      "company": "Microsoft",
-      "title": "Software Engineer",
-      "location": "US",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-19",
-      "age": "8d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556928331",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556928331",
       "applySupported": false
     },
     {
@@ -2460,18 +2447,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/appian/jobs/8041241"
     },
     {
-      "id": "6d5dca40-2b2e-40e0-82cf-2488b5a27e24",
-      "company": "Cerebras Systems",
-      "title": "ML Software Engineer - Integration & Quality - New Grad",
-      "location": "US and Canada Offices",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-07-23",
-      "age": "35d",
-      "url": "https://applyguy.ai/jobs?company=Cerebras+Systems&job=6d5dca40-2b2e-40e0-82cf-2488b5a27e24&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.ashbyhq.com/cerebras/05fd05ea-b515-4c26-851e-b3882dfba154"
-    },
-    {
       "id": "a77dd5ef-fb80-4ae0-8f7d-498e62fff2e5",
       "company": "Cortina",
       "title": "Data Engineer (entry-level)",
@@ -2626,18 +2601,6 @@
       "age": "35d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=04f0f0fc-5c62-4b6c-9826-ed24c37bcf95&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01861434"
-    },
-    {
-      "id": "cecf1976-b4d3-453a-b4d9-ea3ed72a6efe",
-      "company": "Zello",
-      "title": "Software Engineer I - AI Generalist",
-      "location": "Austin, TX",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-23",
-      "age": "35d",
-      "url": "https://applyguy.ai/jobs?company=Zello&job=cecf1976-b4d3-453a-b4d9-ea3ed72a6efe&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.ashbyhq.com/zello/66de7a50-17cb-42aa-87eb-cd40c637338e"
     },
     {
       "id": "custom:amazon:b8631d9dfbf290884cd3",
@@ -2965,7 +2928,7 @@
       "listingUrl": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Software-Engineer-I_R0016664"
     },
     {
-      "id": "b2aaed45-a5bb-4a9b-b91a-6ac0121afcca",
+      "id": "6cf5ac51-4c91-4148-aaba-a328718ab5fe",
       "company": "NVIDIA",
       "title": "Systems Software Engineer, Accelerated Kubernetes Performance and Scale - New College Grad 2026",
       "location": "Santa Clara, CA",
@@ -2973,8 +2936,8 @@
       "matchKind": "explicit",
       "posted": "2026-07-17",
       "age": "41d",
-      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=b2aaed45-a5bb-4a9b-b91a-6ac0121afcca&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer--Accelerated-Kubernetes-Performance-and-Scale---New-College-Grad-2026_JR2020957"
+      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=6cf5ac51-4c91-4148-aaba-a328718ab5fe&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Systems-Software-Engineer--Accelerated-Kubernetes-Performance-and-Scale---New-College-Grad-2026_JR2020957"
     },
     {
       "id": "194b37d9-f974-494d-93e0-f466d4d50e75",
@@ -3289,18 +3252,6 @@
       "listingUrl": "https://www.akunacapital.com/careers/job/8013230/?gh_jid=8013230"
     },
     {
-      "id": "fb8da978-7c30-4985-9ead-644bef866e43",
-      "company": "Boeing",
-      "title": "Entry-Level Software Engineer–Developer",
-      "location": "Richardson, TX",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-07-13",
-      "age": "45d",
-      "url": "https://applyguy.ai/jobs?company=Boeing&job=fb8da978-7c30-4985-9ead-644bef866e43&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026512717-2"
-    },
-    {
       "id": "8e0c87b3-2594-40aa-a80d-c3f93f48f656",
       "company": "Hudson River Trading",
       "title": "Software Engineer (C++ or Python) – 2027 Grads",
@@ -3395,18 +3346,6 @@
       "age": "45d",
       "url": "https://applyguy.ai/jobs?company=Whatnot&job=5f8eb031-5a5d-4303-9299-a6a6c6c363df&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/whatnot/bc8f8c7f-2c4c-4f43-a238-953568c101b8"
-    },
-    {
-      "id": "859a3e62-d443-483d-b858-04a43138d539",
-      "company": "Wyetech",
-      "title": "Software Engineer 1",
-      "location": "Annapolis Junction, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-13",
-      "age": "45d",
-      "url": "https://applyguy.ai/jobs?company=Wyetech&job=859a3e62-d443-483d-b858-04a43138d539&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.lever.co/wyetechllc/bafed41c-803d-416d-bb6d-402e52b6ca18"
     },
     {
       "id": "76c8fc31-528a-4a8c-8c96-daec389edd7c",
