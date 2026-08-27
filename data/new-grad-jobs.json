@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T16:01:11.752Z",
+  "updatedAt": "2026-08-27T16:16:42.259Z",
   "jobs": [
     {
       "id": "45e13644-1357-421e-a2f9-680aa38524f0",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=ASM&job=45e13644-1357-421e-a2f9-680aa38524f0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.asm.com/open-vacancies/?gh_jid=4876722101"
+    },
+    {
+      "id": "65772c20-ea73-4992-8437-59f401402ffd",
+      "company": "Hatch IT",
+      "title": "Junior Data Engineer (DEA)",
+      "location": "Arlington, VA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-27",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Hatch+IT&job=65772c20-ea73-4992-8437-59f401402ffd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.lever.co/hatchit/7f2e771d-2363-4e85-b62f-ca130c478a97"
     },
     {
       "id": "3c29cbae-3f5d-49b6-b184-2f8cf16a92d8",
