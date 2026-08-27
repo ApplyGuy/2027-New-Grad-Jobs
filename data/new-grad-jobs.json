@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T18:16:33.522Z",
+  "updatedAt": "2026-08-27T18:31:10.102Z",
   "jobs": [
     {
       "id": "45e13644-1357-421e-a2f9-680aa38524f0",
@@ -62,7 +62,7 @@
       "listingUrl": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0030529"
     },
     {
-      "id": "4911bef7-2906-4d0a-ba8b-09fc4a101fa1",
+      "id": "cdd824aa-111e-4415-a3a3-21986b48388d",
       "company": "Wfscorp",
       "title": "IT Software Engineer I",
       "location": "San Jose, COSTA RICA",
@@ -70,8 +70,8 @@
       "matchKind": "entry_level",
       "posted": "2026-08-27",
       "age": "Today",
-      "url": "https://applyguy.ai/jobs?company=Wfscorp&job=4911bef7-2906-4d0a-ba8b-09fc4a101fa1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/SAN-JOSE-COSTA-RICA/IT-Software-Engineer-I_R22899"
+      "url": "https://applyguy.ai/jobs?company=Wfscorp&job=cdd824aa-111e-4415-a3a3-21986b48388d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/SAN-JOSE-COSTA-RICA/IT-Software-Engineer-I_R22928"
     },
     {
       "id": "custom:amazon:1bcd77e56ccd10ad7bf3",
@@ -761,6 +761,32 @@
       "listingUrl": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-108739"
     },
     {
+      "id": "custom:microsoft:8a2cc77b4b241f96367e",
+      "company": "Microsoft",
+      "title": "Pre-Training",
+      "location": "US",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-21",
+      "age": "6d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:6984f806da11ed694bbe",
+      "company": "Microsoft",
+      "title": "Software Engineering IC2",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-21",
+      "age": "6d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972157",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972157",
+      "applySupported": false
+    },
+    {
       "id": "2a4d7f98-c3a5-48e5-8f0d-920314f53f20",
       "company": "Pae",
       "title": "Software Programmer - Entry Level",
@@ -891,6 +917,19 @@
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=JND&job=bd64bc48-0cba-4265-a7c5-041ddc2355cc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jnd-inc.breezy.hr/p/87fd346a82c7-entry-level-software-tester-2608-2"
+    },
+    {
+      "id": "custom:microsoft:698bf1cfd0197fa8f311",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-19",
+      "age": "8d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "applySupported": false
     },
     {
       "id": "1cfa0c53-d6a0-4a73-9c2c-b4c095cb0bdf",
