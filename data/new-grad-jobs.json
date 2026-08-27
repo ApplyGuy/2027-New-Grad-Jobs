@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T20:01:06.646Z",
+  "updatedAt": "2026-08-27T20:15:49.740Z",
   "jobs": [
     {
       "id": "45e13644-1357-421e-a2f9-680aa38524f0",
@@ -121,6 +121,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Cubic&job=d1fb2f89-6402-4cfd-afd3-05c0f8bd9b27&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://cubic.wd1.myworkdayjobs.com/cubic_usa_careers/job/Ashburn-Virginia/Software-Engineer-I---Unified-Video-Sustainment_REQ_49558"
+    },
+    {
+      "id": "7e652669-ea14-4e37-89c9-828de03b86a8",
+      "company": "Delta Solutions & Strategies",
+      "title": "Junior Software Engineer",
+      "location": "Colorado Springs, CO",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-26",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Delta+Solutions+%26+Strategies&job=7e652669-ea14-4e37-89c9-828de03b86a8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.lever.co/deltasands/78ed860f-7c69-4888-9a05-e8c9006be291"
     },
     {
       "id": "40c92df4-6d4e-4024-8643-4d9368c80fc3",
