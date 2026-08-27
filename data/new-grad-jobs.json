@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-27T15:16:35.729Z",
+  "updatedAt": "2026-08-27T15:31:10.925Z",
   "jobs": [
+    {
+      "id": "45e13644-1357-421e-a2f9-680aa38524f0",
+      "company": "ASM",
+      "title": "Software Engineer - Early Career (Fall 2026)",
+      "location": "Phoenix, AZ",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-27",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=ASM&job=45e13644-1357-421e-a2f9-680aa38524f0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://www.asm.com/open-vacancies/?gh_jid=4876722101"
+    },
     {
       "id": "3c29cbae-3f5d-49b6-b184-2f8cf16a92d8",
       "company": "RTX",
@@ -12,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=3c29cbae-3f5d-49b6-b184-2f8cf16a92d8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Software-Engineer-I--Onsite-_01870005"
+    },
+    {
+      "id": "f15077dd-7f2a-49c2-96c2-1c1aac8b2ca5",
+      "company": "Snc",
+      "title": "Software Engineer I",
+      "location": "Lone Tree, CO",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-27",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Snc&job=f15077dd-7f2a-49c2-96c2-1c1aac8b2ca5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0030529"
     },
     {
       "id": "custom:amazon:1bcd77e56ccd10ad7bf3",
