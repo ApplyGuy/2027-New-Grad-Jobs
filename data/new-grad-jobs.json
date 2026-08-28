@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-28T16:31:26.496Z",
+  "updatedAt": "2026-08-28T16:45:57.557Z",
   "jobs": [
+    {
+      "id": "d72c8f4b-5812-4061-bfb9-cd91e9f3bf9c",
+      "company": "Ace",
+      "title": "Associate Data Engineer",
+      "location": "Costa Mesa, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Ace&job=d72c8f4b-5812-4061-bfb9-cd91e9f3bf9c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Associate-Data-Engineer_JR202638846"
+    },
     {
       "id": "7e61698f-0802-4b0a-a55d-9d51056f6d05",
       "company": "Kbr",
