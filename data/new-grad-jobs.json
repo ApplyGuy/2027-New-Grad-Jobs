@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T07:00:43.046Z",
+  "updatedAt": "2026-08-28T07:16:42.459Z",
   "jobs": [
     {
       "id": "afc69f25-5f91-471d-875e-e2b3a9cfb972",
@@ -916,19 +916,6 @@
       "age": "7d",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:6984f806da11ed694bbe",
-      "company": "Microsoft",
-      "title": "Software Engineering IC2",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-21",
-      "age": "7d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972157",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972157",
       "applySupported": false
     },
     {
