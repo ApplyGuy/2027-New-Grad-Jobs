@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T18:16:10.312Z",
+  "updatedAt": "2026-08-28T18:31:16.500Z",
   "jobs": [
     {
       "id": "d72c8f4b-5812-4061-bfb9-cd91e9f3bf9c",
@@ -277,18 +277,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Snc&job=f15077dd-7f2a-49c2-96c2-1c1aac8b2ca5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0030529"
-    },
-    {
-      "id": "cdd824aa-111e-4415-a3a3-21986b48388d",
-      "company": "Wfscorp",
-      "title": "IT Software Engineer I",
-      "location": "San Jose, COSTA RICA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-27",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Wfscorp&job=cdd824aa-111e-4415-a3a3-21986b48388d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/SAN-JOSE-COSTA-RICA/IT-Software-Engineer-I_R22928"
     },
     {
       "id": "custom:amazon:1bcd77e56ccd10ad7bf3",
@@ -3768,18 +3756,6 @@
       "age": "59d",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=fef184eb-bd35-47fe-9e4a-9dc5525ae667&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Gaithersburg-MD/Software-Developer_R-00183469"
-    },
-    {
-      "id": "2ff4a8fd-df6a-4a9a-9a48-33082d60eba6",
-      "company": "ASSYST, Inc.",
-      "title": "Junior Full Stack Developer",
-      "location": "Sterling, VA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-06-29",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=ASSYST%2C+Inc.&job=2ff4a8fd-df6a-4a9a-9a48-33082d60eba6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/assystinc/jobs/4301083009"
     }
   ]
 }
