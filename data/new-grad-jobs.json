@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T17:46:37.763Z",
+  "updatedAt": "2026-08-28T18:01:23.998Z",
   "jobs": [
     {
       "id": "d72c8f4b-5812-4061-bfb9-cd91e9f3bf9c",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Kbr&job=7e61698f-0802-4b0a-a55d-9d51056f6d05&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Colorado-Springs-Colorado/Jr-Software-Developer-Astro-Engineer_R2129077"
+    },
+    {
+      "id": "e504539a-f5a4-42fb-8533-bb8a82706020",
+      "company": "Leidos",
+      "title": "Junior Software Engineer",
+      "location": "Laurel, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Leidos&job=e504539a-f5a4-42fb-8533-bb8a82706020&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Laurel-MD/Junior-Software-Engineer_R-00190592"
     },
     {
       "id": "abfacdb1-6826-4555-b9c4-e73216d5ba55",
@@ -316,18 +328,6 @@
       "listingUrl": "https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Draper-UT/Entry-Level-Software-Engineer--Draper--UT-_R202681804"
     },
     {
-      "id": "d1fb2f89-6402-4cfd-afd3-05c0f8bd9b27",
-      "company": "Cubic",
-      "title": "Software Engineer I – Unified Video Sustainment",
-      "location": "Ashburn, VA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-26",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=Cubic&job=d1fb2f89-6402-4cfd-afd3-05c0f8bd9b27&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://cubic.wd1.myworkdayjobs.com/cubic_usa_careers/job/Ashburn-Virginia/Software-Engineer-I---Unified-Video-Sustainment_REQ_49558"
-    },
-    {
       "id": "7e652669-ea14-4e37-89c9-828de03b86a8",
       "company": "Delta Solutions & Strategies",
       "title": "Junior Software Engineer",
@@ -436,18 +436,6 @@
       "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Warren-Michigan-United-States-of-America/Entry-Level-Software-Engineer_JR-202616904"
     },
     {
-      "id": "e504539a-f5a4-42fb-8533-bb8a82706020",
-      "company": "Leidos",
-      "title": "Junior Software Engineer",
-      "location": "Laurel, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-26",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=Leidos&job=e504539a-f5a4-42fb-8533-bb8a82706020&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Laurel-MD/Junior-Software-Engineer_R-00190592"
-    },
-    {
       "id": "99df2fc7-2911-4cc6-8a8f-ff3412e3da95",
       "company": "Leidos",
       "title": "Junior Software Engineer - Kinetic Effects",
@@ -458,6 +446,18 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=99df2fc7-2911-4cc6-8a8f-ff3412e3da95&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Huntsville-AL/Junior-Software-Engineer---Kinetic-Effects_R-00189064"
+    },
+    {
+      "id": "4fa96a88-083d-4812-a0d1-6c9b512faebb",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Cedar Rapids, IA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-26",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=4fa96a88-083d-4812-a0d1-6c9b512faebb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineer-I--Onsite-_01864603"
     },
     {
       "id": "8e37a80e-35b8-48fa-ae08-fa518e298c96",
@@ -652,18 +652,6 @@
       "listingUrl": "https://harriscomputer.wd3.myworkdayjobs.com/htn/job/Tennessee-United-States/Associate-Software-Engineer--RPG_R0045601"
     },
     {
-      "id": "ae0de63c-b1ad-4109-ae08-b4f6a856c0de",
-      "company": "Leidos",
-      "title": "Junior Software Engineer – AI/ML Applications",
-      "location": "Huntsville, AL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-25",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=Leidos&job=ae0de63c-b1ad-4109-ae08-b4f6a856c0de&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Huntsville-AL/Junior-Software-Engineer---AI-ML-Applications_R-00190164"
-    },
-    {
       "id": "0a963204-6332-496d-93bd-f2ef70483729",
       "company": "Metron",
       "title": "Associate Software Engineer",
@@ -722,18 +710,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Prophet+Security&job=65d2d79f-2141-4350-a344-f529146e250c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/prophet-security/51415149-9b19-4164-84b9-2ffa78478069"
-    },
-    {
-      "id": "7f6b4e0e-e03f-4879-b893-fd7b9cb5dac7",
-      "company": "RTX",
-      "title": "Software Engineer I  (Onsite)",
-      "location": "Cedar Rapids, IA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-25",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=7f6b4e0e-e03f-4879-b893-fd7b9cb5dac7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I---Onsite-_01868242"
     },
     {
       "id": "02b427fa-d862-4b7d-b239-9efc73ed9065",
@@ -808,18 +784,6 @@
       "listingUrl": "https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Associate-Data-Engineer_JR-025987"
     },
     {
-      "id": "a978a53d-5a12-4231-9175-8863cf93acc9",
-      "company": "zebra",
-      "title": "Software Engineer I",
-      "location": "Lincolnshire, IL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-25",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=zebra&job=a978a53d-5a12-4231-9175-8863cf93acc9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://zebra.wd501.myworkdayjobs.com/zebra_careers/job/Lincolnshire-Illinois/Software-Engineer-I_JR102952"
-    },
-    {
       "id": "507000ce-6ec6-407d-99ce-bd3136e8e436",
       "company": "carislifesciences",
       "title": "Associate Software Engineer",
@@ -830,18 +794,6 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=carislifesciences&job=507000ce-6ec6-407d-99ce-bd3136e8e436&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://carislifesciences.wd12.myworkdayjobs.com/cls/job/Irving-TX---75039/Associate-Software-Engineer_JR105464"
-    },
-    {
-      "id": "b048e099-00f4-4bfc-8f2f-70c3e4e190f2",
-      "company": "Cisco",
-      "title": "Software Engineer I (Full Time) - United States",
-      "location": "Milpitas California",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-24",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=Cisco&job=b048e099-00f4-4bfc-8f2f-70c3e4e190f2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer-I--Full-Time----United-States_2023527"
     },
     {
       "id": "custom:google:84680705375642310",
@@ -1701,18 +1653,6 @@
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer-Software-Engineer_R10245233"
     },
     {
-      "id": "ee8c9cfc-55b0-42ae-8df6-4bbeb4bb423d",
-      "company": "Pae",
-      "title": "Jr Software Developer",
-      "location": "Dahlgren, VA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-12",
-      "age": "16d",
-      "url": "https://applyguy.ai/jobs?company=Pae&job=ee8c9cfc-55b0-42ae-8df6-4bbeb4bb423d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Dahlgren/Jr-Software-Developer_R0168146"
-    },
-    {
       "id": "b935bac0-9a29-45cb-820c-0bf9dd323d3d",
       "company": "Resmed",
       "title": "Associate Software Engineer",
@@ -1975,18 +1915,6 @@
       "age": "18d",
       "url": "https://applyguy.ai/jobs?company=Strategic+Legal+Practices&job=e99f5def-1e5e-4d1a-a7da-cdaf542177b7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.workable.com/view/hz34V1e7BTSjVyHjiEAweo/junior-data-engineer-in-los-angeles-at-strategic-legal-practices"
-    },
-    {
-      "id": "64d6ae29-bff4-4794-86a9-1d33c552c121",
-      "company": "Swift",
-      "title": "Associate Software Developer C++/Java",
-      "location": "Manassas, VA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-10",
-      "age": "18d",
-      "url": "https://applyguy.ai/jobs?company=Swift&job=64d6ae29-bff4-4794-86a9-1d33c552c121&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://swift.wd3.myworkdayjobs.com/join-swift/job/Manassas-United-States/Associate-Software-Developer-C---Java_2026-16010-1"
     },
     {
       "id": "92ba6730-db6f-4e9d-9f6f-9574003d47c9",
@@ -2565,18 +2493,6 @@
       "age": "35d",
       "url": "https://applyguy.ai/jobs?company=Solerity&job=2d2c7a27-edeb-49d0-922b-ef98ac4ac327&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4272523"
-    },
-    {
-      "id": "16ae421d-e20e-4a2a-8e0d-f40b0d4c4821",
-      "company": "Strongtie",
-      "title": "Associate Software Engineer — Cloud Services & API Platform (C#/Azure track)",
-      "location": "Plano, TX",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-24",
-      "age": "35d",
-      "url": "https://applyguy.ai/jobs?company=Strongtie&job=16ae421d-e20e-4a2a-8e0d-f40b0d4c4821&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://strongtie.wd1.myworkdayjobs.com/external/job/Plano-TX/Associate-Software-Engineer---Cloud-Services---API-Platform--C--Azure-track-_R7829"
     },
     {
       "id": "6f134f95-bc72-419e-b0dc-1188af252bf4",
