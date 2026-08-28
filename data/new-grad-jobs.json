@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T14:30:45.733Z",
+  "updatedAt": "2026-08-28T14:46:11.782Z",
   "jobs": [
     {
       "id": "7e61698f-0802-4b0a-a55d-9d51056f6d05",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Kbr&job=7e61698f-0802-4b0a-a55d-9d51056f6d05&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Colorado-Springs-Colorado/Jr-Software-Developer-Astro-Engineer_R2129077"
+    },
+    {
+      "id": "abfacdb1-6826-4555-b9c4-e73216d5ba55",
+      "company": "Nwis",
+      "title": "Software Engineer I",
+      "location": "Sterling, VA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Nwis&job=abfacdb1-6826-4555-b9c4-e73216d5ba55&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://nwis.wd12.myworkdayjobs.com/nw/job/Sterling-VA/Software-Engineer-I_JR101958"
     },
     {
       "id": "afc69f25-5f91-471d-875e-e2b3a9cfb972",
@@ -3828,18 +3840,6 @@
       "age": "60d",
       "url": "https://applyguy.ai/jobs?company=ASSYST%2C+Inc.&job=2ff4a8fd-df6a-4a9a-9a48-33082d60eba6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/assystinc/jobs/4301083009"
-    },
-    {
-      "id": "3ed87b82-36f4-468a-8eef-59def5298159",
-      "company": "Palantir Technologies",
-      "title": "Forward Deployed Software Engineer, New Grad - Commercial",
-      "location": "Chicago, IL",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-06-29",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Palantir+Technologies&job=3ed87b82-36f4-468a-8eef-59def5298159&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40"
     },
     {
       "id": "31678f1b-8f8c-4382-b794-e63165e87362",
