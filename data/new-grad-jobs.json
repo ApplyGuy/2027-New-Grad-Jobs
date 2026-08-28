@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T18:01:23.998Z",
+  "updatedAt": "2026-08-28T18:16:10.312Z",
   "jobs": [
     {
       "id": "d72c8f4b-5812-4061-bfb9-cd91e9f3bf9c",
@@ -3780,18 +3780,6 @@
       "age": "60d",
       "url": "https://applyguy.ai/jobs?company=ASSYST%2C+Inc.&job=2ff4a8fd-df6a-4a9a-9a48-33082d60eba6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/assystinc/jobs/4301083009"
-    },
-    {
-      "id": "31678f1b-8f8c-4382-b794-e63165e87362",
-      "company": "Saalex",
-      "title": "Junior Software Developer",
-      "location": "Lexington Park, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-06-29",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Saalex&job=31678f1b-8f8c-4382-b794-e63165e87362&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.workable.com/view/sp2KLeEsmsAg2AJ92yukGH/junior-software-developer-in-lexington-park-at-saalex"
     }
   ]
 }
