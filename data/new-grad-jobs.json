@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T04:00:50.914Z",
+  "updatedAt": "2026-08-28T04:16:40.707Z",
   "jobs": [
     {
       "id": "45e13644-1357-421e-a2f9-680aa38524f0",
@@ -338,18 +338,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=99df2fc7-2911-4cc6-8a8f-ff3412e3da95&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Huntsville-AL/Junior-Software-Engineer---Kinetic-Effects_R-00189064"
-    },
-    {
-      "id": "e0950b6a-7e73-4bf0-9af2-72ce9f073e2a",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Tucson, AZ",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-26",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=e0950b6a-7e73-4bf0-9af2-72ce9f073e2a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Software-Engineer-I--Onsite-_01868770"
     },
     {
       "id": "8e37a80e-35b8-48fa-ae08-fa518e298c96",
@@ -978,6 +966,18 @@
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=Roberthalf&job=3cbc2b10-d9ab-4cc6-9e02-997ae8443a12&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-261277"
+    },
+    {
+      "id": "f5c636f4-9b34-4caa-bec7-098ff43d5816",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Tucson, AZ",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-20",
+      "age": "8d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=f5c636f4-9b34-4caa-bec7-098ff43d5816&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01868189-1"
     },
     {
       "id": "be3b3bed-964d-4027-97ea-f6d58168fb94",
@@ -2472,18 +2472,6 @@
       "listingUrl": "https://strongtie.wd1.myworkdayjobs.com/external/job/Plano-TX/Associate-Software-Engineer---Cloud-Services---API-Platform--C--Azure-track-_R7829"
     },
     {
-      "id": "d94669ec-ceb8-478f-aca8-360377140ca0",
-      "company": "AeroVironment",
-      "title": "Software Engineer I (Apps)",
-      "location": "Melbourne, FL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-23",
-      "age": "36d",
-      "url": "https://applyguy.ai/jobs?company=AeroVironment&job=d94669ec-ceb8-478f-aca8-360377140ca0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://avav.wd1.myworkdayjobs.com/avav/job/Melbourne-FL/Software-Engineer-III--Apps-_7569"
-    },
-    {
       "id": "6f134f95-bc72-419e-b0dc-1188af252bf4",
       "company": "Appian Corporation",
       "title": "Software Engineer (2027 Graduates)",
@@ -2554,30 +2542,6 @@
       "age": "36d",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=7dbdf7dc-4df1-4363-ba69-411da76f152d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/Associate-Software-Engineer---Software-Engineer_R10239254"
-    },
-    {
-      "id": "df3d3cb1-db3f-4e10-839b-e7d17151123a",
-      "company": "NVIDIA",
-      "title": "AI and ML Infra Software Engineer, GPU Clusters - New College Grad 2026",
-      "location": "Santa Clara, CA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-07-23",
-      "age": "36d",
-      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=df3d3cb1-db3f-4e10-839b-e7d17151123a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-ML-Infra-Software-Engineer--GPU-Clusters---New-College-Grad-2026_JR2021591"
-    },
-    {
-      "id": "854d218e-1cac-42de-9f3e-f9323cbd8603",
-      "company": "NVIDIA",
-      "title": "Software Engineer, Physical Design Infrastructure - New College Grad 2026",
-      "location": "Santa Clara, CA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-07-23",
-      "age": "36d",
-      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=854d218e-1cac-42de-9f3e-f9323cbd8603&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Physical-Design-Infrastructure---New-College-Grad-2026_JR2021823"
     },
     {
       "id": "04c6455f-d5af-450e-b6be-98c24ad85722",
@@ -2687,18 +2651,6 @@
       "age": "37d",
       "url": "https://applyguy.ai/jobs?company=NVIDIA&job=e060da97-4ea9-4e36-97bf-3f1c7ec8a597&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/Software-R-D-Engineer--VLSI-Physical-Design---New-College-Grad-2026_JR2019330"
-    },
-    {
-      "id": "d626d915-b45d-4a1d-96da-b35c1dd55487",
-      "company": "NVIDIA",
-      "title": "Deep Learning Software Engineer, Inference - New College Grad 2026",
-      "location": "Remote, CA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-07-22",
-      "age": "37d",
-      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=d626d915-b45d-4a1d-96da-b35c1dd55487&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Deep-Learning-Software-Engineer--Inference---New-College-Grad-2026_JR2021742"
     },
     {
       "id": "765fe132-378b-4fb8-809c-0149bdac5f4e",
@@ -2975,18 +2927,6 @@
       "age": "42d",
       "url": "https://applyguy.ai/jobs?company=Nidec&job=2d71f0d2-e344-48be-a716-1233fe5c4ae0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Software-Engineer-I_R0016664"
-    },
-    {
-      "id": "6cf5ac51-4c91-4148-aaba-a328718ab5fe",
-      "company": "NVIDIA",
-      "title": "Systems Software Engineer, Accelerated Kubernetes Performance and Scale - New College Grad 2026",
-      "location": "Santa Clara, CA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-07-17",
-      "age": "42d",
-      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=6cf5ac51-4c91-4148-aaba-a328718ab5fe&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Systems-Software-Engineer--Accelerated-Kubernetes-Performance-and-Scale---New-College-Grad-2026_JR2020957"
     },
     {
       "id": "194b37d9-f974-494d-93e0-f466d4d50e75",
@@ -3361,18 +3301,6 @@
       "listingUrl": "https://careers-cadmusgroup.icims.com/jobs/3199/junior-full-stack-developer/job"
     },
     {
-      "id": "0c871cf6-a86a-40cd-b585-7ec618cd944e",
-      "company": "Torc Robotics",
-      "title": "Software Engineer I - Device Drivers",
-      "location": "Ann Arbor, MI",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-13",
-      "age": "46d",
-      "url": "https://applyguy.ai/jobs?company=Torc+Robotics&job=0c871cf6-a86a-40cd-b585-7ec618cd944e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/torcrobotics/jobs/8534177002"
-    },
-    {
       "id": "5ab0dfae-2cce-4b76-97c8-a3095c4b804f",
       "company": "Vast",
       "title": "Software Engineer I, Mission Software",
@@ -3383,18 +3311,6 @@
       "age": "46d",
       "url": "https://applyguy.ai/jobs?company=Vast&job=5ab0dfae-2cce-4b76-97c8-a3095c4b804f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boards.greenhouse.io/vast/jobs/4696685006?gh_jid=4696685006"
-    },
-    {
-      "id": "5f8eb031-5a5d-4303-9299-a6a6c6c363df",
-      "company": "Whatnot",
-      "title": "Software Engineer, New Grad",
-      "location": "New York City, NY",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-07-13",
-      "age": "46d",
-      "url": "https://applyguy.ai/jobs?company=Whatnot&job=5f8eb031-5a5d-4303-9299-a6a6c6c363df&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.ashbyhq.com/whatnot/bc8f8c7f-2c4c-4f43-a238-953568c101b8"
     },
     {
       "id": "76c8fc31-528a-4a8c-8c96-daec389edd7c",
