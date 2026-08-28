@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T04:16:40.707Z",
+  "updatedAt": "2026-08-28T04:30:40.989Z",
   "jobs": [
     {
       "id": "45e13644-1357-421e-a2f9-680aa38524f0",
@@ -97,6 +97,18 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556972217",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972217",
       "applySupported": false
+    },
+    {
+      "id": "a3f898de-9d07-4567-ac1e-f17843bb6c73",
+      "company": "RTX",
+      "title": "Conversion: Software Engineer I (Onsite)",
+      "location": "Cedar Rapids, IA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-27",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=a3f898de-9d07-4567-ac1e-f17843bb6c73&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Conversion--Software-Engineer-I--Onsite-_01867853"
     },
     {
       "id": "e2103f32-f0ef-42ad-be81-a8d829ed5941",
