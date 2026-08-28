@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T18:46:14.342Z",
+  "updatedAt": "2026-08-28T19:01:48.704Z",
   "jobs": [
     {
       "id": "d72c8f4b-5812-4061-bfb9-cd91e9f3bf9c",
@@ -192,19 +192,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Micron&job=89678afc-eaa3-4034-8387-9efecec50b93&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/New-College-Grad---Software-Engineer_JR109692"
-    },
-    {
-      "id": "custom:microsoft:25dae0737b280d944110",
-      "company": "Microsoft",
-      "title": "Software Engineer",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-27",
-      "age": "1d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972217",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972217",
-      "applySupported": false
     },
     {
       "id": "a3f898de-9d07-4567-ac1e-f17843bb6c73",
@@ -906,19 +893,6 @@
       "listingUrl": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-108739"
     },
     {
-      "id": "custom:microsoft:8a2cc77b4b241f96367e",
-      "company": "Microsoft",
-      "title": "Pre-Training",
-      "location": "US",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-21",
-      "age": "7d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
-      "applySupported": false
-    },
-    {
       "id": "2a4d7f98-c3a5-48e5-8f0d-920314f53f20",
       "company": "Pae",
       "title": "Software Programmer - Entry Level",
@@ -1061,19 +1035,6 @@
       "age": "9d",
       "url": "https://applyguy.ai/jobs?company=JND&job=bd64bc48-0cba-4265-a7c5-041ddc2355cc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jnd-inc.breezy.hr/p/87fd346a82c7-entry-level-software-tester-2608-2"
-    },
-    {
-      "id": "custom:microsoft:698bf1cfd0197fa8f311",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-19",
-      "age": "9d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "applySupported": false
     },
     {
       "id": "1cfa0c53-d6a0-4a73-9c2c-b4c095cb0bdf",
