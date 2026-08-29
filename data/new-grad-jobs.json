@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T21:16:06.057Z",
+  "updatedAt": "2026-08-29T21:30:52.851Z",
   "jobs": [
     {
       "id": "d72c8f4b-5812-4061-bfb9-cd91e9f3bf9c",
@@ -24,18 +24,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Kbr&job=7e61698f-0802-4b0a-a55d-9d51056f6d05&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Colorado-Springs-Colorado/Jr-Software-Developer-Astro-Engineer_R2129077"
-    },
-    {
-      "id": "e504539a-f5a4-42fb-8533-bb8a82706020",
-      "company": "Leidos",
-      "title": "Junior Software Engineer",
-      "location": "Laurel, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-28",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Leidos&job=e504539a-f5a4-42fb-8533-bb8a82706020&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Laurel-MD/Junior-Software-Engineer_R-00190592"
     },
     {
       "id": "ccf0ace4-886d-46a3-aa91-bb43d99602ba",
@@ -446,18 +434,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Generalmotors&job=d10069f5-7458-4ec8-becc-d3baacf531cb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Warren-Michigan-United-States-of-America/Entry-Level-Software-Engineer_JR-202616904"
-    },
-    {
-      "id": "99df2fc7-2911-4cc6-8a8f-ff3412e3da95",
-      "company": "Leidos",
-      "title": "Junior Software Engineer - Kinetic Effects",
-      "location": "Huntsville, AL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-26",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=Leidos&job=99df2fc7-2911-4cc6-8a8f-ff3412e3da95&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Huntsville-AL/Junior-Software-Engineer---Kinetic-Effects_R-00189064"
     },
     {
       "id": "4fa96a88-083d-4812-a0d1-6c9b512faebb",
@@ -1581,18 +1557,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/generalmatter/jobs/5375987008"
     },
     {
-      "id": "c66842f1-2012-44cd-9d6b-f9c27f6600d9",
-      "company": "Leidos",
-      "title": "Junior Software Engineer",
-      "location": "Huntsville, AL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-12",
-      "age": "17d",
-      "url": "https://applyguy.ai/jobs?company=Leidos&job=c66842f1-2012-44cd-9d6b-f9c27f6600d9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Huntsville-AL/Junior-Software-Engineer_R-00189408"
-    },
-    {
       "id": "e53effa5-c25a-4154-b524-b92fafd1b446",
       "company": "Lennar",
       "title": "Software Engineer I",
@@ -2686,18 +2650,6 @@
       "age": "38d",
       "url": "https://applyguy.ai/jobs?company=U.S.+Bank&job=80d3afe4-ba49-4178-9f30-e644d5de8693&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Irving-TX/Software-Engineer-1--React---API---Cloud-Migration-_2026-0021655"
-    },
-    {
-      "id": "5e881c4f-7753-4be5-8b9c-aee74b7088bd",
-      "company": "Leidos",
-      "title": "Junior Software Engineer (SWE-1)",
-      "location": "3325 Fort George G. Meade, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-21",
-      "age": "39d",
-      "url": "https://applyguy.ai/jobs?company=Leidos&job=5e881c4f-7753-4be5-8b9c-aee74b7088bd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/3325-Fort-George-G-Meade-MD/Junior-Software-Engineer--SWE-2-_R-00185405"
     },
     {
       "id": "8ec34f1a-137c-4fd2-9967-375d6ac860c7",
