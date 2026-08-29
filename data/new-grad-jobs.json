@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T17:46:14.891Z",
+  "updatedAt": "2026-08-29T18:01:33.235Z",
   "jobs": [
     {
       "id": "d72c8f4b-5812-4061-bfb9-cd91e9f3bf9c",
@@ -72,6 +72,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=PolicyMe&job=76ed44f2-37e4-42b5-b88b-419acbb8d8a4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/policyme/2ad3fd98-21fc-4bbd-aa91-868befe5f699"
+    },
+    {
+      "id": "6f085430-1a23-4d26-ab87-c223adf8b48b",
+      "company": "Remitly",
+      "title": "Software Development Engineer I- IHUB",
+      "location": "Seattle, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-28",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Remitly&job=6f085430-1a23-4d26-ab87-c223adf8b48b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Seattle-Washington-United-States/Software-Development-Engineer-I--IHUB_R_106706"
     },
     {
       "id": "afc69f25-5f91-471d-875e-e2b3a9cfb972",
@@ -676,18 +688,6 @@
       "listingUrl": "https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---SIG-Building/New-College-Grad---Embedded-Firmware-Engineer_JR109306"
     },
     {
-      "id": "812bd563-d821-432e-b3b2-6dd242e540cf",
-      "company": "Northrop Grumman",
-      "title": "2027 Associate Software Engineer / Software Engineer - Huntsville AL",
-      "location": "Huntsville, AL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-25",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=812bd563-d821-432e-b3b2-6dd242e540cf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Huntsville-AL_R10247580-1"
-    },
-    {
       "id": "d28a4422-9dba-493e-80e2-ab78d56d295a",
       "company": "PayIt",
       "title": "Associate Software Engineer",
@@ -868,18 +868,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Wexinc&job=ddf94828-bee8-4b95-998d-7bdd59e588ee&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://wexinc.wd5.myworkdayjobs.com/wexinc/job/US---Remote/Software-Development-Engineer-1_R22758"
-    },
-    {
-      "id": "85bb4a2a-df45-40ff-ada3-87d6fd7b413f",
-      "company": "Boeing",
-      "title": "Associate Software Engineer",
-      "location": "Multiple U.S. locations",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-21",
-      "age": "8d",
-      "url": "https://applyguy.ai/jobs?company=Boeing&job=85bb4a2a-df45-40ff-ada3-87d6fd7b413f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Maryland-Heights-MO/Associate-Software-Engineer_JR2026516706"
     },
     {
       "id": "8efc4f62-f3dd-46a3-b451-150d6bbe1148",
@@ -2288,18 +2276,6 @@
       "age": "25d",
       "url": "https://applyguy.ai/jobs?company=Freedom+Technology+Solutions+Group&job=de05d50f-9382-482f-9bb1-2deacdcc5499&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5203005007"
-    },
-    {
-      "id": "6f085430-1a23-4d26-ab87-c223adf8b48b",
-      "company": "Remitly",
-      "title": "Software Development Engineer I- IHUB",
-      "location": "Seattle, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-04",
-      "age": "25d",
-      "url": "https://applyguy.ai/jobs?company=Remitly&job=6f085430-1a23-4d26-ab87-c223adf8b48b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Seattle-Washington-United-States/Software-Development-Engineer-I--IHUB_R_106706"
     },
     {
       "id": "e98a78b2-5f1a-4bb9-b6e8-4bf175bb26d0",
