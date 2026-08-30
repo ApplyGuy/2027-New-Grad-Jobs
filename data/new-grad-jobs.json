@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T13:01:36.079Z",
+  "updatedAt": "2026-08-30T13:15:41.670Z",
   "jobs": [
     {
       "id": "ccf0ace4-886d-46a3-aa91-bb43d99602ba",
@@ -749,18 +749,6 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
       "applySupported": false
-    },
-    {
-      "id": "49bef747-c371-45e0-a524-5475cb4bdce7",
-      "company": "Quickenloans",
-      "title": "Software Developer I - Search",
-      "location": "San Francisco, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-21",
-      "age": "9d",
-      "url": "https://applyguy.ai/jobs?company=Quickenloans&job=49bef747-c371-45e0-a524-5475cb4bdce7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930"
     },
     {
       "id": "3846eea5-c801-46d0-b74d-644d645524a9",
@@ -1750,18 +1738,6 @@
       "listingUrl": "https://payitgov.com/careers-list?gh_jid=7836825003"
     },
     {
-      "id": "60ad68eb-13ee-4621-a067-d81ed50eba10",
-      "company": "Quickenloans",
-      "title": "Software Engineer I",
-      "location": "Detroit, MI",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-07",
-      "age": "23d",
-      "url": "https://applyguy.ai/jobs?company=Quickenloans&job=60ad68eb-13ee-4621-a067-d81ed50eba10&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Software-Engineer-I_R-083975"
-    },
-    {
       "id": "0db8b6ec-8b8e-4755-b4dd-097d3314da1a",
       "company": "VetsEZ",
       "title": "Junior Software Engineer – Security Release Engineering (SecRel)",
@@ -2340,18 +2316,6 @@
       "listingUrl": "https://tmnas.wd5.myworkdayjobs.com/externalcareerstmnas/job/Bala-Cynwyd-PA/Software-Engineer-I---Java-Hybrid--Bala-Cynwyd--PA_10001038"
     },
     {
-      "id": "8ec34f1a-137c-4fd2-9967-375d6ac860c7",
-      "company": "Quickenloans",
-      "title": "Software Developer I",
-      "location": "Seattle, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-21",
-      "age": "40d",
-      "url": "https://applyguy.ai/jobs?company=Quickenloans&job=8ec34f1a-137c-4fd2-9967-375d6ac860c7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Software-Developer-I_R-083083"
-    },
-    {
       "id": "94ae2f4b-4acb-47b7-9073-2b3234a331f2",
       "company": "Radiancetech",
       "title": "Junior Software Engineer",
@@ -2542,18 +2506,6 @@
       "age": "44d",
       "url": "https://applyguy.ai/jobs?company=PlayStation+Global&job=194b37d9-f974-494d-93e0-f466d4d50e75&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6104600004"
-    },
-    {
-      "id": "9e29ba1f-d8c7-484a-bdb2-504d0f7a07ad",
-      "company": "Quickenloans",
-      "title": "Android Mobile Software Developer I",
-      "location": "Seattle, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-17",
-      "age": "44d",
-      "url": "https://applyguy.ai/jobs?company=Quickenloans&job=9e29ba1f-d8c7-484a-bdb2-504d0f7a07ad&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Android-Mobile-Software-Developer-I_R-083752"
     },
     {
       "id": "eb46757b-9e3d-4bff-887f-c806eb354e90",
@@ -3035,18 +2987,6 @@
       "age": "53d",
       "url": "https://applyguy.ai/jobs?company=Precisely+US+Jobs&job=8f5bf9be-e7be-4114-95e5-568ed21ccfbf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.precisely.com/careers-and-culture/us-jobs/job/4710645005?gh_jid=4710645005"
-    },
-    {
-      "id": "94880889-60bd-4d28-9c0b-38592de181c5",
-      "company": "Quickenloans",
-      "title": "iOS Mobile Software Developer I",
-      "location": "Seattle, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-08",
-      "age": "53d",
-      "url": "https://applyguy.ai/jobs?company=Quickenloans&job=94880889-60bd-4d28-9c0b-38592de181c5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/iOS-Mobile-Software-Developer-I_R-083670-1"
     },
     {
       "id": "bb5edcd3-b6b1-48e6-97e7-cecc851ff718",
