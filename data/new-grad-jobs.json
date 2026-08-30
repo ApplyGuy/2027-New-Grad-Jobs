@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T18:15:46.017Z",
+  "updatedAt": "2026-08-30T18:31:34.933Z",
   "jobs": [
     {
       "id": "ccf0ace4-886d-46a3-aa91-bb43d99602ba",
@@ -1002,30 +1002,6 @@
       "age": "13d",
       "url": "https://applyguy.ai/jobs?company=CACI&job=0d17efee-c4f5-46fb-b43b-132911ca54db&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Hanover-MD-US/Software-Engineer---Early-Career---Cloud_330679"
-    },
-    {
-      "id": "d366a11f-0781-4893-82d6-19570f31138b",
-      "company": "STR",
-      "title": "Associate Software Engineer",
-      "location": "San Diego, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-17",
-      "age": "13d",
-      "url": "https://applyguy.ai/jobs?company=STR&job=d366a11f-0781-4893-82d6-19570f31138b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4705347006"
-    },
-    {
-      "id": "9833d8ff-761a-4348-b501-4962c10b0456",
-      "company": "STR",
-      "title": "Associate Software Engineer",
-      "location": "Arlington, VA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-17",
-      "age": "13d",
-      "url": "https://applyguy.ai/jobs?company=STR&job=9833d8ff-761a-4348-b501-4962c10b0456&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4705344006"
     },
     {
       "id": "7aba27b6-d0c6-4bdb-b6d7-d9bd20369903",
@@ -2867,18 +2843,6 @@
       "age": "54d",
       "url": "https://applyguy.ai/jobs?company=Precisely+US+Jobs&job=8c1a2243-3a64-4e11-99be-29dd02924f34&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.precisely.com/careers-and-culture/us-jobs/job/4710649005?gh_jid=4710649005"
-    },
-    {
-      "id": "72ca3767-e8b0-4c4c-af0b-8bcab9ea2022",
-      "company": "Reliaquest",
-      "title": "Associate Software Engineer",
-      "location": "Tampa, FL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-07",
-      "age": "54d",
-      "url": "https://applyguy.ai/jobs?company=Reliaquest&job=72ca3767-e8b0-4c4c-af0b-8bcab9ea2022&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://reliaquest.wd5.myworkdayjobs.com/reliaquest_careers/job/Tampa-FL/Associate-Software-Engineer_R15047"
     },
     {
       "id": "bfad72c0-dc28-4aaf-b5f7-8d28f736863f",
