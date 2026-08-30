@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T16:45:49.598Z",
+  "updatedAt": "2026-08-30T17:00:58.988Z",
   "jobs": [
     {
       "id": "ccf0ace4-886d-46a3-aa91-bb43d99602ba",
@@ -3083,18 +3083,6 @@
       "age": "60d",
       "url": "https://applyguy.ai/jobs?company=Optiver&job=ac620da4-fbcf-4c6e-8e6a-99b9cf44391a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.optiver.com/join-us/jobs/8604899002/?gh_jid=8604899002"
-    },
-    {
-      "id": "320f8197-4ddc-4772-b512-12839d066fbe",
-      "company": "Verisign",
-      "title": "Junior Software Engineer",
-      "location": "Reston, VA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-01",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Verisign&job=320f8197-4ddc-4772-b512-12839d066fbe&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/verisign/jobs/7766899003"
     }
   ]
 }
