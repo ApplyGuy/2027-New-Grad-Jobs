@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T22:30:40.814Z",
+  "updatedAt": "2026-08-30T22:46:01.249Z",
   "jobs": [
     {
       "id": "ccf0ace4-886d-46a3-aa91-bb43d99602ba",
@@ -2266,18 +2266,6 @@
       "age": "44d",
       "url": "https://applyguy.ai/jobs?company=Esri&job=7e87a1c0-66cf-4b7b-a98f-4a9a3bd21ec5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.esri.com/careers/5190253007?gh_jid=5190253007"
-    },
-    {
-      "id": "2d71f0d2-e344-48be-a716-1233fe5c4ae0",
-      "company": "Nidec",
-      "title": "Software Engineer I",
-      "location": "North America",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-17",
-      "age": "44d",
-      "url": "https://applyguy.ai/jobs?company=Nidec&job=2d71f0d2-e344-48be-a716-1233fe5c4ae0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Software-Engineer-I_R0016664"
     },
     {
       "id": "194b37d9-f974-494d-93e0-f466d4d50e75",
