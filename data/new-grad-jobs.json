@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T20:45:45.516Z",
+  "updatedAt": "2026-08-30T21:00:42.622Z",
   "jobs": [
     {
       "id": "ccf0ace4-886d-46a3-aa91-bb43d99602ba",
@@ -2843,18 +2843,6 @@
       "age": "57d",
       "url": "https://applyguy.ai/jobs?company=Visalaw+AI&job=518ea800-ed8e-44d4-864e-97d669780400&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://apply.workable.com/visalawai/j/419E9D403F/"
-    },
-    {
-      "id": "e79070f3-2efb-4ddb-b2ad-c19f86760cc4",
-      "company": "CEV MULTIMEDIA LTD",
-      "title": "SDE I",
-      "location": "USA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-01",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=CEV+MULTIMEDIA+LTD&job=e79070f3-2efb-4ddb-b2ad-c19f86760cc4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4300509"
     }
   ]
 }
