@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T17:00:58.988Z",
+  "updatedAt": "2026-08-30T17:16:06.562Z",
   "jobs": [
     {
       "id": "ccf0ace4-886d-46a3-aa91-bb43d99602ba",
@@ -1810,18 +1810,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/muonspace/jobs/5204498007"
     },
     {
-      "id": "7b34976c-262f-488e-9bc6-60913ae3b5a9",
-      "company": "Peraton",
-      "title": "Junior Software Developer - Space Weather",
-      "location": "Colorado Springs, CO",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-05",
-      "age": "25d",
-      "url": "https://applyguy.ai/jobs?company=Peraton&job=7b34976c-262f-488e-9bc6-60913ae3b5a9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://careers-peraton.icims.com/jobs/169403/junior-software-developer---space-weather/job"
-    },
-    {
       "id": "b787bb89-547d-4d4a-a2a3-59018fdd7969",
       "company": "Roblox",
       "title": "[2027] Software Engineer, Early Career",
@@ -2568,18 +2556,6 @@
       "listingUrl": "https://jobs.workable.com/view/97GCheGJ8jcpQwjTtdDUw9/software-engineer-i-in-san-diego-at-fuse-integration"
     },
     {
-      "id": "daf44c2c-304b-490b-9979-e27038c62fbe",
-      "company": "Urban Science",
-      "title": "Associate Software Engineer - ServiceView",
-      "location": "Detroit, MI",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-15",
-      "age": "46d",
-      "url": "https://applyguy.ai/jobs?company=Urban+Science&job=daf44c2c-304b-490b-9979-e27038c62fbe&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://careers-urbanscience.icims.com/jobs/5181/associate-software-engineer---serviceview/job"
-    },
-    {
       "id": "28da4499-c79a-40cb-96ef-5f972e874e11",
       "company": "Anthem Engineering",
       "title": "Junior Software Engineer Level 0 - Polygraph Required Annapolis Junction",
@@ -2820,30 +2796,6 @@
       "listingUrl": "https://cadence.wd1.myworkdayjobs.com/university_talent_ncg/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894-3"
     },
     {
-      "id": "c704c627-10d0-4942-af21-031b65cccd5d",
-      "company": "Peraton",
-      "title": "Junior Software Engineer",
-      "location": "Herndon, VA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-09",
-      "age": "52d",
-      "url": "https://applyguy.ai/jobs?company=Peraton&job=c704c627-10d0-4942-af21-031b65cccd5d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://careers-peraton.icims.com/jobs/168418/junior-software-engineer/job"
-    },
-    {
-      "id": "dbfd385e-73c5-49cf-ab14-7789add7eff4",
-      "company": "Peraton",
-      "title": "Jr Software Engineer TS/SCI with Poly",
-      "location": "Annapolis Junction, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-09",
-      "age": "52d",
-      "url": "https://applyguy.ai/jobs?company=Peraton&job=dbfd385e-73c5-49cf-ab14-7789add7eff4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://careers-peraton.icims.com/jobs/168379/jr-software-engineer-ts-sci-with-poly/job"
-    },
-    {
       "id": "a7f5de79-436d-48ed-9a23-667595b8af52",
       "company": "Pylon",
       "title": "Software Engineer, New Grad",
@@ -3047,18 +2999,6 @@
       "age": "60d",
       "url": "https://applyguy.ai/jobs?company=CEV+MULTIMEDIA+LTD&job=e79070f3-2efb-4ddb-b2ad-c19f86760cc4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4300509"
-    },
-    {
-      "id": "54efa718-8d1e-433a-896c-1bf94e8ec805",
-      "company": "IMC",
-      "title": "Graduate Software Engineer",
-      "location": "Chicago, IL",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-07-01",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=IMC&job=54efa718-8d1e-433a-896c-1bf94e8ec805&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.eu.greenhouse.io/imc/jobs/4818790101"
     },
     {
       "id": "4ca76160-e768-4737-ae95-bce13f7ecf94",
