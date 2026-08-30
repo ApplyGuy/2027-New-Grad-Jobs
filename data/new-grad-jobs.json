@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T23:31:29.286Z",
+  "updatedAt": "2026-08-30T23:45:56.182Z",
   "jobs": [
     {
       "id": "ccf0ace4-886d-46a3-aa91-bb43d99602ba",
@@ -2410,18 +2410,6 @@
       "age": "47d",
       "url": "https://applyguy.ai/jobs?company=Five+Rings&job=3de4c809-7cdf-4aba-88d0-5037c04cdb2c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349839008"
-    },
-    {
-      "id": "43e930df-f4bc-4f69-984e-8be6bbed5626",
-      "company": "Katalyst Space Technologies",
-      "title": "Software Engineer I, Modeling and Simulation",
-      "location": "Broomfield, CO",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-14",
-      "age": "47d",
-      "url": "https://applyguy.ai/jobs?company=Katalyst+Space+Technologies&job=43e930df-f4bc-4f69-984e-8be6bbed5626&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/katalyst/jobs/6115352004"
     },
     {
       "id": "e5df72ee-2b5c-4c5c-98dd-119961e623db",
