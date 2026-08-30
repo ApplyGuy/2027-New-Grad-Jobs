@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T09:30:42.540Z",
+  "updatedAt": "2026-08-30T09:45:46.196Z",
   "jobs": [
     {
       "id": "ccf0ace4-886d-46a3-aa91-bb43d99602ba",
@@ -436,18 +436,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I_01861317-1"
     },
     {
-      "id": "d572b7f0-3e15-4a2e-86cb-9232a2e6dc93",
-      "company": "Td",
-      "title": "Software Engineer I (US)",
-      "location": "Mount Laurel, NJ",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-26",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=Td&job=d572b7f0-3e15-4a2e-86cb-9232a2e6dc93&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://td.wd3.myworkdayjobs.com/td_bank_careers/job/Mount-Laurel-New-Jersey/Software-Engineer-I--US-_R_1503087"
-    },
-    {
       "id": "e6e30371-1c6d-4d07-a770-a836f769cbaf",
       "company": "Twitch",
       "title": "Software Engineer I, Memberships",
@@ -797,18 +785,6 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
       "applySupported": false
-    },
-    {
-      "id": "2a4d7f98-c3a5-48e5-8f0d-920314f53f20",
-      "company": "Pae",
-      "title": "Software Programmer - Entry Level",
-      "location": "Tullahoma, TN",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-21",
-      "age": "9d",
-      "url": "https://applyguy.ai/jobs?company=Pae&job=2a4d7f98-c3a5-48e5-8f0d-920314f53f20&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-TN-Tullahoma/Software-Programmer---Entry-Level_R0168838"
     },
     {
       "id": "49bef747-c371-45e0-a524-5475cb4bdce7",
