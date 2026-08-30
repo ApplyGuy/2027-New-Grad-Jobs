@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T22:00:49.970Z",
+  "updatedAt": "2026-08-30T22:16:07.893Z",
   "jobs": [
     {
       "id": "ccf0ace4-886d-46a3-aa91-bb43d99602ba",
@@ -1425,18 +1425,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/axon/jobs/7576576003"
     },
     {
-      "id": "25e1047d-f966-41d5-8fb5-9c56b6cb8171",
-      "company": "Captivation Software",
-      "title": "Software Engineer 1 (Call-In Support) - Linux/Bash/Python/Java/Spring/NoSQL/Docker/Kafka/Ansible",
-      "location": "Annapolis Junction, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-10",
-      "age": "20d",
-      "url": "https://applyguy.ai/jobs?company=Captivation+Software&job=25e1047d-f966-41d5-8fb5-9c56b6cb8171&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/captivation/jobs/5385108008"
-    },
-    {
       "id": "14469a5c-caa3-49e3-9f78-1551d94a45e0",
       "company": "Esri",
       "title": "Software Development Engineer I - Analytics",
@@ -2338,30 +2326,6 @@
       "age": "45d",
       "url": "https://applyguy.ai/jobs?company=Antares&job=14684c49-3a75-4af7-bb8b-61ea1a26efe0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/antares/78234003-fa70-41ab-b3c8-a2e703687f42"
-    },
-    {
-      "id": "adcbc159-f5c7-459a-8621-76a3999de893",
-      "company": "Captivation Software",
-      "title": "Software Engineer 1 - Back-End/DevOps",
-      "location": "Annapolis Junction, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-16",
-      "age": "45d",
-      "url": "https://applyguy.ai/jobs?company=Captivation+Software&job=adcbc159-f5c7-459a-8621-76a3999de893&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/captivation/jobs/5362324008"
-    },
-    {
-      "id": "94403e6c-8da6-46a1-8243-306c79c3e2f2",
-      "company": "Captivation Software",
-      "title": "Software Engineer 1 - AI/ML/Terraform/C++/AWS/GPU",
-      "location": "Annapolis Junction, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-16",
-      "age": "45d",
-      "url": "https://applyguy.ai/jobs?company=Captivation+Software&job=94403e6c-8da6-46a1-8243-306c79c3e2f2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/captivation/jobs/5362075008"
     },
     {
       "id": "933abc8e-62d8-48d0-b5ea-eddefebae8ac",
