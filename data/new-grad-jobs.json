@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T00:31:27.346Z",
+  "updatedAt": "2026-08-30T00:45:37.305Z",
   "jobs": [
     {
       "id": "7e61698f-0802-4b0a-a55d-9d51056f6d05",
@@ -520,18 +520,6 @@
       "listingUrl": "https://wellsky.wd1.myworkdayjobs.com/wellskycareers/job/Overland-Park-KS/Associate-Software-Engineer---DevOps-Engineer_JR5080"
     },
     {
-      "id": "02b07628-f7d5-4092-9ad7-58340ea6ff58",
-      "company": "Alarm.com",
-      "title": "Embedded Software Engineer I",
-      "location": "Tysons, VA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-25",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Alarm.com&job=02b07628-f7d5-4092-9ad7-58340ea6ff58&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/alarmcom/jobs/8622530002"
-    },
-    {
       "id": "84ed1de3-76ae-4eb6-b15f-e20cac9b9f2b",
       "company": "Cox",
       "title": "Entry Level Software Engineer (Burlington, VT)",
@@ -674,54 +662,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Solace&job=02b427fa-d862-4b7d-b239-9efc73ed9065&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/solace/bbdb1020-2900-4d63-908a-20cea79a65cd"
-    },
-    {
-      "id": "ea54db15-4129-427d-ada6-780eb2e1410f",
-      "company": "True Anomaly",
-      "title": "Software Engineer I, Perception (New Grad)",
-      "location": "Denver, CO",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-25",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=True+Anomaly&job=ea54db15-4129-427d-ada6-780eb2e1410f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221970007"
-    },
-    {
-      "id": "2056d821-660e-4fd5-ba83-7d813db4b3a2",
-      "company": "True Anomaly",
-      "title": "Software Engineer I, Data Science (New Grad)",
-      "location": "Denver, CO",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-25",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=True+Anomaly&job=2056d821-660e-4fd5-ba83-7d813db4b3a2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221560007"
-    },
-    {
-      "id": "0c0f0335-466b-461a-81fd-7346845ac948",
-      "company": "True Anomaly",
-      "title": "Software Engineer I, Spacecraft Simulation (New Grad)",
-      "location": "Denver, CO",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-25",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=True+Anomaly&job=0c0f0335-466b-461a-81fd-7346845ac948&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007"
-    },
-    {
-      "id": "c054e31b-04b6-4af4-9a24-b675642ccf61",
-      "company": "True Anomaly",
-      "title": "Flight Software Engineer I (New Grad)",
-      "location": "Denver, CO",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-25",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=True+Anomaly&job=c054e31b-04b6-4af4-9a24-b675642ccf61&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221572007"
     },
     {
       "id": "ada42bac-7871-46d2-a2c6-974efc073c2f",
@@ -893,30 +833,6 @@
       "age": "9d",
       "url": "https://applyguy.ai/jobs?company=Quickenloans&job=49bef747-c371-45e0-a524-5475cb4bdce7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930"
-    },
-    {
-      "id": "4ba82972-5fcb-48be-9839-367c6b08e90b",
-      "company": "True Anomaly",
-      "title": "Software Engineer I, QA (New Grad)",
-      "location": "Denver, CO",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-21",
-      "age": "9d",
-      "url": "https://applyguy.ai/jobs?company=True+Anomaly&job=4ba82972-5fcb-48be-9839-367c6b08e90b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5219057007"
-    },
-    {
-      "id": "f6470e7a-c59a-41c3-95f2-035f11bac538",
-      "company": "True Anomaly",
-      "title": "DevOps Engineer I (New Grad)",
-      "location": "Denver, CO",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-21",
-      "age": "9d",
-      "url": "https://applyguy.ai/jobs?company=True+Anomaly&job=f6470e7a-c59a-41c3-95f2-035f11bac538&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5218935007"
     },
     {
       "id": "3846eea5-c801-46d0-b74d-644d645524a9",
@@ -1723,18 +1639,6 @@
       "age": "20d",
       "url": "https://applyguy.ai/jobs?company=B+Lab&job=5e879e23-9f55-46ae-8827-57c7aca56f8f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/blab/jobs/8688848002"
-    },
-    {
-      "id": "b09e7dd4-752a-4cf8-9303-3c33f9bb27db",
-      "company": "BNH",
-      "title": "Early Career Software Engineer",
-      "location": "Arnold AFB, TN",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-10",
-      "age": "20d",
-      "url": "https://applyguy.ai/jobs?company=BNH&job=b09e7dd4-752a-4cf8-9303-3c33f9bb27db&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://careers-bnh.icims.com/jobs/24638/early-career-software-engineer/job"
     },
     {
       "id": "25e1047d-f966-41d5-8fb5-9c56b6cb8171",
