@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T04:00:40.253Z",
+  "updatedAt": "2026-08-30T04:15:42.499Z",
   "jobs": [
     {
       "id": "ccf0ace4-886d-46a3-aa91-bb43d99602ba",
@@ -2363,18 +2363,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/pipe17/jobs/4717950005"
     },
     {
-      "id": "6e45d5d7-de8b-464a-aade-bc1d5dbdbc6e",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Tewksbury, MA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-23",
-      "age": "38d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=6e45d5d7-de8b-464a-aade-bc1d5dbdbc6e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01861526"
-    },
-    {
       "id": "408d5992-08a8-4519-9ee2-b5a7ae96dbc9",
       "company": "RTX",
       "title": "2026 Raytheon Full Time- Software Engineer I -(Onsite)",
@@ -2385,18 +2373,6 @@
       "age": "38d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=408d5992-08a8-4519-9ee2-b5a7ae96dbc9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01844595"
-    },
-    {
-      "id": "04f0f0fc-5c62-4b6c-9826-ed24c37bcf95",
-      "company": "RTX",
-      "title": "2026 Raytheon Full Time- Software Engineer I -(Onsite)",
-      "location": "Tewksbury, MA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-23",
-      "age": "38d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=04f0f0fc-5c62-4b6c-9826-ed24c37bcf95&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01861434"
     },
     {
       "id": "custom:amazon:b8631d9dfbf290884cd3",
