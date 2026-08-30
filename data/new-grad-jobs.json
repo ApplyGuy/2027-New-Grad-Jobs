@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T14:31:11.874Z",
+  "updatedAt": "2026-08-30T14:45:53.902Z",
   "jobs": [
     {
       "id": "ccf0ace4-886d-46a3-aa91-bb43d99602ba",
@@ -1123,18 +1123,6 @@
       "age": "16d",
       "url": "https://applyguy.ai/jobs?company=Applied+Intuition&job=01e6b429-83f6-4521-bd92-14dd603b4d61&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/applied/250080bd-10a8-4e5f-82b8-506029292d19"
-    },
-    {
-      "id": "41d216bc-98ff-43fa-8ec4-09bdafdffa1b",
-      "company": "Boom Technology, Inc.",
-      "title": "Software Engineer (Early Career, Exceptional Talent)",
-      "location": "Centennial, CO",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-14",
-      "age": "16d",
-      "url": "https://applyguy.ai/jobs?company=Boom+Technology%2C+Inc.&job=41d216bc-98ff-43fa-8ec4-09bdafdffa1b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://ats.rippling.com/boom-supersonic/jobs/a6ea239b-70a4-4d72-b7d8-3ab1312568dc"
     },
     {
       "id": "63c2089b-3d08-4579-a432-7e843f561a69",
@@ -2999,18 +2987,6 @@
       "age": "53d",
       "url": "https://applyguy.ai/jobs?company=Redhat&job=bb5edcd3-b6b1-48e6-97e7-cecc851ff718&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Durham/Associate-Software-Engineer_R-058395"
-    },
-    {
-      "id": "c8369cff-3913-4fce-9087-2170f011e3fb",
-      "company": "Assetmark",
-      "title": "Associate Data Engineer",
-      "location": "Charlotte, NC",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-07",
-      "age": "54d",
-      "url": "https://applyguy.ai/jobs?company=Assetmark&job=c8369cff-3913-4fce-9087-2170f011e3fb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://assetmark.wd5.myworkdayjobs.com/assetmark_careers/job/Charlotte-NC/Associate-Data-Engineer_Req-003889"
     },
     {
       "id": "191cf864-8bb9-48d5-aa45-13626f84d595",
