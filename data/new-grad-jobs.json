@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T23:00:42.320Z",
+  "updatedAt": "2026-08-30T23:16:04.745Z",
   "jobs": [
     {
       "id": "ccf0ace4-886d-46a3-aa91-bb43d99602ba",
@@ -906,18 +906,6 @@
       "age": "12d",
       "url": "https://applyguy.ai/jobs?company=AeroVironment&job=cea0bfe3-53db-45f6-99b5-1e40158b71ac&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://avav.wd1.myworkdayjobs.com/avav/job/Sunrise-FL/Software-Engineer-I-1_8366"
-    },
-    {
-      "id": "356ea4cb-7be2-40ca-a25a-dce9b2b18789",
-      "company": "Dark Wolf Solutions",
-      "title": "Junior Data Engineer",
-      "location": "Chantilly, VA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-18",
-      "age": "12d",
-      "url": "https://applyguy.ai/jobs?company=Dark+Wolf+Solutions&job=356ea4cb-7be2-40ca-a25a-dce9b2b18789&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886212003"
     },
     {
       "id": "40e0d6b3-4285-4ca3-b56a-f8aeebc07253",
