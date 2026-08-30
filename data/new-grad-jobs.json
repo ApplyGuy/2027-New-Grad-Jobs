@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T21:31:10.700Z",
+  "updatedAt": "2026-08-30T21:46:35.333Z",
   "jobs": [
     {
       "id": "ccf0ace4-886d-46a3-aa91-bb43d99602ba",
@@ -2013,18 +2013,6 @@
       "age": "37d",
       "url": "https://applyguy.ai/jobs?company=Solerity&job=2d2c7a27-edeb-49d0-922b-ef98ac4ac327&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4272523"
-    },
-    {
-      "id": "a77dd5ef-fb80-4ae0-8f7d-498e62fff2e5",
-      "company": "Cortina",
-      "title": "Data Engineer (entry-level)",
-      "location": "Huntsville, AL",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-07-23",
-      "age": "38d",
-      "url": "https://applyguy.ai/jobs?company=Cortina&job=a77dd5ef-fb80-4ae0-8f7d-498e62fff2e5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://cortina.bamboohr.com/careers/363"
     },
     {
       "id": "175453b3-acc7-4231-98e4-a11d06859c8a",
