@@ -1,18 +1,6 @@
 {
-  "updatedAt": "2026-08-30T02:45:32.748Z",
+  "updatedAt": "2026-08-30T03:00:46.084Z",
   "jobs": [
-    {
-      "id": "7e61698f-0802-4b0a-a55d-9d51056f6d05",
-      "company": "Kbr",
-      "title": "Jr Software Developer Astro Engineer",
-      "location": "Colorado Springs, CO",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-28",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=Kbr&job=7e61698f-0802-4b0a-a55d-9d51056f6d05&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Colorado-Springs-Colorado/Jr-Software-Developer-Astro-Engineer_R2129077"
-    },
     {
       "id": "ccf0ace4-886d-46a3-aa91-bb43d99602ba",
       "company": "Metrc, LLC",
@@ -168,18 +156,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Iqvia&job=118ab350-be6d-4bbd-b418-4643b366d9c4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://iqvia.wd1.myworkdayjobs.com/iqvia/job/Dallas-TX/MedTech-Field-Service-Software-Technician---Central-Time-Zone_R1564641"
-    },
-    {
-      "id": "6953c199-198b-4c36-87fd-c5cd9d1c90b0",
-      "company": "Kbr",
-      "title": "Jr Software Developer",
-      "location": "Colorado Springs, CO",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-27",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=Kbr&job=6953c199-198b-4c36-87fd-c5cd9d1c90b0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Colorado-Springs-Colorado/Jr-Software-Developer_R2128436"
     },
     {
       "id": "89678afc-eaa3-4034-8387-9efecec50b93",
@@ -2712,18 +2688,6 @@
       "listingUrl": "https://www.esri.com/careers/5190253007?gh_jid=5190253007"
     },
     {
-      "id": "308bc69e-6c51-4609-8810-a45d884b0b50",
-      "company": "Kbr",
-      "title": "Junior Software Engineer",
-      "location": "Colorado Springs, CO",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-17",
-      "age": "44d",
-      "url": "https://applyguy.ai/jobs?company=Kbr&job=308bc69e-6c51-4609-8810-a45d884b0b50&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Colorado-Springs-Colorado/Junior-Software-Engineer_R2126608"
-    },
-    {
       "id": "2d71f0d2-e344-48be-a716-1233fe5c4ae0",
       "company": "Nidec",
       "title": "Software Engineer I",
@@ -2782,18 +2746,6 @@
       "age": "45d",
       "url": "https://applyguy.ai/jobs?company=Acrisure&job=a6c72131-5064-4252-8e2c-94c3805b2ff9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://acrisure.wd1.myworkdayjobs.com/acrisure/job/333-Earle-Ovington-Blvd---Uniondale-NY/Software-Engineer-I_JR113871"
-    },
-    {
-      "id": "a30e98f5-a530-4006-9c4f-49a0e743d994",
-      "company": "Adtran",
-      "title": "Software Engineer I",
-      "location": "Atlanta, GA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-16",
-      "age": "45d",
-      "url": "https://applyguy.ai/jobs?company=Adtran&job=a30e98f5-a530-4006-9c4f-49a0e743d994&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://adtran.wd3.myworkdayjobs.com/adtran/job/Atlanta-GA/Software-Engineer-I_R005697"
     },
     {
       "id": "14684c49-3a75-4af7-bb8b-61ea1a26efe0",
@@ -3407,18 +3359,6 @@
       "age": "57d",
       "url": "https://applyguy.ai/jobs?company=Visalaw+AI&job=518ea800-ed8e-44d4-864e-97d669780400&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://apply.workable.com/visalawai/j/419E9D403F/"
-    },
-    {
-      "id": "ab27dcf0-c624-452d-a44b-d5fe47182c40",
-      "company": "Adtran",
-      "title": "C++/Linux Software Engineer I",
-      "location": "Atlanta, GA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-02",
-      "age": "59d",
-      "url": "https://applyguy.ai/jobs?company=Adtran&job=ab27dcf0-c624-452d-a44b-d5fe47182c40&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://adtran.wd3.myworkdayjobs.com/adtran/job/Atlanta-GA/Software-Engineer-I_R005655-1"
     },
     {
       "id": "e79070f3-2efb-4ddb-b2ad-c19f86760cc4",
