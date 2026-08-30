@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T16:01:36.993Z",
+  "updatedAt": "2026-08-30T16:16:09.620Z",
   "jobs": [
     {
       "id": "ccf0ace4-886d-46a3-aa91-bb43d99602ba",
@@ -74,18 +74,6 @@
       "listingUrl": "https://jobs.ashbyhq.com/solace/7deb5d7e-9960-4407-9600-aa8e84d9edba"
     },
     {
-      "id": "45e13644-1357-421e-a2f9-680aa38524f0",
-      "company": "ASM",
-      "title": "Software Engineer - Early Career (Fall 2026)",
-      "location": "Phoenix, AZ",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-27",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=ASM&job=45e13644-1357-421e-a2f9-680aa38524f0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://www.asm.com/open-vacancies/?gh_jid=4876722101"
-    },
-    {
       "id": "05bad1af-9630-46a2-94af-49dd26825599",
       "company": "Dexcom",
       "title": "Software Development Engineer 1",
@@ -156,18 +144,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Iqvia&job=118ab350-be6d-4bbd-b418-4643b366d9c4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://iqvia.wd1.myworkdayjobs.com/iqvia/job/Dallas-TX/MedTech-Field-Service-Software-Technician---Central-Time-Zone_R1564641"
-    },
-    {
-      "id": "89678afc-eaa3-4034-8387-9efecec50b93",
-      "company": "Micron",
-      "title": "New College Grad - Software Engineer",
-      "location": "Boise, ID",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-27",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=Micron&job=89678afc-eaa3-4034-8387-9efecec50b93&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/New-College-Grad---Software-Engineer_JR109692"
     },
     {
       "id": "custom:microsoft:25dae0737b280d944110",
@@ -566,18 +542,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Metron&job=0a963204-6332-496d-93bd-f2ef70483729&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/metron/jobs/5211456007"
-    },
-    {
-      "id": "10da6312-0ee4-4b1d-9f4e-0e59459a2afa",
-      "company": "Micron",
-      "title": "New College Grad - Embedded Firmware Engineer",
-      "location": "Boise, ID",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-25",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Micron&job=10da6312-0ee4-4b1d-9f4e-0e59459a2afa&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---SIG-Building/New-College-Grad---Embedded-Firmware-Engineer_JR109306"
     },
     {
       "id": "d28a4422-9dba-493e-80e2-ab78d56d295a",
@@ -1531,18 +1495,6 @@
       "age": "20d",
       "url": "https://applyguy.ai/jobs?company=Flir&job=3d617441-4b32-4b24-beae-3fb3ee19f343&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Jr-Software-Engineer_REQ36188"
-    },
-    {
-      "id": "9240e3f6-ee87-446f-8b45-1b15dded34c4",
-      "company": "Micron",
-      "title": "New College Grad - IT Software Support Engineer",
-      "location": "Boise, ID",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-10",
-      "age": "20d",
-      "url": "https://applyguy.ai/jobs?company=Micron&job=9240e3f6-ee87-446f-8b45-1b15dded34c4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---ID1/New-College-Grad---IT-Software-Support-Engineer_JR108465"
     },
     {
       "id": "34488725-5fae-4e8e-bb49-d597c35da7ad",
