@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T09:45:46.196Z",
+  "updatedAt": "2026-08-30T10:00:55.459Z",
   "jobs": [
     {
       "id": "ccf0ace4-886d-46a3-aa91-bb43d99602ba",
@@ -253,18 +253,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Schweitzer+Engineering+Laboratories&job=367a59ae-0881-4ff6-8952-230a8f08422f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://selinc.wd1.myworkdayjobs.com/sel/job/Washington---Pullman/Associate-Software-Engineer---Vulnerability-Assessment_2026-22231"
-    },
-    {
-      "id": "f15077dd-7f2a-49c2-96c2-1c1aac8b2ca5",
-      "company": "Snc",
-      "title": "Software Engineer I",
-      "location": "Lone Tree, CO",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-27",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=Snc&job=f15077dd-7f2a-49c2-96c2-1c1aac8b2ca5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0030529"
     },
     {
       "id": "custom:amazon:1bcd77e56ccd10ad7bf3",
