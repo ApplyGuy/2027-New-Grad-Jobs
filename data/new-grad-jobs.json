@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T12:16:06.154Z",
+  "updatedAt": "2026-08-30T12:31:05.255Z",
   "jobs": [
     {
       "id": "ccf0ace4-886d-46a3-aa91-bb43d99602ba",
@@ -638,18 +638,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Wgu&job=ada42bac-7871-46d2-a2c6-974efc073c2f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Associate-Data-Engineer_JR-025987"
-    },
-    {
-      "id": "507000ce-6ec6-407d-99ce-bd3136e8e436",
-      "company": "carislifesciences",
-      "title": "Associate Software Engineer",
-      "location": "Irving, TX",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-24",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=carislifesciences&job=507000ce-6ec6-407d-99ce-bd3136e8e436&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://carislifesciences.wd12.myworkdayjobs.com/cls/job/Irving-TX---75039/Associate-Software-Engineer_JR105464"
     },
     {
       "id": "custom:google:84680705375642310",
