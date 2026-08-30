@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T17:46:09.168Z",
+  "updatedAt": "2026-08-30T18:00:40.651Z",
   "jobs": [
     {
       "id": "ccf0ace4-886d-46a3-aa91-bb43d99602ba",
@@ -1796,18 +1796,6 @@
       "age": "25d",
       "url": "https://applyguy.ai/jobs?company=Manhattan+Associates&job=70635e1a-9f05-4876-9733-48873ea59060&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://manh.wd5.myworkdayjobs.com/campus/job/Atlanta-GA/Software-Engineer---Early-Career_16977"
-    },
-    {
-      "id": "e6cb5068-0d3d-4cf6-aa4e-0a2ec52ab94f",
-      "company": "Muon Space",
-      "title": "Software Engineer, Entry-Level",
-      "location": "San Jose, CA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-05",
-      "age": "25d",
-      "url": "https://applyguy.ai/jobs?company=Muon+Space&job=e6cb5068-0d3d-4cf6-aa4e-0a2ec52ab94f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/muonspace/jobs/5204498007"
     },
     {
       "id": "b787bb89-547d-4d4a-a2a3-59018fdd7969",
