@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T18:31:34.933Z",
+  "updatedAt": "2026-08-30T18:45:38.160Z",
   "jobs": [
     {
       "id": "ccf0ace4-886d-46a3-aa91-bb43d99602ba",
@@ -2939,18 +2939,6 @@
       "age": "60d",
       "url": "https://applyguy.ai/jobs?company=Optiver&job=4ca76160-e768-4737-ae95-bce13f7ecf94&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.optiver.com/join-us/jobs/8401042002/?gh_jid=8401042002"
-    },
-    {
-      "id": "ac620da4-fbcf-4c6e-8e6a-99b9cf44391a",
-      "company": "Optiver",
-      "title": "Graduate Software Engineer (2027 Start)",
-      "location": "Austin, TX",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-07-01",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Optiver&job=ac620da4-fbcf-4c6e-8e6a-99b9cf44391a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://www.optiver.com/join-us/jobs/8604899002/?gh_jid=8604899002"
     }
   ]
 }
