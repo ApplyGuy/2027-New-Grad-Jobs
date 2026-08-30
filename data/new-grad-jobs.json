@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T11:16:24.559Z",
+  "updatedAt": "2026-08-30T11:31:17.213Z",
   "jobs": [
     {
       "id": "ccf0ace4-886d-46a3-aa91-bb43d99602ba",
@@ -1555,18 +1555,6 @@
       "age": "20d",
       "url": "https://applyguy.ai/jobs?company=Captivation+Software&job=25e1047d-f966-41d5-8fb5-9c56b6cb8171&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/captivation/jobs/5385108008"
-    },
-    {
-      "id": "c1f886b8-7801-4c1c-bfe8-dd085abd81ed",
-      "company": "DV Trading",
-      "title": "2027 Graduate Software Engineer (DV Commodities)",
-      "location": "New York",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-10",
-      "age": "20d",
-      "url": "https://applyguy.ai/jobs?company=DV+Trading&job=c1f886b8-7801-4c1c-bfe8-dd085abd81ed&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/dvtrading/jobs/4719126005"
     },
     {
       "id": "14469a5c-caa3-49e3-9f78-1551d94a45e0",
