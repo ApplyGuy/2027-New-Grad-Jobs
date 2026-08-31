@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T03:00:38.178Z",
+  "updatedAt": "2026-08-31T03:16:02.608Z",
   "jobs": [
     {
       "id": "ccf0ace4-886d-46a3-aa91-bb43d99602ba",
@@ -244,18 +244,6 @@
       "applySupported": false
     },
     {
-      "id": "6fb184d6-7ec0-4930-98ab-2d9e09f0e840",
-      "company": "Cox",
-      "title": "Entry Level Software Engineer (Draper, UT)",
-      "location": "Draper, UT",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-26",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Cox&job=6fb184d6-7ec0-4930-98ab-2d9e09f0e840&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Draper-UT/Entry-Level-Software-Engineer--Draper--UT-_R202681804"
-    },
-    {
       "id": "7e652669-ea14-4e37-89c9-828de03b86a8",
       "company": "Delta Solutions & Strategies",
       "title": "Junior Software Engineer",
@@ -434,18 +422,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Viavisolutions&job=61a0cfa0-0c05-4c50-90b9-dec384ed1919&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Indianapolis-IN-USA/Early-Careers-Rotational-Program-Development-Engineer---Software-Engineering-AI-Track_260004983-1"
-    },
-    {
-      "id": "84ed1de3-76ae-4eb6-b15f-e20cac9b9f2b",
-      "company": "Cox",
-      "title": "Entry Level Software Engineer (Burlington, VT)",
-      "location": "Burlington, VT",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-25",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=Cox&job=84ed1de3-76ae-4eb6-b15f-e20cac9b9f2b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Burlington-VT/Entry-Level-Software-Engineer--Burlington--VT-_R202681784"
     },
     {
       "id": "7445b97b-ef54-4235-a69f-e3dd23987fec",
