@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T00:45:52.348Z",
+  "updatedAt": "2026-08-31T01:01:05.343Z",
   "jobs": [
     {
       "id": "ccf0ace4-886d-46a3-aa91-bb43d99602ba",
@@ -727,18 +727,6 @@
       "listingUrl": "https://jobs.ashbyhq.com/crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed"
     },
     {
-      "id": "3cbc2b10-d9ab-4cc6-9e02-997ae8443a12",
-      "company": "Roberthalf",
-      "title": "Software Engineer I",
-      "location": "San Ramon, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-20",
-      "age": "11d",
-      "url": "https://applyguy.ai/jobs?company=Roberthalf&job=3cbc2b10-d9ab-4cc6-9e02-997ae8443a12&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-261277"
-    },
-    {
       "id": "f5c636f4-9b34-4caa-bec7-098ff43d5816",
       "company": "RTX",
       "title": "Software Engineer I (Onsite)",
@@ -858,18 +846,6 @@
       "age": "12d",
       "url": "https://applyguy.ai/jobs?company=Tti&job=10997521-6775-49d7-bcd7-61b414d43140&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://tti.wd1.myworkdayjobs.com/tti_pe/job/Anderson-SC/Software-Engineer-1_R76960"
-    },
-    {
-      "id": "401b32c4-a494-4ea6-af38-695971dca0ae",
-      "company": "Volaris Group",
-      "title": "Jr. Software Engineer",
-      "location": "Warner Robins, GA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-19",
-      "age": "12d",
-      "url": "https://applyguy.ai/jobs?company=Volaris+Group&job=401b32c4-a494-4ea6-af38-695971dca0ae&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://volarisgroup.wd3.myworkdayjobs.com/silvervine/job/United-States---Warner-Robins-GA/Jr-Software-Engineer_R70583"
     },
     {
       "id": "954c593e-cc65-4bc0-9d56-e43264d06932",
@@ -2410,18 +2386,6 @@
       "age": "48d",
       "url": "https://applyguy.ai/jobs?company=Twitch&job=b16ee1a8-b215-4797-afea-9bf721d3a86e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/twitch/jobs/8623578002"
-    },
-    {
-      "id": "9ffb63b3-9a45-4bc4-8704-7f990c03184a",
-      "company": "Venerable",
-      "title": "Associate Software Developer",
-      "location": "West Chester - Dunwoody Dr, PA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-14",
-      "age": "48d",
-      "url": "https://applyguy.ai/jobs?company=Venerable&job=9ffb63b3-9a45-4bc4-8704-7f990c03184a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://venerable.wd5.myworkdayjobs.com/venerablecareers/job/PA-West-Chester---Dunwoody-Dr/Associate-Software-Developer_REQ716-1"
     },
     {
       "id": "06d73bd3-0dab-4b7b-9797-80ee55635eb8",
