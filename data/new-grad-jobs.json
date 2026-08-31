@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T09:15:40.859Z",
+  "updatedAt": "2026-08-31T09:30:44.811Z",
   "jobs": [
     {
       "id": "ccf0ace4-886d-46a3-aa91-bb43d99602ba",
@@ -1027,18 +1027,6 @@
       "age": "17d",
       "url": "https://applyguy.ai/jobs?company=Twitch&job=2df2e586-e68d-4406-a287-c54178f64e37&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/twitch/jobs/8700578002"
-    },
-    {
-      "id": "9ca2c2c6-3417-41d0-b1e9-8cf5977a7ab8",
-      "company": "Chamberlain",
-      "title": "Software Engineer I - AI",
-      "location": "Remote, U.S.",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-12",
-      "age": "19d",
-      "url": "https://applyguy.ai/jobs?company=Chamberlain&job=9ca2c2c6-3417-41d0-b1e9-8cf5977a7ab8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://chamberlain.wd1.myworkdayjobs.com/chamberlain_group/job/Remote---California/Software-Engineer-I---AI_JR30290"
     },
     {
       "id": "68db4486-0a2e-457b-b640-7339d4576a6c",
