@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T18:15:35.523Z",
+  "updatedAt": "2026-08-31T18:30:36.675Z",
   "jobs": [
     {
       "id": "a4c2ba2b-6cfe-4d3b-8fdc-8dc75a6fa3a2",
@@ -207,18 +207,6 @@
       "listingUrl": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Engineer-1_RQ227090-1"
     },
     {
-      "id": "8e37a80e-35b8-48fa-ae08-fa518e298c96",
-      "company": "RTX",
-      "title": "Software Engineer I",
-      "location": "Tucson, AZ",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-26",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=8e37a80e-35b8-48fa-ae08-fa518e298c96&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I_01861317-1"
-    },
-    {
       "id": "e6e30371-1c6d-4d07-a770-a836f769cbaf",
       "company": "Twitch",
       "title": "Software Engineer I, Memberships",
@@ -365,18 +353,6 @@
       "applySupported": false
     },
     {
-      "id": "ed73ed7d-4c96-4558-8f2a-0e14c947fc22",
-      "company": "Northrop Grumman",
-      "title": "Associate Software Engineer",
-      "location": "Hollywood, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-24",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=ed73ed7d-4c96-4558-8f2a-0e14c947fc22&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Maryland-Hollywood/Associate-Software-Engineer_R10247440"
-    },
-    {
       "id": "2bcbc0aa-bafe-4768-acdd-19801b9ca7d8",
       "company": "VectorVMS",
       "title": "Associate Software Engineer",
@@ -387,18 +363,6 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=VectorVMS&job=2bcbc0aa-bafe-4768-acdd-19801b9ca7d8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://vectorvms.breezy.hr/p/677ae6c42f23-associate-software-engineer"
-    },
-    {
-      "id": "ddf94828-bee8-4b95-998d-7bdd59e588ee",
-      "company": "Wexinc",
-      "title": "Software Development Engineer 1",
-      "location": "Remote, U.S.",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-24",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=Wexinc&job=ddf94828-bee8-4b95-998d-7bdd59e588ee&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://wexinc.wd5.myworkdayjobs.com/wexinc/job/US---Remote/Software-Development-Engineer-1_R22758"
     },
     {
       "id": "8efc4f62-f3dd-46a3-b451-150d6bbe1148",
@@ -545,18 +509,6 @@
       "listingUrl": "https://jobs.workable.com/view/tQq87azczgHvziCjULk6Dt/software-qa-tester---entry-level-in-austin-at-worth-finance-corporation"
     },
     {
-      "id": "cea0bfe3-53db-45f6-99b5-1e40158b71ac",
-      "company": "AeroVironment",
-      "title": "Software Engineer I-1",
-      "location": "Sunrise, FL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-18",
-      "age": "13d",
-      "url": "https://applyguy.ai/jobs?company=AeroVironment&job=cea0bfe3-53db-45f6-99b5-1e40158b71ac&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://avav.wd1.myworkdayjobs.com/avav/job/Sunrise-FL/Software-Engineer-I-1_8366"
-    },
-    {
       "id": "40e0d6b3-4285-4ca3-b56a-f8aeebc07253",
       "company": "Johnson Health Tech Companies",
       "title": "Software Tester – Entry Level",
@@ -579,18 +531,6 @@
       "age": "13d",
       "url": "https://applyguy.ai/jobs?company=Koah&job=d9007a83-d60a-4e5e-9d1e-7bbba6779db3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/koahlabs/197c931d-3cda-44b3-b26b-470976730808"
-    },
-    {
-      "id": "6e93fdd4-65cc-4999-b014-fad9d59fd0e6",
-      "company": "RTX",
-      "title": "Software Engineer I - Aircraft Interiors (ONSITE)",
-      "location": "WINSTON SALEM 175 175 Oak Plaza Blvd BLDG 175, NC",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-18",
-      "age": "13d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=6e93fdd4-65cc-4999-b014-fad9d59fd0e6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NC-WINSTON-SALEM-175--175-Oak-Plaza-Blvd--BLDG-175/Software-Engineer-I---Aircraft-Interiors_01867177"
     },
     {
       "id": "7aba27b6-d0c6-4bdb-b6d7-d9bd20369903",
@@ -834,18 +774,6 @@
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer-Software-Engineer_R10245233"
     },
     {
-      "id": "cf343222-8607-4d4b-932d-3f1e328fc01f",
-      "company": "Rocket Lab Corporation",
-      "title": "Flight Software Engineer I",
-      "location": "Littleton, CO",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-12",
-      "age": "19d",
-      "url": "https://applyguy.ai/jobs?company=Rocket+Lab+Corporation&job=cf343222-8607-4d4b-932d-3f1e328fc01f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7830196003"
-    },
-    {
       "id": "64fde33a-25fe-4c1d-9c3a-14a6be753749",
       "company": "Uniswap Labs",
       "title": "Software Engineer - Early Career",
@@ -952,18 +880,6 @@
       "age": "24d",
       "url": "https://applyguy.ai/jobs?company=Ace+IT+Careers&job=d7ffed8f-429c-474b-9827-225b9d5d674d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.workable.com/view/uiPKXpAagpWYecA7L7MdHj/remote-qa-software-tester---entry-level-in-indianapolis-at-ace-it-careers"
-    },
-    {
-      "id": "fc197551-14ac-4102-92e2-e8a865cb3dcb",
-      "company": "Boeing",
-      "title": "Entry Level or Associate Software Safety Engineer",
-      "location": "Oklahoma City, OK",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-07",
-      "age": "24d",
-      "url": "https://applyguy.ai/jobs?company=Boeing&job=fc197551-14ac-4102-92e2-e8a865cb3dcb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/Entry-Level-or-Associate-Software-Safety-Engineer_JR2026520085"
     },
     {
       "id": "e83ca55d-9a1e-43f5-bf02-f4c9bc8d6812",
