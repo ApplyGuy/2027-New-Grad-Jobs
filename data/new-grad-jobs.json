@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T06:30:48.680Z",
+  "updatedAt": "2026-08-31T06:45:44.415Z",
   "jobs": [
     {
       "id": "ccf0ace4-886d-46a3-aa91-bb43d99602ba",
@@ -1592,18 +1592,6 @@
       "listingUrl": "https://qualifacts.wd5.myworkdayjobs.com/qualifacts_external_careers/job/Ontario---Remote/Software-Engineer-I--P1-_R-102648"
     },
     {
-      "id": "5d059d9f-4095-4312-9d48-ecd2a6bd4c8c",
-      "company": "Tebra",
-      "title": "Software Engineer 1",
-      "location": "Remote, U.S.",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-28",
-      "age": "34d",
-      "url": "https://applyguy.ai/jobs?company=Tebra&job=5d059d9f-4095-4312-9d48-ecd2a6bd4c8c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/tebra/jobs/4714981005"
-    },
-    {
       "id": "b0006180-8318-4cc1-bbee-c4d80a301af9",
       "company": "Chainlink Labs",
       "title": "Software Engineer I, CCIP",
@@ -1867,18 +1855,6 @@
       "age": "44d",
       "url": "https://applyguy.ai/jobs?company=Boeing&job=da5c85e9-e5da-4e40-9263-d3b1c86f878a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Omaha-NE/Software-Engineer_JR2026517990"
-    },
-    {
-      "id": "a6c72131-5064-4252-8e2c-94c3805b2ff9",
-      "company": "Acrisure",
-      "title": "Software Engineer I",
-      "location": "333 Earle Ovington Blvd Uniondale, NY",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-16",
-      "age": "46d",
-      "url": "https://applyguy.ai/jobs?company=Acrisure&job=a6c72131-5064-4252-8e2c-94c3805b2ff9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://acrisure.wd1.myworkdayjobs.com/acrisure/job/333-Earle-Ovington-Blvd---Uniondale-NY/Software-Engineer-I_JR113871"
     },
     {
       "id": "14684c49-3a75-4af7-bb8b-61ea1a26efe0",
@@ -2204,18 +2180,6 @@
       "age": "54d",
       "url": "https://applyguy.ai/jobs?company=Precisely+US+Jobs&job=8f5bf9be-e7be-4114-95e5-568ed21ccfbf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.precisely.com/careers-and-culture/us-jobs/job/4710645005?gh_jid=4710645005"
-    },
-    {
-      "id": "bb5edcd3-b6b1-48e6-97e7-cecc851ff718",
-      "company": "Redhat",
-      "title": "Associate Software Engineer",
-      "location": "Durham, NC",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-08",
-      "age": "54d",
-      "url": "https://applyguy.ai/jobs?company=Redhat&job=bb5edcd3-b6b1-48e6-97e7-cecc851ff718&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Durham/Associate-Software-Engineer_R-058395"
     },
     {
       "id": "191cf864-8bb9-48d5-aa45-13626f84d595",
