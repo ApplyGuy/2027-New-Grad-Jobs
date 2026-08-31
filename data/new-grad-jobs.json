@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T11:46:02.226Z",
+  "updatedAt": "2026-08-31T12:01:09.394Z",
   "jobs": [
     {
       "id": "ccf0ace4-886d-46a3-aa91-bb43d99602ba",
@@ -326,18 +326,6 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Expression&job=617edc15-8c03-4e69-aedc-604f45479908&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://expression-networks.breezy.hr/p/7290840a45a5-junior-data-engineer-dea"
-    },
-    {
-      "id": "8e446a1b-8658-4b8e-bc36-96fcf29ece42",
-      "company": "Freedom Technology Solutions Group",
-      "title": "Junior Software Engineer 760",
-      "location": "Annapolis Junction, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-25",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=Freedom+Technology+Solutions+Group&job=8e446a1b-8658-4b8e-bc36-96fcf29ece42&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5221705007"
     },
     {
       "id": "1f5279e6-26dc-45e9-adaf-5d248189a0ce",
@@ -921,18 +909,6 @@
       "listingUrl": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002"
     },
     {
-      "id": "c3d32fd1-4b15-427b-b95c-80cfd9ae124e",
-      "company": "Sunayu",
-      "title": "MD-Software Engineer 1 - TS/SCI w/ Polygraph",
-      "location": "Contractor Site, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-14",
-      "age": "17d",
-      "url": "https://applyguy.ai/jobs?company=Sunayu&job=c3d32fd1-4b15-427b-b95c-80cfd9ae124e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://sunayu.bamboohr.com/careers/406"
-    },
-    {
       "id": "2df2e586-e68d-4406-a287-c54178f64e37",
       "company": "Twitch",
       "title": "Software Engineer I, Payments",
@@ -1342,18 +1318,6 @@
       "listingUrl": "https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f"
     },
     {
-      "id": "de05d50f-9382-482f-9bb1-2deacdcc5499",
-      "company": "Freedom Technology Solutions Group",
-      "title": "Associate Software Engineer 750",
-      "location": "Annapolis Junction, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-04",
-      "age": "27d",
-      "url": "https://applyguy.ai/jobs?company=Freedom+Technology+Solutions+Group&job=de05d50f-9382-482f-9bb1-2deacdcc5499&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5203005007"
-    },
-    {
       "id": "custom:amazon:38e673d9be9ca62f6064",
       "company": "Amazon",
       "title": "Software Development Engineer I – AI/ML Network Infrastructure, Annapurna Labs",
@@ -1377,18 +1341,6 @@
       "age": "28d",
       "url": "https://applyguy.ai/jobs?company=NVIDIA&job=1f8755fc-00d6-4f5d-9ed8-1ac707b3a2ad&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083"
-    },
-    {
-      "id": "e52352c5-9548-4926-a690-454c3f7e9fd0",
-      "company": "Freedom Technology Solutions Group",
-      "title": "Junior Software Engineer 744",
-      "location": "Annapolis Junction, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-30",
-      "age": "32d",
-      "url": "https://applyguy.ai/jobs?company=Freedom+Technology+Solutions+Group&job=e52352c5-9548-4926-a690-454c3f7e9fd0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5199607007"
     },
     {
       "id": "b6a921c1-881c-4552-b56b-92eb4c2c8020",
@@ -1642,18 +1594,6 @@
       "age": "41d",
       "url": "https://applyguy.ai/jobs?company=Vadum+Inc&job=f8b2b173-36f4-43e3-9978-a4c46c9b3e39&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4349207"
-    },
-    {
-      "id": "745a1279-6dfd-4206-a5af-af70ce57c7a7",
-      "company": "Freedom Technology Solutions Group",
-      "title": "Junior Software Engineer 730",
-      "location": "Annapolis Junction, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-20",
-      "age": "42d",
-      "url": "https://applyguy.ai/jobs?company=Freedom+Technology+Solutions+Group&job=745a1279-6dfd-4206-a5af-af70ce57c7a7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5190737007"
     },
     {
       "id": "52e73247-2548-430b-8e35-f90ec8a6cb70",
@@ -1955,18 +1895,6 @@
       "url": "https://www.amazon.jobs/en/jobs/10468973/software-engineer-i-discovery",
       "listingUrl": "https://www.amazon.jobs/en/jobs/10468973/software-engineer-i-discovery",
       "applySupported": false
-    },
-    {
-      "id": "207a68fe-3d2a-4cd9-a948-00e5c5082b7d",
-      "company": "Built Technologies",
-      "title": "Software Engineer I - Internal Tooling",
-      "location": "Nashville, TN",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-08",
-      "age": "54d",
-      "url": "https://applyguy.ai/jobs?company=Built+Technologies&job=207a68fe-3d2a-4cd9-a948-00e5c5082b7d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/getbuilt/jobs/4713164005"
     },
     {
       "id": "fce54ba6-55ed-4517-b4c0-bad39167730d",
