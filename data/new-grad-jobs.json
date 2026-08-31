@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T12:01:09.394Z",
+  "updatedAt": "2026-08-31T12:16:04.266Z",
   "jobs": [
     {
       "id": "ccf0ace4-886d-46a3-aa91-bb43d99602ba",
@@ -290,18 +290,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Viavisolutions&job=61a0cfa0-0c05-4c50-90b9-dec384ed1919&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Indianapolis-IN-USA/Early-Careers-Rotational-Program-Development-Engineer---Software-Engineering-AI-Track_260004983-1"
-    },
-    {
-      "id": "7445b97b-ef54-4235-a69f-e3dd23987fec",
-      "company": "Disney",
-      "title": "Associate Software Engineer",
-      "location": "Orlando, FL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-25",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=Disney&job=7445b97b-ef54-4235-a69f-e3dd23987fec&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Orlando-FL-USA/Associate-Software-Engineer_10157526"
     },
     {
       "id": "844c5d57-c799-4a76-aa6b-98b8aaa82385",
