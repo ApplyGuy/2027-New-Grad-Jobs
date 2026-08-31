@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T18:45:52.031Z",
+  "updatedAt": "2026-08-31T19:01:13.052Z",
   "jobs": [
     {
       "id": "a4c2ba2b-6cfe-4d3b-8fdc-8dc75a6fa3a2",
@@ -194,18 +194,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Delta+Solutions+%26+Strategies&job=7e652669-ea14-4e37-89c9-828de03b86a8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/deltasands/78ed860f-7c69-4888-9a05-e8c9006be291"
-    },
-    {
-      "id": "30899070-8e93-4658-b1cf-980212e2a5e5",
-      "company": "GDIT",
-      "title": "Software Engineer 1",
-      "location": "Annapolis Junction, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-26",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=GDIT&job=30899070-8e93-4658-b1cf-980212e2a5e5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Engineer-1_RQ227090-1"
     },
     {
       "id": "844c5d57-c799-4a76-aa6b-98b8aaa82385",
@@ -1115,18 +1103,6 @@
       "listingUrl": "https://jobs.ashbyhq.com/crusoe/4f5d34ed-0c05-4eec-b8f8-14663e114b02"
     },
     {
-      "id": "3397ecb5-c5f1-417a-b6ea-1a251bc9af58",
-      "company": "Qualifacts",
-      "title": "Software Engineer I (P1)",
-      "location": "Remote, U.S.",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-28",
-      "age": "34d",
-      "url": "https://applyguy.ai/jobs?company=Qualifacts&job=3397ecb5-c5f1-417a-b6ea-1a251bc9af58&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://qualifacts.wd5.myworkdayjobs.com/qualifacts_external_careers/job/Ontario---Remote/Software-Engineer-I--P1-_R-102648"
-    },
-    {
       "id": "b0006180-8318-4cc1-bbee-c4d80a301af9",
       "company": "Chainlink Labs",
       "title": "Software Engineer I, CCIP",
@@ -1488,18 +1464,6 @@
       "listingUrl": "https://boards.greenhouse.io/vast/jobs/4696685006?gh_jid=4696685006"
     },
     {
-      "id": "76c8fc31-528a-4a8c-8c96-daec389edd7c",
-      "company": "Axon",
-      "title": "Render ATL 2026 Software Engineer I",
-      "location": "Seattle, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-10",
-      "age": "52d",
-      "url": "https://applyguy.ai/jobs?company=Axon&job=76c8fc31-528a-4a8c-8c96-daec389edd7c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7801352003"
-    },
-    {
       "id": "9e345ebe-b187-4f0e-b57d-8bf31b582567",
       "company": "Cadence",
       "title": "Software Engineer, New College Grad 2026 (Undergrads)",
@@ -1559,18 +1523,6 @@
       "age": "54d",
       "url": "https://applyguy.ai/jobs?company=Precisely+US+Jobs&job=8f5bf9be-e7be-4114-95e5-568ed21ccfbf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.precisely.com/careers-and-culture/us-jobs/job/4710645005?gh_jid=4710645005"
-    },
-    {
-      "id": "191cf864-8bb9-48d5-aa45-13626f84d595",
-      "company": "GDIT",
-      "title": "Junior Software Developer (Active TS/SCI with Poly Required)",
-      "location": "Annapolis Junction, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-07",
-      "age": "55d",
-      "url": "https://applyguy.ai/jobs?company=GDIT&job=191cf864-8bb9-48d5-aa45-13626f84d595&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Junior-Software-Developer--Active-TS-SCI-with-Poly-Required-_RQ212931"
     },
     {
       "id": "8c1a2243-3a64-4e11-99be-29dd02924f34",
