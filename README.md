@@ -1,6 +1,6 @@
 # 2027 New Grad Software Engineering Jobs
 
-[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-209-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
+[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-207-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
 
 A continuously verified list of **2027 New Grad software engineering jobs**, **entry-level software engineer jobs**, and early-career developer roles in the United States. Listings come directly from employer career pages and are maintained by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs).
 
@@ -10,9 +10,9 @@ A continuously verified list of **2027 New Grad software engineering jobs**, **e
 
 🎒 **Looking for internships?** Browse [2027 SWE & Product Internships →](https://github.com/ApplyGuy/2027-Internships)
 
-- **209** active U.S. software roles posted within the last **60 days**
+- **207** active U.S. software roles posted within the last **60 days**
 - **61** explicitly labeled New Grad / university graduate / early career
-- Last refresh: **Aug 30, 2026, 9:30 PM PDT**
+- Last refresh: **Aug 30, 2026, 9:46 PM PDT**
 - Machine-readable feed: [data/new-grad-jobs.json](data/new-grad-jobs.json)
 
 Listings with the orange **Apply Guy** button support one-click apply through [Apply Guy](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs). Blue **View** buttons open the employer's career site directly.
@@ -140,8 +140,6 @@ Listings with the orange **Apply Guy** button support one-click apply through [A
 | Ace IT Careers | QA Software Tester - Entry Level | Remote, U.S. | 24d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Ace+IT+Careers&job=d7ffed8f-429c-474b-9827-225b9d5d674d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://jobs.workable.com/view/uiPKXpAagpWYecA7L7MdHj/remote-qa-software-tester---entry-level-in-indianapolis-at-ace-it-careers) |
 | Boeing | Entry Level or Associate Software Safety Engineer | Oklahoma City, OK | 24d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Boeing&job=fc197551-14ac-4102-92e2-e8a865cb3dcb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/Entry-Level-or-Associate-Software-Safety-Engineer_JR2026520085) |
 | CaseWorthy, LLC | Software Engineer I | Remote, U.S. | 24d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=CaseWorthy%2C+LLC&job=e83ca55d-9a1e-43f5-bf02-f4c9bc8d6812&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4402175) |
-| Costar | Matterport - Software Engineer I | Irvine, CA | 24d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Costar&job=b34827b6-7bb6-4376-8610-cefa3a6e2238&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://costar.wd1.myworkdayjobs.com/costarcareers/job/Irvine-US/Matterport---Software-Engineer-I_R39503) |
-| Costar | Software Engineer I- CoStar Suite- Arlington, VA | VA Arlington | 24d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Costar&job=3ec2be07-fea9-473e-8ab6-a5425392c574&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://costar.wd1.myworkdayjobs.com/costarcareers/job/US-VA-Arlington/Software-Engineer-I--CoStar-Suite--Arlington--VA_R39484) |
 | Freeform | Software Engineer (New Grad December 2026) | Los Angeles, CA | 24d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Freeform&job=01cac459-7aa9-4d2a-8e94-76a884e9c1ef&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7826634003) |
 | Google | Software Engineer, Early Career, Campus | Multiple U.S. locations | 24d | [![View original listing](assets/view-listing.svg)](https://www.google.com/about/careers/applications/jobs/results/78703249065943750-software-engineer-early-career-campus) |
 | Jci | Embedded Software Engineer I - Product Development | New Freedom-Pennsylvania-United States of America | 24d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Jci&job=a718502a-160b-40d5-aa4c-81d75129ef04&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://jci.wd5.myworkdayjobs.com/jci/job/New-Freedom-Pennsylvania-United-States-of-America/Embedded-Software-Engineer-I---Product-Development_WD30272369) |
