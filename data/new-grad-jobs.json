@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T04:00:54.056Z",
+  "updatedAt": "2026-08-31T04:15:48.504Z",
   "jobs": [
     {
       "id": "ccf0ace4-886d-46a3-aa91-bb43d99602ba",
@@ -1847,18 +1847,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/thetradedesk/jobs/5196864007"
     },
     {
-      "id": "ad2d1429-b030-4ac9-b4a4-83ac3fda0545",
-      "company": "Medtronic",
-      "title": "Software Engineer I (AI-Driven Data Solutions) - Lafayette, CO",
-      "location": "Lafayette, CO",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-24",
-      "age": "38d",
-      "url": "https://applyguy.ai/jobs?company=Medtronic&job=ad2d1429-b030-4ac9-b4a4-83ac3fda0545&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://medtronic.wd1.myworkdayjobs.com/medtroniccareers/job/Lafayette-Colorado-United-States-of-America/Software-Engineer-I--AI-Driven-Data-Solutions----Lafayette--CO_R72435-1"
-    },
-    {
       "id": "2d2c7a27-edeb-49d0-922b-ef98ac4ac327",
       "company": "Solerity",
       "title": "JavaScript Developer Software Engineer 1(TS/SCI with Poly)",
@@ -1869,18 +1857,6 @@
       "age": "38d",
       "url": "https://applyguy.ai/jobs?company=Solerity&job=2d2c7a27-edeb-49d0-922b-ef98ac4ac327&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4272523"
-    },
-    {
-      "id": "175453b3-acc7-4231-98e4-a11d06859c8a",
-      "company": "J.B. Hunt",
-      "title": "Software Engineer I",
-      "location": "Lowell, AR",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-23",
-      "age": "39d",
-      "url": "https://applyguy.ai/jobs?company=J.B.+Hunt&job=175453b3-acc7-4231-98e4-a11d06859c8a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jbhunt.wd501.myworkdayjobs.com/careers/job/Lowell-AR---JB-Hunt-Corporate-E/Software-Engineer-I_00635661"
     },
     {
       "id": "161ecaa1-8549-4992-867d-5031beb062e0",
@@ -2110,18 +2086,6 @@
       "age": "44d",
       "url": "https://applyguy.ai/jobs?company=Boeing&job=da5c85e9-e5da-4e40-9263-d3b1c86f878a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Omaha-NE/Software-Engineer_JR2026517990"
-    },
-    {
-      "id": "7e87a1c0-66cf-4b7b-a98f-4a9a3bd21ec5",
-      "company": "Esri",
-      "title": "Software Engineer I - Front-End Engineer for ArcGIS Enterprise",
-      "location": "Redlands, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-17",
-      "age": "45d",
-      "url": "https://applyguy.ai/jobs?company=Esri&job=7e87a1c0-66cf-4b7b-a98f-4a9a3bd21ec5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://www.esri.com/careers/5190253007?gh_jid=5190253007"
     },
     {
       "id": "194b37d9-f974-494d-93e0-f466d4d50e75",
@@ -2521,18 +2485,6 @@
       "listingUrl": "https://www.precisely.com/careers-and-culture/us-jobs/job/4710649005?gh_jid=4710649005"
     },
     {
-      "id": "bfad72c0-dc28-4aaf-b5f7-8d28f736863f",
-      "company": "RoadRunner Recycling Inc.",
-      "title": "Software Engineer I (Full -Stack)",
-      "location": "Remote, U.S.",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-07",
-      "age": "55d",
-      "url": "https://applyguy.ai/jobs?company=RoadRunner+Recycling+Inc.&job=bfad72c0-dc28-4aaf-b5f7-8d28f736863f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/roadrunner/jobs/4307451009"
-    },
-    {
       "id": "f6ac0626-f368-461e-9e85-704b339d5658",
       "company": "Notion",
       "title": "Software Engineer, Early Career",
@@ -2567,18 +2519,6 @@
       "age": "56d",
       "url": "https://applyguy.ai/jobs?company=Waymark&job=8e13b47f-5222-49b4-9f36-83c4440c11fd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/waymark/jobs/4711827005"
-    },
-    {
-      "id": "518ea800-ed8e-44d4-864e-97d669780400",
-      "company": "Visalaw AI",
-      "title": "Associate Software Developer",
-      "location": "Memphis, TN",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-04",
-      "age": "58d",
-      "url": "https://applyguy.ai/jobs?company=Visalaw+AI&job=518ea800-ed8e-44d4-864e-97d669780400&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://apply.workable.com/visalawai/j/419E9D403F/"
     }
   ]
 }
