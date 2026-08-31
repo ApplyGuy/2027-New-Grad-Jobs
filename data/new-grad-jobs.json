@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T11:30:58.150Z",
+  "updatedAt": "2026-08-31T11:46:02.226Z",
   "jobs": [
     {
       "id": "ccf0ace4-886d-46a3-aa91-bb43d99602ba",
@@ -98,6 +98,19 @@
       "listingUrl": "https://jobs.lever.co/hatchit/7f2e771d-2363-4e85-b62f-ca130c478a97"
     },
     {
+      "id": "custom:microsoft:25dae0737b280d944110",
+      "company": "Microsoft",
+      "title": "Software Engineer",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-27",
+      "age": "4d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972217",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972217",
+      "applySupported": false
+    },
+    {
       "id": "39ee6c0d-b6c3-4796-ac5f-6cbd7f4c955b",
       "company": "Ontic",
       "title": "Associate Software Engineer - Full Stack",
@@ -181,78 +194,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Delta+Solutions+%26+Strategies&job=7e652669-ea14-4e37-89c9-828de03b86a8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/deltasands/78ed860f-7c69-4888-9a05-e8c9006be291"
-    },
-    {
-      "id": "40c92df4-6d4e-4024-8643-4d9368c80fc3",
-      "company": "Energy Solutions - USA",
-      "title": "Software Engineer I (Portland, OR - US)",
-      "location": "Portland, OR",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-26",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Energy+Solutions+-+USA&job=40c92df4-6d4e-4024-8643-4d9368c80fc3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/energysolutions/jobs/5222431007"
-    },
-    {
-      "id": "43737d31-8022-4fba-a944-e592c3018f8c",
-      "company": "Energy Solutions - USA",
-      "title": "Software Engineer I (Orange, CA - US)",
-      "location": "Orange, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-26",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Energy+Solutions+-+USA&job=43737d31-8022-4fba-a944-e592c3018f8c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/energysolutions/jobs/5222429007"
-    },
-    {
-      "id": "52dd9f7c-3fdf-47e3-b68f-c0c2db7bdbb6",
-      "company": "Energy Solutions - USA",
-      "title": "Software Engineer I (Oakland, CA - US)",
-      "location": "Oakland, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-26",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Energy+Solutions+-+USA&job=52dd9f7c-3fdf-47e3-b68f-c0c2db7bdbb6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/energysolutions/jobs/5222428007"
-    },
-    {
-      "id": "8695145c-79c1-47f9-a702-82a10ee039eb",
-      "company": "Energy Solutions - USA",
-      "title": "Software Engineer I (New York, NY - US)",
-      "location": "New York City, NY",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-26",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Energy+Solutions+-+USA&job=8695145c-79c1-47f9-a702-82a10ee039eb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/energysolutions/jobs/5222432007"
-    },
-    {
-      "id": "6efca28c-c759-4095-bdd6-8913e80e515c",
-      "company": "Energy Solutions - USA",
-      "title": "Software Engineer I (Chicago, IL - US)",
-      "location": "Chicago, IL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-26",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Energy+Solutions+-+USA&job=6efca28c-c759-4095-bdd6-8913e80e515c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/energysolutions/jobs/5222430007"
-    },
-    {
-      "id": "d8c02382-6012-4598-a11f-2cec81d9d206",
-      "company": "Energy Solutions - USA",
-      "title": "Software Engineer I (Boston, MA - US)",
-      "location": "Boston, MA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-26",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Energy+Solutions+-+USA&job=d8c02382-6012-4598-a11f-2cec81d9d206&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/energysolutions/jobs/5201891007"
     },
     {
       "id": "30899070-8e93-4658-b1cf-980212e2a5e5",
@@ -569,6 +510,19 @@
       "listingUrl": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-108739"
     },
     {
+      "id": "custom:microsoft:8a2cc77b4b241f96367e",
+      "company": "Microsoft",
+      "title": "Pre-Training",
+      "location": "US",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-21",
+      "age": "10d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
+      "applySupported": false
+    },
+    {
       "id": "3846eea5-c801-46d0-b74d-644d645524a9",
       "company": "Crowe",
       "title": "Machine Learning Software Engineer 1",
@@ -617,18 +571,6 @@
       "listingUrl": "https://bitdeer.breezy.hr/p/ed6314823d0c-sre-monitoring-platform-software-engineer-early-career-temporary"
     },
     {
-      "id": "159941a8-8b9e-471d-8f95-06bc469156b1",
-      "company": "Freeform",
-      "title": "Software Engineer (New Grad Summer 2027)",
-      "location": "Los Angeles, CA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-19",
-      "age": "12d",
-      "url": "https://applyguy.ai/jobs?company=Freeform&job=159941a8-8b9e-471d-8f95-06bc469156b1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003"
-    },
-    {
       "id": "bd64bc48-0cba-4265-a7c5-041ddc2355cc",
       "company": "JND",
       "title": "[Entry Level] Software Tester (2608-2)",
@@ -639,6 +581,19 @@
       "age": "12d",
       "url": "https://applyguy.ai/jobs?company=JND&job=bd64bc48-0cba-4265-a7c5-041ddc2355cc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jnd-inc.breezy.hr/p/87fd346a82c7-entry-level-software-tester-2608-2"
+    },
+    {
+      "id": "custom:microsoft:698bf1cfd0197fa8f311",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-19",
+      "age": "12d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "applySupported": false
     },
     {
       "id": "1cfa0c53-d6a0-4a73-9c2c-b4c095cb0bdf",
@@ -1240,18 +1195,6 @@
       "age": "24d",
       "url": "https://applyguy.ai/jobs?company=CaseWorthy%2C+LLC&job=e83ca55d-9a1e-43f5-bf02-f4c9bc8d6812&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4402175"
-    },
-    {
-      "id": "01cac459-7aa9-4d2a-8e94-76a884e9c1ef",
-      "company": "Freeform",
-      "title": "Software Engineer (New Grad December 2026)",
-      "location": "Los Angeles, CA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-07",
-      "age": "24d",
-      "url": "https://applyguy.ai/jobs?company=Freeform&job=01cac459-7aa9-4d2a-8e94-76a884e9c1ef&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7826634003"
     },
     {
       "id": "custom:google:78703249065943750",
@@ -1869,18 +1812,6 @@
       "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Hazelwood-MO/Associate-Software-Engineer_JR2026511462-1"
     },
     {
-      "id": "3de4c809-7cdf-4aba-88d0-5037c04cdb2c",
-      "company": "Five Rings",
-      "title": "Campus Full Time 2027 - Software Developer",
-      "location": "New York City, NY",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-07-14",
-      "age": "48d",
-      "url": "https://applyguy.ai/jobs?company=Five+Rings&job=3de4c809-7cdf-4aba-88d0-5037c04cdb2c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349839008"
-    },
-    {
       "id": "b16ee1a8-b215-4797-afea-9bf721d3a86e",
       "company": "Twitch",
       "title": "Software Engineer I, Discovery",
@@ -1963,18 +1894,6 @@
       "age": "49d",
       "url": "https://applyguy.ai/jobs?company=Old+Mission&job=c8ca21fd-6d2e-4e4b-b43f-c979bd2289dc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.oldmissioncapital.com/careers/?gh_jid=7796048003"
-    },
-    {
-      "id": "a2a78be0-da2a-401d-86de-0825b85339eb",
-      "company": "The Cadmus Group",
-      "title": "Junior Full Stack Developer",
-      "location": "US",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-13",
-      "age": "49d",
-      "url": "https://applyguy.ai/jobs?company=The+Cadmus+Group&job=a2a78be0-da2a-401d-86de-0825b85339eb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://careers-cadmusgroup.icims.com/jobs/3199/junior-full-stack-developer/job"
     },
     {
       "id": "5ab0dfae-2cce-4b76-97c8-a3095c4b804f",
