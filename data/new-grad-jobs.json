@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T02:46:13.873Z",
+  "updatedAt": "2026-08-31T03:00:38.178Z",
   "jobs": [
     {
       "id": "ccf0ace4-886d-46a3-aa91-bb43d99602ba",
@@ -242,18 +242,6 @@
       "url": "https://www.amazon.jobs/en/jobs/10515912/software-engineer-i-memberships",
       "listingUrl": "https://www.amazon.jobs/en/jobs/10515912/software-engineer-i-memberships",
       "applySupported": false
-    },
-    {
-      "id": "b7a5389c-99e1-4a57-821e-16e7d862e8c5",
-      "company": "CACI",
-      "title": "Early Career NASA Space Reactor – 1 Freedom Flight Software Development Engineer",
-      "location": "Houston, TX",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-26",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=CACI&job=b7a5389c-99e1-4a57-821e-16e7d862e8c5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Houston-TX-US/Early-Career-NASA-Space-Reactor---1-Freedom-Flight-Software-Development-Engineer_330677"
     },
     {
       "id": "6fb184d6-7ec0-4930-98ab-2d9e09f0e840",
@@ -930,18 +918,6 @@
       "age": "13d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=3af4c944-020a-4bc5-8e04-184c89ba0b6d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineer-I--Onsite-_01866533"
-    },
-    {
-      "id": "0d17efee-c4f5-46fb-b43b-132911ca54db",
-      "company": "CACI",
-      "title": "Software Engineer - Early Career - Cloud",
-      "location": "Hanover MD",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-17",
-      "age": "14d",
-      "url": "https://applyguy.ai/jobs?company=CACI&job=0d17efee-c4f5-46fb-b43b-132911ca54db&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Hanover-MD-US/Software-Engineer---Early-Career---Cloud_330679"
     },
     {
       "id": "7aba27b6-d0c6-4bdb-b6d7-d9bd20369903",
@@ -2507,18 +2483,6 @@
       "age": "54d",
       "url": "https://applyguy.ai/jobs?company=Built+Technologies&job=207a68fe-3d2a-4cd9-a948-00e5c5082b7d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/getbuilt/jobs/4713164005"
-    },
-    {
-      "id": "061cee5f-51c7-46c1-8c43-9e719e314506",
-      "company": "CACI",
-      "title": "Junior Software Engineer",
-      "location": "Denver CO",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-08",
-      "age": "54d",
-      "url": "https://applyguy.ai/jobs?company=CACI&job=061cee5f-51c7-46c1-8c43-9e719e314506&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Junior-Software-Engineer_327867"
     },
     {
       "id": "fce54ba6-55ed-4517-b4c0-bad39167730d",
