@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T04:30:54.396Z",
+  "updatedAt": "2026-08-31T04:46:06.866Z",
   "jobs": [
     {
       "id": "ccf0ace4-886d-46a3-aa91-bb43d99602ba",
@@ -1435,30 +1435,6 @@
       "age": "24d",
       "url": "https://applyguy.ai/jobs?company=CaseWorthy%2C+LLC&job=e83ca55d-9a1e-43f5-bf02-f4c9bc8d6812&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4402175"
-    },
-    {
-      "id": "b34827b6-7bb6-4376-8610-cefa3a6e2238",
-      "company": "Costar",
-      "title": "Matterport - Software Engineer I",
-      "location": "Irvine, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-07",
-      "age": "24d",
-      "url": "https://applyguy.ai/jobs?company=Costar&job=b34827b6-7bb6-4376-8610-cefa3a6e2238&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://costar.wd1.myworkdayjobs.com/costarcareers/job/Irvine-US/Matterport---Software-Engineer-I_R39503"
-    },
-    {
-      "id": "3ec2be07-fea9-473e-8ab6-a5425392c574",
-      "company": "Costar",
-      "title": "Software Engineer I- CoStar Suite- Arlington, VA",
-      "location": "VA Arlington",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-07",
-      "age": "24d",
-      "url": "https://applyguy.ai/jobs?company=Costar&job=3ec2be07-fea9-473e-8ab6-a5425392c574&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://costar.wd1.myworkdayjobs.com/costarcareers/job/US-VA-Arlington/Software-Engineer-I--CoStar-Suite--Arlington--VA_R39484"
     },
     {
       "id": "01cac459-7aa9-4d2a-8e94-76a884e9c1ef",
