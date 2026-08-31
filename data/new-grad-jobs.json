@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T12:30:35.774Z",
+  "updatedAt": "2026-08-31T12:46:11.005Z",
   "jobs": [
     {
       "id": "812bd563-d821-432e-b3b2-6dd242e540cf",
@@ -1205,18 +1205,6 @@
       "age": "26d",
       "url": "https://applyguy.ai/jobs?company=Manhattan+Associates&job=70635e1a-9f05-4876-9733-48873ea59060&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://manh.wd5.myworkdayjobs.com/campus/job/Atlanta-GA/Software-Engineer---Early-Career_16977"
-    },
-    {
-      "id": "b787bb89-547d-4d4a-a2a3-59018fdd7969",
-      "company": "Roblox",
-      "title": "[2027] Software Engineer, Early Career",
-      "location": "San Mateo, CA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-05",
-      "age": "26d",
-      "url": "https://applyguy.ai/jobs?company=Roblox&job=b787bb89-547d-4d4a-a2a3-59018fdd7969&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244"
     },
     {
       "id": "ac5562b0-18be-4353-83c1-171436f6b4bb",
