@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T01:01:05.343Z",
+  "updatedAt": "2026-08-31T01:16:07.104Z",
   "jobs": [
     {
       "id": "ccf0ace4-886d-46a3-aa91-bb43d99602ba",
@@ -1185,18 +1185,6 @@
       "listingUrl": "https://www.esri.com/careers/5209466007?gh_jid=5209466007"
     },
     {
-      "id": "9fa07ff1-f227-412c-94f0-5560835d9a77",
-      "company": "Flir",
-      "title": "Associate Software Engineer",
-      "location": "Huntsville, AL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-13",
-      "age": "18d",
-      "url": "https://applyguy.ai/jobs?company=Flir&job=9fa07ff1-f227-412c-94f0-5560835d9a77&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Associate-Software-Engineer_REQ36189"
-    },
-    {
       "id": "9ca2c2c6-3417-41d0-b1e9-8cf5977a7ab8",
       "company": "Chamberlain",
       "title": "Software Engineer I - AI",
@@ -1387,18 +1375,6 @@
       "age": "21d",
       "url": "https://applyguy.ai/jobs?company=Esri&job=14469a5c-caa3-49e3-9f78-1551d94a45e0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.esri.com/careers/5205997007?gh_jid=5205997007"
-    },
-    {
-      "id": "3d617441-4b32-4b24-beae-3fb3ee19f343",
-      "company": "Flir",
-      "title": "Jr. Software Engineer",
-      "location": "Huntsville, AL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-10",
-      "age": "21d",
-      "url": "https://applyguy.ai/jobs?company=Flir&job=3d617441-4b32-4b24-beae-3fb3ee19f343&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Jr-Software-Engineer_REQ36188"
     },
     {
       "id": "34488725-5fae-4e8e-bb49-d597c35da7ad",
@@ -2064,18 +2040,6 @@
       "listingUrl": "https://tmnas.wd5.myworkdayjobs.com/externalcareerstmnas/job/Bala-Cynwyd-PA/Software-Engineer-I---Java-Hybrid--Bala-Cynwyd--PA_10001038"
     },
     {
-      "id": "94ae2f4b-4acb-47b7-9073-2b3234a331f2",
-      "company": "Radiancetech",
-      "title": "Junior Software Engineer",
-      "location": "Stennis Space Center, MS",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-21",
-      "age": "41d",
-      "url": "https://applyguy.ai/jobs?company=Radiancetech&job=94ae2f4b-4acb-47b7-9073-2b3234a331f2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://radiancetech.wd12.myworkdayjobs.com/radiance_external/job/Stennis-Space-Center-MS/Junior-Software-Engineer_HR102305"
-    },
-    {
       "id": "a8166d03-615c-42bd-a9e7-e0966aca2634",
       "company": "RTX",
       "title": "Software Engineer 1 (ONSITE)",
@@ -2218,18 +2182,6 @@
       "age": "45d",
       "url": "https://applyguy.ai/jobs?company=PlayStation+Global&job=194b37d9-f974-494d-93e0-f466d4d50e75&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6104600004"
-    },
-    {
-      "id": "eb46757b-9e3d-4bff-887f-c806eb354e90",
-      "company": "Radiancetech",
-      "title": "Junior Software Engineer",
-      "location": "Huntsville, AL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-17",
-      "age": "45d",
-      "url": "https://applyguy.ai/jobs?company=Radiancetech&job=eb46757b-9e3d-4bff-887f-c806eb354e90&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://radiancetech.wd12.myworkdayjobs.com/radiance_external/job/Huntsville-AL/Junior-Software-Engineer_HR102303"
     },
     {
       "id": "a6c72131-5064-4252-8e2c-94c3805b2ff9",
