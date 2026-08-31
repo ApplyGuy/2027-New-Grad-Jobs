@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T13:01:30.813Z",
+  "updatedAt": "2026-08-31T13:16:07.513Z",
   "jobs": [
     {
       "id": "812bd563-d821-432e-b3b2-6dd242e540cf",
@@ -278,30 +278,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Twitch&job=d7d31318-32c4-4527-bb3e-6e7b98166860&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/twitch/jobs/8748320002"
-    },
-    {
-      "id": "76b3cfd9-8516-4d3a-a433-bf0d4c437e1c",
-      "company": "Viavisolutions",
-      "title": "Early Careers Rotational Program Development Engineer - Software Engineering/AI Track",
-      "location": "Morrisville, NC",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-26",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Viavisolutions&job=76b3cfd9-8516-4d3a-a433-bf0d4c437e1c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Morrisville-NC-USA/Early-Careers-Rotational-Program-Development-Engineer---Software-Engineering-AI-Track_260004987-1"
-    },
-    {
-      "id": "61a0cfa0-0c05-4c50-90b9-dec384ed1919",
-      "company": "Viavisolutions",
-      "title": "Early Careers Rotational Program Development Engineer - Software Engineering/AI Track",
-      "location": "Indianapolis, IN",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-26",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Viavisolutions&job=61a0cfa0-0c05-4c50-90b9-dec384ed1919&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Indianapolis-IN-USA/Early-Careers-Rotational-Program-Development-Engineer---Software-Engineering-AI-Track_260004983-1"
     },
     {
       "id": "844c5d57-c799-4a76-aa6b-98b8aaa82385",
@@ -1488,18 +1464,6 @@
       "applySupported": false
     },
     {
-      "id": "169dce9c-1144-4f7d-a2d4-57f22668a655",
-      "company": "Danaher",
-      "title": "Software Engineer I",
-      "location": "Lakeview Parkway, Multiple OpCo",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-22",
-      "age": "40d",
-      "url": "https://applyguy.ai/jobs?company=Danaher&job=169dce9c-1144-4f7d-a2d4-57f22668a655&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/USA---Indianapolis---Lakeview-Parkway---Multiple-OpCo/Software-Engineer-I_R1312947"
-    },
-    {
       "id": "e060da97-4ea9-4e36-97bf-3f1c7ec8a597",
       "company": "NVIDIA",
       "title": "Software R&D Engineer, VLSI Physical Design - New College Grad 2026",
@@ -1738,18 +1702,6 @@
       "age": "49d",
       "url": "https://applyguy.ai/jobs?company=Abridge&job=06d73bd3-0dab-4b7b-9797-80ee55635eb8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace"
-    },
-    {
-      "id": "d1838afe-aaea-4829-92b5-3bc99a1cbe9d",
-      "company": "Accenture Federal Services",
-      "title": "Jr. Software Engineer",
-      "location": "Annapolis Junction, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-13",
-      "age": "49d",
-      "url": "https://applyguy.ai/jobs?company=Accenture+Federal+Services&job=d1838afe-aaea-4829-92b5-3bc99a1cbe9d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://boards.greenhouse.io/accenturefederalservices/jobs/4689025006?gh_jid=4689025006"
     },
     {
       "id": "8e0c87b3-2594-40aa-a80d-c3f93f48f656",
