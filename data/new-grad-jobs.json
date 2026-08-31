@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-31T17:31:07.055Z",
+  "updatedAt": "2026-08-31T17:46:04.808Z",
   "jobs": [
+    {
+      "id": "a4c2ba2b-6cfe-4d3b-8fdc-8dc75a6fa3a2",
+      "company": "Agile Defense",
+      "title": "Junior Data Engineer",
+      "location": "Camp Smith, HI",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-31",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Agile+Defense&job=a4c2ba2b-6cfe-4d3b-8fdc-8dc75a6fa3a2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.lever.co/agile-defense/ce477d8b-7fd1-4790-bada-4365aaad91bf"
+    },
     {
       "id": "271858e1-8a25-41ee-8f3c-6b1d382d0d55",
       "company": "Informaticon",
