@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T05:46:07.581Z",
+  "updatedAt": "2026-08-31T06:00:56.626Z",
   "jobs": [
     {
       "id": "ccf0ace4-886d-46a3-aa91-bb43d99602ba",
@@ -86,18 +86,6 @@
       "listingUrl": "https://dexcom.wd1.myworkdayjobs.com/dexcom/job/Remote---United-States/Software-Development-Engineer-1_JR120540"
     },
     {
-      "id": "718e723e-176a-4d51-8a71-3a3bcaa91e43",
-      "company": "Esri",
-      "title": "Software Development Engineer I - AWS",
-      "location": "Redlands, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-27",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=Esri&job=718e723e-176a-4d51-8a71-3a3bcaa91e43&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://www.esri.com/careers/5220060007?gh_jid=5220060007"
-    },
-    {
       "id": "65772c20-ea73-4992-8437-59f401402ffd",
       "company": "Hatch IT",
       "title": "Junior Data Engineer (DEA)",
@@ -144,19 +132,6 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Iqvia&job=118ab350-be6d-4bbd-b418-4643b366d9c4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://iqvia.wd1.myworkdayjobs.com/iqvia/job/Dallas-TX/MedTech-Field-Service-Software-Technician---Central-Time-Zone_R1564641"
-    },
-    {
-      "id": "custom:microsoft:25dae0737b280d944110",
-      "company": "Microsoft",
-      "title": "Software Engineer",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-27",
-      "age": "4d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972217",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972217",
-      "applySupported": false
     },
     {
       "id": "39ee6c0d-b6c3-4796-ac5f-6cbd7f4c955b",
@@ -630,18 +605,6 @@
       "listingUrl": "https://jobs.lever.co/clearedge/e72517e3-8831-46ea-8d44-41ab6ac22b4c"
     },
     {
-      "id": "62f4374e-4f30-4b68-88b0-16178e49760d",
-      "company": "Esri",
-      "title": "C# Software Engineer I – Feature Services",
-      "location": "Redlands, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-21",
-      "age": "10d",
-      "url": "https://applyguy.ai/jobs?company=Esri&job=62f4374e-4f30-4b68-88b0-16178e49760d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://www.esri.com/careers/5214134007?gh_jid=5214134007"
-    },
-    {
       "id": "44a07bce-5f6c-44b1-bd37-2ad54fecd4fd",
       "company": "Expedia",
       "title": "Software Development Engineer I",
@@ -652,19 +615,6 @@
       "age": "10d",
       "url": "https://applyguy.ai/jobs?company=Expedia&job=44a07bce-5f6c-44b1-bd37-2ad54fecd4fd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-108739"
-    },
-    {
-      "id": "custom:microsoft:8a2cc77b4b241f96367e",
-      "company": "Microsoft",
-      "title": "Pre-Training",
-      "location": "US",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-21",
-      "age": "10d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
-      "applySupported": false
     },
     {
       "id": "3846eea5-c801-46d0-b74d-644d645524a9",
@@ -737,19 +687,6 @@
       "age": "12d",
       "url": "https://applyguy.ai/jobs?company=JND&job=bd64bc48-0cba-4265-a7c5-041ddc2355cc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jnd-inc.breezy.hr/p/87fd346a82c7-entry-level-software-tester-2608-2"
-    },
-    {
-      "id": "custom:microsoft:698bf1cfd0197fa8f311",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-19",
-      "age": "12d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "applySupported": false
     },
     {
       "id": "1cfa0c53-d6a0-4a73-9c2c-b4c095cb0bdf",
@@ -1113,30 +1050,6 @@
       "listingUrl": "https://ucar.wd5.myworkdayjobs.com/ucar_careers/job/Boulder-CO/CESM-Software-Engineer-I_REQ-2026-117-1"
     },
     {
-      "id": "b10414aa-cd99-4db4-90a4-bff05545a58d",
-      "company": "Esri",
-      "title": "Software Development Engineer I",
-      "location": "Denver, CO",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-13",
-      "age": "18d",
-      "url": "https://applyguy.ai/jobs?company=Esri&job=b10414aa-cd99-4db4-90a4-bff05545a58d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://www.esri.com/careers/5209800007?gh_jid=5209800007"
-    },
-    {
-      "id": "55686403-7fb1-48b7-8088-442898b37530",
-      "company": "Esri",
-      "title": "Software Development Engineer I - Applied Research & Prototyping",
-      "location": "Redlands, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-13",
-      "age": "18d",
-      "url": "https://applyguy.ai/jobs?company=Esri&job=55686403-7fb1-48b7-8088-442898b37530&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://www.esri.com/careers/5209466007?gh_jid=5209466007"
-    },
-    {
       "id": "9ca2c2c6-3417-41d0-b1e9-8cf5977a7ab8",
       "company": "Chamberlain",
       "title": "Software Engineer I - AI",
@@ -1315,18 +1228,6 @@
       "age": "21d",
       "url": "https://applyguy.ai/jobs?company=Axon&job=1da36f6a-e6f6-45a0-a814-ed5c8b790062&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/axon/jobs/7576576003"
-    },
-    {
-      "id": "14469a5c-caa3-49e3-9f78-1551d94a45e0",
-      "company": "Esri",
-      "title": "Software Development Engineer I - Analytics",
-      "location": "Redlands, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-10",
-      "age": "21d",
-      "url": "https://applyguy.ai/jobs?company=Esri&job=14469a5c-caa3-49e3-9f78-1551d94a45e0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://www.esri.com/careers/5205997007?gh_jid=5205997007"
     },
     {
       "id": "34488725-5fae-4e8e-bb49-d597c35da7ad",
@@ -1532,30 +1433,6 @@
       "age": "25d",
       "url": "https://applyguy.ai/jobs?company=UNITED+STATES+SOCCER+FEDERATION+1&job=8a874d3f-d3a8-4a01-a4fa-de0a4c1045c8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4397444"
-    },
-    {
-      "id": "82943b3b-7cce-4706-9926-0e878b839a72",
-      "company": "Esri",
-      "title": "Software Developer I - Android Apps",
-      "location": "Portland, ME",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-05",
-      "age": "26d",
-      "url": "https://applyguy.ai/jobs?company=Esri&job=82943b3b-7cce-4706-9926-0e878b839a72&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://www.esri.com/careers/5199123007?gh_jid=5199123007"
-    },
-    {
-      "id": "bdda7a08-6255-4af8-8010-362f295f4325",
-      "company": "Esri",
-      "title": "C++ Software Engineer I – Maps SDKS",
-      "location": "Redlands, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-05",
-      "age": "26d",
-      "url": "https://applyguy.ai/jobs?company=Esri&job=bdda7a08-6255-4af8-8010-362f295f4325&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://www.esri.com/careers/5199136007?gh_jid=5199136007"
     },
     {
       "id": "70635e1a-9f05-4876-9733-48873ea59060",
@@ -2340,7 +2217,7 @@
       "listingUrl": "https://tmnas.wd5.myworkdayjobs.com/externalcareerstmnas/job/Bala-Cynwyd-PA/Software-Engineer-I--Bala-Cynwyd--PA_10001026"
     },
     {
-      "id": "dd8b828d-83c6-4d44-859c-f1459f14bc83",
+      "id": "9e345ebe-b187-4f0e-b57d-8bf31b582567",
       "company": "Cadence",
       "title": "Software Engineer, New College Grad 2026 (Undergrads)",
       "location": "Burlington, MA",
@@ -2348,8 +2225,8 @@
       "matchKind": "explicit",
       "posted": "2026-07-09",
       "age": "53d",
-      "url": "https://applyguy.ai/jobs?company=Cadence&job=dd8b828d-83c6-4d44-859c-f1459f14bc83&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://cadence.wd1.myworkdayjobs.com/university_talent_ncg/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894-3"
+      "url": "https://applyguy.ai/jobs?company=Cadence&job=9e345ebe-b187-4f0e-b57d-8bf31b582567&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://cadence.wd1.myworkdayjobs.com/univ_careers/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894-1"
     },
     {
       "id": "a7f5de79-436d-48ed-9a23-667595b8af52",
