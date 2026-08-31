@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T10:15:51.431Z",
+  "updatedAt": "2026-08-31T10:30:36.506Z",
   "jobs": [
     {
       "id": "ccf0ace4-886d-46a3-aa91-bb43d99602ba",
@@ -1463,7 +1463,7 @@
       "applySupported": false
     },
     {
-      "id": "3a280089-2bd8-494a-b78e-0de5ad399e1d",
+      "id": "1f8755fc-00d6-4f5d-9ed8-1ac707b3a2ad",
       "company": "NVIDIA",
       "title": "Systems Software Engineer - New College Grad 2026",
       "location": "US, OR, Hillsboro",
@@ -1471,8 +1471,8 @@
       "matchKind": "explicit",
       "posted": "2026-08-03",
       "age": "28d",
-      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=3a280089-2bd8-494a-b78e-0de5ad399e1d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083"
+      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=1f8755fc-00d6-4f5d-9ed8-1ac707b3a2ad&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083"
     },
     {
       "id": "de986c69-d93e-4128-9bfe-482ba2fa9950",
@@ -1992,7 +1992,7 @@
       "listingUrl": "https://jobs.ashbyhq.com/northwoodspace/b960b661-e1cc-40d0-bde3-290cd1b58ede"
     },
     {
-      "id": "ec4383d0-2058-42e2-b744-e3371932228a",
+      "id": "d1268a78-6d24-4be5-a373-b1aeba65a0f6",
       "company": "NVIDIA",
       "title": "System Software Engineer, Dynamo-Triton Inference Server - New College Grad 2026",
       "location": "Santa Clara, CA",
@@ -2000,8 +2000,8 @@
       "matchKind": "explicit",
       "posted": "2026-07-13",
       "age": "49d",
-      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=ec4383d0-2058-42e2-b744-e3371932228a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineer--Dynamo-Triton-Inference-Server---New-College-Grad-2026_JR2020767"
+      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=d1268a78-6d24-4be5-a373-b1aeba65a0f6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Dynamo-Triton-Inference-Server---New-College-Grad-2026_JR2020767"
     },
     {
       "id": "c8ca21fd-6d2e-4e4b-b43f-c979bd2289dc",
