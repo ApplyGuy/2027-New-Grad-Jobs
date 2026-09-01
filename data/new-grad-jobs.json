@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T21:01:03.432Z",
+  "updatedAt": "2026-09-01T21:15:51.733Z",
   "jobs": [
     {
       "id": "d2c137f3-fd69-4831-b9e2-4ca61013a88e",
@@ -134,6 +134,19 @@
       "listingUrl": "https://jobs.lever.co/hatchit/7f2e771d-2363-4e85-b62f-ca130c478a97"
     },
     {
+      "id": "custom:microsoft:25dae0737b280d944110",
+      "company": "Microsoft",
+      "title": "Software Engineer",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-27",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972217",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972217",
+      "applySupported": false
+    },
+    {
       "id": "39ee6c0d-b6c3-4796-ac5f-6cbd7f4c955b",
       "company": "Ontic",
       "title": "Associate Software Engineer - Full Stack",
@@ -207,6 +220,32 @@
       "listingUrl": "https://jobs.ashbyhq.com/solace/bbdb1020-2900-4d63-908a-20cea79a65cd"
     },
     {
+      "id": "custom:google:84680705375642310",
+      "company": "Google",
+      "title": "Software Engineer, Infrastructure, PhD, Early Career, 2027 Start",
+      "location": "Multiple U.S. locations",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-24",
+      "age": "8d",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/84680705375642310-software-engineer-infrastructure-phd-early-career-2027-start",
+      "listingUrl": "https://www.google.com/about/careers/applications/jobs/results/84680705375642310-software-engineer-infrastructure-phd-early-career-2027-start",
+      "applySupported": false
+    },
+    {
+      "id": "custom:google:123087196289671878",
+      "company": "Google",
+      "title": "Software Engineer, AI/Machine Learning,  PhD, Early Career, 2027 Start",
+      "location": "Multiple U.S. locations",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-24",
+      "age": "8d",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/123087196289671878-software-engineer-ai-machine-learning-phd-early-career-2027-start",
+      "listingUrl": "https://www.google.com/about/careers/applications/jobs/results/123087196289671878-software-engineer-ai-machine-learning-phd-early-career-2027-start",
+      "applySupported": false
+    },
+    {
       "id": "2bcbc0aa-bafe-4768-acdd-19801b9ca7d8",
       "company": "VectorVMS",
       "title": "Associate Software Engineer",
@@ -229,6 +268,19 @@
       "age": "11d",
       "url": "https://applyguy.ai/jobs?company=Clearedge&job=8efc4f62-f3dd-46a3-b451-150d6bbe1148&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/clearedge/e72517e3-8831-46ea-8d44-41ab6ac22b4c"
+    },
+    {
+      "id": "custom:microsoft:8a2cc77b4b241f96367e",
+      "company": "Microsoft",
+      "title": "Pre-Training",
+      "location": "US",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-21",
+      "age": "11d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
+      "applySupported": false
     },
     {
       "id": "dc0399ce-23c6-4d75-8328-ff1ff317cee0",
@@ -267,6 +319,19 @@
       "listingUrl": "https://jnd-inc.breezy.hr/p/87fd346a82c7-entry-level-software-tester-2608-2"
     },
     {
+      "id": "custom:microsoft:698bf1cfd0197fa8f311",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-19",
+      "age": "13d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "applySupported": false
+    },
+    {
       "id": "954c593e-cc65-4bc0-9d56-e43264d06932",
       "company": "Worth Finance Corporation",
       "title": "Software QA Tester - Entry Level",
@@ -277,18 +342,6 @@
       "age": "13d",
       "url": "https://applyguy.ai/jobs?company=Worth+Finance+Corporation&job=954c593e-cc65-4bc0-9d56-e43264d06932&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.workable.com/view/tQq87azczgHvziCjULk6Dt/software-qa-tester---entry-level-in-austin-at-worth-finance-corporation"
-    },
-    {
-      "id": "40e0d6b3-4285-4ca3-b56a-f8aeebc07253",
-      "company": "Johnson Health Tech Companies",
-      "title": "Software Tester – Entry Level",
-      "location": "Cottage Grove, WI",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-18",
-      "age": "14d",
-      "url": "https://applyguy.ai/jobs?company=Johnson+Health+Tech+Companies&job=40e0d6b3-4285-4ca3-b56a-f8aeebc07253&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4431115"
     },
     {
       "id": "d9007a83-d60a-4e5e-9d1e-7bbba6779db3",
@@ -482,6 +535,19 @@
       "age": "25d",
       "url": "https://applyguy.ai/jobs?company=CaseWorthy%2C+LLC&job=e83ca55d-9a1e-43f5-bf02-f4c9bc8d6812&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4402175"
+    },
+    {
+      "id": "custom:google:78703249065943750",
+      "company": "Google",
+      "title": "Software Engineer, Early Career, Campus",
+      "location": "Multiple U.S. locations",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-07",
+      "age": "25d",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/78703249065943750-software-engineer-early-career-campus",
+      "listingUrl": "https://www.google.com/about/careers/applications/jobs/results/78703249065943750-software-engineer-early-career-campus",
+      "applySupported": false
     },
     {
       "id": "0db8b6ec-8b8e-4755-b4dd-097d3314da1a",
