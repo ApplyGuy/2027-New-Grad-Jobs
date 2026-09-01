@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T00:31:01.879Z",
+  "updatedAt": "2026-09-01T00:45:32.973Z",
   "jobs": [
     {
       "id": "a4c2ba2b-6cfe-4d3b-8fdc-8dc75a6fa3a2",
@@ -295,18 +295,6 @@
       "applySupported": false
     },
     {
-      "id": "3846eea5-c801-46d0-b74d-644d645524a9",
-      "company": "Crowe",
-      "title": "Machine Learning Software Engineer 1",
-      "location": "Chicago IL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-20",
-      "age": "12d",
-      "url": "https://applyguy.ai/jobs?company=Crowe&job=3846eea5-c801-46d0-b74d-644d645524a9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Machine-Learning-Software-Engineer-1_R-71006"
-    },
-    {
       "id": "dc0399ce-23c6-4d75-8328-ff1ff317cee0",
       "company": "Crusoe",
       "title": "Software Engineer I, Network",
@@ -354,42 +342,6 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
       "applySupported": false
-    },
-    {
-      "id": "8c12cd26-5e09-4083-a226-bca2e0a490ee",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Software (Application Software)",
-      "location": "Hawthorne, CA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-19",
-      "age": "13d",
-      "url": "https://applyguy.ai/jobs?company=SpaceX&job=8c12cd26-5e09-4083-a226-bca2e0a490ee&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://boards.greenhouse.io/spacex/jobs/8730567002?gh_jid=8730567002"
-    },
-    {
-      "id": "19fbb7b4-86a6-4e32-8d75-4e70215e9f27",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-      "location": "Hawthorne, CA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-19",
-      "age": "13d",
-      "url": "https://applyguy.ai/jobs?company=SpaceX&job=19fbb7b4-86a6-4e32-8d75-4e70215e9f27&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://boards.greenhouse.io/spacex/jobs/8724316002?gh_jid=8724316002"
-    },
-    {
-      "id": "58986cd8-3d18-4b54-803a-67e2c0b3a4a3",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Software (Starship)",
-      "location": "Starbase, TX",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-19",
-      "age": "13d",
-      "url": "https://applyguy.ai/jobs?company=SpaceX&job=58986cd8-3d18-4b54-803a-67e2c0b3a4a3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://boards.greenhouse.io/spacex/jobs/8729121002?gh_jid=8729121002"
     },
     {
       "id": "954c593e-cc65-4bc0-9d56-e43264d06932",
@@ -525,78 +477,6 @@
       "listingUrl": "https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816"
     },
     {
-      "id": "124d4084-6626-46c5-a788-14ae58247cff",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Software  - '26/'27  (Starlink)",
-      "location": "Bastrop, TX",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-14",
-      "age": "18d",
-      "url": "https://applyguy.ai/jobs?company=SpaceX&job=124d4084-6626-46c5-a788-14ae58247cff&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://boards.greenhouse.io/spacex/jobs/8696097002?gh_jid=8696097002"
-    },
-    {
-      "id": "d5164c75-4ab0-40d8-92a5-9974aad5827f",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
-      "location": "Palo Alto, CA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-14",
-      "age": "18d",
-      "url": "https://applyguy.ai/jobs?company=SpaceX&job=d5164c75-4ab0-40d8-92a5-9974aad5827f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://boards.greenhouse.io/spacex/jobs/8696080002?gh_jid=8696080002"
-    },
-    {
-      "id": "4a1f44f8-890b-4bea-b720-1023ac20f82d",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
-      "location": "Redmond, WA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-14",
-      "age": "18d",
-      "url": "https://applyguy.ai/jobs?company=SpaceX&job=4a1f44f8-890b-4bea-b720-1023ac20f82d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002"
-    },
-    {
-      "id": "c0065153-9217-4f4f-aee3-71230ffe625f",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-      "location": "Palo Alto, CA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-14",
-      "age": "18d",
-      "url": "https://applyguy.ai/jobs?company=SpaceX&job=c0065153-9217-4f4f-aee3-71230ffe625f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002"
-    },
-    {
-      "id": "dba8c7ba-6301-4e5e-be1e-5fd8d023d7bf",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-      "location": "Bastrop, TX",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-14",
-      "age": "18d",
-      "url": "https://applyguy.ai/jobs?company=SpaceX&job=dba8c7ba-6301-4e5e-be1e-5fd8d023d7bf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002"
-    },
-    {
-      "id": "f07fa663-311b-4cad-9d45-762b444568f5",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-      "location": "Redmond, WA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-14",
-      "age": "18d",
-      "url": "https://applyguy.ai/jobs?company=SpaceX&job=f07fa663-311b-4cad-9d45-762b444568f5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002"
-    },
-    {
       "id": "68db4486-0a2e-457b-b640-7339d4576a6c",
       "company": "CSpring",
       "title": "Junior Software Developer",
@@ -643,18 +523,6 @@
       "age": "21d",
       "url": "https://applyguy.ai/jobs?company=Handshake&job=8cc764e1-9b3d-44a9-a1d8-97733e9f468c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/handshake/fe319ff8-87e1-46d9-b23e-4b78cf6086f8"
-    },
-    {
-      "id": "a7a2e37d-08bc-424a-afc0-c095238b5784",
-      "company": "PathAI",
-      "title": "Software Engineer I, Fullstack",
-      "location": "Boston, MA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-11",
-      "age": "21d",
-      "url": "https://applyguy.ai/jobs?company=PathAI&job=a7a2e37d-08bc-424a-afc0-c095238b5784&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://www.pathai.com/careers/8696764002?gh_jid=8696764002"
     },
     {
       "id": "34488725-5fae-4e8e-bb49-d597c35da7ad",
@@ -959,18 +827,6 @@
       "listingUrl": "https://jobs.ashbyhq.com/chainlink-labs/8485e325-111f-4370-b3c6-0ed95872144f"
     },
     {
-      "id": "b572e113-4658-42b8-9891-47402f2df0cf",
-      "company": "The Trade Desk",
-      "title": "Software Engineer I",
-      "location": "Bellevue, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-27",
-      "age": "36d",
-      "url": "https://applyguy.ai/jobs?company=The+Trade+Desk&job=b572e113-4658-42b8-9891-47402f2df0cf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/thetradedesk/jobs/5196864007"
-    },
-    {
       "id": "161ecaa1-8549-4992-867d-5031beb062e0",
       "company": "KBS Analytics LLC",
       "title": "Junior Data Engineer",
@@ -1210,18 +1066,6 @@
       "age": "50d",
       "url": "https://applyguy.ai/jobs?company=NVIDIA&job=d1268a78-6d24-4be5-a373-b1aeba65a0f6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Dynamo-Triton-Inference-Server---New-College-Grad-2026_JR2020767"
-    },
-    {
-      "id": "c8ca21fd-6d2e-4e4b-b43f-c979bd2289dc",
-      "company": "Old Mission",
-      "title": "Software Engineer – 2027 Graduate Program (August Start)",
-      "location": "Chicago, IL",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-07-13",
-      "age": "50d",
-      "url": "https://applyguy.ai/jobs?company=Old+Mission&job=c8ca21fd-6d2e-4e4b-b43f-c979bd2289dc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://www.oldmissioncapital.com/careers/?gh_jid=7796048003"
     },
     {
       "id": "5ab0dfae-2cce-4b76-97c8-a3095c4b804f",
