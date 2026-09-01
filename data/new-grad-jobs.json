@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T14:30:51.489Z",
+  "updatedAt": "2026-09-01T14:46:13.881Z",
   "jobs": [
     {
       "id": "a4c2ba2b-6cfe-4d3b-8fdc-8dc75a6fa3a2",
@@ -218,32 +218,6 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Solace&job=02b427fa-d862-4b7d-b239-9efc73ed9065&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/solace/bbdb1020-2900-4d63-908a-20cea79a65cd"
-    },
-    {
-      "id": "custom:google:84680705375642310",
-      "company": "Google",
-      "title": "Software Engineer, Infrastructure, PhD, Early Career, 2027 Start",
-      "location": "Multiple U.S. locations",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-24",
-      "age": "8d",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/84680705375642310-software-engineer-infrastructure-phd-early-career-2027-start",
-      "listingUrl": "https://www.google.com/about/careers/applications/jobs/results/84680705375642310-software-engineer-infrastructure-phd-early-career-2027-start",
-      "applySupported": false
-    },
-    {
-      "id": "custom:google:123087196289671878",
-      "company": "Google",
-      "title": "Software Engineer, AI/Machine Learning,  PhD, Early Career, 2027 Start",
-      "location": "Multiple U.S. locations",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-24",
-      "age": "8d",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/123087196289671878-software-engineer-ai-machine-learning-phd-early-career-2027-start",
-      "listingUrl": "https://www.google.com/about/careers/applications/jobs/results/123087196289671878-software-engineer-ai-machine-learning-phd-early-career-2027-start",
-      "applySupported": false
     },
     {
       "id": "2bcbc0aa-bafe-4768-acdd-19801b9ca7d8",
@@ -559,19 +533,6 @@
       "age": "25d",
       "url": "https://applyguy.ai/jobs?company=CaseWorthy%2C+LLC&job=e83ca55d-9a1e-43f5-bf02-f4c9bc8d6812&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4402175"
-    },
-    {
-      "id": "custom:google:78703249065943750",
-      "company": "Google",
-      "title": "Software Engineer, Early Career, Campus",
-      "location": "Multiple U.S. locations",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-07",
-      "age": "25d",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/78703249065943750-software-engineer-early-career-campus",
-      "listingUrl": "https://www.google.com/about/careers/applications/jobs/results/78703249065943750-software-engineer-early-career-campus",
-      "applySupported": false
     },
     {
       "id": "a0acf9f7-cb61-4956-a59d-ea9c7940e70a",
