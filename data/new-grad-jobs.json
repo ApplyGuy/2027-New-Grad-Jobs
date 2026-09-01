@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T12:00:58.302Z",
+  "updatedAt": "2026-09-01T12:15:57.873Z",
   "jobs": [
     {
       "id": "a4c2ba2b-6cfe-4d3b-8fdc-8dc75a6fa3a2",
@@ -48,6 +48,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Palantir+Technologies&job=ad4842ed-8bfb-4627-950f-d82445e46845&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/palantir/701a9307-0619-45d3-b077-cabe9897cd12"
+    },
+    {
+      "id": "3bc24679-909f-4b2d-a262-b333fd4bd904",
+      "company": "Whatnot",
+      "title": "Software Engineer, 2027 New Grad",
+      "location": "New York City, NY",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-31",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Whatnot&job=3bc24679-909f-4b2d-a262-b333fd4bd904&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.ashbyhq.com/whatnot/29bad846-de60-4be7-a222-69b97e044930"
     },
     {
       "id": "59acb65c-c7bf-4dc4-8088-e2b47bf54164",
@@ -120,6 +132,19 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Hatch+IT&job=65772c20-ea73-4992-8437-59f401402ffd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/hatchit/7f2e771d-2363-4e85-b62f-ca130c478a97"
+    },
+    {
+      "id": "custom:microsoft:25dae0737b280d944110",
+      "company": "Microsoft",
+      "title": "Software Engineer",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-27",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972217",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972217",
+      "applySupported": false
     },
     {
       "id": "39ee6c0d-b6c3-4796-ac5f-6cbd7f4c955b",
@@ -269,6 +294,19 @@
       "listingUrl": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-108739"
     },
     {
+      "id": "custom:microsoft:8a2cc77b4b241f96367e",
+      "company": "Microsoft",
+      "title": "Pre-Training",
+      "location": "US",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-21",
+      "age": "11d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
+      "applySupported": false
+    },
+    {
       "id": "dc0399ce-23c6-4d75-8328-ff1ff317cee0",
       "company": "Crusoe",
       "title": "Software Engineer I, Network",
@@ -303,6 +341,19 @@
       "age": "13d",
       "url": "https://applyguy.ai/jobs?company=JND&job=bd64bc48-0cba-4265-a7c5-041ddc2355cc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jnd-inc.breezy.hr/p/87fd346a82c7-entry-level-software-tester-2608-2"
+    },
+    {
+      "id": "custom:microsoft:698bf1cfd0197fa8f311",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-19",
+      "age": "13d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "applySupported": false
     },
     {
       "id": "954c593e-cc65-4bc0-9d56-e43264d06932",
@@ -629,6 +680,18 @@
       "age": "27d",
       "url": "https://applyguy.ai/jobs?company=Manhattan+Associates&job=70635e1a-9f05-4876-9733-48873ea59060&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://manh.wd5.myworkdayjobs.com/campus/job/Atlanta-GA/Software-Engineer---Early-Career_16977"
+    },
+    {
+      "id": "9e02545f-8dbb-4d99-9313-046620ec9144",
+      "company": "Nooks",
+      "title": "Software Engineer, New Grad",
+      "location": "San Francisco, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-05",
+      "age": "27d",
+      "url": "https://applyguy.ai/jobs?company=Nooks&job=9e02545f-8dbb-4d99-9313-046620ec9144&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.ashbyhq.com/nooks/311d6e70-5cfa-4e80-89f6-fe00ac1f9f53"
     },
     {
       "id": "be66dbc6-7a6e-492a-a199-6304009b4e72",
