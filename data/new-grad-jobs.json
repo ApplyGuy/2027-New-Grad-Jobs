@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T12:30:51.124Z",
+  "updatedAt": "2026-09-01T12:46:26.321Z",
   "jobs": [
     {
       "id": "a4c2ba2b-6cfe-4d3b-8fdc-8dc75a6fa3a2",
@@ -499,18 +499,6 @@
       "age": "21d",
       "url": "https://applyguy.ai/jobs?company=Handshake&job=8cc764e1-9b3d-44a9-a1d8-97733e9f468c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/handshake/fe319ff8-87e1-46d9-b23e-4b78cf6086f8"
-    },
-    {
-      "id": "34488725-5fae-4e8e-bb49-d597c35da7ad",
-      "company": "Observe.AI",
-      "title": "Software Engineer I - AI Agents",
-      "location": "Redwood City, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-10",
-      "age": "22d",
-      "url": "https://applyguy.ai/jobs?company=Observe.AI&job=34488725-5fae-4e8e-bb49-d597c35da7ad&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://www.observe.ai/position?gh_jid=5383979008"
     },
     {
       "id": "50969d4c-df1f-470f-9289-66ec857f09bc",
