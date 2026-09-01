@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T00:16:30.851Z",
+  "updatedAt": "2026-09-01T00:31:01.879Z",
   "jobs": [
     {
       "id": "a4c2ba2b-6cfe-4d3b-8fdc-8dc75a6fa3a2",
@@ -981,18 +981,6 @@
       "age": "40d",
       "url": "https://applyguy.ai/jobs?company=KBS+Analytics+LLC&job=161ecaa1-8549-4992-867d-5031beb062e0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4355546"
-    },
-    {
-      "id": "e86d7426-6941-4907-9eab-67bd59f9b029",
-      "company": "Mastercard",
-      "title": "Software Engineer I",
-      "location": "O'Fallon, MO",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-23",
-      "age": "40d",
-      "url": "https://applyguy.ai/jobs?company=Mastercard&job=e86d7426-6941-4907-9eab-67bd59f9b029&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/OFallon-Missouri/Software-Development-Engineer_R-284435"
     },
     {
       "id": "custom:amazon:b8631d9dfbf290884cd3",
