@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T09:15:47.704Z",
+  "updatedAt": "2026-09-01T09:31:11.781Z",
   "jobs": [
     {
       "id": "a4c2ba2b-6cfe-4d3b-8fdc-8dc75a6fa3a2",
@@ -182,18 +182,6 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Expression&job=617edc15-8c03-4e69-aedc-604f45479908&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://expression-networks.breezy.hr/p/7290840a45a5-junior-data-engineer-dea"
-    },
-    {
-      "id": "1f5279e6-26dc-45e9-adaf-5d248189a0ce",
-      "company": "Harriscomputer",
-      "title": "Associate Software Engineer, RPG",
-      "location": "Tennessee",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-25",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=Harriscomputer&job=1f5279e6-26dc-45e9-adaf-5d248189a0ce&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://harriscomputer.wd3.myworkdayjobs.com/htn/job/Tennessee-United-States/Associate-Software-Engineer--RPG_R0045601"
     },
     {
       "id": "d28a4422-9dba-493e-80e2-ab78d56d295a",
