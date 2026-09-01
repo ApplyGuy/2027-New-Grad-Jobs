@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T15:15:36.238Z",
+  "updatedAt": "2026-09-01T15:30:41.191Z",
   "jobs": [
     {
       "id": "a4c2ba2b-6cfe-4d3b-8fdc-8dc75a6fa3a2",
@@ -620,18 +620,6 @@
       "age": "26d",
       "url": "https://applyguy.ai/jobs?company=UNITED+STATES+SOCCER+FEDERATION+1&job=8a874d3f-d3a8-4a01-a4fa-de0a4c1045c8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4397444"
-    },
-    {
-      "id": "70635e1a-9f05-4876-9733-48873ea59060",
-      "company": "Manhattan Associates",
-      "title": "Software Engineer - Early Career",
-      "location": "Atlanta, GA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-05",
-      "age": "27d",
-      "url": "https://applyguy.ai/jobs?company=Manhattan+Associates&job=70635e1a-9f05-4876-9733-48873ea59060&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://manh.wd5.myworkdayjobs.com/campus/job/Atlanta-GA/Software-Engineer---Early-Career_16977"
     },
     {
       "id": "be66dbc6-7a6e-492a-a199-6304009b4e72",
