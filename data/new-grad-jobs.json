@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T05:16:14.750Z",
+  "updatedAt": "2026-09-02T05:30:43.139Z",
   "jobs": [
     {
       "id": "94d1fed9-cdc4-45d7-aee7-9f93d5c17f6b",
@@ -132,6 +132,30 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=DS2&job=7376b07d-6e0d-4597-b180-709d520ed22f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://ds2.breezy.hr/p/9fc9a1db41e1-junior-software-engineer-special-operations-mission-systems"
+    },
+    {
+      "id": "22d6ec8a-18c1-46ec-bf43-3e869b832319",
+      "company": "Esri",
+      "title": "Software Development Engineer I – ArcGIS Hub",
+      "location": "Vienna, VA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-31",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=Esri&job=22d6ec8a-18c1-46ec-bf43-3e869b832319&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://www.esri.com/careers/5225186007?gh_jid=5225186007"
+    },
+    {
+      "id": "4b8e4618-1876-4b59-b08f-7a990b1f3600",
+      "company": "Everlaw",
+      "title": "Software Engineer I",
+      "location": "Oakland, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-31",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=Everlaw&job=4b8e4618-1876-4b59-b08f-7a990b1f3600&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/everlaw/jobs/4705236006"
     },
     {
       "id": "d5bcd942-59a6-4296-bafc-d07d45e8fbcf",
@@ -1619,7 +1643,7 @@
     {
       "id": "c4656b86-d950-4d6a-bb5f-dfa3b1f9721d",
       "company": "General Matter",
-      "title": "Software Engineer (New Grad)",
+      "title": "Software Engineer, New Grad",
       "location": "Los Angeles, CA",
       "eligibility": "New Grad",
       "matchKind": "explicit",
