@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T06:01:24.097Z",
+  "updatedAt": "2026-09-02T06:16:35.346Z",
   "jobs": [
     {
       "id": "94d1fed9-cdc4-45d7-aee7-9f93d5c17f6b",
@@ -72,6 +72,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Kinective&job=55384868-51f4-4761-95ce-b3d682f3cb39&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4464423"
+    },
+    {
+      "id": "1858378d-a59e-4b85-9ad1-37eb6f378282",
+      "company": "MyFunded Futures",
+      "title": "Junior Machine Learning Engineer",
+      "location": "Plano, TX",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=MyFunded+Futures&job=1858378d-a59e-4b85-9ad1-37eb6f378282&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/myfundedfutures/jobs/4390595009"
     },
     {
       "id": "35651480-c7bb-49a2-9158-2ad50075eddf",
