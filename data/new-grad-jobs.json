@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T22:31:17.960Z",
+  "updatedAt": "2026-09-02T22:45:59.118Z",
   "jobs": [
     {
       "id": "cc18b3e6-a92a-4b00-82ea-d0e058dc6d9d",
@@ -650,6 +650,18 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Metrc%2C+LLC&job=ccf0ace4-886d-46a3-aa91-bb43d99602ba&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4461465"
+    },
+    {
+      "id": "84107032-a070-491b-bf38-9a7b7652d335",
+      "company": "Midtown Home Improvements",
+      "title": "Software Engineer I - Full Stack",
+      "location": "Wentzville, MO",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-28",
+      "age": "5d",
+      "url": "https://applyguy.ai/jobs?company=Midtown+Home+Improvements&job=84107032-a070-491b-bf38-9a7b7652d335&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://midtown-home-improvements.breezy.hr/p/824adfc228b2-software-engineer-i-full-stack"
     },
     {
       "id": "abfacdb1-6826-4555-b9c4-e73216d5ba55",
