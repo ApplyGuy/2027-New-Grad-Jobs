@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T04:31:07.878Z",
+  "updatedAt": "2026-09-02T04:46:35.367Z",
   "jobs": [
     {
       "id": "94d1fed9-cdc4-45d7-aee7-9f93d5c17f6b",
@@ -12,6 +12,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Accenture+Federal+Services&job=94d1fed9-cdc4-45d7-aee7-9f93d5c17f6b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boards.greenhouse.io/accenturefederalservices/jobs/4710190006?gh_jid=4710190006"
+    },
+    {
+      "id": "543dba20-b4e3-4b46-857b-b0f1c9bce41a",
+      "company": "AeroVironment",
+      "title": "Entry-Level Software Engineer",
+      "location": "Austin, TX",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=AeroVironment&job=543dba20-b4e3-4b46-857b-b0f1c9bce41a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://avav.wd1.myworkdayjobs.com/avav/job/Austin-TX/Entry-Level-Software-Engineer_8600"
     },
     {
       "id": "162d2d59-096f-45a4-b381-77d3fc50e5f8",
@@ -204,6 +216,18 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Wyetech&job=59acb65c-c7bf-4dc4-8088-e2b47bf54164&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/wyetechllc/a1dbedae-7905-44a0-99be-a6fadd39d0ad"
+    },
+    {
+      "id": "46addecf-7054-4658-89d8-97a411199be7",
+      "company": "Barrywehmiller",
+      "title": "Entry Level Software Engineer",
+      "location": "Dallas, TX",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-28",
+      "age": "5d",
+      "url": "https://applyguy.ai/jobs?company=Barrywehmiller&job=46addecf-7054-4658-89d8-97a411199be7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Dallas-TX/Entry-Level-Software-Engineer_R022649"
     },
     {
       "id": "7e61698f-0802-4b0a-a55d-9d51056f6d05",
