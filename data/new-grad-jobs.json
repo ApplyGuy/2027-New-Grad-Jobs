@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-09-02T18:01:09.688Z",
+  "updatedAt": "2026-09-02T18:16:00.703Z",
   "jobs": [
+    {
+      "id": "194911df-3b02-4834-b1c2-5965931d90db",
+      "company": "Arch",
+      "title": "Software Engineer | Early Careers, 2027 Start",
+      "location": "New York City, NY",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Arch&job=194911df-3b02-4834-b1c2-5965931d90db&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.ashbyhq.com/arch.co/9fde8d03-9f47-44ac-bd14-53829722c06d"
+    },
     {
       "id": "9e3f045b-26d6-4f3b-b1a5-adec46ade6b1",
       "company": "Boeing",
@@ -24,6 +36,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Bristolmyerssquibb&job=31d3e0f9-bfd4-4f8c-a5cf-aff2d12d82eb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Hyderabad---TS---IN/Software-Engineer-I---Scrum-Master---Business-Analyst_R1604887"
+    },
+    {
+      "id": "c34a8d06-52fd-47dc-9ced-39f9fd5f1d59",
+      "company": "COMSO, Inc.",
+      "title": "Software Engineer I I (TS/SCI w/ POLYGRAPH)",
+      "location": "Laurel, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=COMSO%2C+Inc.&job=c34a8d06-52fd-47dc-9ced-39f9fd5f1d59&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4472725"
     },
     {
       "id": "ec5f04dd-7472-4cec-8d68-d38489b6afaf",
