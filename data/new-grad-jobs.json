@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T21:45:38.926Z",
+  "updatedAt": "2026-09-02T22:01:29.055Z",
   "jobs": [
     {
       "id": "194911df-3b02-4834-b1c2-5965931d90db",
@@ -48,6 +48,19 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=COMSO%2C+Inc.&job=c34a8d06-52fd-47dc-9ced-39f9fd5f1d59&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4472725"
+    },
+    {
+      "id": "custom:microsoft:5f5bddec87a71f9cb757",
+      "company": "Microsoft",
+      "title": "Software Engineer - Microsoft Defender for Endpoint",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556924230",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556924230",
+      "applySupported": false
     },
     {
       "id": "custom:microsoft:0fe5259909ad920fd133",
