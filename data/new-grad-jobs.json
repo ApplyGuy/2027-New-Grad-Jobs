@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T04:16:29.489Z",
+  "updatedAt": "2026-09-02T04:31:07.878Z",
   "jobs": [
     {
       "id": "94d1fed9-cdc4-45d7-aee7-9f93d5c17f6b",
@@ -12,6 +12,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Accenture+Federal+Services&job=94d1fed9-cdc4-45d7-aee7-9f93d5c17f6b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boards.greenhouse.io/accenturefederalservices/jobs/4710190006?gh_jid=4710190006"
+    },
+    {
+      "id": "162d2d59-096f-45a4-b381-77d3fc50e5f8",
+      "company": "Amat",
+      "title": "Algorithm Developer I New College Grad- Bachelor's (Santa Clara, CA)",
+      "location": "Santa Clara, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Amat&job=162d2d59-096f-45a4-b381-77d3fc50e5f8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Algorithm-Developer-I-New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2626605"
     },
     {
       "id": "c87ab983-0504-4d0d-93c9-fb4f4f6f9d39",
