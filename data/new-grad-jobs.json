@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T05:45:58.745Z",
+  "updatedAt": "2026-09-02T06:01:24.097Z",
   "jobs": [
     {
       "id": "94d1fed9-cdc4-45d7-aee7-9f93d5c17f6b",
@@ -228,6 +228,42 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=INFORMATION+SYSTEMS+SOLUTIONS%2C+INC&job=f5c0cedc-d923-4b0a-a20a-45b0d8d5b435&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4462746"
+    },
+    {
+      "id": "51260dd4-d0b9-4ba1-8bf2-0f884d120408",
+      "company": "IXL Learning",
+      "title": "Software Engineer, New Grad",
+      "location": "Raleigh, NC",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-31",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=IXL+Learning&job=51260dd4-d0b9-4ba1-8bf2-0f884d120408&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://www.ixl.com/company/jobs?gh_jid=8765745002"
+    },
+    {
+      "id": "51f4550a-91bc-41c3-a7d9-ea79a1f10f0d",
+      "company": "IXL Learning",
+      "title": "Software Engineer, New Grad",
+      "location": "San Mateo, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-31",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=IXL+Learning&job=51f4550a-91bc-41c3-a7d9-ea79a1f10f0d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://www.ixl.com/company/jobs?gh_jid=8765715002"
+    },
+    {
+      "id": "84bd0668-da3f-4999-8757-7eb308dba16f",
+      "company": "Katalyst Space Technologies",
+      "title": "Recent Graduate - Software Engineer I",
+      "location": "Broomfield, CO",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-31",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=Katalyst+Space+Technologies&job=84bd0668-da3f-4999-8757-7eb308dba16f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/katalyst/jobs/6176710004"
     },
     {
       "id": "812bd563-d821-432e-b3b2-6dd242e540cf",
@@ -2204,30 +2240,6 @@
       "age": "27d",
       "url": "https://applyguy.ai/jobs?company=Impact.com&job=324ac327-460c-43d0-acf0-b6d6cc1d98e6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/impact/jobs/8645964002"
-    },
-    {
-      "id": "d0ba0e88-6c9a-4836-b9d3-d6aa8be1c4a5",
-      "company": "IXL Learning",
-      "title": "Software Engineer, New Grad",
-      "location": "Raleigh, NC",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-06",
-      "age": "27d",
-      "url": "https://applyguy.ai/jobs?company=IXL+Learning&job=d0ba0e88-6c9a-4836-b9d3-d6aa8be1c4a5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://www.ixl.com/company/jobs?gh_jid=8663379002"
-    },
-    {
-      "id": "d9435815-b375-4349-b8b9-e62404b00c64",
-      "company": "IXL Learning",
-      "title": "Software Engineer, New Grad",
-      "location": "San Mateo, CA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-06",
-      "age": "27d",
-      "url": "https://applyguy.ai/jobs?company=IXL+Learning&job=d9435815-b375-4349-b8b9-e62404b00c64&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://www.ixl.com/company/jobs?gh_jid=8662881002"
     },
     {
       "id": "fe49152b-b1c0-4eab-be5f-6795c648baa6",
