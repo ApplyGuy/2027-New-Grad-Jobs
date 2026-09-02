@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T04:46:35.367Z",
+  "updatedAt": "2026-09-02T05:00:59.633Z",
   "jobs": [
     {
       "id": "94d1fed9-cdc4-45d7-aee7-9f93d5c17f6b",
@@ -36,6 +36,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Amat&job=162d2d59-096f-45a4-b381-77d3fc50e5f8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Algorithm-Developer-I-New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2626605"
+    },
+    {
+      "id": "0472f208-3f3e-4bf2-96e3-ed08d5a96c71",
+      "company": "Ciena",
+      "title": "WaveLogic Software Developer - New Grad",
+      "location": "Atlanta, GA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Ciena&job=0472f208-3f3e-4bf2-96e3-ed08d5a96c71&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://ciena.wd5.myworkdayjobs.com/careers/job/Atlanta/WaveLogic-Software-Developer---New-Grad_R031608"
     },
     {
       "id": "c87ab983-0504-4d0d-93c9-fb4f4f6f9d39",
@@ -96,6 +108,18 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Alation&job=6cfae721-596c-4959-b6b5-2165fc253dbc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://alation.wd503.myworkdayjobs.com/externalsite/job/USA-CA-REDWOOD-CITY/UX-Software-Engineer-I--Contractor-_R10000770"
+    },
+    {
+      "id": "f51409ba-45f1-41ec-a4c5-7664eebe84ae",
+      "company": "Cdk",
+      "title": "Associate Software Engineer",
+      "location": "Austin TX",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-31",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=Cdk&job=f51409ba-45f1-41ec-a4c5-7664eebe84ae&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://cdk.wd1.myworkdayjobs.com/cdk/job/Austin-TX-USA/Associate-Software-Engineer_JR9201-1"
     },
     {
       "id": "7376b07d-6e0d-4597-b180-709d520ed22f",
