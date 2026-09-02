@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T18:31:20.269Z",
+  "updatedAt": "2026-09-02T18:46:05.885Z",
   "jobs": [
     {
       "id": "194911df-3b02-4834-b1c2-5965931d90db",
@@ -97,6 +97,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=02120f30-c237-4470-bea7-b17c506c293d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineer-I--On-Site-_01862497"
+    },
+    {
+      "id": "31f14e57-85df-4a99-98b6-c66c8c902675",
+      "company": "SMX",
+      "title": "Junior Data Engineer (5566)",
+      "location": "Arlington, VA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=SMX&job=31f14e57-85df-4a99-98b6-c66c8c902675&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://www.smxtech.com/careers/?gh_jid=7982420003"
     },
     {
       "id": "94d1fed9-cdc4-45d7-aee7-9f93d5c17f6b",
