@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T05:30:43.139Z",
+  "updatedAt": "2026-09-02T05:45:58.745Z",
   "jobs": [
     {
       "id": "94d1fed9-cdc4-45d7-aee7-9f93d5c17f6b",
@@ -72,6 +72,30 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Kinective&job=55384868-51f4-4761-95ce-b3d682f3cb39&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4464423"
+    },
+    {
+      "id": "35651480-c7bb-49a2-9158-2ad50075eddf",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Cedar Rapids, IA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=35651480-c7bb-49a2-9158-2ad50075eddf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01867125-1"
+    },
+    {
+      "id": "5299d0ef-45f7-47c0-b134-797d4eae09e7",
+      "company": "RTX",
+      "title": "Software Engineer I (Hybrid) Arlington, VA & Cambridge, MA",
+      "location": "Arlington, VA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=5299d0ef-45f7-47c0-b134-797d4eae09e7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-VA-ARLINGTON-111--1300-17Th-St-N--BBN-ARLINGTON/Software-Engineer-I--Hybrid--Arlington--VA---Cambridge--MA_01870647"
     },
     {
       "id": "d2c137f3-fd69-4831-b9e2-4ca61013a88e",
@@ -228,6 +252,42 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Palantir+Technologies&job=ad4842ed-8bfb-4627-950f-d82445e46845&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/palantir/701a9307-0619-45d3-b077-cabe9897cd12"
+    },
+    {
+      "id": "7be78e79-7462-4c2d-8288-2ceeb0e6ef35",
+      "company": "RTX",
+      "title": "Software Engineer I (Hybrid - Aguadilla, PR)",
+      "location": "Aguadilla, PR",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-31",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=7be78e79-7462-4c2d-8288-2ceeb0e6ef35&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--Hybrid---Aguadilla--PR-_01870496"
+    },
+    {
+      "id": "5b18b915-574a-4ce8-82db-7f4ed439c91e",
+      "company": "RTX",
+      "title": "Software Engineer I, RCU (Onsite - Security Clearance)",
+      "location": "Aguadilla, PR",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-31",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=5b18b915-574a-4ce8-82db-7f4ed439c91e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--RCU--Onsite---Security-Clearance-_01870743"
+    },
+    {
+      "id": "3c2b8a25-75b2-4cde-be50-aa9cbfc6c3d9",
+      "company": "RTX",
+      "title": "Software Engineer I, CDS (Onsite - Secret Clearance)",
+      "location": "Aguadilla, PR",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-31",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=3c2b8a25-75b2-4cde-be50-aa9cbfc6c3d9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--CDS--Onsite---Secret-Clearance-_01870383"
     },
     {
       "id": "7e8145e1-1a41-429d-b1a8-9a6f30ced046",
