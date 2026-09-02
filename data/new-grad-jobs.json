@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-09-02T22:16:06.799Z",
+  "updatedAt": "2026-09-02T22:31:17.960Z",
   "jobs": [
+    {
+      "id": "cc18b3e6-a92a-4b00-82ea-d0e058dc6d9d",
+      "company": "Anduril Industries",
+      "title": "2027 Early Career Flight Software Engineer",
+      "location": "Costa Mesa, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Anduril+Industries&job=cc18b3e6-a92a-4b00-82ea-d0e058dc6d9d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007"
+    },
     {
       "id": "194911df-3b02-4834-b1c2-5965931d90db",
       "company": "Arch",
