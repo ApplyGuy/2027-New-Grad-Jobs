@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T00:30:30.696Z",
+  "updatedAt": "2026-09-02T00:46:12.087Z",
   "jobs": [
     {
       "id": "c87ab983-0504-4d0d-93c9-fb4f4f6f9d39",
@@ -559,18 +559,6 @@
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4397444"
     },
     {
-      "id": "be66dbc6-7a6e-492a-a199-6304009b4e72",
-      "company": "Torc Robotics",
-      "title": "Software Engineer I - Metrics for Release",
-      "location": "Ann Arbor, MI",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-05",
-      "age": "28d",
-      "url": "https://applyguy.ai/jobs?company=Torc+Robotics&job=be66dbc6-7a6e-492a-a199-6304009b4e72&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/torcrobotics/jobs/8676173002"
-    },
-    {
       "id": "1ddb731c-0447-4605-a39e-0526813aa038",
       "company": "Agate Software",
       "title": "Software Developer I - hybrid in Glendale AZ  [SD1-2026-08]",
@@ -847,18 +835,6 @@
       "age": "51d",
       "url": "https://applyguy.ai/jobs?company=Northwood+Space&job=7bb5c6d5-6950-4d3d-882a-de41853ef6b8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/northwoodspace/b960b661-e1cc-40d0-bde3-290cd1b58ede"
-    },
-    {
-      "id": "9e345ebe-b187-4f0e-b57d-8bf31b582567",
-      "company": "Cadence",
-      "title": "Software Engineer, New College Grad 2026 (Undergrads)",
-      "location": "Burlington, MA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-07-09",
-      "age": "55d",
-      "url": "https://applyguy.ai/jobs?company=Cadence&job=9e345ebe-b187-4f0e-b57d-8bf31b582567&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://cadence.wd1.myworkdayjobs.com/univ_careers/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894-1"
     },
     {
       "id": "a7f5de79-436d-48ed-9a23-667595b8af52",
