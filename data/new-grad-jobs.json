@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T06:30:58.645Z",
+  "updatedAt": "2026-09-02T06:46:20.268Z",
   "jobs": [
     {
       "id": "94d1fed9-cdc4-45d7-aee7-9f93d5c17f6b",
@@ -132,6 +132,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Sentrilock+LLC&job=d2c137f3-fd69-4831-b9e2-4ca61013a88e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4445683"
+    },
+    {
+      "id": "428ae29f-b0bd-456c-af7a-83a47fc0fd89",
+      "company": "Tebra",
+      "title": "Software Engineer I",
+      "location": "Remote, U.S.",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Tebra&job=428ae29f-b0bd-456c-af7a-83a47fc0fd89&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/tebra/jobs/4726985005"
     },
     {
       "id": "fe97f5fa-ffc5-492e-84df-e6e60be926a9",
@@ -410,6 +422,30 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I----Test-Solutions---Onsite_01836492-1"
     },
     {
+      "id": "13c8afc0-3a16-47c3-848e-4a953b43c278",
+      "company": "Stripe",
+      "title": "Software Engineer, New Grad",
+      "location": "San Francisco, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-31",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=Stripe&job=13c8afc0-3a16-47c3-848e-4a953b43c278&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://stripe.com/jobs/search?gh_jid=8128744"
+    },
+    {
+      "id": "5d3a4fb6-01bc-4eec-88f6-859942ae3da4",
+      "company": "Wellsky",
+      "title": "Associate Software Engineer",
+      "location": "Overland Park, KS",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-31",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=Wellsky&job=5d3a4fb6-01bc-4eec-88f6-859942ae3da4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://wellsky.wd1.myworkdayjobs.com/wellskycareers/job/Overland-Park-KS/Associate-Software-Engineer_JR5078"
+    },
+    {
       "id": "3bc24679-909f-4b2d-a262-b333fd4bd904",
       "company": "Whatnot",
       "title": "Software Engineer, 2027 New Grad",
@@ -636,6 +672,19 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Kbr&job=6953c199-198b-4c36-87fd-c5cd9d1c90b0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Colorado-Springs-Colorado/Jr-Software-Developer_R2128436"
+    },
+    {
+      "id": "custom:microsoft:25dae0737b280d944110",
+      "company": "Microsoft",
+      "title": "Software Engineer",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-27",
+      "age": "6d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972217",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972217",
+      "applySupported": false
     },
     {
       "id": "39ee6c0d-b6c3-4796-ac5f-6cbd7f4c955b",
@@ -1181,6 +1230,19 @@
       "listingUrl": "https://www.esri.com/careers/5214134007?gh_jid=5214134007"
     },
     {
+      "id": "custom:microsoft:8a2cc77b4b241f96367e",
+      "company": "Microsoft",
+      "title": "Pre-Training",
+      "location": "US",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-21",
+      "age": "12d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
+      "applySupported": false
+    },
+    {
       "id": "49bef747-c371-45e0-a524-5475cb4bdce7",
       "company": "Quickenloans",
       "title": "Software Developer I - Search",
@@ -1311,6 +1373,19 @@
       "age": "14d",
       "url": "https://applyguy.ai/jobs?company=JND&job=bd64bc48-0cba-4265-a7c5-041ddc2355cc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jnd-inc.breezy.hr/p/87fd346a82c7-entry-level-software-tester-2608-2"
+    },
+    {
+      "id": "custom:microsoft:698bf1cfd0197fa8f311",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-19",
+      "age": "14d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "applySupported": false
     },
     {
       "id": "1cfa0c53-d6a0-4a73-9c2c-b4c095cb0bdf",
