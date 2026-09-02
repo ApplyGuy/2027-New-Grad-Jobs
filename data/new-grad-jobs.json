@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T01:15:53.457Z",
+  "updatedAt": "2026-09-02T01:31:09.406Z",
   "jobs": [
     {
       "id": "c87ab983-0504-4d0d-93c9-fb4f4f6f9d39",
@@ -12,6 +12,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Climavision&job=c87ab983-0504-4d0d-93c9-fb4f4f6f9d39&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://climavision.breezy.hr/p/85938efae74c-jr-software-engineer"
+    },
+    {
+      "id": "55384868-51f4-4761-95ce-b3d682f3cb39",
+      "company": "Kinective",
+      "title": "Associate Software Engineer",
+      "location": "Golden, CO",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-01",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Kinective&job=55384868-51f4-4761-95ce-b3d682f3cb39&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4464423"
     },
     {
       "id": "d2c137f3-fd69-4831-b9e2-4ca61013a88e",
