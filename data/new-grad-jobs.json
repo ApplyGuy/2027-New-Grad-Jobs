@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T11:30:54.341Z",
+  "updatedAt": "2026-09-02T11:46:23.585Z",
   "jobs": [
     {
       "id": "31d3e0f9-bfd4-4f8c-a5cf-aff2d12d82eb",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Bristolmyerssquibb&job=31d3e0f9-bfd4-4f8c-a5cf-aff2d12d82eb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Hyderabad---TS---IN/Software-Engineer-I---Scrum-Master---Business-Analyst_R1604887"
+    },
+    {
+      "id": "ec5f04dd-7472-4cec-8d68-d38489b6afaf",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Ft Wayne, IN",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=ec5f04dd-7472-4cec-8d68-d38489b6afaf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I--Onsite-_01871665"
     },
     {
       "id": "02120f30-c237-4470-bea7-b17c506c293d",
