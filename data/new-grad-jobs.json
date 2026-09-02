@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T23:15:46.325Z",
+  "updatedAt": "2026-09-02T23:31:28.181Z",
   "jobs": [
     {
       "id": "cc18b3e6-a92a-4b00-82ea-d0e058dc6d9d",
@@ -60,6 +60,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=COMSO%2C+Inc.&job=c34a8d06-52fd-47dc-9ced-39f9fd5f1d59&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4472725"
+    },
+    {
+      "id": "a95da467-1f87-4bf5-a076-e5fe019d9fa8",
+      "company": "Jaxon Engineering and Maintenance",
+      "title": "Software Engineer I",
+      "location": "Colorado Springs, CO",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Jaxon+Engineering+and+Maintenance&job=a95da467-1f87-4bf5-a076-e5fe019d9fa8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4475286"
     },
     {
       "id": "custom:microsoft:5f5bddec87a71f9cb757",
