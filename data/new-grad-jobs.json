@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T00:01:17.876Z",
+  "updatedAt": "2026-09-03T00:16:26.908Z",
   "jobs": [
     {
       "id": "cc18b3e6-a92a-4b00-82ea-d0e058dc6d9d",
@@ -182,6 +182,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=4eb91250-7bd7-4c20-8b3a-8be97648b0c5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/XMLNAME-2026-Raytheon-Full-Time-Software-Engineer-I---EOIR-Advanced-Products-and-Solutions--Onsite-_01851718"
+    },
+    {
+      "id": "5130aaf0-75e8-4737-a548-89e0b95e7378",
+      "company": "Sift Stack, Inc.",
+      "title": "Software Engineer – New College Graduate",
+      "location": "Marina del Rey, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-02",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Sift+Stack%2C+Inc.&job=5130aaf0-75e8-4737-a548-89e0b95e7378&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.ashbyhq.com/siftstack/0d65481e-e762-4d8f-ae38-5040754a5134"
     },
     {
       "id": "31f14e57-85df-4a99-98b6-c66c8c902675",
