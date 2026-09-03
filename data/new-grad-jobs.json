@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T04:15:54.152Z",
+  "updatedAt": "2026-09-03T04:30:52.740Z",
   "jobs": [
     {
       "id": "cc18b3e6-a92a-4b00-82ea-d0e058dc6d9d",
@@ -520,18 +520,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/katalyst/jobs/6176710004"
     },
     {
-      "id": "812bd563-d821-432e-b3b2-6dd242e540cf",
-      "company": "Northrop Grumman",
-      "title": "2027 Associate Software Engineer / Software Engineer - Huntsville AL",
-      "location": "Huntsville, AL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-31",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=812bd563-d821-432e-b3b2-6dd242e540cf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Huntsville-AL_R10247580-1"
-    },
-    {
       "id": "ad4842ed-8bfb-4627-950f-d82445e46845",
       "company": "Palantir Technologies",
       "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
@@ -927,18 +915,6 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Ontic&job=39ee6c0d-b6c3-4796-ac5f-6cbd7f4c955b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/ontic/d50b6bea-876f-43fc-afb9-716efe9eca02"
-    },
-    {
-      "id": "a3f898de-9d07-4567-ac1e-f17843bb6c73",
-      "company": "RTX",
-      "title": "Conversion: Software Engineer I (Onsite)",
-      "location": "Cedar Rapids, IA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-27",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=a3f898de-9d07-4567-ac1e-f17843bb6c73&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Conversion--Software-Engineer-I--Onsite-_01867853"
     },
     {
       "id": "e2103f32-f0ef-42ad-be81-a8d829ed5941",
@@ -1618,18 +1594,6 @@
       "applySupported": false
     },
     {
-      "id": "1cfa0c53-d6a0-4a73-9c2c-b4c095cb0bdf",
-      "company": "Relx",
-      "title": "Software Engineer I",
-      "location": "Raleigh, NC",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-19",
-      "age": "15d",
-      "url": "https://applyguy.ai/jobs?company=Relx&job=1cfa0c53-d6a0-4a73-9c2c-b4c095cb0bdf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://relx.wd3.myworkdayjobs.com/lexisnexislegal/job/Raleigh-NC/Software-Engineer-I_R117314"
-    },
-    {
       "id": "8c12cd26-5e09-4083-a226-bca2e0a490ee",
       "company": "SpaceX",
       "title": "New Graduate Engineer, Software (Application Software)",
@@ -2085,18 +2049,6 @@
       "age": "22d",
       "url": "https://applyguy.ai/jobs?company=General+Matter&job=c4656b86-d950-4d6a-bb5f-dfa3b1f9721d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/generalmatter/jobs/5375987008"
-    },
-    {
-      "id": "c66842f1-2012-44cd-9d6b-f9c27f6600d9",
-      "company": "Leidos",
-      "title": "Junior Software Engineer",
-      "location": "Huntsville, AL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-12",
-      "age": "22d",
-      "url": "https://applyguy.ai/jobs?company=Leidos&job=c66842f1-2012-44cd-9d6b-f9c27f6600d9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Huntsville-AL/Junior-Software-Engineer_R-00189408"
     },
     {
       "id": "e53effa5-c25a-4154-b524-b92fafd1b446",
@@ -2879,18 +2831,6 @@
       "age": "37d",
       "url": "https://applyguy.ai/jobs?company=Crusoe&job=daec511d-ee2d-4871-b890-bb34dddb7926&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/crusoe/4f5d34ed-0c05-4eec-b8f8-14663e114b02"
-    },
-    {
-      "id": "3397ecb5-c5f1-417a-b6ea-1a251bc9af58",
-      "company": "Qualifacts",
-      "title": "Software Engineer I (P1)",
-      "location": "Remote, U.S.",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-28",
-      "age": "37d",
-      "url": "https://applyguy.ai/jobs?company=Qualifacts&job=3397ecb5-c5f1-417a-b6ea-1a251bc9af58&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://qualifacts.wd5.myworkdayjobs.com/qualifacts_external_careers/job/Ontario---Remote/Software-Engineer-I--P1-_R-102648"
     },
     {
       "id": "5d059d9f-4095-4312-9d48-ecd2a6bd4c8c",
