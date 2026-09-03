@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T04:01:43.612Z",
+  "updatedAt": "2026-09-03T04:15:54.152Z",
   "jobs": [
     {
       "id": "cc18b3e6-a92a-4b00-82ea-d0e058dc6d9d",
@@ -108,6 +108,32 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=8cdd1b10-2eb3-4515-8c60-d25ebc9337f8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Huntsville-AL/Junior-Software-Engineer---AI-ML-Applications_R-00191299"
+    },
+    {
+      "id": "custom:microsoft:5f5bddec87a71f9cb757",
+      "company": "Microsoft",
+      "title": "Software Engineer - Microsoft Defender for Endpoint",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-02",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556924230",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556924230",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:0fe5259909ad920fd133",
+      "company": "Microsoft",
+      "title": "Software Engineer-II - Azure Core Storage",
+      "location": "US",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-02",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556941610",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556941610",
+      "applySupported": false
     },
     {
       "id": "fe46e18c-6cf4-450c-ac9f-05641c8e825a",
@@ -878,6 +904,19 @@
       "listingUrl": "https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Colorado-Springs-Colorado/Jr-Software-Developer_R2128436"
     },
     {
+      "id": "custom:microsoft:25dae0737b280d944110",
+      "company": "Microsoft",
+      "title": "Software Engineer",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-27",
+      "age": "7d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972217",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972217",
+      "applySupported": false
+    },
+    {
       "id": "39ee6c0d-b6c3-4796-ac5f-6cbd7f4c955b",
       "company": "Ontic",
       "title": "Associate Software Engineer - Full Stack",
@@ -1421,6 +1460,19 @@
       "listingUrl": "https://www.esri.com/careers/5214134007?gh_jid=5214134007"
     },
     {
+      "id": "custom:microsoft:8a2cc77b4b241f96367e",
+      "company": "Microsoft",
+      "title": "Pre-Training",
+      "location": "US",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-21",
+      "age": "13d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
+      "applySupported": false
+    },
+    {
       "id": "49bef747-c371-45e0-a524-5475cb4bdce7",
       "company": "Quickenloans",
       "title": "Software Developer I - Search",
@@ -1551,6 +1603,19 @@
       "age": "15d",
       "url": "https://applyguy.ai/jobs?company=JND&job=bd64bc48-0cba-4265-a7c5-041ddc2355cc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jnd-inc.breezy.hr/p/87fd346a82c7-entry-level-software-tester-2608-2"
+    },
+    {
+      "id": "custom:microsoft:698bf1cfd0197fa8f311",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-19",
+      "age": "15d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "applySupported": false
     },
     {
       "id": "1cfa0c53-d6a0-4a73-9c2c-b4c095cb0bdf",
@@ -2792,18 +2857,6 @@
       "listingUrl": "https://abnormal.ai/careers/jobs/7814567003?gh_jid=7814567003"
     },
     {
-      "id": "579ceb0e-8bd0-4a71-b8a0-846f5f392c88",
-      "company": "Texas Sports Academy Main",
-      "title": "Junior Software Engineer (AI-Forward)",
-      "location": "Austin, TX",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-29",
-      "age": "36d",
-      "url": "https://applyguy.ai/jobs?company=Texas+Sports+Academy+Main&job=579ceb0e-8bd0-4a71-b8a0-846f5f392c88&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.workable.com/view/pogRjyniMY8psAvWcSvSXL/junior-software-engineer-(ai-forward)-in-austin-at-texas-sports-academy-main"
-    },
-    {
       "id": "5cbc79dc-d389-45ad-8261-30bec8aac21b",
       "company": "Themis Insight",
       "title": "Jr. Software Engineer",
@@ -3429,18 +3482,6 @@
       "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Maryland-Heights-MO/Associate-Software-Engineer_JR2026513142"
     },
     {
-      "id": "3336911d-4152-4938-95fc-599d57c88102",
-      "company": "Fuse Integration",
-      "title": "Software Engineer I",
-      "location": "San Diego, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-15",
-      "age": "50d",
-      "url": "https://applyguy.ai/jobs?company=Fuse+Integration&job=3336911d-4152-4938-95fc-599d57c88102&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.workable.com/view/97GCheGJ8jcpQwjTtdDUw9/software-engineer-i-in-san-diego-at-fuse-integration"
-    },
-    {
       "id": "daf44c2c-304b-490b-9979-e27038c62fbe",
       "company": "Urban Science",
       "title": "Associate Software Engineer - ServiceView",
@@ -3607,18 +3648,6 @@
       "age": "52d",
       "url": "https://applyguy.ai/jobs?company=Northwood+Space&job=7bb5c6d5-6950-4d3d-882a-de41853ef6b8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/northwoodspace/b960b661-e1cc-40d0-bde3-290cd1b58ede"
-    },
-    {
-      "id": "ec4383d0-2058-42e2-b744-e3371932228a",
-      "company": "NVIDIA",
-      "title": "System Software Engineer, Dynamo-Triton Inference Server - New College Grad 2026",
-      "location": "Santa Clara, CA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-07-13",
-      "age": "52d",
-      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=ec4383d0-2058-42e2-b744-e3371932228a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineer--Dynamo-Triton-Inference-Server---New-College-Grad-2026_JR2020767"
     },
     {
       "id": "c8ca21fd-6d2e-4e4b-b43f-c979bd2289dc",
@@ -3848,18 +3877,6 @@
       "age": "58d",
       "url": "https://applyguy.ai/jobs?company=GDIT&job=191cf864-8bb9-48d5-aa45-13626f84d595&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Junior-Software-Developer--Active-TS-SCI-with-Poly-Required-_RQ212931"
-    },
-    {
-      "id": "8c1a2243-3a64-4e11-99be-29dd02924f34",
-      "company": "Precisely US Jobs",
-      "title": "Associate Software Engineer – Java (AI First)",
-      "location": "Phoenix, AZ",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-07",
-      "age": "58d",
-      "url": "https://applyguy.ai/jobs?company=Precisely+US+Jobs&job=8c1a2243-3a64-4e11-99be-29dd02924f34&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://www.precisely.com/careers-and-culture/us-jobs/job/4710649005?gh_jid=4710649005"
     },
     {
       "id": "72ca3767-e8b0-4c4c-af0b-8bcab9ea2022",
