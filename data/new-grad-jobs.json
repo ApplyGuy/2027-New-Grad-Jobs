@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T23:16:11.526Z",
+  "updatedAt": "2026-09-03T23:31:32.995Z",
   "jobs": [
     {
       "id": "359854ab-f2d8-4723-9cee-4be6b6cdbd10",
@@ -36,6 +36,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Bristolmyerssquibb&job=b95d5123-d7e7-46ae-a35b-651c598480c6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Hyderabad---TS---IN/Associate-Software-Engineer_R1605676"
+    },
+    {
+      "id": "f776c02e-566e-462a-91a9-86cafffaf7d3",
+      "company": "Ciena",
+      "title": "Platform Software Developer - 2026 New Grads",
+      "location": "Atlanta, GA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-03",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Ciena&job=f776c02e-566e-462a-91a9-86cafffaf7d3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://ciena.wd5.myworkdayjobs.com/careers/job/Atlanta/Platform-Software-Developer---2026-New-Grads_R031084-1"
     },
     {
       "id": "94f54c1b-2287-451f-99c1-dbea26389cdf",
