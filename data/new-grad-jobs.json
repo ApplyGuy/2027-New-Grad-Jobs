@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T23:45:36.668Z",
+  "updatedAt": "2026-09-03T00:01:17.876Z",
   "jobs": [
     {
       "id": "cc18b3e6-a92a-4b00-82ea-d0e058dc6d9d",
@@ -9,7 +9,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-09-02",
-      "age": "Today",
+      "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Anduril+Industries&job=cc18b3e6-a92a-4b00-82ea-d0e058dc6d9d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007"
     },
@@ -21,7 +21,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-09-02",
-      "age": "Today",
+      "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Arch&job=194911df-3b02-4834-b1c2-5965931d90db&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/arch.co/9fde8d03-9f47-44ac-bd14-53829722c06d"
     },
@@ -33,7 +33,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-09-02",
-      "age": "Today",
+      "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Boeing&job=9e3f045b-26d6-4f3b-b1a5-adec46ade6b1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Associate-Software-Engineer_JR2026522810"
     },
@@ -45,7 +45,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-09-02",
-      "age": "Today",
+      "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Bristolmyerssquibb&job=31d3e0f9-bfd4-4f8c-a5cf-aff2d12d82eb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Hyderabad---TS---IN/Software-Engineer-I---Scrum-Master---Business-Analyst_R1604887"
     },
@@ -57,7 +57,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-09-02",
-      "age": "Today",
+      "age": "1d",
       "url": "https://applyguy.ai/jobs?company=COMSO%2C+Inc.&job=c34a8d06-52fd-47dc-9ced-39f9fd5f1d59&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4472725"
     },
@@ -69,9 +69,45 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-09-02",
-      "age": "Today",
+      "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Jaxon+Engineering+and+Maintenance&job=a95da467-1f87-4bf5-a076-e5fe019d9fa8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4475286"
+    },
+    {
+      "id": "cb6e19a3-67da-4ba9-ae80-075cbe8ae0c3",
+      "company": "Leidos",
+      "title": "Junior Software Engineer",
+      "location": "Gaithersburg, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-02",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Leidos&job=cb6e19a3-67da-4ba9-ae80-075cbe8ae0c3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Gaithersburg-MD/Junior-Software-Engineer_R-00191270"
+    },
+    {
+      "id": "c031be79-fe70-4262-a24c-ff8fd882d333",
+      "company": "Leidos",
+      "title": "Associate Software Engineer",
+      "location": "Gaithersburg, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-02",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Leidos&job=c031be79-fe70-4262-a24c-ff8fd882d333&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Gaithersburg-MD/Associate-Software-Engineer_R-00191290"
+    },
+    {
+      "id": "8cdd1b10-2eb3-4515-8c60-d25ebc9337f8",
+      "company": "Leidos",
+      "title": "Junior Software Engineer – AI/ML Applications",
+      "location": "Huntsville, AL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-02",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Leidos&job=8cdd1b10-2eb3-4515-8c60-d25ebc9337f8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Huntsville-AL/Junior-Software-Engineer---AI-ML-Applications_R-00191299"
     },
     {
       "id": "custom:microsoft:5f5bddec87a71f9cb757",
@@ -81,7 +117,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-09-02",
-      "age": "Today",
+      "age": "1d",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556924230",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556924230",
       "applySupported": false
@@ -94,7 +130,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-09-02",
-      "age": "Today",
+      "age": "1d",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556941610",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556941610",
       "applySupported": false
@@ -107,7 +143,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-09-02",
-      "age": "Today",
+      "age": "1d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=ec5f04dd-7472-4cec-8d68-d38489b6afaf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I--Onsite-_01871665"
     },
@@ -119,7 +155,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-09-02",
-      "age": "Today",
+      "age": "1d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=afc69f25-5f91-471d-875e-e2b3a9cfb972&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I--Onsite-_01867811"
     },
@@ -131,9 +167,21 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-09-02",
-      "age": "Today",
+      "age": "1d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=02120f30-c237-4470-bea7-b17c506c293d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineer-I--On-Site-_01862497"
+    },
+    {
+      "id": "4eb91250-7bd7-4c20-8b3a-8be97648b0c5",
+      "company": "RTX",
+      "title": "2026 Raytheon Full Time-Software Engineer I – EOIR Advanced Products and Solutions (Onsite)",
+      "location": "Mckinney, TX",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-02",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=4eb91250-7bd7-4c20-8b3a-8be97648b0c5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/XMLNAME-2026-Raytheon-Full-Time-Software-Engineer-I---EOIR-Advanced-Products-and-Solutions--Onsite-_01851718"
     },
     {
       "id": "31f14e57-85df-4a99-98b6-c66c8c902675",
@@ -143,7 +191,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-09-02",
-      "age": "Today",
+      "age": "1d",
       "url": "https://applyguy.ai/jobs?company=SMX&job=31f14e57-85df-4a99-98b6-c66c8c902675&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.smxtech.com/careers/?gh_jid=7982420003"
     },
@@ -155,7 +203,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-09-01",
-      "age": "1d",
+      "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Accenture+Federal+Services&job=94d1fed9-cdc4-45d7-aee7-9f93d5c17f6b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boards.greenhouse.io/accenturefederalservices/jobs/4710190006?gh_jid=4710190006"
     },
@@ -167,7 +215,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-09-01",
-      "age": "1d",
+      "age": "2d",
       "url": "https://applyguy.ai/jobs?company=AeroVironment&job=543dba20-b4e3-4b46-857b-b0f1c9bce41a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://avav.wd1.myworkdayjobs.com/avav/job/Austin-TX/Entry-Level-Software-Engineer_8600"
     },
@@ -179,7 +227,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-09-01",
-      "age": "1d",
+      "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Amat&job=162d2d59-096f-45a4-b381-77d3fc50e5f8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Algorithm-Developer-I-New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2626605"
     },
@@ -191,7 +239,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-09-01",
-      "age": "1d",
+      "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Ciena&job=0472f208-3f3e-4bf2-96e3-ed08d5a96c71&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://ciena.wd5.myworkdayjobs.com/careers/job/Atlanta/WaveLogic-Software-Developer---New-Grad_R031608"
     },
@@ -203,7 +251,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-09-01",
-      "age": "1d",
+      "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Climavision&job=c87ab983-0504-4d0d-93c9-fb4f4f6f9d39&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://climavision.breezy.hr/p/85938efae74c-jr-software-engineer"
     },
@@ -215,7 +263,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-09-01",
-      "age": "1d",
+      "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Kinective&job=55384868-51f4-4761-95ce-b3d682f3cb39&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4464423"
     },
@@ -227,7 +275,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-09-01",
-      "age": "1d",
+      "age": "2d",
       "url": "https://applyguy.ai/jobs?company=MyFunded+Futures&job=1858378d-a59e-4b85-9ad1-37eb6f378282&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/myfundedfutures/jobs/4390595009"
     },
@@ -239,7 +287,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-09-01",
-      "age": "1d",
+      "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Reagroup&job=05e1d93e-9f87-410c-a659-6ab6497b9a68&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://reagroup.wd3.myworkdayjobs.com/reacareers/job/Richmond-Melbourne-VIC/Software-Engineer_R0015524"
     },
@@ -251,7 +299,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-09-01",
-      "age": "1d",
+      "age": "2d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=35651480-c7bb-49a2-9158-2ad50075eddf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01867125-1"
     },
@@ -263,7 +311,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-09-01",
-      "age": "1d",
+      "age": "2d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=5299d0ef-45f7-47c0-b134-797d4eae09e7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-VA-ARLINGTON-111--1300-17Th-St-N--BBN-ARLINGTON/Software-Engineer-I--Hybrid--Arlington--VA---Cambridge--MA_01870647"
     },
@@ -275,7 +323,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-09-01",
-      "age": "1d",
+      "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Sentrilock+LLC&job=d2c137f3-fd69-4831-b9e2-4ca61013a88e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4445683"
     },
@@ -287,7 +335,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-09-01",
-      "age": "1d",
+      "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Tebra&job=428ae29f-b0bd-456c-af7a-83a47fc0fd89&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/tebra/jobs/4726985005"
     },
@@ -299,7 +347,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-09-01",
-      "age": "1d",
+      "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Valon+Tech&job=fe97f5fa-ffc5-492e-84df-e6e60be926a9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/valon/e08ad09a-4408-4210-8c1b-da6510f83324"
     },
@@ -311,7 +359,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-31",
-      "age": "2d",
+      "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Alation&job=6cfae721-596c-4959-b6b5-2165fc253dbc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://alation.wd503.myworkdayjobs.com/externalsite/job/USA-CA-REDWOOD-CITY/UX-Software-Engineer-I--Contractor-_R10000770"
     },
@@ -323,7 +371,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-31",
-      "age": "2d",
+      "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Cdk&job=f51409ba-45f1-41ec-a4c5-7664eebe84ae&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://cdk.wd1.myworkdayjobs.com/cdk/job/Austin-TX-USA/Associate-Software-Engineer_JR9201-1"
     },
@@ -335,7 +383,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-31",
-      "age": "2d",
+      "age": "3d",
       "url": "https://applyguy.ai/jobs?company=DS2&job=7376b07d-6e0d-4597-b180-709d520ed22f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://ds2.breezy.hr/p/9fc9a1db41e1-junior-software-engineer-special-operations-mission-systems"
     },
@@ -347,7 +395,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-31",
-      "age": "2d",
+      "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Esri&job=22d6ec8a-18c1-46ec-bf43-3e869b832319&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.esri.com/careers/5225186007?gh_jid=5225186007"
     },
@@ -359,7 +407,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-31",
-      "age": "2d",
+      "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Everlaw&job=4b8e4618-1876-4b59-b08f-7a990b1f3600&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/everlaw/jobs/4705236006"
     },
@@ -371,7 +419,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-31",
-      "age": "2d",
+      "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Harris&job=d5bcd942-59a6-4296-bafc-d07d45e8fbcf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Tennessee-United-States/Associate-Software-Engineer--RPG_R0045601-1"
     },
@@ -383,7 +431,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-31",
-      "age": "2d",
+      "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Harriscomputer&job=1f5279e6-26dc-45e9-adaf-5d248189a0ce&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://harriscomputer.wd3.myworkdayjobs.com/htn/job/Tennessee-United-States/Associate-Software-Engineer--RPG_R0045601"
     },
@@ -395,7 +443,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-31",
-      "age": "2d",
+      "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Informaticon&job=271858e1-8a25-41ee-8f3c-6b1d382d0d55&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://informaticon.breezy.hr/p/25946aa0d5b1-junior-software-engineer-neu-ulm-m-w-d"
     },
@@ -407,7 +455,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-31",
-      "age": "2d",
+      "age": "3d",
       "url": "https://applyguy.ai/jobs?company=INFORMATION+SYSTEMS+SOLUTIONS%2C+INC&job=f5c0cedc-d923-4b0a-a20a-45b0d8d5b435&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4462746"
     },
@@ -419,7 +467,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-31",
-      "age": "2d",
+      "age": "3d",
       "url": "https://applyguy.ai/jobs?company=IXL+Learning&job=51260dd4-d0b9-4ba1-8bf2-0f884d120408&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.ixl.com/company/jobs?gh_jid=8765745002"
     },
@@ -431,7 +479,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-31",
-      "age": "2d",
+      "age": "3d",
       "url": "https://applyguy.ai/jobs?company=IXL+Learning&job=51f4550a-91bc-41c3-a7d9-ea79a1f10f0d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.ixl.com/company/jobs?gh_jid=8765715002"
     },
@@ -443,7 +491,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-31",
-      "age": "2d",
+      "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Katalyst+Space+Technologies&job=84bd0668-da3f-4999-8757-7eb308dba16f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/katalyst/jobs/6176710004"
     },
@@ -455,7 +503,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-31",
-      "age": "2d",
+      "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=812bd563-d821-432e-b3b2-6dd242e540cf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Huntsville-AL_R10247580-1"
     },
@@ -467,7 +515,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-31",
-      "age": "2d",
+      "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Palantir+Technologies&job=ad4842ed-8bfb-4627-950f-d82445e46845&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/palantir/701a9307-0619-45d3-b077-cabe9897cd12"
     },
@@ -479,7 +527,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-31",
-      "age": "2d",
+      "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Precisely+US+Jobs&job=775db71d-a3fb-446d-a7c9-ac080567114c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.precisely.com/careers-and-culture/us-jobs/job/4722721005?gh_jid=4722721005"
     },
@@ -491,7 +539,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-31",
-      "age": "2d",
+      "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Relx&job=5cf7e8d3-9564-482c-b678-c15dead2994e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://relx.wd3.myworkdayjobs.com/relx/job/Boca-Raton-FL/Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023"
     },
@@ -503,7 +551,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-31",
-      "age": "2d",
+      "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Relx&job=2627164e-3af9-49bb-a179-fcbae84e5faf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://relx.wd3.myworkdayjobs.com/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2"
     },
@@ -515,7 +563,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-31",
-      "age": "2d",
+      "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Relx&job=106135b2-9790-4be1-9a17-12b47e7a0bb6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://relx.wd3.myworkdayjobs.com/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1"
     },
@@ -527,7 +575,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-31",
-      "age": "2d",
+      "age": "3d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=7be78e79-7462-4c2d-8288-2ceeb0e6ef35&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--Hybrid---Aguadilla--PR-_01870496"
     },
@@ -539,7 +587,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-31",
-      "age": "2d",
+      "age": "3d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=5b18b915-574a-4ce8-82db-7f4ed439c91e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--RCU--Onsite---Security-Clearance-_01870743"
     },
@@ -551,7 +599,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-31",
-      "age": "2d",
+      "age": "3d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=3c2b8a25-75b2-4cde-be50-aa9cbfc6c3d9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--CDS--Onsite---Secret-Clearance-_01870383"
     },
@@ -563,7 +611,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-31",
-      "age": "2d",
+      "age": "3d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=7e8145e1-1a41-429d-b1a8-9a6f30ced046&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I----Test-Solutions---Onsite_01836492-1"
     },
@@ -575,7 +623,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-31",
-      "age": "2d",
+      "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Stripe&job=13c8afc0-3a16-47c3-848e-4a953b43c278&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://stripe.com/jobs/search?gh_jid=8128744"
     },
@@ -587,7 +635,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-31",
-      "age": "2d",
+      "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Wellsky&job=5d3a4fb6-01bc-4eec-88f6-859942ae3da4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://wellsky.wd1.myworkdayjobs.com/wellskycareers/job/Overland-Park-KS/Associate-Software-Engineer_JR5078"
     },
@@ -599,7 +647,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-31",
-      "age": "2d",
+      "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Whatnot&job=3bc24679-909f-4b2d-a262-b333fd4bd904&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/whatnot/29bad846-de60-4be7-a222-69b97e044930"
     },
@@ -611,7 +659,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-31",
-      "age": "2d",
+      "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Wyetech&job=59acb65c-c7bf-4dc4-8088-e2b47bf54164&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/wyetechllc/a1dbedae-7905-44a0-99be-a6fadd39d0ad"
     },
@@ -623,7 +671,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-28",
-      "age": "5d",
+      "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Barrywehmiller&job=46addecf-7054-4658-89d8-97a411199be7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Dallas-TX/Entry-Level-Software-Engineer_R022649"
     },
@@ -635,7 +683,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-28",
-      "age": "5d",
+      "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Kbr&job=7e61698f-0802-4b0a-a55d-9d51056f6d05&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Colorado-Springs-Colorado/Jr-Software-Developer-Astro-Engineer_R2129077"
     },
@@ -647,7 +695,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-28",
-      "age": "5d",
+      "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=e504539a-f5a4-42fb-8533-bb8a82706020&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Laurel-MD/Junior-Software-Engineer_R-00190592"
     },
@@ -659,7 +707,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-28",
-      "age": "5d",
+      "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Metrc%2C+LLC&job=ccf0ace4-886d-46a3-aa91-bb43d99602ba&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4461465"
     },
@@ -671,7 +719,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-28",
-      "age": "5d",
+      "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Midtown+Home+Improvements&job=84107032-a070-491b-bf38-9a7b7652d335&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://midtown-home-improvements.breezy.hr/p/824adfc228b2-software-engineer-i-full-stack"
     },
@@ -683,7 +731,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-28",
-      "age": "5d",
+      "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Nwis&job=abfacdb1-6826-4555-b9c4-e73216d5ba55&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://nwis.wd12.myworkdayjobs.com/nw/job/Sterling-VA/Software-Engineer-I_JR101958"
     },
@@ -695,7 +743,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-28",
-      "age": "5d",
+      "age": "6d",
       "url": "https://applyguy.ai/jobs?company=PolicyMe&job=76ed44f2-37e4-42b5-b88b-419acbb8d8a4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/policyme/2ad3fd98-21fc-4bbd-aa91-868befe5f699"
     },
@@ -707,7 +755,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-28",
-      "age": "5d",
+      "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Remitly&job=6f085430-1a23-4d26-ab87-c223adf8b48b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Seattle-Washington-United-States/Software-Development-Engineer-I--IHUB_R_106706"
     },
@@ -719,7 +767,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-28",
-      "age": "5d",
+      "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Solace&job=208416e7-b813-4119-a965-2e977b35b875&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/solace/7deb5d7e-9960-4407-9600-aa8e84d9edba"
     },
@@ -731,7 +779,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-27",
-      "age": "6d",
+      "age": "7d",
       "url": "https://applyguy.ai/jobs?company=ASM&job=45e13644-1357-421e-a2f9-680aa38524f0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.asm.com/open-vacancies/?gh_jid=4876722101"
     },
@@ -743,7 +791,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-27",
-      "age": "6d",
+      "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Blackrock&job=2032b951-6961-4ad9-a59e-333e5238d5aa&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/NY7---50-Hudson-Yards-New-York/Associate-Data-Engineer--Data-Management---Data-Office_R266266"
     },
@@ -755,7 +803,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-27",
-      "age": "6d",
+      "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Dexcom&job=05bad1af-9630-46a2-94af-49dd26825599&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://dexcom.wd1.myworkdayjobs.com/dexcom/job/Remote---United-States/Software-Development-Engineer-1_JR120540"
     },
@@ -767,7 +815,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-27",
-      "age": "6d",
+      "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Esri&job=718e723e-176a-4d51-8a71-3a3bcaa91e43&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.esri.com/careers/5220060007?gh_jid=5220060007"
     },
@@ -779,7 +827,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-27",
-      "age": "6d",
+      "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Hatch+IT&job=65772c20-ea73-4992-8437-59f401402ffd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/hatchit/7f2e771d-2363-4e85-b62f-ca130c478a97"
     },
@@ -791,7 +839,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-27",
-      "age": "6d",
+      "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Iqvia&job=d5c9720f-9473-49be-9249-f42fd0d8b7af&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://iqvia.wd1.myworkdayjobs.com/iqvia/job/Orlando-FL/MedTech-Field-Service-Software-Technician---Eastern-Time-Zone_R1564635-1"
     },
@@ -803,7 +851,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-27",
-      "age": "6d",
+      "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Iqvia&job=18cb4cb5-38db-4c80-8573-d13e9aa357f1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://iqvia.wd1.myworkdayjobs.com/iqvia/job/Las-Vegas--NV/MedTech-Field-Service-Software-Technician---West-Coast-Timezone_R1564643"
     },
@@ -815,7 +863,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-27",
-      "age": "6d",
+      "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Iqvia&job=118ab350-be6d-4bbd-b418-4643b366d9c4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://iqvia.wd1.myworkdayjobs.com/iqvia/job/Dallas-TX/MedTech-Field-Service-Software-Technician---Central-Time-Zone_R1564641"
     },
@@ -827,7 +875,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-27",
-      "age": "6d",
+      "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Kbr&job=6953c199-198b-4c36-87fd-c5cd9d1c90b0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Colorado-Springs-Colorado/Jr-Software-Developer_R2128436"
     },
@@ -839,7 +887,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-27",
-      "age": "6d",
+      "age": "7d",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556972217",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972217",
       "applySupported": false
@@ -852,7 +900,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-27",
-      "age": "6d",
+      "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Ontic&job=39ee6c0d-b6c3-4796-ac5f-6cbd7f4c955b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/ontic/d50b6bea-876f-43fc-afb9-716efe9eca02"
     },
@@ -864,7 +912,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-27",
-      "age": "6d",
+      "age": "7d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=a3f898de-9d07-4567-ac1e-f17843bb6c73&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Conversion--Software-Engineer-I--Onsite-_01867853"
     },
@@ -876,7 +924,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-27",
-      "age": "6d",
+      "age": "7d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=e2103f32-f0ef-42ad-be81-a8d829ed5941&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01869922"
     },
@@ -888,7 +936,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-27",
-      "age": "6d",
+      "age": "7d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=42c91976-2604-4f22-89cd-a10106324d71&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Embedded-Software-Engineer-I--Onsite-_01870328"
     },
@@ -900,7 +948,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-27",
-      "age": "6d",
+      "age": "7d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=3c29cbae-3f5d-49b6-b184-2f8cf16a92d8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Software-Engineer-I--Onsite-_01870005"
     },
@@ -912,7 +960,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-27",
-      "age": "6d",
+      "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Schweitzer+Engineering+Laboratories&job=367a59ae-0881-4ff6-8952-230a8f08422f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://selinc.wd1.myworkdayjobs.com/sel/job/Washington---Pullman/Associate-Software-Engineer---Vulnerability-Assessment_2026-22231"
     },
@@ -924,7 +972,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-27",
-      "age": "6d",
+      "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Snc&job=f15077dd-7f2a-49c2-96c2-1c1aac8b2ca5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0030529"
     },
@@ -936,7 +984,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-26",
-      "age": "7d",
+      "age": "8d",
       "url": "https://www.amazon.jobs/en/jobs/10515912/software-engineer-i-memberships",
       "listingUrl": "https://www.amazon.jobs/en/jobs/10515912/software-engineer-i-memberships",
       "applySupported": false
@@ -949,7 +997,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-26",
-      "age": "7d",
+      "age": "8d",
       "url": "https://applyguy.ai/jobs?company=CACI&job=b7a5389c-99e1-4a57-821e-16e7d862e8c5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Houston-TX-US/Early-Career-NASA-Space-Reactor---1-Freedom-Flight-Software-Development-Engineer_330677"
     },
@@ -961,7 +1009,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-26",
-      "age": "7d",
+      "age": "8d",
       "url": "https://applyguy.ai/jobs?company=Cox&job=6fb184d6-7ec0-4930-98ab-2d9e09f0e840&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Draper-UT/Entry-Level-Software-Engineer--Draper--UT-_R202681804"
     },
@@ -973,7 +1021,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-26",
-      "age": "7d",
+      "age": "8d",
       "url": "https://applyguy.ai/jobs?company=Delta+Solutions+%26+Strategies&job=7e652669-ea14-4e37-89c9-828de03b86a8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/deltasands/78ed860f-7c69-4888-9a05-e8c9006be291"
     },
@@ -985,7 +1033,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-26",
-      "age": "7d",
+      "age": "8d",
       "url": "https://applyguy.ai/jobs?company=Energy+Solutions+-+USA&job=40c92df4-6d4e-4024-8643-4d9368c80fc3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/energysolutions/jobs/5222431007"
     },
@@ -997,7 +1045,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-26",
-      "age": "7d",
+      "age": "8d",
       "url": "https://applyguy.ai/jobs?company=Energy+Solutions+-+USA&job=43737d31-8022-4fba-a944-e592c3018f8c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/energysolutions/jobs/5222429007"
     },
@@ -1009,7 +1057,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-26",
-      "age": "7d",
+      "age": "8d",
       "url": "https://applyguy.ai/jobs?company=Energy+Solutions+-+USA&job=52dd9f7c-3fdf-47e3-b68f-c0c2db7bdbb6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/energysolutions/jobs/5222428007"
     },
@@ -1021,7 +1069,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-26",
-      "age": "7d",
+      "age": "8d",
       "url": "https://applyguy.ai/jobs?company=Energy+Solutions+-+USA&job=8695145c-79c1-47f9-a702-82a10ee039eb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/energysolutions/jobs/5222432007"
     },
@@ -1033,7 +1081,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-26",
-      "age": "7d",
+      "age": "8d",
       "url": "https://applyguy.ai/jobs?company=Energy+Solutions+-+USA&job=6efca28c-c759-4095-bdd6-8913e80e515c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/energysolutions/jobs/5222430007"
     },
@@ -1045,7 +1093,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-26",
-      "age": "7d",
+      "age": "8d",
       "url": "https://applyguy.ai/jobs?company=Energy+Solutions+-+USA&job=d8c02382-6012-4598-a11f-2cec81d9d206&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/energysolutions/jobs/5201891007"
     },
@@ -1057,7 +1105,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-26",
-      "age": "7d",
+      "age": "8d",
       "url": "https://applyguy.ai/jobs?company=GDIT&job=30899070-8e93-4658-b1cf-980212e2a5e5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Engineer-1_RQ227090-1"
     },
@@ -1069,7 +1117,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-26",
-      "age": "7d",
+      "age": "8d",
       "url": "https://applyguy.ai/jobs?company=TeleTracking+Technologies%2C+Inc.&job=f2b9c638-e283-4b0c-acbe-07db9453b447&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/5397299008"
     },
@@ -1081,7 +1129,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-26",
-      "age": "7d",
+      "age": "8d",
       "url": "https://applyguy.ai/jobs?company=Twitch&job=e6e30371-1c6d-4d07-a770-a836f769cbaf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/twitch/jobs/8751076002"
     },
@@ -1093,7 +1141,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-26",
-      "age": "7d",
+      "age": "8d",
       "url": "https://applyguy.ai/jobs?company=Twitch&job=d7d31318-32c4-4527-bb3e-6e7b98166860&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/twitch/jobs/8748320002"
     },
@@ -1105,7 +1153,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-26",
-      "age": "7d",
+      "age": "8d",
       "url": "https://applyguy.ai/jobs?company=Viavisolutions&job=76b3cfd9-8516-4d3a-a433-bf0d4c437e1c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Morrisville-NC-USA/Early-Careers-Rotational-Program-Development-Engineer---Software-Engineering-AI-Track_260004987-1"
     },
@@ -1117,7 +1165,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-26",
-      "age": "7d",
+      "age": "8d",
       "url": "https://applyguy.ai/jobs?company=Viavisolutions&job=61a0cfa0-0c05-4c50-90b9-dec384ed1919&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Indianapolis-IN-USA/Early-Careers-Rotational-Program-Development-Engineer---Software-Engineering-AI-Track_260004983-1"
     },
@@ -1129,7 +1177,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-26",
-      "age": "7d",
+      "age": "8d",
       "url": "https://applyguy.ai/jobs?company=Wellsky&job=0096c72f-7dea-49f7-a8c8-32ac655bc63c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://wellsky.wd1.myworkdayjobs.com/wellskycareers/job/Overland-Park-KS/Associate-Software-Engineer---DevOps-Engineer_JR5080"
     },
@@ -1141,7 +1189,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-25",
-      "age": "8d",
+      "age": "9d",
       "url": "https://applyguy.ai/jobs?company=Alarm.com&job=02b07628-f7d5-4092-9ad7-58340ea6ff58&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/alarmcom/jobs/8622530002"
     },
@@ -1153,7 +1201,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-25",
-      "age": "8d",
+      "age": "9d",
       "url": "https://applyguy.ai/jobs?company=Ennoble+Care&job=844c5d57-c799-4a76-aa6b-98b8aaa82385&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/ennoblecare/jobs/4708416006"
     },
@@ -1165,7 +1213,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-25",
-      "age": "8d",
+      "age": "9d",
       "url": "https://applyguy.ai/jobs?company=Expression&job=617edc15-8c03-4e69-aedc-604f45479908&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://expression-networks.breezy.hr/p/7290840a45a5-junior-data-engineer-dea"
     },
@@ -1177,7 +1225,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-25",
-      "age": "8d",
+      "age": "9d",
       "url": "https://applyguy.ai/jobs?company=Freedom+Technology+Solutions+Group&job=8e446a1b-8658-4b8e-bc36-96fcf29ece42&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5221705007"
     },
@@ -1189,7 +1237,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-25",
-      "age": "8d",
+      "age": "9d",
       "url": "https://applyguy.ai/jobs?company=Metron&job=0a963204-6332-496d-93bd-f2ef70483729&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/metron/jobs/5211456007"
     },
@@ -1201,7 +1249,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-25",
-      "age": "8d",
+      "age": "9d",
       "url": "https://applyguy.ai/jobs?company=Micron&job=10da6312-0ee4-4b1d-9f4e-0e59459a2afa&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---SIG-Building/New-College-Grad---Embedded-Firmware-Engineer_JR109306"
     },
@@ -1213,7 +1261,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-25",
-      "age": "8d",
+      "age": "9d",
       "url": "https://applyguy.ai/jobs?company=PayIt&job=d28a4422-9dba-493e-80e2-ab78d56d295a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://payitgov.com/careers-list?gh_jid=7975853003"
     },
@@ -1225,7 +1273,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-25",
-      "age": "8d",
+      "age": "9d",
       "url": "https://applyguy.ai/jobs?company=Prophet+Security&job=65d2d79f-2141-4350-a344-f529146e250c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/prophet-security/51415149-9b19-4164-84b9-2ffa78478069"
     },
@@ -1237,7 +1285,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-25",
-      "age": "8d",
+      "age": "9d",
       "url": "https://applyguy.ai/jobs?company=Solace&job=02b427fa-d862-4b7d-b239-9efc73ed9065&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/solace/bbdb1020-2900-4d63-908a-20cea79a65cd"
     },
@@ -1249,7 +1297,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-25",
-      "age": "8d",
+      "age": "9d",
       "url": "https://applyguy.ai/jobs?company=True+Anomaly&job=ea54db15-4129-427d-ada6-780eb2e1410f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221970007"
     },
@@ -1261,7 +1309,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-25",
-      "age": "8d",
+      "age": "9d",
       "url": "https://applyguy.ai/jobs?company=True+Anomaly&job=2056d821-660e-4fd5-ba83-7d813db4b3a2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221560007"
     },
@@ -1273,7 +1321,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-25",
-      "age": "8d",
+      "age": "9d",
       "url": "https://applyguy.ai/jobs?company=True+Anomaly&job=0c0f0335-466b-461a-81fd-7346845ac948&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007"
     },
@@ -1285,7 +1333,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-25",
-      "age": "8d",
+      "age": "9d",
       "url": "https://applyguy.ai/jobs?company=True+Anomaly&job=c054e31b-04b6-4af4-9a24-b675642ccf61&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221572007"
     },
@@ -1297,7 +1345,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-25",
-      "age": "8d",
+      "age": "9d",
       "url": "https://applyguy.ai/jobs?company=Wgu&job=ada42bac-7871-46d2-a2c6-974efc073c2f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Associate-Data-Engineer_JR-025987"
     },
@@ -1309,7 +1357,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-24",
-      "age": "9d",
+      "age": "10d",
       "url": "https://applyguy.ai/jobs?company=carislifesciences&job=507000ce-6ec6-407d-99ce-bd3136e8e436&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://carislifesciences.wd12.myworkdayjobs.com/cls/job/Irving-TX---75039/Associate-Software-Engineer_JR105464"
     },
@@ -1321,7 +1369,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-24",
-      "age": "9d",
+      "age": "10d",
       "url": "https://www.google.com/about/careers/applications/jobs/results/84680705375642310-software-engineer-infrastructure-phd-early-career-2027-start",
       "listingUrl": "https://www.google.com/about/careers/applications/jobs/results/84680705375642310-software-engineer-infrastructure-phd-early-career-2027-start",
       "applySupported": false
@@ -1334,7 +1382,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-24",
-      "age": "9d",
+      "age": "10d",
       "url": "https://www.google.com/about/careers/applications/jobs/results/123087196289671878-software-engineer-ai-machine-learning-phd-early-career-2027-start",
       "listingUrl": "https://www.google.com/about/careers/applications/jobs/results/123087196289671878-software-engineer-ai-machine-learning-phd-early-career-2027-start",
       "applySupported": false
@@ -1347,7 +1395,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-24",
-      "age": "9d",
+      "age": "10d",
       "url": "https://applyguy.ai/jobs?company=TraceLink%2C+Inc&job=de57c3d0-72f3-4a3e-b377-d5218581e2f6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.tracelink.com/about/culture-and-careers/jobs?gh_jid=5217396007"
     },
@@ -1359,7 +1407,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-24",
-      "age": "9d",
+      "age": "10d",
       "url": "https://applyguy.ai/jobs?company=VectorVMS&job=2bcbc0aa-bafe-4768-acdd-19801b9ca7d8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://vectorvms.breezy.hr/p/677ae6c42f23-associate-software-engineer"
     },
@@ -1371,7 +1419,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-21",
-      "age": "12d",
+      "age": "13d",
       "url": "https://applyguy.ai/jobs?company=Clearedge&job=8efc4f62-f3dd-46a3-b451-150d6bbe1148&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/clearedge/e72517e3-8831-46ea-8d44-41ab6ac22b4c"
     },
@@ -1383,7 +1431,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-21",
-      "age": "12d",
+      "age": "13d",
       "url": "https://applyguy.ai/jobs?company=Esri&job=62f4374e-4f30-4b68-88b0-16178e49760d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.esri.com/careers/5214134007?gh_jid=5214134007"
     },
@@ -1395,7 +1443,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-21",
-      "age": "12d",
+      "age": "13d",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
       "applySupported": false
@@ -1408,7 +1456,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-21",
-      "age": "12d",
+      "age": "13d",
       "url": "https://applyguy.ai/jobs?company=Quickenloans&job=49bef747-c371-45e0-a524-5475cb4bdce7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/San-Francisco-California/Software-Developer-I---Search_R-083930"
     },
@@ -1420,7 +1468,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-21",
-      "age": "12d",
+      "age": "13d",
       "url": "https://applyguy.ai/jobs?company=True+Anomaly&job=4ba82972-5fcb-48be-9839-367c6b08e90b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5219057007"
     },
@@ -1432,7 +1480,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-21",
-      "age": "12d",
+      "age": "13d",
       "url": "https://applyguy.ai/jobs?company=True+Anomaly&job=f6470e7a-c59a-41c3-95f2-035f11bac538&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5218935007"
     },
@@ -1444,7 +1492,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-20",
-      "age": "13d",
+      "age": "14d",
       "url": "https://applyguy.ai/jobs?company=Crowe&job=3846eea5-c801-46d0-b74d-644d645524a9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Machine-Learning-Software-Engineer-1_R-71006"
     },
@@ -1456,7 +1504,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-20",
-      "age": "13d",
+      "age": "14d",
       "url": "https://applyguy.ai/jobs?company=Crusoe&job=dc0399ce-23c6-4d75-8328-ff1ff317cee0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed"
     },
@@ -1468,7 +1516,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-20",
-      "age": "13d",
+      "age": "14d",
       "url": "https://applyguy.ai/jobs?company=DigitalOcean&job=1decb723-0eeb-4d37-ab13-a3cd3a144b41&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.digitalocean.com/careers/position/apply/?gh_jid=8101988"
     },
@@ -1480,7 +1528,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-20",
-      "age": "13d",
+      "age": "14d",
       "url": "https://applyguy.ai/jobs?company=Kikoff&job=4e646993-5eda-4baf-a943-0fec9dafef7f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/kikoff/jobs/4376677009"
     },
@@ -1492,7 +1540,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-20",
-      "age": "13d",
+      "age": "14d",
       "url": "https://applyguy.ai/jobs?company=Roberthalf&job=3cbc2b10-d9ab-4cc6-9e02-997ae8443a12&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-261277"
     },
@@ -1504,7 +1552,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-19",
-      "age": "14d",
+      "age": "15d",
       "url": "https://applyguy.ai/jobs?company=Bitdeer+Technologies+Group&job=be3b3bed-964d-4027-97ea-f6d58168fb94&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://bitdeer.breezy.hr/p/ed6314823d0c-sre-monitoring-platform-software-engineer-early-career-temporary"
     },
@@ -1516,7 +1564,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-19",
-      "age": "14d",
+      "age": "15d",
       "url": "https://applyguy.ai/jobs?company=Freeform&job=159941a8-8b9e-471d-8f95-06bc469156b1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003"
     },
@@ -1528,7 +1576,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-19",
-      "age": "14d",
+      "age": "15d",
       "url": "https://applyguy.ai/jobs?company=JND&job=bd64bc48-0cba-4265-a7c5-041ddc2355cc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jnd-inc.breezy.hr/p/87fd346a82c7-entry-level-software-tester-2608-2"
     },
@@ -1540,7 +1588,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-19",
-      "age": "14d",
+      "age": "15d",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
       "applySupported": false
@@ -1553,7 +1601,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-19",
-      "age": "14d",
+      "age": "15d",
       "url": "https://applyguy.ai/jobs?company=Relx&job=1cfa0c53-d6a0-4a73-9c2c-b4c095cb0bdf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://relx.wd3.myworkdayjobs.com/lexisnexislegal/job/Raleigh-NC/Software-Engineer-I_R117314"
     },
@@ -1565,7 +1613,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-19",
-      "age": "14d",
+      "age": "15d",
       "url": "https://applyguy.ai/jobs?company=SpaceX&job=8c12cd26-5e09-4083-a226-bca2e0a490ee&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boards.greenhouse.io/spacex/jobs/8730567002?gh_jid=8730567002"
     },
@@ -1577,7 +1625,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-19",
-      "age": "14d",
+      "age": "15d",
       "url": "https://applyguy.ai/jobs?company=SpaceX&job=19fbb7b4-86a6-4e32-8d75-4e70215e9f27&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boards.greenhouse.io/spacex/jobs/8724316002?gh_jid=8724316002"
     },
@@ -1589,7 +1637,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-19",
-      "age": "14d",
+      "age": "15d",
       "url": "https://applyguy.ai/jobs?company=SpaceX&job=58986cd8-3d18-4b54-803a-67e2c0b3a4a3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boards.greenhouse.io/spacex/jobs/8729121002?gh_jid=8729121002"
     },
@@ -1601,7 +1649,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-19",
-      "age": "14d",
+      "age": "15d",
       "url": "https://applyguy.ai/jobs?company=Tti&job=10997521-6775-49d7-bcd7-61b414d43140&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://tti.wd1.myworkdayjobs.com/tti_pe/job/Anderson-SC/Software-Engineer-1_R76960"
     },
@@ -1613,7 +1661,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-19",
-      "age": "14d",
+      "age": "15d",
       "url": "https://applyguy.ai/jobs?company=Volaris+Group&job=401b32c4-a494-4ea6-af38-695971dca0ae&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://volarisgroup.wd3.myworkdayjobs.com/silvervine/job/United-States---Warner-Robins-GA/Jr-Software-Engineer_R70583"
     },
@@ -1625,7 +1673,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-19",
-      "age": "14d",
+      "age": "15d",
       "url": "https://applyguy.ai/jobs?company=Worth+Finance+Corporation&job=954c593e-cc65-4bc0-9d56-e43264d06932&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.workable.com/view/tQq87azczgHvziCjULk6Dt/software-qa-tester---entry-level-in-austin-at-worth-finance-corporation"
     },
@@ -1637,7 +1685,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-18",
-      "age": "15d",
+      "age": "16d",
       "url": "https://applyguy.ai/jobs?company=Dark+Wolf+Solutions&job=356ea4cb-7be2-40ca-a25a-dce9b2b18789&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886212003"
     },
@@ -1649,7 +1697,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-18",
-      "age": "15d",
+      "age": "16d",
       "url": "https://applyguy.ai/jobs?company=Johnson+Health+Tech+Companies&job=40e0d6b3-4285-4ca3-b56a-f8aeebc07253&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4431115"
     },
@@ -1661,7 +1709,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-18",
-      "age": "15d",
+      "age": "16d",
       "url": "https://applyguy.ai/jobs?company=Koah&job=d9007a83-d60a-4e5e-9d1e-7bbba6779db3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/koahlabs/197c931d-3cda-44b3-b26b-470976730808"
     },
@@ -1673,7 +1721,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-18",
-      "age": "15d",
+      "age": "16d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=8ab05158-a45c-452e-bafa-d9018cccdf2b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineer-I--Onsite-_01867905"
     },
@@ -1685,7 +1733,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-17",
-      "age": "16d",
+      "age": "17d",
       "url": "https://applyguy.ai/jobs?company=CACI&job=0d17efee-c4f5-46fb-b43b-132911ca54db&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Hanover-MD-US/Software-Engineer---Early-Career---Cloud_330679"
     },
@@ -1697,7 +1745,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-17",
-      "age": "16d",
+      "age": "17d",
       "url": "https://applyguy.ai/jobs?company=STR&job=d366a11f-0781-4893-82d6-19570f31138b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4705347006"
     },
@@ -1709,7 +1757,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-17",
-      "age": "16d",
+      "age": "17d",
       "url": "https://applyguy.ai/jobs?company=STR&job=9833d8ff-761a-4348-b501-4962c10b0456&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4705344006"
     },
@@ -1721,7 +1769,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-17",
-      "age": "16d",
+      "age": "17d",
       "url": "https://applyguy.ai/jobs?company=Usan&job=7aba27b6-d0c6-4bdb-b6d7-d9bd20369903&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://usan.bamboohr.com/careers/200"
     },
@@ -1733,7 +1781,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-14",
-      "age": "19d",
+      "age": "20d",
       "url": "https://www.amazon.jobs/en/jobs/10502486/software-engineer-i-payments",
       "listingUrl": "https://www.amazon.jobs/en/jobs/10502486/software-engineer-i-payments",
       "applySupported": false
@@ -1746,7 +1794,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-14",
-      "age": "19d",
+      "age": "20d",
       "url": "https://applyguy.ai/jobs?company=Applied+Intuition&job=4e9581e3-cbf2-4caa-bbb2-b96048d02f06&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44"
     },
@@ -1758,7 +1806,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-14",
-      "age": "19d",
+      "age": "20d",
       "url": "https://applyguy.ai/jobs?company=Applied+Intuition&job=26647379-2d57-4304-98d4-be27c47a67b0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694"
     },
@@ -1770,7 +1818,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-14",
-      "age": "19d",
+      "age": "20d",
       "url": "https://applyguy.ai/jobs?company=Applied+Intuition&job=01e6b429-83f6-4521-bd92-14dd603b4d61&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/applied/250080bd-10a8-4e5f-82b8-506029292d19"
     },
@@ -1782,7 +1830,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-14",
-      "age": "19d",
+      "age": "20d",
       "url": "https://applyguy.ai/jobs?company=Boom+Technology%2C+Inc.&job=41d216bc-98ff-43fa-8ec4-09bdafdffa1b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://ats.rippling.com/boom-supersonic/jobs/a6ea239b-70a4-4d72-b7d8-3ab1312568dc"
     },
@@ -1794,7 +1842,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-14",
-      "age": "19d",
+      "age": "20d",
       "url": "https://applyguy.ai/jobs?company=Endictus+Corp&job=63c2089b-3d08-4579-a432-7e843f561a69&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4417648"
     },
@@ -1806,7 +1854,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-14",
-      "age": "19d",
+      "age": "20d",
       "url": "https://applyguy.ai/jobs?company=Flow+Engineering&job=7740a069-0585-43fe-8e89-6236d9ff4493&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/flowengineering/df49e713-ce33-40a8-8d6d-3759f61f4ea5"
     },
@@ -1818,7 +1866,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-14",
-      "age": "19d",
+      "age": "20d",
       "url": "https://applyguy.ai/jobs?company=New+Relic&job=135b087d-e634-4e60-8aab-d0987ca6f5af&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/newrelic/jobs/5390637008"
     },
@@ -1830,7 +1878,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-14",
-      "age": "19d",
+      "age": "20d",
       "url": "https://applyguy.ai/jobs?company=Notion&job=b72b65fa-0517-4150-9c04-7b653e630a59&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816"
     },
@@ -1842,7 +1890,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-14",
-      "age": "19d",
+      "age": "20d",
       "url": "https://applyguy.ai/jobs?company=SpaceX&job=124d4084-6626-46c5-a788-14ae58247cff&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boards.greenhouse.io/spacex/jobs/8696097002?gh_jid=8696097002"
     },
@@ -1854,7 +1902,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-14",
-      "age": "19d",
+      "age": "20d",
       "url": "https://applyguy.ai/jobs?company=SpaceX&job=d5164c75-4ab0-40d8-92a5-9974aad5827f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boards.greenhouse.io/spacex/jobs/8696080002?gh_jid=8696080002"
     },
@@ -1866,7 +1914,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-14",
-      "age": "19d",
+      "age": "20d",
       "url": "https://applyguy.ai/jobs?company=SpaceX&job=4a1f44f8-890b-4bea-b720-1023ac20f82d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002"
     },
@@ -1878,7 +1926,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-14",
-      "age": "19d",
+      "age": "20d",
       "url": "https://applyguy.ai/jobs?company=SpaceX&job=c0065153-9217-4f4f-aee3-71230ffe625f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002"
     },
@@ -1890,7 +1938,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-14",
-      "age": "19d",
+      "age": "20d",
       "url": "https://applyguy.ai/jobs?company=SpaceX&job=dba8c7ba-6301-4e5e-be1e-5fd8d023d7bf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002"
     },
@@ -1902,7 +1950,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-14",
-      "age": "19d",
+      "age": "20d",
       "url": "https://applyguy.ai/jobs?company=SpaceX&job=f07fa663-311b-4cad-9d45-762b444568f5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002"
     },
@@ -1914,7 +1962,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-14",
-      "age": "19d",
+      "age": "20d",
       "url": "https://applyguy.ai/jobs?company=Sunayu&job=c3d32fd1-4b15-427b-b95c-80cfd9ae124e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://sunayu.bamboohr.com/careers/406"
     },
@@ -1926,7 +1974,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-14",
-      "age": "19d",
+      "age": "20d",
       "url": "https://applyguy.ai/jobs?company=Twitch&job=2df2e586-e68d-4406-a287-c54178f64e37&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/twitch/jobs/8700578002"
     },
@@ -1938,7 +1986,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-14",
-      "age": "19d",
+      "age": "20d",
       "url": "https://applyguy.ai/jobs?company=Ucar&job=b5497415-2e21-4d65-813b-4e27fb71e1fe&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://ucar.wd5.myworkdayjobs.com/ucar_careers/job/Boulder-CO/CESM-Software-Engineer-I_REQ-2026-117-1"
     },
@@ -1950,7 +1998,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-13",
-      "age": "20d",
+      "age": "21d",
       "url": "https://applyguy.ai/jobs?company=Esri&job=b10414aa-cd99-4db4-90a4-bff05545a58d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.esri.com/careers/5209800007?gh_jid=5209800007"
     },
@@ -1962,7 +2010,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-13",
-      "age": "20d",
+      "age": "21d",
       "url": "https://applyguy.ai/jobs?company=Esri&job=55686403-7fb1-48b7-8088-442898b37530&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.esri.com/careers/5209466007?gh_jid=5209466007"
     },
@@ -1974,7 +2022,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-13",
-      "age": "20d",
+      "age": "21d",
       "url": "https://applyguy.ai/jobs?company=Flir&job=9fa07ff1-f227-412c-94f0-5560835d9a77&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Associate-Software-Engineer_REQ36189"
     },
@@ -1986,7 +2034,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-12",
-      "age": "21d",
+      "age": "22d",
       "url": "https://applyguy.ai/jobs?company=Chamberlain&job=9ca2c2c6-3417-41d0-b1e9-8cf5977a7ab8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://chamberlain.wd1.myworkdayjobs.com/chamberlain_group/job/Remote---California/Software-Engineer-I---AI_JR30290"
     },
@@ -1998,7 +2046,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-12",
-      "age": "21d",
+      "age": "22d",
       "url": "https://applyguy.ai/jobs?company=CSpring&job=68db4486-0a2e-457b-b640-7339d4576a6c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4415195"
     },
@@ -2010,7 +2058,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-12",
-      "age": "21d",
+      "age": "22d",
       "url": "https://applyguy.ai/jobs?company=General+Matter&job=c4656b86-d950-4d6a-bb5f-dfa3b1f9721d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/generalmatter/jobs/5375987008"
     },
@@ -2022,7 +2070,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-12",
-      "age": "21d",
+      "age": "22d",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=c66842f1-2012-44cd-9d6b-f9c27f6600d9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Huntsville-AL/Junior-Software-Engineer_R-00189408"
     },
@@ -2034,7 +2082,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-12",
-      "age": "21d",
+      "age": "22d",
       "url": "https://applyguy.ai/jobs?company=Lennar&job=e53effa5-c25a-4154-b524-b92fafd1b446&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://lennar.wd1.myworkdayjobs.com/lennar_jobs/job/Miami-FL-Job-Posting-Location/Software-Engineer-I_R26_0000003523"
     },
@@ -2046,7 +2094,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-12",
-      "age": "21d",
+      "age": "22d",
       "url": "https://applyguy.ai/jobs?company=Mach+Industries&job=6785ade0-9b1f-4061-9bf7-00e561ce9a74&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/mach/43c8b037-c77d-4efb-9379-52a6c3718bdb"
     },
@@ -2058,7 +2106,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-12",
-      "age": "21d",
+      "age": "22d",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=cf98cfdc-d54b-4268-85bc-f0232becd9e9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Illinois-Rolling-Meadows/Associate-Software-Engineer_R10245470"
     },
@@ -2070,7 +2118,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-12",
-      "age": "21d",
+      "age": "22d",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=b7e619ce-4244-473d-8438-07b66510d810&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer-Software-Engineer_R10245233"
     },
@@ -2082,7 +2130,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-12",
-      "age": "21d",
+      "age": "22d",
       "url": "https://applyguy.ai/jobs?company=Resmed&job=b935bac0-9a29-45cb-820c-0bf9dd323d3d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://resmed.wd3.myworkdayjobs.com/resmed_external_careers/job/San-Diego-CA-United-States/Associate-Software-Engineer_JR_053125"
     },
@@ -2094,7 +2142,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-12",
-      "age": "21d",
+      "age": "22d",
       "url": "https://applyguy.ai/jobs?company=Rocket+Lab+Corporation&job=cf343222-8607-4d4b-932d-3f1e328fc01f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7830196003"
     },
@@ -2106,7 +2154,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-12",
-      "age": "21d",
+      "age": "22d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=c7ed7488-9e78-493b-88fe-5e5599c0cd9c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I_01866279"
     },
@@ -2118,7 +2166,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-12",
-      "age": "21d",
+      "age": "22d",
       "url": "https://applyguy.ai/jobs?company=U.S.+Bank&job=e36d509e-73dc-4d6f-8339-cc2af06b6b40&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Earth-City-MO/Software-Engineer-1--Backend-UI-and-AI-_2026-0018795"
     },
@@ -2130,7 +2178,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-12",
-      "age": "21d",
+      "age": "22d",
       "url": "https://applyguy.ai/jobs?company=Uniswap+Labs&job=64fde33a-25fe-4c1d-9c3a-14a6be753749&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/uniswap/fb4d4137-f003-4669-beb7-2a5caca88012"
     },
@@ -2142,7 +2190,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-11",
-      "age": "22d",
+      "age": "23d",
       "url": "https://applyguy.ai/jobs?company=Handshake&job=8cc764e1-9b3d-44a9-a1d8-97733e9f468c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/handshake/fe319ff8-87e1-46d9-b23e-4b78cf6086f8"
     },
@@ -2154,7 +2202,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-11",
-      "age": "22d",
+      "age": "23d",
       "url": "https://applyguy.ai/jobs?company=Nintendo&job=63a72d5e-d0ed-435c-abbc-2e6812962f9d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://careers.nintendo.com/?gh_jid=4094452009"
     },
@@ -2166,7 +2214,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-11",
-      "age": "22d",
+      "age": "23d",
       "url": "https://applyguy.ai/jobs?company=PathAI&job=a7a2e37d-08bc-424a-afc0-c095238b5784&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.pathai.com/careers/8696764002?gh_jid=8696764002"
     },
@@ -2178,7 +2226,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-11",
-      "age": "22d",
+      "age": "23d",
       "url": "https://applyguy.ai/jobs?company=Schweitzer+Engineering+Laboratories&job=ca5f112a-ff29-46aa-b7b4-04c06fee3ba6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://selinc.wd1.myworkdayjobs.com/sel/job/Idaho---Boise/Associate-Firmware-Engineer_2026-22257"
     },
@@ -2190,7 +2238,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-10",
-      "age": "23d",
+      "age": "24d",
       "url": "https://applyguy.ai/jobs?company=Axon&job=1da36f6a-e6f6-45a0-a814-ed5c8b790062&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/axon/jobs/7576576003"
     },
@@ -2202,7 +2250,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-10",
-      "age": "23d",
+      "age": "24d",
       "url": "https://applyguy.ai/jobs?company=B+Lab&job=192d2777-30de-480f-8c9d-6830f38d820e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/blab/jobs/8688450002"
     },
@@ -2214,7 +2262,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-10",
-      "age": "23d",
+      "age": "24d",
       "url": "https://applyguy.ai/jobs?company=B+Lab&job=5e879e23-9f55-46ae-8827-57c7aca56f8f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/blab/jobs/8688848002"
     },
@@ -2226,7 +2274,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-10",
-      "age": "23d",
+      "age": "24d",
       "url": "https://applyguy.ai/jobs?company=BNH&job=b09e7dd4-752a-4cf8-9303-3c33f9bb27db&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://careers-bnh.icims.com/jobs/24638/early-career-software-engineer/job"
     },
@@ -2238,7 +2286,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-10",
-      "age": "23d",
+      "age": "24d",
       "url": "https://applyguy.ai/jobs?company=Captivation+Software&job=25e1047d-f966-41d5-8fb5-9c56b6cb8171&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/captivation/jobs/5385108008"
     },
@@ -2250,7 +2298,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-10",
-      "age": "23d",
+      "age": "24d",
       "url": "https://applyguy.ai/jobs?company=DV+Trading&job=c1f886b8-7801-4c1c-bfe8-dd085abd81ed&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/dvtrading/jobs/4719126005"
     },
@@ -2262,7 +2310,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-10",
-      "age": "23d",
+      "age": "24d",
       "url": "https://applyguy.ai/jobs?company=Esri&job=14469a5c-caa3-49e3-9f78-1551d94a45e0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.esri.com/careers/5205997007?gh_jid=5205997007"
     },
@@ -2274,7 +2322,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-10",
-      "age": "23d",
+      "age": "24d",
       "url": "https://applyguy.ai/jobs?company=Flir&job=3d617441-4b32-4b24-beae-3fb3ee19f343&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Jr-Software-Engineer_REQ36188"
     },
@@ -2286,7 +2334,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-10",
-      "age": "23d",
+      "age": "24d",
       "url": "https://applyguy.ai/jobs?company=Micron&job=9240e3f6-ee87-446f-8b45-1b15dded34c4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---ID1/New-College-Grad---IT-Software-Support-Engineer_JR108465"
     },
@@ -2298,7 +2346,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-10",
-      "age": "23d",
+      "age": "24d",
       "url": "https://applyguy.ai/jobs?company=Observe.AI&job=34488725-5fae-4e8e-bb49-d597c35da7ad&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.observe.ai/position?gh_jid=5383979008"
     },
@@ -2310,7 +2358,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-10",
-      "age": "23d",
+      "age": "24d",
       "url": "https://applyguy.ai/jobs?company=PlayStation+Global&job=c6d71385-a4cb-4e4c-b93a-217c21144e0f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6119793004"
     },
@@ -2322,7 +2370,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-10",
-      "age": "23d",
+      "age": "24d",
       "url": "https://applyguy.ai/jobs?company=Redhorse+Corporation&job=50969d4c-df1f-470f-9289-66ec857f09bc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/redhorsecorp/d8f0b543-ab18-41e8-b17a-68b359f16568"
     },
@@ -2334,7 +2382,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-10",
-      "age": "23d",
+      "age": "24d",
       "url": "https://applyguy.ai/jobs?company=Strategic+Legal+Practices&job=e99f5def-1e5e-4d1a-a7da-cdaf542177b7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.workable.com/view/hz34V1e7BTSjVyHjiEAweo/junior-data-engineer-in-los-angeles-at-strategic-legal-practices"
     },
@@ -2346,7 +2394,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-10",
-      "age": "23d",
+      "age": "24d",
       "url": "https://applyguy.ai/jobs?company=WeRide.ai&job=eee2fc4a-edb4-44d1-843e-77b7168275f4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/weride/5a7cbc83-2381-482e-9d6d-e9c9d59ad63b"
     },
@@ -2358,7 +2406,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-10",
-      "age": "23d",
+      "age": "24d",
       "url": "https://applyguy.ai/jobs?company=WeRide.ai&job=abd1e382-d605-4f75-b7b6-42b4164779f3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/weride/5cde0d09-ba2d-408d-947e-4a42028cd4f7"
     },
@@ -2370,7 +2418,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-07",
-      "age": "26d",
+      "age": "27d",
       "url": "https://applyguy.ai/jobs?company=Ace+IT+Careers&job=d7ffed8f-429c-474b-9827-225b9d5d674d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.workable.com/view/uiPKXpAagpWYecA7L7MdHj/remote-qa-software-tester---entry-level-in-indianapolis-at-ace-it-careers"
     },
@@ -2382,7 +2430,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-07",
-      "age": "26d",
+      "age": "27d",
       "url": "https://applyguy.ai/jobs?company=CaseWorthy%2C+LLC&job=e83ca55d-9a1e-43f5-bf02-f4c9bc8d6812&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4402175"
     },
@@ -2394,7 +2442,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-07",
-      "age": "26d",
+      "age": "27d",
       "url": "https://applyguy.ai/jobs?company=Costar&job=b34827b6-7bb6-4376-8610-cefa3a6e2238&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://costar.wd1.myworkdayjobs.com/costarcareers/job/Irvine-US/Matterport---Software-Engineer-I_R39503"
     },
@@ -2406,7 +2454,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-07",
-      "age": "26d",
+      "age": "27d",
       "url": "https://applyguy.ai/jobs?company=Costar&job=3ec2be07-fea9-473e-8ab6-a5425392c574&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://costar.wd1.myworkdayjobs.com/costarcareers/job/US-VA-Arlington/Software-Engineer-I--CoStar-Suite--Arlington--VA_R39484"
     },
@@ -2418,7 +2466,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-07",
-      "age": "26d",
+      "age": "27d",
       "url": "https://applyguy.ai/jobs?company=Freeform&job=01cac459-7aa9-4d2a-8e94-76a884e9c1ef&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7826634003"
     },
@@ -2430,7 +2478,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-07",
-      "age": "26d",
+      "age": "27d",
       "url": "https://www.google.com/about/careers/applications/jobs/results/78703249065943750-software-engineer-early-career-campus",
       "listingUrl": "https://www.google.com/about/careers/applications/jobs/results/78703249065943750-software-engineer-early-career-campus",
       "applySupported": false
@@ -2443,7 +2491,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-07",
-      "age": "26d",
+      "age": "27d",
       "url": "https://applyguy.ai/jobs?company=Jci&job=a718502a-160b-40d5-aa4c-81d75129ef04&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jci.wd5.myworkdayjobs.com/jci/job/New-Freedom-Pennsylvania-United-States-of-America/Embedded-Software-Engineer-I---Product-Development_WD30272369"
     },
@@ -2455,7 +2503,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-07",
-      "age": "26d",
+      "age": "27d",
       "url": "https://applyguy.ai/jobs?company=PayIt&job=a0acf9f7-cb61-4956-a59d-ea9c7940e70a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://payitgov.com/careers-list?gh_jid=7836825003"
     },
@@ -2467,7 +2515,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-07",
-      "age": "26d",
+      "age": "27d",
       "url": "https://applyguy.ai/jobs?company=Quickenloans&job=60ad68eb-13ee-4621-a067-d81ed50eba10&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Software-Engineer-I_R-083975"
     },
@@ -2479,7 +2527,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-07",
-      "age": "26d",
+      "age": "27d",
       "url": "https://applyguy.ai/jobs?company=VetsEZ&job=0db8b6ec-8b8e-4755-b4dd-097d3314da1a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://vetsez.breezy.hr/p/c976c120b64b01-junior-software-engineer-security-release-engineering-secrel"
     },
@@ -2491,7 +2539,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-07",
-      "age": "26d",
+      "age": "27d",
       "url": "https://applyguy.ai/jobs?company=VetsEZ&job=39407128-e5e3-4ece-ad14-0a69bf4617ef&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://vetsez.breezy.hr/p/c492d2abf56301-junior-software-engineer-security-release-engineering-secrel"
     },
@@ -2503,7 +2551,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-06",
-      "age": "27d",
+      "age": "28d",
       "url": "https://applyguy.ai/jobs?company=Impact.com&job=324ac327-460c-43d0-acf0-b6d6cc1d98e6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/impact/jobs/8645964002"
     },
@@ -2515,7 +2563,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-06",
-      "age": "27d",
+      "age": "28d",
       "url": "https://applyguy.ai/jobs?company=SMX&job=fe49152b-b1c0-4eab-be5f-6795c648baa6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.smxtech.com/careers/?gh_jid=7832667003"
     },
@@ -2527,7 +2575,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-06",
-      "age": "27d",
+      "age": "28d",
       "url": "https://applyguy.ai/jobs?company=UNITED+STATES+SOCCER+FEDERATION+1&job=8a874d3f-d3a8-4a01-a4fa-de0a4c1045c8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4397444"
     },
@@ -2539,7 +2587,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-05",
-      "age": "28d",
+      "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Esri&job=82943b3b-7cce-4706-9926-0e878b839a72&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.esri.com/careers/5199123007?gh_jid=5199123007"
     },
@@ -2551,7 +2599,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-05",
-      "age": "28d",
+      "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Esri&job=bdda7a08-6255-4af8-8010-362f295f4325&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.esri.com/careers/5199136007?gh_jid=5199136007"
     },
@@ -2563,7 +2611,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-05",
-      "age": "28d",
+      "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Manhattan+Associates&job=70635e1a-9f05-4876-9733-48873ea59060&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://manh.wd5.myworkdayjobs.com/campus/job/Atlanta-GA/Software-Engineer---Early-Career_16977"
     },
@@ -2575,7 +2623,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-05",
-      "age": "28d",
+      "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Muon+Space&job=e6cb5068-0d3d-4cf6-aa4e-0a2ec52ab94f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/muonspace/jobs/5204498007"
     },
@@ -2587,7 +2635,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-05",
-      "age": "28d",
+      "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Nooks&job=9e02545f-8dbb-4d99-9313-046620ec9144&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/nooks/311d6e70-5cfa-4e80-89f6-fe00ac1f9f53"
     },
@@ -2599,7 +2647,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-05",
-      "age": "28d",
+      "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Peraton&job=7b34976c-262f-488e-9bc6-60913ae3b5a9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://careers-peraton.icims.com/jobs/169403/junior-software-developer---space-weather/job"
     },
@@ -2611,7 +2659,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-05",
-      "age": "28d",
+      "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Roblox&job=b787bb89-547d-4d4a-a2a3-59018fdd7969&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244"
     },
@@ -2623,7 +2671,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-05",
-      "age": "28d",
+      "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Torc+Robotics&job=be66dbc6-7a6e-492a-a199-6304009b4e72&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/torcrobotics/jobs/8676173002"
     },
@@ -2635,7 +2683,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-04",
-      "age": "29d",
+      "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Agate+Software&job=1ddb731c-0447-4605-a39e-0526813aa038&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/agatesoftware/60c278e1-9b47-4ba9-8961-0e0cf41e0739"
     },
@@ -2647,7 +2695,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-04",
-      "age": "29d",
+      "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Belvedere+Trading&job=18f6f6cf-af8d-49a7-b987-1dc4711e7599&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f"
     },
@@ -2659,7 +2707,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-04",
-      "age": "29d",
+      "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Freedom+Technology+Solutions+Group&job=de05d50f-9382-482f-9bb1-2deacdcc5499&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5203005007"
     },
@@ -2671,7 +2719,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-04",
-      "age": "29d",
+      "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Repligen&job=e98a78b2-5f1a-4bb9-b6e8-4bf175bb26d0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://repligen.wd108.myworkdayjobs.com/repligen_careers/job/Bridgewater-NJ/Software-Developer-I_R-583"
     },
@@ -2683,7 +2731,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-03",
-      "age": "30d",
+      "age": "31d",
       "url": "https://www.amazon.jobs/en/jobs/10490741/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
       "listingUrl": "https://www.amazon.jobs/en/jobs/10490741/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
       "applySupported": false
@@ -2696,7 +2744,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-03",
-      "age": "30d",
+      "age": "31d",
       "url": "https://applyguy.ai/jobs?company=Pariveda&job=725001a6-6f12-4e10-ba8a-4b5c6e7aa6d8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/pariveda/cc4fc0be-c414-4aba-a15d-64daa03476a0"
     },
@@ -2708,7 +2756,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-08-03",
-      "age": "30d",
+      "age": "31d",
       "url": "https://applyguy.ai/jobs?company=SimpliSafe&job=d1a6a274-8d4d-401b-945b-262e33f49ae0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/simplisafe/jobs/8095181"
     },
@@ -2720,7 +2768,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-02",
-      "age": "31d",
+      "age": "32d",
       "url": "https://applyguy.ai/jobs?company=Lightfield&job=968235ee-09c7-48fd-8b9f-e6182f0fad7d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/lightfield/9a7ef2f9-577a-4242-b884-719e3cdf4420"
     },
@@ -2732,7 +2780,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-31",
-      "age": "33d",
+      "age": "34d",
       "url": "https://applyguy.ai/jobs?company=Mimecast&job=de986c69-d93e-4128-9bfe-482ba2fa9950&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://mimecast.wd5.myworkdayjobs.com/mimecast-careers/job/United-States-of-America-Minnesota--Minneapolis/Software-Engineer-I_R6604-1"
     },
@@ -2744,7 +2792,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-31",
-      "age": "33d",
+      "age": "34d",
       "url": "https://applyguy.ai/jobs?company=Smartsheet&job=aff3aa81-9127-43e1-bfd7-c9abfcbf986b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/smartsheet/jobs/8070067"
     },
@@ -2756,7 +2804,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-30",
-      "age": "34d",
+      "age": "35d",
       "url": "https://applyguy.ai/jobs?company=Freedom+Technology+Solutions+Group&job=e52352c5-9548-4926-a690-454c3f7e9fd0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5199607007"
     },
@@ -2768,7 +2816,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-30",
-      "age": "34d",
+      "age": "35d",
       "url": "https://applyguy.ai/jobs?company=Handshake&job=b6a921c1-881c-4552-b56b-92eb4c2c8020&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/handshake/9a93ec72-d396-4971-8d4c-222094f9c5a3"
     },
@@ -2780,7 +2828,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-29",
-      "age": "35d",
+      "age": "36d",
       "url": "https://applyguy.ai/jobs?company=Abnormal&job=9826a773-1548-4a77-a8cb-57973ad26acd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://abnormal.ai/careers/jobs/7814567003?gh_jid=7814567003"
     },
@@ -2792,7 +2840,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-29",
-      "age": "35d",
+      "age": "36d",
       "url": "https://applyguy.ai/jobs?company=Texas+Sports+Academy+Main&job=579ceb0e-8bd0-4a71-b8a0-846f5f392c88&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.workable.com/view/pogRjyniMY8psAvWcSvSXL/junior-software-engineer-(ai-forward)-in-austin-at-texas-sports-academy-main"
     },
@@ -2804,7 +2852,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-29",
-      "age": "35d",
+      "age": "36d",
       "url": "https://applyguy.ai/jobs?company=Themis+Insight&job=5cbc79dc-d389-45ad-8261-30bec8aac21b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://themis-insight.breezy.hr/p/7cf99faec54a-jr-software-engineer"
     },
@@ -2816,7 +2864,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-28",
-      "age": "36d",
+      "age": "37d",
       "url": "https://applyguy.ai/jobs?company=Crusoe&job=daec511d-ee2d-4871-b890-bb34dddb7926&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/crusoe/4f5d34ed-0c05-4eec-b8f8-14663e114b02"
     },
@@ -2828,7 +2876,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-28",
-      "age": "36d",
+      "age": "37d",
       "url": "https://applyguy.ai/jobs?company=Qualifacts&job=3397ecb5-c5f1-417a-b6ea-1a251bc9af58&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://qualifacts.wd5.myworkdayjobs.com/qualifacts_external_careers/job/Ontario---Remote/Software-Engineer-I--P1-_R-102648"
     },
@@ -2840,7 +2888,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-28",
-      "age": "36d",
+      "age": "37d",
       "url": "https://applyguy.ai/jobs?company=Tebra&job=5d059d9f-4095-4312-9d48-ecd2a6bd4c8c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/tebra/jobs/4714981005"
     },
@@ -2852,7 +2900,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-27",
-      "age": "37d",
+      "age": "38d",
       "url": "https://applyguy.ai/jobs?company=Chainlink+Labs&job=b0006180-8318-4cc1-bbee-c4d80a301af9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/chainlink-labs/8485e325-111f-4370-b3c6-0ed95872144f"
     },
@@ -2864,7 +2912,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-27",
-      "age": "37d",
+      "age": "38d",
       "url": "https://applyguy.ai/jobs?company=The+Trade+Desk&job=b572e113-4658-42b8-9891-47402f2df0cf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/thetradedesk/jobs/5196864007"
     },
@@ -2876,7 +2924,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-24",
-      "age": "40d",
+      "age": "41d",
       "url": "https://applyguy.ai/jobs?company=Solerity&job=2d2c7a27-edeb-49d0-922b-ef98ac4ac327&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4272523"
     },
@@ -2888,7 +2936,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-07-23",
-      "age": "41d",
+      "age": "42d",
       "url": "https://applyguy.ai/jobs?company=Appian+Corporation&job=6f134f95-bc72-419e-b0dc-1188af252bf4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/appian/jobs/8041241"
     },
@@ -2900,7 +2948,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-07-23",
-      "age": "41d",
+      "age": "42d",
       "url": "https://applyguy.ai/jobs?company=Cortina&job=a77dd5ef-fb80-4ae0-8f7d-498e62fff2e5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://cortina.bamboohr.com/careers/363"
     },
@@ -2912,7 +2960,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-23",
-      "age": "41d",
+      "age": "42d",
       "url": "https://applyguy.ai/jobs?company=KBS+Analytics+LLC&job=161ecaa1-8549-4992-867d-5031beb062e0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4355546"
     },
@@ -2924,7 +2972,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-23",
-      "age": "41d",
+      "age": "42d",
       "url": "https://applyguy.ai/jobs?company=Mastercard&job=e86d7426-6941-4907-9eab-67bd59f9b029&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/OFallon-Missouri/Software-Development-Engineer_R-284435"
     },
@@ -2936,7 +2984,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-23",
-      "age": "41d",
+      "age": "42d",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=7dbdf7dc-4df1-4363-ba69-411da76f152d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/Associate-Software-Engineer---Software-Engineer_R10239254"
     },
@@ -2948,7 +2996,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-23",
-      "age": "41d",
+      "age": "42d",
       "url": "https://applyguy.ai/jobs?company=Pipe17&job=04c6455f-d5af-450e-b6be-98c24ad85722&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/pipe17/jobs/4717950005"
     },
@@ -2960,7 +3008,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-23",
-      "age": "41d",
+      "age": "42d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=408d5992-08a8-4519-9ee2-b5a7ae96dbc9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01844595"
     },
@@ -2972,7 +3020,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-22",
-      "age": "42d",
+      "age": "43d",
       "url": "https://www.amazon.jobs/en/jobs/10481932/efa-network-software-engineer-i-annapurna-labs",
       "listingUrl": "https://www.amazon.jobs/en/jobs/10481932/efa-network-software-engineer-i-annapurna-labs",
       "applySupported": false
@@ -2985,7 +3033,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-22",
-      "age": "42d",
+      "age": "43d",
       "url": "https://applyguy.ai/jobs?company=Danaher&job=169dce9c-1144-4f7d-a2d4-57f22668a655&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/USA---Indianapolis---Lakeview-Parkway---Multiple-OpCo/Software-Engineer-I_R1312947"
     },
@@ -2997,7 +3045,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-07-22",
-      "age": "42d",
+      "age": "43d",
       "url": "https://applyguy.ai/jobs?company=NVIDIA&job=e060da97-4ea9-4e36-97bf-3f1c7ec8a597&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/Software-R-D-Engineer--VLSI-Physical-Design---New-College-Grad-2026_JR2019330"
     },
@@ -3009,7 +3057,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-07-22",
-      "age": "42d",
+      "age": "43d",
       "url": "https://applyguy.ai/jobs?company=Spatial+Front%2C+Inc&job=765fe132-378b-4fb8-809c-0149bdac5f4e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4325421"
     },
@@ -3021,7 +3069,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-22",
-      "age": "42d",
+      "age": "43d",
       "url": "https://applyguy.ai/jobs?company=Tmnas&job=86bf0f06-fed9-443d-b7ab-8d5379bad000&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://tmnas.wd5.myworkdayjobs.com/externalcareerstmnas/job/Bala-Cynwyd-PA/Software-Engineer-I---Java-Hybrid--Bala-Cynwyd--PA_10001038"
     },
@@ -3033,7 +3081,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-22",
-      "age": "42d",
+      "age": "43d",
       "url": "https://applyguy.ai/jobs?company=U.S.+Bank&job=afa97d45-1c09-4ddc-ae55-16d096a40d0e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Brookfield-WI/Software-Engineer-I---Mainframe--Cobol-_2026-0018566"
     },
@@ -3045,7 +3093,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-22",
-      "age": "42d",
+      "age": "43d",
       "url": "https://applyguy.ai/jobs?company=U.S.+Bank&job=80d3afe4-ba49-4178-9f30-e644d5de8693&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Irving-TX/Software-Engineer-1--React---API---Cloud-Migration-_2026-0021655"
     },
@@ -3057,7 +3105,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-21",
-      "age": "43d",
+      "age": "44d",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=5e881c4f-7753-4be5-8b9c-aee74b7088bd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/3325-Fort-George-G-Meade-MD/Junior-Software-Engineer--SWE-2-_R-00185405"
     },
@@ -3069,7 +3117,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-21",
-      "age": "43d",
+      "age": "44d",
       "url": "https://applyguy.ai/jobs?company=Quickenloans&job=8ec34f1a-137c-4fd2-9967-375d6ac860c7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Software-Developer-I_R-083083"
     },
@@ -3081,7 +3129,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-21",
-      "age": "43d",
+      "age": "44d",
       "url": "https://applyguy.ai/jobs?company=Radiancetech&job=94ae2f4b-4acb-47b7-9073-2b3234a331f2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://radiancetech.wd12.myworkdayjobs.com/radiance_external/job/Stennis-Space-Center-MS/Junior-Software-Engineer_HR102305"
     },
@@ -3093,7 +3141,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-21",
-      "age": "43d",
+      "age": "44d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=a8166d03-615c-42bd-a9e7-e0966aca2634&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Software-Engineer-1--ONSITE-_01846079"
     },
@@ -3105,7 +3153,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-21",
-      "age": "43d",
+      "age": "44d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=1f9c5b89-38ed-4385-9dc4-00b40b29d49c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/XMLNAME-2027-Conversion---Software-Engineer-I---St-Petersburg--FL--Onsite-_01860332"
     },
@@ -3117,7 +3165,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-21",
-      "age": "43d",
+      "age": "44d",
       "url": "https://applyguy.ai/jobs?company=Tamus&job=0c2f0ee5-736f-4751-b49d-51dc2a4b941c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://tamus.wd1.myworkdayjobs.com/tti_external/job/Bryan-TX/Software-Engineer-I_R-095393"
     },
@@ -3129,7 +3177,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-21",
-      "age": "43d",
+      "age": "44d",
       "url": "https://applyguy.ai/jobs?company=Vadum+Inc&job=f8b2b173-36f4-43e3-9978-a4c46c9b3e39&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4349207"
     },
@@ -3141,7 +3189,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-07-20",
-      "age": "44d",
+      "age": "45d",
       "url": "https://applyguy.ai/jobs?company=Cox&job=87a72957-c694-4819-8a2c-82a1ad0a7596&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Burlington-VT/Entry-Level-Software-Engineer--Burlington--VT-_R202679034"
     },
@@ -3153,7 +3201,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-20",
-      "age": "44d",
+      "age": "45d",
       "url": "https://applyguy.ai/jobs?company=Freedom+Technology+Solutions+Group&job=745a1279-6dfd-4206-a5af-af70ce57c7a7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5190737007"
     },
@@ -3165,7 +3213,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-20",
-      "age": "44d",
+      "age": "45d",
       "url": "https://applyguy.ai/jobs?company=Globusmedical&job=e97cca8c-f5b1-4550-8ff3-851e257bbe86&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/Audubon-PA/Associate-Software-Engineer_JR106980-1"
     },
@@ -3177,7 +3225,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-20",
-      "age": "44d",
+      "age": "45d",
       "url": "https://applyguy.ai/jobs?company=KAYAK&job=52e73247-2548-430b-8e35-f90ec8a6cb70&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/kayak/8333e351-7a08-4767-9966-f75411b78d80"
     },
@@ -3189,7 +3237,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-07-20",
-      "age": "44d",
+      "age": "45d",
       "url": "https://applyguy.ai/jobs?company=NVIDIA&job=c843e37e-72c9-4f89-88aa-d0d902c16020&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2026_JR2015071"
     },
@@ -3201,7 +3249,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-20",
-      "age": "44d",
+      "age": "45d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=669de5a9-3645-4106-91f9-63c7ffd8499e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/XMLNAME-2027-Conversion-Software-Engineer-I--Onsite-_01858534"
     },
@@ -3213,7 +3261,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-20",
-      "age": "44d",
+      "age": "45d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=5dd6b5e3-f83a-4833-a0e6-ccd94b2856f7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01854272"
     },
@@ -3225,7 +3273,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-18",
-      "age": "46d",
+      "age": "47d",
       "url": "https://applyguy.ai/jobs?company=Boeing&job=da5c85e9-e5da-4e40-9263-d3b1c86f878a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Omaha-NE/Software-Engineer_JR2026517990"
     },
@@ -3237,7 +3285,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-17",
-      "age": "47d",
+      "age": "48d",
       "url": "https://applyguy.ai/jobs?company=Dstaffing&job=3e877834-6843-425e-8923-1a154cb3807c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://dstaffing.bamboohr.com/careers/252"
     },
@@ -3249,7 +3297,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-17",
-      "age": "47d",
+      "age": "48d",
       "url": "https://applyguy.ai/jobs?company=Kbr&job=308bc69e-6c51-4609-8810-a45d884b0b50&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Colorado-Springs-Colorado/Junior-Software-Engineer_R2126608"
     },
@@ -3261,7 +3309,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-17",
-      "age": "47d",
+      "age": "48d",
       "url": "https://applyguy.ai/jobs?company=Nidec&job=2d71f0d2-e344-48be-a716-1233fe5c4ae0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Software-Engineer-I_R0016664"
     },
@@ -3273,7 +3321,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-17",
-      "age": "47d",
+      "age": "48d",
       "url": "https://applyguy.ai/jobs?company=PlayStation+Global&job=194b37d9-f974-494d-93e0-f466d4d50e75&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6104600004"
     },
@@ -3285,7 +3333,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-17",
-      "age": "47d",
+      "age": "48d",
       "url": "https://applyguy.ai/jobs?company=Quickenloans&job=9e29ba1f-d8c7-484a-bdb2-504d0f7a07ad&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Android-Mobile-Software-Developer-I_R-083752"
     },
@@ -3297,7 +3345,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-17",
-      "age": "47d",
+      "age": "48d",
       "url": "https://applyguy.ai/jobs?company=Radiancetech&job=eb46757b-9e3d-4bff-887f-c806eb354e90&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://radiancetech.wd12.myworkdayjobs.com/radiance_external/job/Huntsville-AL/Junior-Software-Engineer_HR102303"
     },
@@ -3309,7 +3357,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-16",
-      "age": "48d",
+      "age": "49d",
       "url": "https://applyguy.ai/jobs?company=Acrisure&job=a6c72131-5064-4252-8e2c-94c3805b2ff9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://acrisure.wd1.myworkdayjobs.com/acrisure/job/333-Earle-Ovington-Blvd---Uniondale-NY/Software-Engineer-I_JR113871"
     },
@@ -3321,7 +3369,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-16",
-      "age": "48d",
+      "age": "49d",
       "url": "https://applyguy.ai/jobs?company=Adtran&job=a30e98f5-a530-4006-9c4f-49a0e743d994&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://adtran.wd3.myworkdayjobs.com/adtran/job/Atlanta-GA/Software-Engineer-I_R005697"
     },
@@ -3333,7 +3381,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-16",
-      "age": "48d",
+      "age": "49d",
       "url": "https://applyguy.ai/jobs?company=Antares&job=14684c49-3a75-4af7-bb8b-61ea1a26efe0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/antares/78234003-fa70-41ab-b3c8-a2e703687f42"
     },
@@ -3345,7 +3393,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-16",
-      "age": "48d",
+      "age": "49d",
       "url": "https://applyguy.ai/jobs?company=Captivation+Software&job=adcbc159-f5c7-459a-8621-76a3999de893&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/captivation/jobs/5362324008"
     },
@@ -3357,7 +3405,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-16",
-      "age": "48d",
+      "age": "49d",
       "url": "https://applyguy.ai/jobs?company=Captivation+Software&job=94403e6c-8da6-46a1-8243-306c79c3e2f2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/captivation/jobs/5362075008"
     },
@@ -3369,7 +3417,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-16",
-      "age": "48d",
+      "age": "49d",
       "url": "https://applyguy.ai/jobs?company=LOGC2&job=933abc8e-62d8-48d0-b5ea-eddefebae8ac&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4325339"
     },
@@ -3381,7 +3429,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-07-16",
-      "age": "48d",
+      "age": "49d",
       "url": "https://applyguy.ai/jobs?company=Netic&job=5ef3b7c6-0194-4d6f-aa05-2b2345220ec4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3"
     },
@@ -3393,7 +3441,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-07-16",
-      "age": "48d",
+      "age": "49d",
       "url": "https://applyguy.ai/jobs?company=Netic&job=1fe16092-7572-45a5-9b88-9f7f6efd5107&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/netic/d9bcb6a2-0e54-4cb3-baec-43f2d74db18f"
     },
@@ -3405,7 +3453,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-07-16",
-      "age": "48d",
+      "age": "49d",
       "url": "https://applyguy.ai/jobs?company=Nuro&job=4dd1eb01-4f92-4a85-9cf3-f4cdcf1277b6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://nuro.ai/careersitem?gh_jid=6972272"
     },
@@ -3417,7 +3465,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-15",
-      "age": "49d",
+      "age": "50d",
       "url": "https://applyguy.ai/jobs?company=Boeing&job=fb49394e-56b2-4232-97f9-500ae0a78a94&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Maryland-Heights-MO/Associate-Software-Engineer_JR2026513142"
     },
@@ -3429,7 +3477,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-15",
-      "age": "49d",
+      "age": "50d",
       "url": "https://applyguy.ai/jobs?company=Fuse+Integration&job=3336911d-4152-4938-95fc-599d57c88102&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.workable.com/view/97GCheGJ8jcpQwjTtdDUw9/software-engineer-i-in-san-diego-at-fuse-integration"
     },
@@ -3441,7 +3489,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-15",
-      "age": "49d",
+      "age": "50d",
       "url": "https://applyguy.ai/jobs?company=Urban+Science&job=daf44c2c-304b-490b-9979-e27038c62fbe&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://careers-urbanscience.icims.com/jobs/5181/associate-software-engineer---serviceview/job"
     },
@@ -3453,7 +3501,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-14",
-      "age": "50d",
+      "age": "51d",
       "url": "https://applyguy.ai/jobs?company=Anthem+Engineering&job=28da4499-c79a-40cb-96ef-5f972e874e11&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://anthem-engineering.breezy.hr/p/6e61caa02034-junior-software-engineer-level-0-polygraph-required-annapolis-junction"
     },
@@ -3465,7 +3513,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-14",
-      "age": "50d",
+      "age": "51d",
       "url": "https://applyguy.ai/jobs?company=Boeing&job=fece533c-d2df-426f-b16d-61b728f9ac05&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Hazelwood-MO/Associate-Software-Engineer_JR2026511462-1"
     },
@@ -3477,7 +3525,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-07-14",
-      "age": "50d",
+      "age": "51d",
       "url": "https://applyguy.ai/jobs?company=Five+Rings&job=3de4c809-7cdf-4aba-88d0-5037c04cdb2c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349839008"
     },
@@ -3489,7 +3537,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-14",
-      "age": "50d",
+      "age": "51d",
       "url": "https://applyguy.ai/jobs?company=Katalyst+Space+Technologies&job=43e930df-f4bc-4f69-984e-8be6bbed5626&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/katalyst/jobs/6115352004"
     },
@@ -3501,7 +3549,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-14",
-      "age": "50d",
+      "age": "51d",
       "url": "https://applyguy.ai/jobs?company=Schweitzer+Engineering+Laboratories&job=e5df72ee-2b5c-4c5c-98dd-119961e623db&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://selinc.wd1.myworkdayjobs.com/sel/job/Idaho---Boise/Associate-Software-Engineer_2026-21552"
     },
@@ -3513,7 +3561,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-14",
-      "age": "50d",
+      "age": "51d",
       "url": "https://applyguy.ai/jobs?company=Twitch&job=b16ee1a8-b215-4797-afea-9bf721d3a86e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/twitch/jobs/8623578002"
     },
@@ -3525,7 +3573,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-14",
-      "age": "50d",
+      "age": "51d",
       "url": "https://applyguy.ai/jobs?company=Venerable&job=9ffb63b3-9a45-4bc4-8704-7f990c03184a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://venerable.wd5.myworkdayjobs.com/venerablecareers/job/PA-West-Chester---Dunwoody-Dr/Associate-Software-Developer_REQ716-1"
     },
@@ -3537,7 +3585,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-07-13",
-      "age": "51d",
+      "age": "52d",
       "url": "https://applyguy.ai/jobs?company=Abridge&job=06d73bd3-0dab-4b7b-9797-80ee55635eb8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace"
     },
@@ -3549,7 +3597,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-13",
-      "age": "51d",
+      "age": "52d",
       "url": "https://applyguy.ai/jobs?company=Accenture+Federal+Services&job=d1838afe-aaea-4829-92b5-3bc99a1cbe9d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boards.greenhouse.io/accenturefederalservices/jobs/4689025006?gh_jid=4689025006"
     },
@@ -3561,7 +3609,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-07-13",
-      "age": "51d",
+      "age": "52d",
       "url": "https://applyguy.ai/jobs?company=Akuna+Capital&job=d8b83ae7-6d16-466a-ab05-621793cf8eef&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085"
     },
@@ -3573,7 +3621,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-07-13",
-      "age": "51d",
+      "age": "52d",
       "url": "https://applyguy.ai/jobs?company=Akuna+Capital&job=d5f1ab76-03f4-46b8-a223-1718d22a0da7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.akunacapital.com/careers/job/8013230/?gh_jid=8013230"
     },
@@ -3585,7 +3633,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-07-13",
-      "age": "51d",
+      "age": "52d",
       "url": "https://applyguy.ai/jobs?company=Hudson+River+Trading&job=8e0c87b3-2594-40aa-a80d-c3f93f48f656&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052122"
     },
@@ -3597,7 +3645,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-07-13",
-      "age": "51d",
+      "age": "52d",
       "url": "https://applyguy.ai/jobs?company=Northwood+Space&job=7bb5c6d5-6950-4d3d-882a-de41853ef6b8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/northwoodspace/b960b661-e1cc-40d0-bde3-290cd1b58ede"
     },
@@ -3609,7 +3657,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-07-13",
-      "age": "51d",
+      "age": "52d",
       "url": "https://applyguy.ai/jobs?company=NVIDIA&job=ec4383d0-2058-42e2-b744-e3371932228a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineer--Dynamo-Triton-Inference-Server---New-College-Grad-2026_JR2020767"
     },
@@ -3621,7 +3669,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-07-13",
-      "age": "51d",
+      "age": "52d",
       "url": "https://applyguy.ai/jobs?company=Old+Mission&job=c8ca21fd-6d2e-4e4b-b43f-c979bd2289dc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.oldmissioncapital.com/careers/?gh_jid=7796048003"
     },
@@ -3633,7 +3681,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-13",
-      "age": "51d",
+      "age": "52d",
       "url": "https://applyguy.ai/jobs?company=The+Cadmus+Group&job=a2a78be0-da2a-401d-86de-0825b85339eb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://careers-cadmusgroup.icims.com/jobs/3199/junior-full-stack-developer/job"
     },
@@ -3645,7 +3693,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-13",
-      "age": "51d",
+      "age": "52d",
       "url": "https://applyguy.ai/jobs?company=Vast&job=5ab0dfae-2cce-4b76-97c8-a3095c4b804f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boards.greenhouse.io/vast/jobs/4696685006?gh_jid=4696685006"
     },
@@ -3657,7 +3705,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-10",
-      "age": "54d",
+      "age": "55d",
       "url": "https://applyguy.ai/jobs?company=Axon&job=76c8fc31-528a-4a8c-8c96-daec389edd7c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7801352003"
     },
@@ -3669,7 +3717,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-10",
-      "age": "54d",
+      "age": "55d",
       "url": "https://applyguy.ai/jobs?company=Tmnas&job=4c639fd9-deaf-4118-b312-c6f1eae71566&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://tmnas.wd5.myworkdayjobs.com/externalcareerstmnas/job/Bala-Cynwyd-PA/Software-Engineer-I--Bala-Cynwyd--PA_10001026"
     },
@@ -3681,7 +3729,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-07-09",
-      "age": "55d",
+      "age": "56d",
       "url": "https://applyguy.ai/jobs?company=Anduril+Industries&job=d5852397-3e41-4084-a2a0-3aed69a7ecc1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5167865007?gh_jid=5167865007"
     },
@@ -3693,7 +3741,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-07-09",
-      "age": "55d",
+      "age": "56d",
       "url": "https://applyguy.ai/jobs?company=Cadence&job=e1fdb1ba-2a4f-4dbb-bd38-53173b1088bc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://cadence.wd1.myworkdayjobs.com/university_talent/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894"
     },
@@ -3705,7 +3753,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-09",
-      "age": "55d",
+      "age": "56d",
       "url": "https://applyguy.ai/jobs?company=Peraton&job=c704c627-10d0-4942-af21-031b65cccd5d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://careers-peraton.icims.com/jobs/168418/junior-software-engineer/job"
     },
@@ -3717,7 +3765,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-09",
-      "age": "55d",
+      "age": "56d",
       "url": "https://applyguy.ai/jobs?company=Peraton&job=dbfd385e-73c5-49cf-ab14-7789add7eff4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://careers-peraton.icims.com/jobs/168379/jr-software-engineer-ts-sci-with-poly/job"
     },
@@ -3729,7 +3777,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-07-09",
-      "age": "55d",
+      "age": "56d",
       "url": "https://applyguy.ai/jobs?company=Pylon&job=a7f5de79-436d-48ed-9a23-667595b8af52&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/pylon-labs/38814ce7-217b-40f2-9ba5-8a7733a5691d"
     },
@@ -3741,7 +3789,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-08",
-      "age": "56d",
+      "age": "57d",
       "url": "https://www.amazon.jobs/en/jobs/10468973/software-engineer-i-discovery",
       "listingUrl": "https://www.amazon.jobs/en/jobs/10468973/software-engineer-i-discovery",
       "applySupported": false
@@ -3754,7 +3802,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-08",
-      "age": "56d",
+      "age": "57d",
       "url": "https://applyguy.ai/jobs?company=Built+Technologies&job=207a68fe-3d2a-4cd9-a948-00e5c5082b7d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/getbuilt/jobs/4713164005"
     },
@@ -3766,7 +3814,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-08",
-      "age": "56d",
+      "age": "57d",
       "url": "https://applyguy.ai/jobs?company=CACI&job=061cee5f-51c7-46c1-8c43-9e719e314506&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Junior-Software-Engineer_327867"
     },
@@ -3778,7 +3826,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-08",
-      "age": "56d",
+      "age": "57d",
       "url": "https://applyguy.ai/jobs?company=Life.Church&job=fce54ba6-55ed-4517-b4c0-bad39167730d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/life/40e4d965-d90d-4408-bddf-b0f5e840648c"
     },
@@ -3790,7 +3838,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-08",
-      "age": "56d",
+      "age": "57d",
       "url": "https://applyguy.ai/jobs?company=Precisely+US+Jobs&job=8f5bf9be-e7be-4114-95e5-568ed21ccfbf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.precisely.com/careers-and-culture/us-jobs/job/4710645005?gh_jid=4710645005"
     },
@@ -3802,7 +3850,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-08",
-      "age": "56d",
+      "age": "57d",
       "url": "https://applyguy.ai/jobs?company=Quickenloans&job=94880889-60bd-4d28-9c0b-38592de181c5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/iOS-Mobile-Software-Developer-I_R-083670-1"
     },
@@ -3814,7 +3862,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-08",
-      "age": "56d",
+      "age": "57d",
       "url": "https://applyguy.ai/jobs?company=Redhat&job=bb5edcd3-b6b1-48e6-97e7-cecc851ff718&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Durham/Associate-Software-Engineer_R-058395"
     },
@@ -3826,7 +3874,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-07",
-      "age": "57d",
+      "age": "58d",
       "url": "https://applyguy.ai/jobs?company=Assetmark&job=c8369cff-3913-4fce-9087-2170f011e3fb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://assetmark.wd5.myworkdayjobs.com/assetmark_careers/job/Charlotte-NC/Associate-Data-Engineer_Req-003889"
     },
@@ -3838,7 +3886,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-07",
-      "age": "57d",
+      "age": "58d",
       "url": "https://applyguy.ai/jobs?company=GDIT&job=191cf864-8bb9-48d5-aa45-13626f84d595&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Junior-Software-Developer--Active-TS-SCI-with-Poly-Required-_RQ212931"
     },
@@ -3850,7 +3898,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-07",
-      "age": "57d",
+      "age": "58d",
       "url": "https://applyguy.ai/jobs?company=Precisely+US+Jobs&job=8c1a2243-3a64-4e11-99be-29dd02924f34&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.precisely.com/careers-and-culture/us-jobs/job/4710649005?gh_jid=4710649005"
     },
@@ -3862,7 +3910,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-07",
-      "age": "57d",
+      "age": "58d",
       "url": "https://applyguy.ai/jobs?company=Reliaquest&job=72ca3767-e8b0-4c4c-af0b-8bcab9ea2022&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://reliaquest.wd5.myworkdayjobs.com/reliaquest_careers/job/Tampa-FL/Associate-Software-Engineer_R15047"
     },
@@ -3874,7 +3922,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-07",
-      "age": "57d",
+      "age": "58d",
       "url": "https://applyguy.ai/jobs?company=SimpliSafe&job=a901ef55-9ea4-4480-934d-e4f60f8107ff&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/simplisafe/jobs/8049515"
     },
@@ -3886,7 +3934,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-07-06",
-      "age": "58d",
+      "age": "59d",
       "url": "https://applyguy.ai/jobs?company=Notion&job=f6ac0626-f368-461e-9e85-704b339d5658&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f"
     },
@@ -3898,7 +3946,7 @@
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-07-06",
-      "age": "58d",
+      "age": "59d",
       "url": "https://applyguy.ai/jobs?company=Notion&job=593d939f-c5e6-4f65-9ca4-7194028373b6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28"
     },
@@ -3910,7 +3958,7 @@
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-07-06",
-      "age": "58d",
+      "age": "59d",
       "url": "https://applyguy.ai/jobs?company=Waymark&job=8e13b47f-5222-49b4-9f36-83c4440c11fd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/waymark/jobs/4711827005"
     }
