@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T00:16:26.908Z",
+  "updatedAt": "2026-09-03T00:31:41.321Z",
   "jobs": [
     {
       "id": "cc18b3e6-a92a-4b00-82ea-d0e058dc6d9d",
@@ -134,6 +134,18 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556941610",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556941610",
       "applySupported": false
+    },
+    {
+      "id": "fe46e18c-6cf4-450c-ac9f-05641c8e825a",
+      "company": "Northrop Grumman",
+      "title": "Associate Software Engineer / Software Engineer",
+      "location": "Huntsville, AL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-02",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=fe46e18c-6cf4-450c-ac9f-05641c8e825a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/Associate-Software-Engineer---Software-Engineer_R10249088"
     },
     {
       "id": "ec5f04dd-7472-4cec-8d68-d38489b6afaf",
