@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-09-03T17:31:04.134Z",
+  "updatedAt": "2026-09-03T17:46:05.618Z",
   "jobs": [
+    {
+      "id": "d72c8f4b-5812-4061-bfb9-cd91e9f3bf9c",
+      "company": "Ace",
+      "title": "Associate Data Engineer",
+      "location": "Costa Mesa, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-03",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Ace&job=d72c8f4b-5812-4061-bfb9-cd91e9f3bf9c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Associate-Data-Engineer_JR202638846"
+    },
     {
       "id": "b95d5123-d7e7-46ae-a35b-651c598480c6",
       "company": "Bristolmyerssquibb",
@@ -2685,6 +2697,18 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Freedom+Technology+Solutions+Group&job=de05d50f-9382-482f-9bb1-2deacdcc5499&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5203005007"
+    },
+    {
+      "id": "6d5c736d-c73a-4a8a-b96c-357d5b60a0d9",
+      "company": "Peraton",
+      "title": "Jr. Software Engineer / Space Communications Program",
+      "location": "Las Cruces, NM",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-04",
+      "age": "30d",
+      "url": "https://applyguy.ai/jobs?company=Peraton&job=6d5c736d-c73a-4a8a-b96c-357d5b60a0d9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://careers-peraton.icims.com/jobs/169377/jr.-software-engineer---space-communications-program/job"
     },
     {
       "id": "e98a78b2-5f1a-4bb9-b6e8-4bf175bb26d0",
