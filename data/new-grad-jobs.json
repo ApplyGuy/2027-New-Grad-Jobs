@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T13:00:53.830Z",
+  "updatedAt": "2026-09-03T13:16:14.808Z",
   "jobs": [
     {
       "id": "94f54c1b-2287-451f-99c1-dbea26389cdf",
@@ -638,18 +638,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=3c2b8a25-75b2-4cde-be50-aa9cbfc6c3d9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--CDS--Onsite---Secret-Clearance-_01870383"
-    },
-    {
-      "id": "7e8145e1-1a41-429d-b1a8-9a6f30ced046",
-      "company": "RTX",
-      "title": "Software Engineer I -  Test Solutions - Onsite",
-      "location": "Tucson, AZ",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-31",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=7e8145e1-1a41-429d-b1a8-9a6f30ced046&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I----Test-Solutions---Onsite_01836492-1"
     },
     {
       "id": "13c8afc0-3a16-47c3-848e-4a953b43c278",
