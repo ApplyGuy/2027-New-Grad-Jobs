@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-09-03T17:00:59.105Z",
+  "updatedAt": "2026-09-03T17:16:35.823Z",
   "jobs": [
+    {
+      "id": "b95d5123-d7e7-46ae-a35b-651c598480c6",
+      "company": "Bristolmyerssquibb",
+      "title": "Associate Software Engineer",
+      "location": "Hyderabad, IN",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-03",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Bristolmyerssquibb&job=b95d5123-d7e7-46ae-a35b-651c598480c6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Hyderabad---TS---IN/Associate-Software-Engineer_R1605676"
+    },
     {
       "id": "94f54c1b-2287-451f-99c1-dbea26389cdf",
       "company": "Kikoff",
