@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T19:01:12.233Z",
+  "updatedAt": "2026-09-03T19:16:09.413Z",
   "jobs": [
     {
       "id": "d72c8f4b-5812-4061-bfb9-cd91e9f3bf9c",
@@ -36,6 +36,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Kikoff&job=94f54c1b-2287-451f-99c1-dbea26389cdf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/kikoff/jobs/4393822009"
+    },
+    {
+      "id": "80b694eb-b6e1-4c32-986c-9f8880dc6c98",
+      "company": "zebra",
+      "title": "Software Engineer I",
+      "location": "Holtsville, NY",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-03",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=zebra&job=80b694eb-b6e1-4c32-986c-9f8880dc6c98&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://zebra.wd501.myworkdayjobs.com/zebra_careers/job/Holtsville-New-York/Software-Engineer-I_JR103056"
     },
     {
       "id": "cc18b3e6-a92a-4b00-82ea-d0e058dc6d9d",
