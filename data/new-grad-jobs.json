@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T11:30:52.417Z",
+  "updatedAt": "2026-09-04T11:46:06.057Z",
   "jobs": [
     {
       "id": "31d3e0f9-bfd4-4f8c-a5cf-aff2d12d82eb",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Bristolmyerssquibb&job=31d3e0f9-bfd4-4f8c-a5cf-aff2d12d82eb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Hyderabad---TS---IN/Software-Engineer-I---Scrum-Master---Business-Analyst_R1604887"
+    },
+    {
+      "id": "7ac80e94-f732-4452-b67f-afb803d11ec3",
+      "company": "DoorDash USA",
+      "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US",
+      "location": "Los Angeles, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-04",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=DoorDash+USA&job=7ac80e94-f732-4452-b67f-afb803d11ec3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/doordashusa/jobs/8163709"
     },
     {
       "id": "359854ab-f2d8-4723-9cee-4be6b6cdbd10",
