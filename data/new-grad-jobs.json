@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T06:16:18.998Z",
+  "updatedAt": "2026-09-04T06:31:21.837Z",
   "jobs": [
     {
       "id": "359854ab-f2d8-4723-9cee-4be6b6cdbd10",
@@ -385,18 +385,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Reagroup&job=05e1d93e-9f87-410c-a659-6ab6497b9a68&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://reagroup.wd3.myworkdayjobs.com/reacareers/job/Richmond-Melbourne-VIC/Software-Engineer_R0015524"
-    },
-    {
-      "id": "35651480-c7bb-49a2-9158-2ad50075eddf",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Cedar Rapids, IA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-01",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=35651480-c7bb-49a2-9158-2ad50075eddf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01867125-1"
     },
     {
       "id": "5299d0ef-45f7-47c0-b134-797d4eae09e7",
@@ -949,18 +937,6 @@
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=42c91976-2604-4f22-89cd-a10106324d71&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Embedded-Software-Engineer-I--Onsite-_01870328"
-    },
-    {
-      "id": "3c29cbae-3f5d-49b6-b184-2f8cf16a92d8",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Huntsville, AL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-27",
-      "age": "8d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=3c29cbae-3f5d-49b6-b184-2f8cf16a92d8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Software-Engineer-I--Onsite-_01870005"
     },
     {
       "id": "367a59ae-0881-4ff6-8952-230a8f08422f",
@@ -2082,18 +2058,6 @@
       "age": "23d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=c7ed7488-9e78-493b-88fe-5e5599c0cd9c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I_01866279"
-    },
-    {
-      "id": "e36d509e-73dc-4d6f-8339-cc2af06b6b40",
-      "company": "U.S. Bank",
-      "title": "Software Engineer 1 (Backend UI and AI)",
-      "location": "Earth City, MO",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-12",
-      "age": "23d",
-      "url": "https://applyguy.ai/jobs?company=U.S.+Bank&job=e36d509e-73dc-4d6f-8339-cc2af06b6b40&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Earth-City-MO/Software-Engineer-1--Backend-UI-and-AI-_2026-0018795"
     },
     {
       "id": "64fde33a-25fe-4c1d-9c3a-14a6be753749",
