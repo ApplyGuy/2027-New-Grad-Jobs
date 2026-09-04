@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-09-04T14:15:40.027Z",
+  "updatedAt": "2026-09-04T14:31:09.489Z",
   "jobs": [
+    {
+      "id": "46addecf-7054-4658-89d8-97a411199be7",
+      "company": "Barrywehmiller",
+      "title": "Entry Level Software Engineer",
+      "location": "Dallas, TX",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-04",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Barrywehmiller&job=46addecf-7054-4658-89d8-97a411199be7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Dallas-TX/Entry-Level-Software-Engineer_R022649"
+    },
     {
       "id": "31d3e0f9-bfd4-4f8c-a5cf-aff2d12d82eb",
       "company": "Bristolmyerssquibb",
