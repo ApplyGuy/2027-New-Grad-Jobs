@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-09-04T23:01:06.138Z",
+  "updatedAt": "2026-09-04T23:16:28.148Z",
   "jobs": [
+    {
+      "id": "dc89dc59-9cd2-451e-8660-b420d6eb9fe4",
+      "company": "Awetomaton",
+      "title": "Junior Software Engineer (Full Stack)",
+      "location": "Beavercreek, OH",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-04",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Awetomaton&job=dc89dc59-9cd2-451e-8660-b420d6eb9fe4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/awetomaton/jobs/5416716008"
+    },
     {
       "id": "46addecf-7054-4658-89d8-97a411199be7",
       "company": "Barrywehmiller",
