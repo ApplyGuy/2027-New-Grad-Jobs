@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T20:01:10.774Z",
+  "updatedAt": "2026-09-04T20:16:27.046Z",
   "jobs": [
     {
       "id": "46addecf-7054-4658-89d8-97a411199be7",
@@ -36,6 +36,19 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=DoorDash+USA&job=7ac80e94-f732-4452-b67f-afb803d11ec3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/doordashusa/jobs/8163709"
+    },
+    {
+      "id": "custom:microsoft:d021de3d39fd02480f33",
+      "company": "Microsoft",
+      "title": "Software Engineering - CTJ - Poly",
+      "location": "Redmond, WA · Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-04",
+      "age": "Today",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+      "applySupported": false
     },
     {
       "id": "7be78e79-7462-4c2d-8288-2ceeb0e6ef35",
