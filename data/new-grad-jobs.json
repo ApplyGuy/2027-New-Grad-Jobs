@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T13:01:01.772Z",
+  "updatedAt": "2026-09-04T13:16:09.428Z",
   "jobs": [
     {
       "id": "31d3e0f9-bfd4-4f8c-a5cf-aff2d12d82eb",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=DoorDash+USA&job=7ac80e94-f732-4452-b67f-afb803d11ec3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/doordashusa/jobs/8163709"
+    },
+    {
+      "id": "7be78e79-7462-4c2d-8288-2ceeb0e6ef35",
+      "company": "RTX",
+      "title": "Software Engineer I (Hybrid - Aguadilla, PR)",
+      "location": "Aguadilla, PR",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-04",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=7be78e79-7462-4c2d-8288-2ceeb0e6ef35&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--Hybrid---Aguadilla--PR-_01870496"
     },
     {
       "id": "359854ab-f2d8-4723-9cee-4be6b6cdbd10",
@@ -240,6 +252,19 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=c031be79-fe70-4262-a24c-ff8fd882d333&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Gaithersburg-MD/Associate-Software-Engineer_R-00191290"
+    },
+    {
+      "id": "custom:microsoft:0fe5259909ad920fd133",
+      "company": "Microsoft",
+      "title": "Software Engineer-II - Azure Core Storage",
+      "location": "US",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-02",
+      "age": "2d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556941610",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556941610",
+      "applySupported": false
     },
     {
       "id": "fe46e18c-6cf4-450c-ac9f-05641c8e825a",
@@ -1419,6 +1444,19 @@
       "age": "14d",
       "url": "https://applyguy.ai/jobs?company=Esri&job=62f4374e-4f30-4b68-88b0-16178e49760d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.esri.com/careers/5214134007?gh_jid=5214134007"
+    },
+    {
+      "id": "custom:microsoft:8a2cc77b4b241f96367e",
+      "company": "Microsoft",
+      "title": "Pre-Training",
+      "location": "US",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-21",
+      "age": "14d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
+      "applySupported": false
     },
     {
       "id": "49bef747-c371-45e0-a524-5475cb4bdce7",
