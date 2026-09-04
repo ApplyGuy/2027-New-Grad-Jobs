@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T05:01:22.716Z",
+  "updatedAt": "2026-09-04T05:16:12.181Z",
   "jobs": [
     {
       "id": "359854ab-f2d8-4723-9cee-4be6b6cdbd10",
@@ -48,6 +48,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Bristolmyerssquibb&job=b95d5123-d7e7-46ae-a35b-651c598480c6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Hyderabad---TS---IN/Associate-Software-Engineer_R1605676"
+    },
+    {
+      "id": "7fb633b0-e67c-49ce-b818-60eb3f07989c",
+      "company": "Cadence",
+      "title": "Software Engineer  (new college grad Dec 2026)",
+      "location": "San Jose, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-03",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Cadence&job=7fb633b0-e67c-49ce-b818-60eb3f07989c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://cadence.wd1.myworkdayjobs.com/univ_careers/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-2"
     },
     {
       "id": "f776c02e-566e-462a-91a9-86cafffaf7d3",
@@ -901,19 +913,6 @@
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=Kbr&job=6953c199-198b-4c36-87fd-c5cd9d1c90b0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Colorado-Springs-Colorado/Jr-Software-Developer_R2128436"
-    },
-    {
-      "id": "custom:microsoft:25dae0737b280d944110",
-      "company": "Microsoft",
-      "title": "Software Engineer",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-27",
-      "age": "8d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972217",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972217",
-      "applySupported": false
     },
     {
       "id": "39ee6c0d-b6c3-4796-ac5f-6cbd7f4c955b",
