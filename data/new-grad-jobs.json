@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T04:31:00.588Z",
+  "updatedAt": "2026-09-04T04:46:27.740Z",
   "jobs": [
     {
       "id": "359854ab-f2d8-4723-9cee-4be6b6cdbd10",
@@ -24,6 +24,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Ace&job=d72c8f4b-5812-4061-bfb9-cd91e9f3bf9c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Associate-Data-Engineer_JR202638846"
+    },
+    {
+      "id": "b8c19995-0b7f-43f6-b137-af0a742ed3cc",
+      "company": "Amat",
+      "title": "Software Engineer, New College Grad- Master's (Chandler, AZ)",
+      "location": "Chandler, AZ",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-03",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Amat&job=b8c19995-0b7f-43f6-b137-af0a742ed3cc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://amat.wd1.myworkdayjobs.com/external/job/ChandlerAZ/Software-Engineer--New-College-Grad--Master-s--Chandler--AZ-_R2627911"
     },
     {
       "id": "b95d5123-d7e7-46ae-a35b-651c598480c6",
@@ -180,6 +192,19 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=c031be79-fe70-4262-a24c-ff8fd882d333&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Gaithersburg-MD/Associate-Software-Engineer_R-00191290"
+    },
+    {
+      "id": "custom:microsoft:0fe5259909ad920fd133",
+      "company": "Microsoft",
+      "title": "Software Engineer-II - Azure Core Storage",
+      "location": "US",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-02",
+      "age": "2d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556941610",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556941610",
+      "applySupported": false
     },
     {
       "id": "fe46e18c-6cf4-450c-ac9f-05641c8e825a",
@@ -878,6 +903,19 @@
       "listingUrl": "https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Colorado-Springs-Colorado/Jr-Software-Developer_R2128436"
     },
     {
+      "id": "custom:microsoft:25dae0737b280d944110",
+      "company": "Microsoft",
+      "title": "Software Engineer",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-27",
+      "age": "8d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972217",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556972217",
+      "applySupported": false
+    },
+    {
       "id": "39ee6c0d-b6c3-4796-ac5f-6cbd7f4c955b",
       "company": "Ontic",
       "title": "Associate Software Engineer - Full Stack",
@@ -1383,6 +1421,19 @@
       "age": "14d",
       "url": "https://applyguy.ai/jobs?company=Esri&job=62f4374e-4f30-4b68-88b0-16178e49760d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.esri.com/careers/5214134007?gh_jid=5214134007"
+    },
+    {
+      "id": "custom:microsoft:8a2cc77b4b241f96367e",
+      "company": "Microsoft",
+      "title": "Pre-Training",
+      "location": "US",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-21",
+      "age": "14d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
+      "applySupported": false
     },
     {
       "id": "49bef747-c371-45e0-a524-5475cb4bdce7",
