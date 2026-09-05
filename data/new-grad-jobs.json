@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T08:45:38.028Z",
+  "updatedAt": "2026-09-05T09:01:08.906Z",
   "jobs": [
     {
       "id": "dc89dc59-9cd2-451e-8660-b420d6eb9fe4",
@@ -485,6 +485,18 @@
       "listingUrl": "https://job-boards.greenhouse.io/myfundedfutures/jobs/4390595009"
     },
     {
+      "id": "05e1d93e-9f87-410c-a659-6ab6497b9a68",
+      "company": "Reagroup",
+      "title": "Associate Software Engineer",
+      "location": "Richmond, Melbourne VIC",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-01",
+      "age": "4d",
+      "url": "https://applyguy.ai/jobs?company=Reagroup&job=05e1d93e-9f87-410c-a659-6ab6497b9a68&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://reagroup.wd3.myworkdayjobs.com/reacareers/job/Richmond-Melbourne-VIC/Software-Engineer_R0015524"
+    },
+    {
       "id": "5299d0ef-45f7-47c0-b134-797d4eae09e7",
       "company": "RTX",
       "title": "Software Engineer I (Hybrid) Arlington, VA & Cambridge, MA",
@@ -581,6 +593,30 @@
       "listingUrl": "https://job-boards.greenhouse.io/everlaw/jobs/4705236006"
     },
     {
+      "id": "d5bcd942-59a6-4296-bafc-d07d45e8fbcf",
+      "company": "Harris",
+      "title": "Associate Software Engineer, RPG",
+      "location": "Tennessee",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-31",
+      "age": "5d",
+      "url": "https://applyguy.ai/jobs?company=Harris&job=d5bcd942-59a6-4296-bafc-d07d45e8fbcf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Tennessee-United-States/Associate-Software-Engineer--RPG_R0045601-1"
+    },
+    {
+      "id": "1f5279e6-26dc-45e9-adaf-5d248189a0ce",
+      "company": "Harriscomputer",
+      "title": "Associate Software Engineer, RPG",
+      "location": "Tennessee",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-31",
+      "age": "5d",
+      "url": "https://applyguy.ai/jobs?company=Harriscomputer&job=1f5279e6-26dc-45e9-adaf-5d248189a0ce&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://harriscomputer.wd3.myworkdayjobs.com/htn/job/Tennessee-United-States/Associate-Software-Engineer--RPG_R0045601"
+    },
+    {
       "id": "271858e1-8a25-41ee-8f3c-6b1d382d0d55",
       "company": "Informaticon",
       "title": "Junior Software Engineer Neu-Ulm (m/w/d)",
@@ -663,6 +699,42 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Precisely+US+Jobs&job=775db71d-a3fb-446d-a7c9-ac080567114c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.precisely.com/careers-and-culture/us-jobs/job/4722721005?gh_jid=4722721005"
+    },
+    {
+      "id": "5cf7e8d3-9564-482c-b678-c15dead2994e",
+      "company": "Relx",
+      "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
+      "location": "Boca Raton, FL",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-31",
+      "age": "5d",
+      "url": "https://applyguy.ai/jobs?company=Relx&job=5cf7e8d3-9564-482c-b678-c15dead2994e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://relx.wd3.myworkdayjobs.com/relx/job/Boca-Raton-FL/Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023"
+    },
+    {
+      "id": "2627164e-3af9-49bb-a179-fcbae84e5faf",
+      "company": "Relx",
+      "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
+      "location": "Alpharetta, GA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-31",
+      "age": "5d",
+      "url": "https://applyguy.ai/jobs?company=Relx&job=2627164e-3af9-49bb-a179-fcbae84e5faf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://relx.wd3.myworkdayjobs.com/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2"
+    },
+    {
+      "id": "106135b2-9790-4be1-9a17-12b47e7a0bb6",
+      "company": "Relx",
+      "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
+      "location": "Alpharetta, GA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-31",
+      "age": "5d",
+      "url": "https://applyguy.ai/jobs?company=Relx&job=106135b2-9790-4be1-9a17-12b47e7a0bb6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://relx.wd3.myworkdayjobs.com/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617-1"
     },
     {
       "id": "5b18b915-574a-4ce8-82db-7f4ed439c91e",
@@ -1593,6 +1665,18 @@
       "listingUrl": "https://tti.wd1.myworkdayjobs.com/tti_pe/job/Anderson-SC/Software-Engineer-1_R76960"
     },
     {
+      "id": "401b32c4-a494-4ea6-af38-695971dca0ae",
+      "company": "Volaris Group",
+      "title": "Jr. Software Engineer",
+      "location": "Warner Robins, GA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-19",
+      "age": "17d",
+      "url": "https://applyguy.ai/jobs?company=Volaris+Group&job=401b32c4-a494-4ea6-af38-695971dca0ae&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://volarisgroup.wd3.myworkdayjobs.com/silvervine/job/United-States---Warner-Robins-GA/Jr-Software-Engineer_R70583"
+    },
+    {
       "id": "954c593e-cc65-4bc0-9d56-e43264d06932",
       "company": "Worth Finance Corporation",
       "title": "Software QA Tester - Entry Level",
@@ -2036,6 +2120,18 @@
       "age": "24d",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=b7e619ce-4244-473d-8438-07b66510d810&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer-Software-Engineer_R10245233"
+    },
+    {
+      "id": "b935bac0-9a29-45cb-820c-0bf9dd323d3d",
+      "company": "Resmed",
+      "title": "Associate Software Engineer",
+      "location": "San Diego, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-12",
+      "age": "24d",
+      "url": "https://applyguy.ai/jobs?company=Resmed&job=b935bac0-9a29-45cb-820c-0bf9dd323d3d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://resmed.wd3.myworkdayjobs.com/resmed_external_careers/job/San-Diego-CA-United-States/Associate-Software-Engineer_JR_053125"
     },
     {
       "id": "cf343222-8607-4d4b-932d-3f1e328fc01f",
