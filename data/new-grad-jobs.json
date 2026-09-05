@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T00:01:10.679Z",
+  "updatedAt": "2026-09-05T00:16:03.577Z",
   "jobs": [
     {
       "id": "dc89dc59-9cd2-451e-8660-b420d6eb9fe4",
@@ -48,6 +48,54 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=DoorDash+USA&job=7ac80e94-f732-4452-b67f-afb803d11ec3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/doordashusa/jobs/8163709"
+    },
+    {
+      "id": "a05b7c24-b1ed-4769-b62c-4fa27c1f4f84",
+      "company": "Garner Health",
+      "title": "Associate Software Engineer",
+      "location": "New York City, NY",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-04",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Garner+Health&job=a05b7c24-b1ed-4769-b62c-4fa27c1f4f84&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/garnerhealth/jobs/6174210004"
+    },
+    {
+      "id": "54ede7e9-60a2-4d51-a64a-28b59c61797d",
+      "company": "Globalfoundries",
+      "title": "Software Engineer, Cloud Platform (2027 New College Graduate)",
+      "location": "Santa Clara, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-04",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Globalfoundries&job=54ede7e9-60a2-4d51-a64a-28b59c61797d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalfoundries.wd1.myworkdayjobs.com/external/job/USA---California---Santa-Clara/Software-Engineer--Cloud-Platform--2027-New-College-Graduate-_JR-2604056"
+    },
+    {
+      "id": "742c51bb-1024-481e-b7f0-4f60430bddbb",
+      "company": "GRVTY",
+      "title": "Software Engineer 1",
+      "location": "Fort Meade, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-04",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=GRVTY&job=742c51bb-1024-481e-b7f0-4f60430bddbb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/grvty/jobs/4394819009"
+    },
+    {
+      "id": "668f9b14-c6f6-4307-bce7-7057313bfbc9",
+      "company": "ID.me University Recruiting",
+      "title": "Summer 2027- Software Development Engineer - New Grad",
+      "location": "Mountain View, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-04",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=ID.me+University+Recruiting&job=668f9b14-c6f6-4307-bce7-7057313bfbc9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003"
     },
     {
       "id": "custom:microsoft:bd09edb153d64145ce49",
@@ -303,6 +351,18 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Boeing&job=9e3f045b-26d6-4f3b-b1a5-adec46ade6b1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Associate-Software-Engineer_JR2026522810"
+    },
+    {
+      "id": "735ad0ed-8b75-4417-8c17-dc907c17bcde",
+      "company": "Edgehog Trading",
+      "title": "Graduate Software Engineer",
+      "location": "Chicago, IL",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-02",
+      "age": "3d",
+      "url": "https://applyguy.ai/jobs?company=Edgehog+Trading&job=735ad0ed-8b75-4417-8c17-dc907c17bcde&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://ats.rippling.com/edgehog-trading/jobs/0d6b0e5c-be84-4324-8ee3-b875504e01d8"
     },
     {
       "id": "a95da467-1f87-4bf5-a076-e5fe019d9fa8",
