@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T04:01:09.096Z",
+  "updatedAt": "2026-09-05T04:15:42.329Z",
   "jobs": [
     {
       "id": "dc89dc59-9cd2-451e-8660-b420d6eb9fe4",
@@ -3241,18 +3241,6 @@
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4349207"
     },
     {
-      "id": "87a72957-c694-4819-8a2c-82a1ad0a7596",
-      "company": "Cox",
-      "title": "Entry Level Software Engineer (Burlington, VT)",
-      "location": "Burlington, VT",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-07-20",
-      "age": "47d",
-      "url": "https://applyguy.ai/jobs?company=Cox&job=87a72957-c694-4819-8a2c-82a1ad0a7596&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Burlington-VT/Entry-Level-Software-Engineer--Burlington--VT-_R202679034"
-    },
-    {
       "id": "745a1279-6dfd-4206-a5af-af70ce57c7a7",
       "company": "Freedom Technology Solutions Group",
       "title": "Junior Software Engineer 730",
@@ -3840,18 +3828,6 @@
       "age": "59d",
       "url": "https://applyguy.ai/jobs?company=CACI&job=061cee5f-51c7-46c1-8c43-9e719e314506&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Junior-Software-Engineer_327867"
-    },
-    {
-      "id": "fce54ba6-55ed-4517-b4c0-bad39167730d",
-      "company": "Life.Church",
-      "title": "Associate Software Engineer",
-      "location": "Edmond, OK",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-08",
-      "age": "59d",
-      "url": "https://applyguy.ai/jobs?company=Life.Church&job=fce54ba6-55ed-4517-b4c0-bad39167730d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.lever.co/life/40e4d965-d90d-4408-bddf-b0f5e840648c"
     },
     {
       "id": "8f5bf9be-e7be-4114-95e5-568ed21ccfbf",
