@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T12:01:08.093Z",
+  "updatedAt": "2026-09-06T12:15:41.084Z",
   "jobs": [
     {
       "id": "dc89dc59-9cd2-451e-8660-b420d6eb9fe4",
@@ -747,6 +747,18 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=3c2b8a25-75b2-4cde-be50-aa9cbfc6c3d9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--CDS--Onsite---Secret-Clearance-_01870383"
+    },
+    {
+      "id": "a380b713-d31f-4984-9963-e6d340c41b24",
+      "company": "Sierra",
+      "title": "Software Engineer, Agent (New Grad 2027)",
+      "location": "San Francisco, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-31",
+      "age": "6d",
+      "url": "https://applyguy.ai/jobs?company=Sierra&job=a380b713-d31f-4984-9963-e6d340c41b24&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00"
     },
     {
       "id": "13c8afc0-3a16-47c3-848e-4a953b43c278",
