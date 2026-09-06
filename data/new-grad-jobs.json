@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T04:01:02.604Z",
+  "updatedAt": "2026-09-06T04:15:51.388Z",
   "jobs": [
     {
       "id": "dc89dc59-9cd2-451e-8660-b420d6eb9fe4",
@@ -2796,18 +2796,6 @@
       "listingUrl": "https://jobs.ashbyhq.com/handshake/9a93ec72-d396-4971-8d4c-222094f9c5a3"
     },
     {
-      "id": "9826a773-1548-4a77-a8cb-57973ad26acd",
-      "company": "Abnormal",
-      "title": "Software Engineer I, Data Platform",
-      "location": "Remote, U.S.",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-29",
-      "age": "39d",
-      "url": "https://applyguy.ai/jobs?company=Abnormal&job=9826a773-1548-4a77-a8cb-57973ad26acd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://abnormal.ai/careers/jobs/7814567003?gh_jid=7814567003"
-    },
-    {
       "id": "5cbc79dc-d389-45ad-8261-30bec8aac21b",
       "company": "Themis Insight",
       "title": "Jr. Software Engineer",
@@ -2914,18 +2902,6 @@
       "age": "45d",
       "url": "https://applyguy.ai/jobs?company=KBS+Analytics+LLC&job=161ecaa1-8549-4992-867d-5031beb062e0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4355546"
-    },
-    {
-      "id": "e86d7426-6941-4907-9eab-67bd59f9b029",
-      "company": "Mastercard",
-      "title": "Software Engineer I",
-      "location": "O'Fallon, MO",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-23",
-      "age": "45d",
-      "url": "https://applyguy.ai/jobs?company=Mastercard&job=e86d7426-6941-4907-9eab-67bd59f9b029&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/corporatecareers/job/OFallon-Missouri/Software-Development-Engineer_R-284435"
     },
     {
       "id": "7dbdf7dc-4df1-4363-ba69-411da76f152d",
@@ -3203,18 +3179,6 @@
       "age": "48d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=669de5a9-3645-4106-91f9-63c7ffd8499e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/XMLNAME-2027-Conversion-Software-Engineer-I--Onsite-_01858534"
-    },
-    {
-      "id": "5dd6b5e3-f83a-4833-a0e6-ccd94b2856f7",
-      "company": "RTX",
-      "title": "2026 Raytheon Full Time- Software Engineer I -(Onsite)",
-      "location": "El Segundo, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-20",
-      "age": "48d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=5dd6b5e3-f83a-4833-a0e6-ccd94b2856f7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01854272"
     },
     {
       "id": "da5c85e9-e5da-4e40-9263-d3b1c86f878a",
@@ -3647,18 +3611,6 @@
       "age": "59d",
       "url": "https://applyguy.ai/jobs?company=Anduril+Industries&job=d5852397-3e41-4084-a2a0-3aed69a7ecc1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5167865007?gh_jid=5167865007"
-    },
-    {
-      "id": "e1fdb1ba-2a4f-4dbb-bd38-53173b1088bc",
-      "company": "Cadence",
-      "title": "Software Engineer, New College Grad 2026 (Undergrads)",
-      "location": "Burlington, MA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-07-09",
-      "age": "59d",
-      "url": "https://applyguy.ai/jobs?company=Cadence&job=e1fdb1ba-2a4f-4dbb-bd38-53173b1088bc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://cadence.wd1.myworkdayjobs.com/university_talent/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894"
     },
     {
       "id": "c704c627-10d0-4942-af21-031b65cccd5d",
