@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T20:30:57.674Z",
+  "updatedAt": "2026-09-06T20:45:38.810Z",
   "jobs": [
     {
       "id": "dc89dc59-9cd2-451e-8660-b420d6eb9fe4",
@@ -3659,18 +3659,6 @@
       "age": "59d",
       "url": "https://applyguy.ai/jobs?company=Pylon&job=a7f5de79-436d-48ed-9a23-667595b8af52&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/pylon-labs/38814ce7-217b-40f2-9ba5-8a7733a5691d"
-    },
-    {
-      "id": "207a68fe-3d2a-4cd9-a948-00e5c5082b7d",
-      "company": "Built Technologies",
-      "title": "Software Engineer I - Internal Tooling",
-      "location": "Nashville, TN",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-08",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Built+Technologies&job=207a68fe-3d2a-4cd9-a948-00e5c5082b7d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/getbuilt/jobs/4713164005"
     }
   ]
 }
