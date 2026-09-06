@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T05:00:56.036Z",
+  "updatedAt": "2026-09-06T05:15:50.363Z",
   "jobs": [
     {
       "id": "dc89dc59-9cd2-451e-8660-b420d6eb9fe4",
@@ -1824,7 +1824,7 @@
     {
       "id": "41d216bc-98ff-43fa-8ec4-09bdafdffa1b",
       "company": "Boom Technology, Inc.",
-      "title": "Software Engineer (Early Career, Exceptional Talent)",
+      "title": "Software Engineer (Early Career)",
       "location": "Centennial, CO",
       "eligibility": "New Grad",
       "matchKind": "explicit",
