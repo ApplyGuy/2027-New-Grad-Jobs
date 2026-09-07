@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-09-07T12:45:58.976Z",
+  "updatedAt": "2026-09-07T13:00:42.001Z",
   "jobs": [
+    {
+      "id": "ae0df40b-d32d-4835-b55c-a0cfcff14e7f",
+      "company": "Lodestar",
+      "title": "Software Engineer I or II: State Estimation & Prediction",
+      "location": "Los Angeles, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-07",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Lodestar&job=ae0df40b-d32d-4835-b55c-a0cfcff14e7f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.eu.greenhouse.io/lodestarspace/jobs/4965825101"
+    },
+    {
+      "id": "27f92034-29ba-4db9-b5d1-b297b66ec46e",
+      "company": "Lodestar",
+      "title": "Software Engineer I,II,III: Simulations",
+      "location": "Los Angeles, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-07",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Lodestar&job=27f92034-29ba-4db9-b5d1-b297b66ec46e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.eu.greenhouse.io/lodestarspace/jobs/4969756101"
+    },
+    {
+      "id": "cf59b848-30bb-460e-8c26-d8e8a02e753d",
+      "company": "Lodestar",
+      "title": "Software Engineer I: Perception",
+      "location": "Los Angeles, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-07",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Lodestar&job=cf59b848-30bb-460e-8c26-d8e8a02e753d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.eu.greenhouse.io/lodestarspace/jobs/4969597101"
+    },
     {
       "id": "dc89dc59-9cd2-451e-8660-b420d6eb9fe4",
       "company": "Awetomaton",
