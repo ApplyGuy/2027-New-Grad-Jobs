@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T07:46:17.963Z",
+  "updatedAt": "2026-09-07T08:01:20.301Z",
   "jobs": [
     {
       "id": "dc89dc59-9cd2-451e-8660-b420d6eb9fe4",
@@ -1396,18 +1396,6 @@
       "age": "13d",
       "url": "https://applyguy.ai/jobs?company=True+Anomaly&job=c054e31b-04b6-4af4-9a24-b675642ccf61&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221572007"
-    },
-    {
-      "id": "ada42bac-7871-46d2-a2c6-974efc073c2f",
-      "company": "Wgu",
-      "title": "Associate Data Engineer",
-      "location": "Salt Lake City, UT",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-25",
-      "age": "13d",
-      "url": "https://applyguy.ai/jobs?company=Wgu&job=ada42bac-7871-46d2-a2c6-974efc073c2f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Associate-Data-Engineer_JR-025987"
     },
     {
       "id": "507000ce-6ec6-407d-99ce-bd3136e8e436",
