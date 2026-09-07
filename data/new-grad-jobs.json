@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T20:30:59.002Z",
+  "updatedAt": "2026-09-07T20:45:46.547Z",
   "jobs": [
     {
       "id": "ae0df40b-d32d-4835-b55c-a0cfcff14e7f",
@@ -3623,18 +3623,6 @@
       "age": "60d",
       "url": "https://applyguy.ai/jobs?company=Anduril+Industries&job=d5852397-3e41-4084-a2a0-3aed69a7ecc1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5167865007?gh_jid=5167865007"
-    },
-    {
-      "id": "c704c627-10d0-4942-af21-031b65cccd5d",
-      "company": "Peraton",
-      "title": "Junior Software Engineer",
-      "location": "Herndon, VA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-09",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Peraton&job=c704c627-10d0-4942-af21-031b65cccd5d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://careers-peraton.icims.com/jobs/168418/junior-software-engineer/job"
     }
   ]
 }
