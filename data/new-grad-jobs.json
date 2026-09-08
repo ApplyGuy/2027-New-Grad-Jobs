@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T18:15:47.320Z",
+  "updatedAt": "2026-09-08T18:31:04.753Z",
   "jobs": [
     {
       "id": "c3ccada2-7560-4614-95e7-987f4af715b5",
@@ -12,6 +12,19 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=AeroVironment&job=c3ccada2-7560-4614-95e7-987f4af715b5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://avav.wd1.myworkdayjobs.com/avav/job/Sunrise-FL/Software-Engineer-I_8682"
+    },
+    {
+      "id": "custom:microsoft:a17359d2298b5002e3a3",
+      "company": "Microsoft",
+      "title": "Software Engineer UX",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-08",
+      "age": "Today",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556985572",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556985572",
+      "applySupported": false
     },
     {
       "id": "768a88ec-f203-4d61-a5b7-dae28e780594",
