@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T19:31:20.062Z",
+  "updatedAt": "2026-09-08T19:46:17.350Z",
   "jobs": [
     {
       "id": "c3ccada2-7560-4614-95e7-987f4af715b5",
@@ -37,6 +37,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Nexthopai&job=768a88ec-f203-4d61-a5b7-dae28e780594&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://nexthopai.bamboohr.com/careers/107"
+    },
+    {
+      "id": "ff0d9aca-3ac1-412e-99df-d042fd9ea046",
+      "company": "Northrop Grumman",
+      "title": "2027 Associate Software Engineer / Software Engineer - Roy UT",
+      "location": "Roy, UT",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-08",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=ff0d9aca-3ac1-412e-99df-d042fd9ea046&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Utah-Roy/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Roy-UT_R10249844-1"
     },
     {
       "id": "ae0df40b-d32d-4835-b55c-a0cfcff14e7f",
