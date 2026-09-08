@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-09-08T12:00:51.237Z",
+  "updatedAt": "2026-09-08T12:16:09.160Z",
   "jobs": [
+    {
+      "id": "768a88ec-f203-4d61-a5b7-dae28e780594",
+      "company": "Nexthopai",
+      "title": "Software Engineer - Hardware Diagnostics - New Grad",
+      "location": "Santa Clara, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-08",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Nexthopai&job=768a88ec-f203-4d61-a5b7-dae28e780594&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://nexthopai.bamboohr.com/careers/107"
+    },
     {
       "id": "ae0df40b-d32d-4835-b55c-a0cfcff14e7f",
       "company": "Lodestar",
