@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-09-08T17:45:34.486Z",
+  "updatedAt": "2026-09-08T18:01:13.086Z",
   "jobs": [
+    {
+      "id": "c3ccada2-7560-4614-95e7-987f4af715b5",
+      "company": "AeroVironment",
+      "title": "Software Engineer I",
+      "location": "Sunrise, FL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-08",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=AeroVironment&job=c3ccada2-7560-4614-95e7-987f4af715b5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://avav.wd1.myworkdayjobs.com/avav/job/Sunrise-FL/Software-Engineer-I_8682"
+    },
     {
       "id": "768a88ec-f203-4d61-a5b7-dae28e780594",
       "company": "Nexthopai",
