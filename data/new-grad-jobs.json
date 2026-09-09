@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T13:45:43.359Z",
+  "updatedAt": "2026-09-09T14:01:09.163Z",
   "jobs": [
     {
       "id": "b95d5123-d7e7-46ae-a35b-651c598480c6",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Bristolmyerssquibb&job=b95d5123-d7e7-46ae-a35b-651c598480c6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Hyderabad---TS---IN/Associate-Software-Engineer_R1605676"
+    },
+    {
+      "id": "26692fb9-c086-4ab5-9381-3014e707c425",
+      "company": "Radiancetech",
+      "title": "Junior Software Engineer",
+      "location": "Dayton, OH",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Radiancetech&job=26692fb9-c086-4ab5-9381-3014e707c425&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://radiancetech.wd12.myworkdayjobs.com/radiance_external/job/Dayton-Office/Junior-Software-Engineer_HR102399"
     },
     {
       "id": "82c7e578-7191-4f90-9f82-84b889bc9699",
