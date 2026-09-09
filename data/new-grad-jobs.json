@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T01:45:40.521Z",
+  "updatedAt": "2026-09-09T02:01:19.074Z",
   "jobs": [
     {
       "id": "82c7e578-7191-4f90-9f82-84b889bc9699",
@@ -61,6 +61,30 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=ff0d9aca-3ac1-412e-99df-d042fd9ea046&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Utah-Roy/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Roy-UT_R10249844-1"
+    },
+    {
+      "id": "6e3a8b7c-8aa7-4062-a36f-479c3913d38c",
+      "company": "SpaceX",
+      "title": "New Graduate Engineer, Software (Starship)",
+      "location": "Hawthorne, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-08",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=SpaceX&job=6e3a8b7c-8aa7-4062-a36f-479c3913d38c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://boards.greenhouse.io/spacex/jobs/8743362002?gh_jid=8743362002"
+    },
+    {
+      "id": "7c4bb591-0ff4-49b7-a816-fd8dda6f7016",
+      "company": "True Anomaly",
+      "title": "Software Engineer I, Elixir (New Grad)",
+      "location": "Denver, CO",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-08",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=True+Anomaly&job=7c4bb591-0ff4-49b7-a816-fd8dda6f7016&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5232802007"
     },
     {
       "id": "ae0df40b-d32d-4835-b55c-a0cfcff14e7f",
