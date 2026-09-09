@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T22:15:39.293Z",
+  "updatedAt": "2026-09-09T22:30:47.947Z",
   "jobs": [
     {
       "id": "b95d5123-d7e7-46ae-a35b-651c598480c6",
@@ -36,6 +36,19 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Lnw&job=c7f21bfe-5cf4-4296-9064-c43548f26e3e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Associate-Software-Engineer_R322683"
+    },
+    {
+      "id": "custom:microsoft:f4b6d586c4abb39da011",
+      "company": "Microsoft",
+      "title": "Software Engineer",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-09",
+      "age": "Today",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556988778",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556988778",
+      "applySupported": false
     },
     {
       "id": "26692fb9-c086-4ab5-9381-3014e707c425",
@@ -120,19 +133,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=AeroVironment&job=c3ccada2-7560-4614-95e7-987f4af715b5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://avav.wd1.myworkdayjobs.com/avav/job/Sunrise-FL/Software-Engineer-I_8682"
-    },
-    {
-      "id": "custom:microsoft:a17359d2298b5002e3a3",
-      "company": "Microsoft",
-      "title": "Software Engineer",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-08",
-      "age": "1d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556985572",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556985572",
-      "applySupported": false
     },
     {
       "id": "768a88ec-f203-4d61-a5b7-dae28e780594",
