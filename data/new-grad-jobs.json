@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T21:01:11.050Z",
+  "updatedAt": "2026-09-09T21:16:29.806Z",
   "jobs": [
     {
       "id": "b95d5123-d7e7-46ae-a35b-651c598480c6",
@@ -124,7 +124,7 @@
     {
       "id": "custom:microsoft:a17359d2298b5002e3a3",
       "company": "Microsoft",
-      "title": "Software Engineer UX",
+      "title": "Software Engineer",
       "location": "Redmond, WA",
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
