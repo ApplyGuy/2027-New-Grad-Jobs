@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T01:00:37.620Z",
+  "updatedAt": "2026-09-09T01:16:41.530Z",
   "jobs": [
     {
       "id": "c3ccada2-7560-4614-95e7-987f4af715b5",
@@ -12,6 +12,19 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=AeroVironment&job=c3ccada2-7560-4614-95e7-987f4af715b5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://avav.wd1.myworkdayjobs.com/avav/job/Sunrise-FL/Software-Engineer-I_8682"
+    },
+    {
+      "id": "custom:microsoft:a17359d2298b5002e3a3",
+      "company": "Microsoft",
+      "title": "Software Engineer UX",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-08",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556985572",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556985572",
+      "applySupported": false
     },
     {
       "id": "768a88ec-f203-4d61-a5b7-dae28e780594",
@@ -158,16 +171,43 @@
       "listingUrl": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003"
     },
     {
-      "id": "7be78e79-7462-4c2d-8288-2ceeb0e6ef35",
-      "company": "RTX",
-      "title": "Software Engineer I (Hybrid - Aguadilla, PR)",
-      "location": "Aguadilla, PR",
+      "id": "custom:microsoft:bd09edb153d64145ce49",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Redmond, WA · Reston, VA · MD",
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-09-04",
       "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=7be78e79-7462-4c2d-8288-2ceeb0e6ef35&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--Hybrid---Aguadilla--PR-_01870496"
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556926963",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556926963",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:698bf1cfd0197fa8f311",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-04",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:d021de3d39fd02480f33",
+      "company": "Microsoft",
+      "title": "Software Engineering - CTJ - Poly",
+      "location": "Redmond, WA · Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-04",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+      "applySupported": false
     },
     {
       "id": "75355fb4-c0cd-403e-87d8-a60e28a09e4b",
@@ -290,18 +330,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/selffinancial/jobs/6181750004"
     },
     {
-      "id": "80b694eb-b6e1-4c32-986c-9f8880dc6c98",
-      "company": "zebra",
-      "title": "Software Engineer I",
-      "location": "Holtsville, NY",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-03",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=zebra&job=80b694eb-b6e1-4c32-986c-9f8880dc6c98&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://zebra.wd501.myworkdayjobs.com/zebra_careers/job/Holtsville-New-York/Software-Engineer-I_JR103056"
-    },
-    {
       "id": "cc18b3e6-a92a-4b00-82ea-d0e058dc6d9d",
       "company": "Anduril Industries",
       "title": "2027 Early Career Flight Software Engineer",
@@ -384,30 +412,6 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=fe46e18c-6cf4-450c-ac9f-05641c8e825a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/Associate-Software-Engineer---Software-Engineer_R10249088"
-    },
-    {
-      "id": "ec5f04dd-7472-4cec-8d68-d38489b6afaf",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Ft Wayne, IN",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-02",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=ec5f04dd-7472-4cec-8d68-d38489b6afaf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I--Onsite-_01871665"
-    },
-    {
-      "id": "02120f30-c237-4470-bea7-b17c506c293d",
-      "company": "RTX",
-      "title": "Software Engineer I (On-Site)",
-      "location": "Mckinney, TX",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-02",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=02120f30-c237-4470-bea7-b17c506c293d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineer-I--On-Site-_01862497"
     },
     {
       "id": "5130aaf0-75e8-4737-a548-89e0b95e7378",
@@ -1058,18 +1062,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01869922"
     },
     {
-      "id": "42c91976-2604-4f22-89cd-a10106324d71",
-      "company": "RTX",
-      "title": "Embedded Software Engineer I (Onsite)",
-      "location": "Cedar Rapids, IA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-27",
-      "age": "13d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=42c91976-2604-4f22-89cd-a10106324d71&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Embedded-Software-Engineer-I--Onsite-_01870328"
-    },
-    {
       "id": "367a59ae-0881-4ff6-8952-230a8f08422f",
       "company": "Schweitzer Engineering Laboratories",
       "title": "Associate Software Engineer - Vulnerability Assessment",
@@ -1201,18 +1193,6 @@
       "age": "14d",
       "url": "https://applyguy.ai/jobs?company=Energy+Solutions+-+USA&job=d8c02382-6012-4598-a11f-2cec81d9d206&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/energysolutions/jobs/5201891007"
-    },
-    {
-      "id": "30899070-8e93-4658-b1cf-980212e2a5e5",
-      "company": "GDIT",
-      "title": "Software Engineer 1",
-      "location": "Annapolis Junction, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-26",
-      "age": "14d",
-      "url": "https://applyguy.ai/jobs?company=GDIT&job=30899070-8e93-4658-b1cf-980212e2a5e5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Engineer-1_RQ227090-1"
     },
     {
       "id": "f2b9c638-e283-4b0c-acbe-07db9453b447",
@@ -1527,6 +1507,19 @@
       "age": "19d",
       "url": "https://applyguy.ai/jobs?company=Esri&job=62f4374e-4f30-4b68-88b0-16178e49760d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.esri.com/careers/5214134007?gh_jid=5214134007"
+    },
+    {
+      "id": "custom:microsoft:8a2cc77b4b241f96367e",
+      "company": "Microsoft",
+      "title": "Pre-Training",
+      "location": "US",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-21",
+      "age": "19d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
+      "applySupported": false
     },
     {
       "id": "49bef747-c371-45e0-a524-5475cb4bdce7",
@@ -2010,18 +2003,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/twitch/jobs/8700578002"
     },
     {
-      "id": "b5497415-2e21-4d65-813b-4e27fb71e1fe",
-      "company": "Ucar",
-      "title": "CESM Software Engineer I",
-      "location": "Boulder, CO",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-14",
-      "age": "26d",
-      "url": "https://applyguy.ai/jobs?company=Ucar&job=b5497415-2e21-4d65-813b-4e27fb71e1fe&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://ucar.wd5.myworkdayjobs.com/ucar_careers/job/Boulder-CO/CESM-Software-Engineer-I_REQ-2026-117-1"
-    },
-    {
       "id": "b10414aa-cd99-4db4-90a4-bff05545a58d",
       "company": "Esri",
       "title": "Software Development Engineer I",
@@ -2332,18 +2313,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Flir&job=3d617441-4b32-4b24-beae-3fb3ee19f343&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Jr-Software-Engineer_REQ36188"
-    },
-    {
-      "id": "9240e3f6-ee87-446f-8b45-1b15dded34c4",
-      "company": "Micron",
-      "title": "New College Grad - IT Software Support Engineer",
-      "location": "Boise, ID",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-10",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Micron&job=9240e3f6-ee87-446f-8b45-1b15dded34c4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---ID1/New-College-Grad---IT-Software-Support-Engineer_JR108465"
     },
     {
       "id": "34488725-5fae-4e8e-bb49-d597c35da7ad",
@@ -2995,6 +2964,18 @@
       "age": "49d",
       "url": "https://applyguy.ai/jobs?company=Danaher&job=169dce9c-1144-4f7d-a2d4-57f22668a655&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/USA---Indianapolis---Lakeview-Parkway---Multiple-OpCo/Software-Engineer-I_R1312947"
+    },
+    {
+      "id": "ae46f769-4777-4f28-84b1-c6aaa9dad5d5",
+      "company": "GDIT",
+      "title": "Software Engineer 1",
+      "location": "Annapolis Junction, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-22",
+      "age": "49d",
+      "url": "https://applyguy.ai/jobs?company=GDIT&job=ae46f769-4777-4f28-84b1-c6aaa9dad5d5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Engineer-1_RQ224845-1"
     },
     {
       "id": "e060da97-4ea9-4e36-97bf-3f1c7ec8a597",
