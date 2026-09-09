@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T19:46:06.206Z",
+  "updatedAt": "2026-09-09T20:00:51.175Z",
   "jobs": [
     {
       "id": "b95d5123-d7e7-46ae-a35b-651c598480c6",
@@ -60,6 +60,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Reagroup&job=82c7e578-7191-4f90-9f82-84b889bc9699&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://reagroup.wd3.myworkdayjobs.com/reacareers/job/Richmond-Melbourne-VIC/Associate-Software-Engineer_R0015637"
+    },
+    {
+      "id": "04e0cdaa-a376-49db-96a2-2d371eef15f5",
+      "company": "Redhat",
+      "title": "Associate Software Engineer",
+      "location": "Raleigh, NC",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Redhat&job=04e0cdaa-a376-49db-96a2-2d371eef15f5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Associate-Software-Engineer_R-059573"
     },
     {
       "id": "58d43bf8-8de3-40f4-adc2-1865095c31a9",
