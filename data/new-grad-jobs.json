@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-09-09T11:31:05.177Z",
+  "updatedAt": "2026-09-09T11:46:28.564Z",
   "jobs": [
+    {
+      "id": "b95d5123-d7e7-46ae-a35b-651c598480c6",
+      "company": "Bristolmyerssquibb",
+      "title": "Associate Software Engineer",
+      "location": "Hyderabad, IN",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Bristolmyerssquibb&job=b95d5123-d7e7-46ae-a35b-651c598480c6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Hyderabad---TS---IN/Associate-Software-Engineer_R1605676"
+    },
     {
       "id": "82c7e578-7191-4f90-9f82-84b889bc9699",
       "company": "Reagroup",
