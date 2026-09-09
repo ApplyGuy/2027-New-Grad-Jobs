@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T06:45:51.719Z",
+  "updatedAt": "2026-09-09T07:01:22.608Z",
   "jobs": [
     {
       "id": "82c7e578-7191-4f90-9f82-84b889bc9699",
@@ -61,6 +61,54 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=ff0d9aca-3ac1-412e-99df-d042fd9ea046&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Utah-Roy/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Roy-UT_R10249844-1"
+    },
+    {
+      "id": "f2af34f9-bb85-4518-aac1-ee38b4e9ca5e",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Cedar Rapids, IA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-08",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=f2af34f9-bb85-4518-aac1-ee38b4e9ca5e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01872860"
+    },
+    {
+      "id": "f6657f44-2626-4528-b38c-3f60bae1a5fd",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Mckinney, TX",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-08",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=f6657f44-2626-4528-b38c-3f60bae1a5fd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineer-I--Onsite-_01872248"
+    },
+    {
+      "id": "d3cbd77f-94fc-43e2-a36e-8eae7593a6fb",
+      "company": "RTX",
+      "title": "EOIR Advanced Products and Solutions- Software Engineer I (Onsite)",
+      "location": "Mckinney, TX",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-08",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=d3cbd77f-94fc-43e2-a36e-8eae7593a6fb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/EOIR-Advanced-Products-and-Solutions--Software-Engineer-I--Onsite-_01872528"
+    },
+    {
+      "id": "123756c9-42f7-42bb-b0e5-cef8a4c9f8db",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Tucson, AZ",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-08",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=123756c9-42f7-42bb-b0e5-cef8a4c9f8db&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01866752"
     },
     {
       "id": "6e3a8b7c-8aa7-4062-a36f-479c3913d38c",
