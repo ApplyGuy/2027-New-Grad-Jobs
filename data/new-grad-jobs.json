@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-09-09T01:31:02.770Z",
+  "updatedAt": "2026-09-09T01:45:40.521Z",
   "jobs": [
+    {
+      "id": "82c7e578-7191-4f90-9f82-84b889bc9699",
+      "company": "Reagroup",
+      "title": "Associate Software Engineer",
+      "location": "Richmond, Melbourne VIC",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Reagroup&job=82c7e578-7191-4f90-9f82-84b889bc9699&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://reagroup.wd3.myworkdayjobs.com/reacareers/job/Richmond-Melbourne-VIC/Associate-Software-Engineer_R0015637"
+    },
     {
       "id": "c3ccada2-7560-4614-95e7-987f4af715b5",
       "company": "AeroVironment",
@@ -508,18 +520,6 @@
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=MyFunded+Futures&job=1858378d-a59e-4b85-9ad1-37eb6f378282&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/myfundedfutures/jobs/4390595009"
-    },
-    {
-      "id": "05e1d93e-9f87-410c-a659-6ab6497b9a68",
-      "company": "Reagroup",
-      "title": "Associate Software Engineer",
-      "location": "Richmond, Melbourne VIC",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-01",
-      "age": "8d",
-      "url": "https://applyguy.ai/jobs?company=Reagroup&job=05e1d93e-9f87-410c-a659-6ab6497b9a68&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://reagroup.wd3.myworkdayjobs.com/reacareers/job/Richmond-Melbourne-VIC/Software-Engineer_R0015524"
     },
     {
       "id": "5299d0ef-45f7-47c0-b134-797d4eae09e7",
