@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T12:01:04.779Z",
+  "updatedAt": "2026-09-10T12:16:06.741Z",
   "jobs": [
     {
       "id": "613eec8e-bb6a-4e04-9800-7aeeb2ca7b7e",
@@ -36,6 +36,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Gravitate+Energy+LLC&job=68115136-a172-4569-a36f-803b691890ca&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4491069"
+    },
+    {
+      "id": "a64f2965-e380-4618-ae44-dad119c42b6b",
+      "company": "Handshake",
+      "title": "Software Engineer I, Quality",
+      "location": "San Francisco, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-09",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Handshake&job=a64f2965-e380-4618-ae44-dad119c42b6b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.ashbyhq.com/handshake/2f936add-3a94-48d9-9759-90c1e2c64d3e"
     },
     {
       "id": "b2892be1-43dc-476a-b8b6-2e88b2c6bccd",
@@ -146,6 +158,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Redhat&job=04e0cdaa-a376-49db-96a2-2d371eef15f5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Associate-Software-Engineer_R-059573"
+    },
+    {
+      "id": "18128ad0-c691-4034-9968-7904e4a8ac2d",
+      "company": "Replit",
+      "title": "Software Engineer - New Grad (2027)",
+      "location": "Foster City, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-09",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Replit&job=18128ad0-c691-4034-9968-7904e4a8ac2d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc"
     },
     {
       "id": "f68f1b9b-dbc5-4c58-b007-310815fb9140",
