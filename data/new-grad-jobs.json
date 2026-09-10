@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-09-10T18:16:05.132Z",
+  "updatedAt": "2026-09-10T18:31:15.341Z",
   "jobs": [
+    {
+      "id": "4f8fdeb6-b438-45fc-bd8f-80a582ea41b5",
+      "company": "Cambiahealth",
+      "title": "Software Development Engineer I – III",
+      "location": "Salt Lake City, UT",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-10",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Cambiahealth&job=4f8fdeb6-b438-45fc-bd8f-80a582ea41b5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://cambiahealth.wd504.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Software-Development-Engineer-I---III_R-6738"
+    },
     {
       "id": "d1fb2f89-6402-4cfd-afd3-05c0f8bd9b27",
       "company": "Cubic",
@@ -36,6 +48,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=8e4d6b8d-a172-4901-8de9-148874fa3bd9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I---Onsite-_01868027"
+    },
+    {
+      "id": "8e37a80e-35b8-48fa-ae08-fa518e298c96",
+      "company": "RTX",
+      "title": "Software Engineer I",
+      "location": "Tucson, AZ",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-10",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=8e37a80e-35b8-48fa-ae08-fa518e298c96&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I_01861317-1"
     },
     {
       "id": "613eec8e-bb6a-4e04-9800-7aeeb2ca7b7e",
