@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T06:01:27.847Z",
+  "updatedAt": "2026-09-10T06:15:40.585Z",
   "jobs": [
     {
       "id": "613eec8e-bb6a-4e04-9800-7aeeb2ca7b7e",
@@ -96,6 +96,19 @@
       "age": "1d",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556988778",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556988778",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:05ae06ea68171c7895e2",
+      "company": "Microsoft",
+      "title": "Software Engineer Intune",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-09",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556982925",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556982925",
       "applySupported": false
     },
     {
@@ -217,6 +230,18 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=AeroVironment&job=c3ccada2-7560-4614-95e7-987f4af715b5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://avav.wd1.myworkdayjobs.com/avav/job/Sunrise-FL/Software-Engineer-I_8682"
+    },
+    {
+      "id": "37baf769-069f-40b0-ba97-9a6eb7bc133b",
+      "company": "Cursor",
+      "title": "Software Engineer, New Grad 2027",
+      "location": "San Francisco, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-08",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=Cursor&job=37baf769-069f-40b0-ba97-9a6eb7bc133b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b"
     },
     {
       "id": "768a88ec-f203-4d61-a5b7-dae28e780594",
