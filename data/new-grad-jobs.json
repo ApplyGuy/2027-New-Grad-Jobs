@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T18:31:15.341Z",
+  "updatedAt": "2026-09-10T18:46:11.172Z",
   "jobs": [
     {
       "id": "4f8fdeb6-b438-45fc-bd8f-80a582ea41b5",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Cubic&job=d1fb2f89-6402-4cfd-afd3-05c0f8bd9b27&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://cubic.wd1.myworkdayjobs.com/cubic_usa_careers/job/Ashburn-Virginia/Software-Engineer-I---Unified-Video-Sustainment_REQ_49558"
+    },
+    {
+      "id": "0d2e3278-70e1-4787-9d89-bd2cd56c86f9",
+      "company": "EarthCam",
+      "title": "Junior Software Developer",
+      "location": "Upper Saddle River, NJ",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-10",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=EarthCam&job=0d2e3278-70e1-4787-9d89-bd2cd56c86f9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://apply.workable.com/earthcam/j/EC1CD84941/"
     },
     {
       "id": "93a80e62-e47d-4244-abcd-054887fbfe4a",
