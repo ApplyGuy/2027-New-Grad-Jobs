@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T20:16:16.664Z",
+  "updatedAt": "2026-09-10T20:31:21.647Z",
   "jobs": [
     {
       "id": "4f8fdeb6-b438-45fc-bd8f-80a582ea41b5",
@@ -84,6 +84,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=8e37a80e-35b8-48fa-ae08-fa518e298c96&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I_01861317-1"
+    },
+    {
+      "id": "2786da90-3497-4738-847b-68df90f5dc49",
+      "company": "U.S. Bank",
+      "title": ".NET Software Engineer 1",
+      "location": "Cincinnati, OH",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-10",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=U.S.+Bank&job=2786da90-3497-4738-847b-68df90f5dc49&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Cincinnati-OH/XMLNAME-NET-Software-Engineer-1_2026-0026601-1"
     },
     {
       "id": "1cc938ba-fc0d-4be8-9657-568e46e2d030",
