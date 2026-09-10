@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T02:01:16.996Z",
+  "updatedAt": "2026-09-10T02:15:51.079Z",
   "jobs": [
     {
       "id": "613eec8e-bb6a-4e04-9800-7aeeb2ca7b7e",
@@ -193,6 +193,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=StubHub&job=0bc3663a-f55b-4f02-8a02-ae1360a86199&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4967177101"
+    },
+    {
+      "id": "5df9abb9-bcf0-42bc-b05b-9d14d2825e22",
+      "company": "U.S. Bank",
+      "title": "Software engineer 1 – AI/ML Engineer (Generative AI)",
+      "location": "Chicago, IL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-09",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=U.S.+Bank&job=5df9abb9-bcf0-42bc-b05b-9d14d2825e22&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Chicago-IL/Software-engineer-1---AI-ML-Engineer--Generative-AI-_2026-0027055"
     },
     {
       "id": "c3ccada2-7560-4614-95e7-987f4af715b5",
