@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T14:45:57.167Z",
+  "updatedAt": "2026-09-10T15:01:35.442Z",
   "jobs": [
     {
       "id": "d1fb2f89-6402-4cfd-afd3-05c0f8bd9b27",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Cubic&job=d1fb2f89-6402-4cfd-afd3-05c0f8bd9b27&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://cubic.wd1.myworkdayjobs.com/cubic_usa_careers/job/Ashburn-Virginia/Software-Engineer-I---Unified-Video-Sustainment_REQ_49558"
+    },
+    {
+      "id": "93a80e62-e47d-4244-abcd-054887fbfe4a",
+      "company": "Leidos",
+      "title": "Junior Software Engineer",
+      "location": "Bowie, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-10",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Leidos&job=93a80e62-e47d-4244-abcd-054887fbfe4a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Bowie-MD/Junior-Software-Engineer_R-00189125"
     },
     {
       "id": "8e4d6b8d-a172-4901-8de9-148874fa3bd9",
@@ -84,18 +96,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Instabase&job=b2892be1-43dc-476a-b8b6-2e88b2c6bccd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/instabase/jobs/8783218002"
-    },
-    {
-      "id": "93a80e62-e47d-4244-abcd-054887fbfe4a",
-      "company": "Leidos",
-      "title": "Junior Software Engineer",
-      "location": "Bowie, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-09",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Leidos&job=93a80e62-e47d-4244-abcd-054887fbfe4a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Bowie-MD/Junior-Software-Engineer_R-00189125"
     },
     {
       "id": "c7f21bfe-5cf4-4296-9064-c43548f26e3e",
@@ -1267,18 +1267,6 @@
       "listingUrl": "https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/NY7---50-Hudson-Yards-New-York/Associate-Data-Engineer--Data-Management---Data-Office_R266266"
     },
     {
-      "id": "05bad1af-9630-46a2-94af-49dd26825599",
-      "company": "Dexcom",
-      "title": "Software Development Engineer 1",
-      "location": "Remote, U.S.",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-27",
-      "age": "14d",
-      "url": "https://applyguy.ai/jobs?company=Dexcom&job=05bad1af-9630-46a2-94af-49dd26825599&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://dexcom.wd1.myworkdayjobs.com/dexcom/job/Remote---United-States/Software-Development-Engineer-1_JR120540"
-    },
-    {
       "id": "718e723e-176a-4d51-8a71-3a3bcaa91e43",
       "company": "Esri",
       "title": "Software Development Engineer I - AWS",
@@ -1361,18 +1349,6 @@
       "age": "14d",
       "url": "https://applyguy.ai/jobs?company=Ontic&job=39ee6c0d-b6c3-4796-ac5f-6cbd7f4c955b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/ontic/d50b6bea-876f-43fc-afb9-716efe9eca02"
-    },
-    {
-      "id": "e2103f32-f0ef-42ad-be81-a8d829ed5941",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Richardson, TX",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-27",
-      "age": "14d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=e2103f32-f0ef-42ad-be81-a8d829ed5941&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01869922"
     },
     {
       "id": "367a59ae-0881-4ff6-8952-230a8f08422f",
