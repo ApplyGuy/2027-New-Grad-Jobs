@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T01:16:18.729Z",
+  "updatedAt": "2026-09-10T01:31:17.423Z",
   "jobs": [
     {
       "id": "613eec8e-bb6a-4e04-9800-7aeeb2ca7b7e",
@@ -36,6 +36,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Gravitate+Energy+LLC&job=68115136-a172-4569-a36f-803b691890ca&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4491069"
+    },
+    {
+      "id": "b2892be1-43dc-476a-b8b6-2e88b2c6bccd",
+      "company": "Instabase",
+      "title": "Software Engineer - Early Careers",
+      "location": "San Francisco, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-09",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Instabase&job=b2892be1-43dc-476a-b8b6-2e88b2c6bccd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/instabase/jobs/8783218002"
     },
     {
       "id": "93a80e62-e47d-4244-abcd-054887fbfe4a",
