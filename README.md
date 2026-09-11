@@ -1,6 +1,6 @@
 # 2027 New Grad Software Engineering Jobs
 
-[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-315-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
+[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-314-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
 
 A continuously verified list of **2027 New Grad software engineering jobs**, **entry-level software engineer jobs**, and early-career developer roles in the United States. Listings come directly from employer career pages and are maintained by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs).
 
@@ -10,9 +10,9 @@ A continuously verified list of **2027 New Grad software engineering jobs**, **e
 
 🎒 **Looking for internships?** Browse [2027 SWE & Product Internships →](https://github.com/ApplyGuy/2027-Internships)
 
-- **315** active U.S. software roles posted within the last **60 days**
-- **105** explicitly labeled New Grad / university graduate / early career
-- Last refresh: **Sep 11, 2026, 12:46 PM PDT**
+- **314** active U.S. software roles posted within the last **60 days**
+- **104** explicitly labeled New Grad / university graduate / early career
+- Last refresh: **Sep 11, 2026, 1:01 PM PDT**
 - Machine-readable feed: [data/new-grad-jobs.json](data/new-grad-jobs.json)
 
 Listings with the orange **Apply Guy** button support one-click apply through [Apply Guy](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs). Blue **View** buttons open the employer's career site directly.
@@ -333,7 +333,6 @@ Listings with the orange **Apply Guy** button support one-click apply through [A
 | Twitch | Software Engineer I, Discovery | San Francisco, CA | 59d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Twitch&job=b16ee1a8-b215-4797-afea-9bf721d3a86e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/twitch/jobs/8623578002) |
 | Venerable | Associate Software Developer | West Chester - Dunwoody Dr, PA | 59d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Venerable&job=9ffb63b3-9a45-4bc4-8704-7f990c03184a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://venerable.wd5.myworkdayjobs.com/venerablecareers/job/PA-West-Chester---Dunwoody-Dr/Associate-Software-Developer_REQ716-1) |
 | Accenture Federal Services | Jr. Software Engineer | Annapolis Junction, MD | 60d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Accenture+Federal+Services&job=d1838afe-aaea-4829-92b5-3bc99a1cbe9d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://boards.greenhouse.io/accenturefederalservices/jobs/4689025006?gh_jid=4689025006) |
-| Old Mission | Software Engineer – 2027 Graduate Program (August Start) | Chicago, IL | 60d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Old+Mission&job=c8ca21fd-6d2e-4e4b-b43f-c979bd2289dc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://www.oldmissioncapital.com/careers/?gh_jid=7796048003) |
 | The Cadmus Group | Junior Full Stack Developer | US | 60d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=The+Cadmus+Group&job=a2a78be0-da2a-401d-86de-0825b85339eb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://careers-cadmusgroup.icims.com/jobs/3199/junior-full-stack-developer/job) |
 | Vast | Software Engineer I, Mission Software | Long Beach, CA | 60d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Vast&job=5ab0dfae-2cce-4b76-97c8-a3095c4b804f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://boards.greenhouse.io/vast/jobs/4696685006?gh_jid=4696685006) |
 
