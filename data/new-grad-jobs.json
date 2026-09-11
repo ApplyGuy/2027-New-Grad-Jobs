@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T04:00:52.971Z",
+  "updatedAt": "2026-09-11T04:16:08.176Z",
   "jobs": [
     {
       "id": "703ebe88-be39-4145-8afe-d26e8b70cf91",
@@ -2640,18 +2640,6 @@
       "listingUrl": "https://selinc.wd1.myworkdayjobs.com/sel/job/Idaho---Boise/Associate-Firmware-Engineer_2026-22257"
     },
     {
-      "id": "1da36f6a-e6f6-45a0-a814-ed5c8b790062",
-      "company": "Axon",
-      "title": "Software Engineer I",
-      "location": "Seattle, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-10",
-      "age": "32d",
-      "url": "https://applyguy.ai/jobs?company=Axon&job=1da36f6a-e6f6-45a0-a814-ed5c8b790062&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/axon/jobs/7576576003"
-    },
-    {
       "id": "192d2777-30de-480f-8c9d-6830f38d820e",
       "company": "B Lab",
       "title": "Junior Data Engineer (Philadelphia, PA)",
@@ -3661,18 +3649,6 @@
       "age": "57d",
       "url": "https://applyguy.ai/jobs?company=Netic&job=1fe16092-7572-45a5-9b88-9f7f6efd5107&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/netic/d9bcb6a2-0e54-4cb3-baec-43f2d74db18f"
-    },
-    {
-      "id": "4dd1eb01-4f92-4a85-9cf3-f4cdcf1277b6",
-      "company": "Nuro",
-      "title": "Software Engineer, Performance - New Grad",
-      "location": "Mountain View, California (HQ)",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-07-16",
-      "age": "57d",
-      "url": "https://applyguy.ai/jobs?company=Nuro&job=4dd1eb01-4f92-4a85-9cf3-f4cdcf1277b6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://nuro.ai/careersitem?gh_jid=6972272"
     },
     {
       "id": "fb49394e-56b2-4232-97f9-500ae0a78a94",
