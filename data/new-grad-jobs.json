@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T20:01:13.903Z",
+  "updatedAt": "2026-09-11T20:15:48.302Z",
   "jobs": [
     {
       "id": "b048e099-00f4-4bfc-8f2f-70c3e4e190f2",
@@ -24,6 +24,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=39413ac8-43de-44e2-8e24-1257c01f965b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Bethesda-MD/Software-Engineer--Tactical-Decision-Aids---Entry-Level-_R-00191096"
+    },
+    {
+      "id": "ebaff14f-f526-49e2-a9b0-07da01eb6175",
+      "company": "OneImaging",
+      "title": "Full Stack Associate Software Engineer (UF Only)",
+      "location": "Miami, FL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-11",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=OneImaging&job=ebaff14f-f526-49e2-a9b0-07da01eb6175&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/oneimaging/jobs/4403125009"
+    },
+    {
+      "id": "749df070-2e63-4fb6-82d2-3c8206a474e6",
+      "company": "OneImaging",
+      "title": "Full Stack Associate Software Engineer (Georgia Tech Only)",
+      "location": "Miami, FL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-11",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=OneImaging&job=749df070-2e63-4fb6-82d2-3c8206a474e6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/oneimaging/jobs/4403115009"
     },
     {
       "id": "034d2940-e3fb-4979-a905-6e63d784b173",
@@ -276,32 +300,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Micron&job=a1c443d8-4532-43be-9b3d-fdb7bc943a55&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---ID1/New-College-Grad---IT-Software-Support-Engineer_JR111038"
-    },
-    {
-      "id": "custom:microsoft:f4b6d586c4abb39da011",
-      "company": "Microsoft",
-      "title": "Software Engineer",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-09",
-      "age": "2d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556988778",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556988778",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:05ae06ea68171c7895e2",
-      "company": "Microsoft",
-      "title": "Software Engineer Intune",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-09",
-      "age": "2d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556982925",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556982925",
-      "applySupported": false
     },
     {
       "id": "26692fb9-c086-4ab5-9381-3014e707c425",
@@ -650,45 +648,6 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=ID.me+University+Recruiting&job=668f9b14-c6f6-4307-bce7-7057313bfbc9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003"
-    },
-    {
-      "id": "custom:microsoft:bd09edb153d64145ce49",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Redmond, WA · Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-04",
-      "age": "7d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556926963",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556926963",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:698bf1cfd0197fa8f311",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-04",
-      "age": "7d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:d021de3d39fd02480f33",
-      "company": "Microsoft",
-      "title": "Software Engineering - CTJ - Poly",
-      "location": "Redmond, WA · Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-04",
-      "age": "7d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
-      "applySupported": false
     },
     {
       "id": "75355fb4-c0cd-403e-87d8-a60e28a09e4b",
@@ -1930,19 +1889,6 @@
       "listingUrl": "https://www.esri.com/careers/5214134007?gh_jid=5214134007"
     },
     {
-      "id": "custom:microsoft:8a2cc77b4b241f96367e",
-      "company": "Microsoft",
-      "title": "Pre-Training",
-      "location": "US",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-21",
-      "age": "21d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556627516",
-      "applySupported": false
-    },
-    {
       "id": "49bef747-c371-45e0-a524-5475cb4bdce7",
       "company": "Quickenloans",
       "title": "Software Developer I - Search",
@@ -2017,14 +1963,14 @@
     {
       "id": "be3b3bed-964d-4027-97ea-f6d58168fb94",
       "company": "Bitdeer Technologies Group",
-      "title": "SRE Monitoring Platform Software Engineer (Early Career / Temporary)",
+      "title": "SRE Monitoring Platform Software Engineer (Entry Level)",
       "location": "Remote, U.S.",
       "eligibility": "New Grad",
       "matchKind": "explicit",
       "posted": "2026-08-19",
       "age": "23d",
       "url": "https://applyguy.ai/jobs?company=Bitdeer+Technologies+Group&job=be3b3bed-964d-4027-97ea-f6d58168fb94&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://bitdeer.breezy.hr/p/ed6314823d0c-sre-monitoring-platform-software-engineer-early-career-temporary"
+      "listingUrl": "https://bitdeer.breezy.hr/p/ed6314823d0c-sre-monitoring-platform-software-engineer-entry-level"
     },
     {
       "id": "159941a8-8b9e-471d-8f95-06bc469156b1",
