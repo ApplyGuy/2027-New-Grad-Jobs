@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T02:01:12.266Z",
+  "updatedAt": "2026-09-11T02:15:42.358Z",
   "jobs": [
     {
       "id": "703ebe88-be39-4145-8afe-d26e8b70cf91",
@@ -96,6 +96,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=GRVTY&job=9d2ef7a3-be06-4999-bdf9-0d0d37274cbd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/grvty/jobs/4401839009"
+    },
+    {
+      "id": "8279f72f-43a4-48b2-b7f3-1a586fa82a2e",
+      "company": "Pae",
+      "title": "Entry Level Software Engineer",
+      "location": "Dahlgren, VA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-10",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Pae&job=8279f72f-43a4-48b2-b7f3-1a586fa82a2e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0148259"
     },
     {
       "id": "b310c759-af3b-4ee9-abcc-2ad90dc2a16c",
