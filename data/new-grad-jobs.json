@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T14:46:25.856Z",
+  "updatedAt": "2026-09-11T15:01:35.141Z",
   "jobs": [
     {
       "id": "703ebe88-be39-4145-8afe-d26e8b70cf91",
@@ -146,18 +146,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I---Onsite-_01868027"
     },
     {
-      "id": "8e37a80e-35b8-48fa-ae08-fa518e298c96",
-      "company": "RTX",
-      "title": "Software Engineer I",
-      "location": "Tucson, AZ",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-10",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=8e37a80e-35b8-48fa-ae08-fa518e298c96&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I_01861317-1"
-    },
-    {
       "id": "2786da90-3497-4738-847b-68df90f5dc49",
       "company": "U.S. Bank",
       "title": ".NET Software Engineer 1",
@@ -240,18 +228,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Instabase&job=b2892be1-43dc-476a-b8b6-2e88b2c6bccd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/instabase/jobs/8783218002"
-    },
-    {
-      "id": "c7f21bfe-5cf4-4296-9064-c43548f26e3e",
-      "company": "Lnw",
-      "title": "Associate Software Engineer",
-      "location": "Reno, NV",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-09",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=Lnw&job=c7f21bfe-5cf4-4296-9064-c43548f26e3e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Associate-Software-Engineer_R322683"
     },
     {
       "id": "a1c443d8-4532-43be-9b3d-fdb7bc943a55",
@@ -388,6 +364,18 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Embedded-Software-Engineer-I--Onsite-_01871867"
     },
     {
+      "id": "f5c636f4-9b34-4caa-bec7-098ff43d5816",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Tucson, AZ",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-09",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=f5c636f4-9b34-4caa-bec7-098ff43d5816&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01868189-1"
+    },
+    {
       "id": "0bc3663a-f55b-4f02-8a02-ae1360a86199",
       "company": "StubHub",
       "title": "Software Engineer I - Platform Engineer - Core Compute Platform",
@@ -482,18 +470,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=d3cbd77f-94fc-43e2-a36e-8eae7593a6fb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/EOIR-Advanced-Products-and-Solutions--Software-Engineer-I--Onsite-_01872528"
-    },
-    {
-      "id": "123756c9-42f7-42bb-b0e5-cef8a4c9f8db",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Tucson, AZ",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-08",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=123756c9-42f7-42bb-b0e5-cef8a4c9f8db&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01866752"
     },
     {
       "id": "6e3a8b7c-8aa7-4062-a36f-479c3913d38c",
@@ -689,18 +665,6 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Scale+AI&job=75355fb4-c0cd-403e-87d8-a60e28a09e4b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005"
-    },
-    {
-      "id": "a89a1ad2-c6a7-469a-b7ec-659ad546ba29",
-      "company": "U.S. Bank",
-      "title": "Software Engineer 1 (Java, Linux, SQL)",
-      "location": "Saint Paul, MN",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-04",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=U.S.+Bank&job=a89a1ad2-c6a7-469a-b7ec-659ad546ba29&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Saint-Paul-MN/Software-Engineer-1--Java--Linux--SQL-_2026-0026539"
     },
     {
       "id": "5f88ce5b-1359-40bc-86d2-d0da1917a1c4",
@@ -2542,18 +2506,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=b7e619ce-4244-473d-8438-07b66510d810&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer-Software-Engineer_R10245233"
-    },
-    {
-      "id": "b935bac0-9a29-45cb-820c-0bf9dd323d3d",
-      "company": "Resmed",
-      "title": "Associate Software Engineer",
-      "location": "San Diego, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-12",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Resmed&job=b935bac0-9a29-45cb-820c-0bf9dd323d3d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://resmed.wd3.myworkdayjobs.com/resmed_external_careers/job/San-Diego-CA-United-States/Associate-Software-Engineer_JR_053125"
     },
     {
       "id": "cf343222-8607-4d4b-932d-3f1e328fc01f",
