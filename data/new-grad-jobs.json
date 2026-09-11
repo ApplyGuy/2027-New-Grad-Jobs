@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T15:31:23.897Z",
+  "updatedAt": "2026-09-11T15:53:30.994Z",
   "jobs": [
     {
       "id": "703ebe88-be39-4145-8afe-d26e8b70cf91",
@@ -364,18 +364,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Embedded-Software-Engineer-I--Onsite-_01871867"
     },
     {
-      "id": "f5c636f4-9b34-4caa-bec7-098ff43d5816",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Tucson, AZ",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-09",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=f5c636f4-9b34-4caa-bec7-098ff43d5816&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01868189-1"
-    },
-    {
       "id": "0bc3663a-f55b-4f02-8a02-ae1360a86199",
       "company": "StubHub",
       "title": "Software Engineer I - Platform Engineer - Core Compute Platform",
@@ -458,18 +446,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=f6657f44-2626-4528-b38c-3f60bae1a5fd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineer-I--Onsite-_01872248"
-    },
-    {
-      "id": "d3cbd77f-94fc-43e2-a36e-8eae7593a6fb",
-      "company": "RTX",
-      "title": "EOIR Advanced Products and Solutions- Software Engineer I (Onsite)",
-      "location": "Mckinney, TX",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-08",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=d3cbd77f-94fc-43e2-a36e-8eae7593a6fb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/EOIR-Advanced-Products-and-Solutions--Software-Engineer-I--Onsite-_01872528"
     },
     {
       "id": "6e3a8b7c-8aa7-4062-a36f-479c3913d38c",
@@ -1315,18 +1291,6 @@
       "listingUrl": "https://jobs.lever.co/policyme/2ad3fd98-21fc-4bbd-aa91-868befe5f699"
     },
     {
-      "id": "6f085430-1a23-4d26-ab87-c223adf8b48b",
-      "company": "Remitly",
-      "title": "Software Development Engineer I- IHUB",
-      "location": "Seattle, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-28",
-      "age": "14d",
-      "url": "https://applyguy.ai/jobs?company=Remitly&job=6f085430-1a23-4d26-ab87-c223adf8b48b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Seattle-Washington-United-States/Software-Development-Engineer-I--IHUB_R_106706"
-    },
-    {
       "id": "208416e7-b813-4119-a965-2e977b35b875",
       "company": "Solace",
       "title": "Associate Data Engineer (College Grad 2027)",
@@ -1397,18 +1361,6 @@
       "age": "15d",
       "url": "https://applyguy.ai/jobs?company=Iqvia&job=d5c9720f-9473-49be-9249-f42fd0d8b7af&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://iqvia.wd1.myworkdayjobs.com/iqvia/job/Orlando-FL/MedTech-Field-Service-Software-Technician---Eastern-Time-Zone_R1564635-1"
-    },
-    {
-      "id": "18cb4cb5-38db-4c80-8573-d13e9aa357f1",
-      "company": "Iqvia",
-      "title": "MedTech Field Service Software Update Tech Entry Level Travel - West Coast Timezone",
-      "location": "Las Vegas, NV",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-27",
-      "age": "15d",
-      "url": "https://applyguy.ai/jobs?company=Iqvia&job=18cb4cb5-38db-4c80-8573-d13e9aa357f1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://iqvia.wd1.myworkdayjobs.com/iqvia/job/Las-Vegas--NV/MedTech-Field-Service-Software-Technician---West-Coast-Timezone_R1564643"
     },
     {
       "id": "118ab350-be6d-4bbd-b418-4643b366d9c4",
@@ -2121,18 +2073,6 @@
       "age": "24d",
       "url": "https://applyguy.ai/jobs?company=Koah&job=d9007a83-d60a-4e5e-9d1e-7bbba6779db3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/koahlabs/197c931d-3cda-44b3-b26b-470976730808"
-    },
-    {
-      "id": "8ab05158-a45c-452e-bafa-d9018cccdf2b",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Aurora, CO",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-18",
-      "age": "24d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=8ab05158-a45c-452e-bafa-d9018cccdf2b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineer-I--Onsite-_01867905"
     },
     {
       "id": "6dd439e6-fff0-4837-b6a4-8e017142c06b",
@@ -2867,18 +2807,6 @@
       "age": "37d",
       "url": "https://applyguy.ai/jobs?company=Esri&job=bdda7a08-6255-4af8-8010-362f295f4325&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.esri.com/careers/5199136007?gh_jid=5199136007"
-    },
-    {
-      "id": "70635e1a-9f05-4876-9733-48873ea59060",
-      "company": "Manhattan Associates",
-      "title": "Software Engineer - Early Career",
-      "location": "Atlanta, GA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-05",
-      "age": "37d",
-      "url": "https://applyguy.ai/jobs?company=Manhattan+Associates&job=70635e1a-9f05-4876-9733-48873ea59060&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://manh.wd5.myworkdayjobs.com/campus/job/Atlanta-GA/Software-Engineer---Early-Career_16977"
     },
     {
       "id": "e6cb5068-0d3d-4cf6-aa4e-0a2ec52ab94f",
@@ -3745,18 +3673,6 @@
       "age": "60d",
       "url": "https://applyguy.ai/jobs?company=Akuna+Capital&job=d5f1ab76-03f4-46b8-a223-1718d22a0da7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.akunacapital.com/careers/job/8013230/?gh_jid=8013230"
-    },
-    {
-      "id": "8e0c87b3-2594-40aa-a80d-c3f93f48f656",
-      "company": "Hudson River Trading",
-      "title": "Software Engineer (C++ or Python) – 2027 Grads",
-      "location": "Austin, TX",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-07-13",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Hudson+River+Trading&job=8e0c87b3-2594-40aa-a80d-c3f93f48f656&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052122"
     },
     {
       "id": "c8ca21fd-6d2e-4e4b-b43f-c979bd2289dc",
