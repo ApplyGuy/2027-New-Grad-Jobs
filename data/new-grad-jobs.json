@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T01:00:47.903Z",
+  "updatedAt": "2026-09-11T01:16:10.758Z",
   "jobs": [
     {
       "id": "703ebe88-be39-4145-8afe-d26e8b70cf91",
@@ -96,6 +96,30 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=GRVTY&job=9d2ef7a3-be06-4999-bdf9-0d0d37274cbd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/grvty/jobs/4401839009"
+    },
+    {
+      "id": "b310c759-af3b-4ee9-abcc-2ad90dc2a16c",
+      "company": "Rover.com",
+      "title": "Entry Level Software Engineer, Recommendations",
+      "location": "Seattle, WA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-10",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Rover.com&job=b310c759-af3b-4ee9-abcc-2ad90dc2a16c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.lever.co/rover/303b3b2f-9679-4a77-8908-456e29240486"
+    },
+    {
+      "id": "f4bfcb17-575d-4296-a7c9-314c7a98e0d1",
+      "company": "RTX",
+      "title": "Software Engineer  I (Onsite)",
+      "location": "Cedar Rapids, IA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-10",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=f4bfcb17-575d-4296-a7c9-314c7a98e0d1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineer--I--Onsite-_01871993"
     },
     {
       "id": "8e4d6b8d-a172-4901-8de9-148874fa3bd9",
@@ -396,18 +420,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=ff0d9aca-3ac1-412e-99df-d042fd9ea046&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Utah-Roy/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Roy-UT_R10249844-1"
-    },
-    {
-      "id": "f2af34f9-bb85-4518-aac1-ee38b4e9ca5e",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Cedar Rapids, IA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-08",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=f2af34f9-bb85-4518-aac1-ee38b4e9ca5e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01872860"
     },
     {
       "id": "f6657f44-2626-4528-b38c-3f60bae1a5fd",
