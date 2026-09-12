@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T00:00:46.969Z",
+  "updatedAt": "2026-09-12T00:15:58.337Z",
   "jobs": [
     {
       "id": "b048e099-00f4-4bfc-8f2f-70c3e4e190f2",
@@ -12,6 +12,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Cisco&job=b048e099-00f4-4bfc-8f2f-70c3e4e190f2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer-I--Full-Time----United-States_2023527"
+    },
+    {
+      "id": "855b6921-1f85-407c-992e-d7d55c569e3d",
+      "company": "Commure",
+      "title": "Software Engineer, Early Career 2027",
+      "location": "Mountain View, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-11",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Commure&job=855b6921-1f85-407c-992e-d7d55c569e3d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.ashbyhq.com/commure/c6a735ef-3d84-4447-94a9-9e8b2dfefced"
     },
     {
       "id": "26e9b0cb-ea8d-47b4-92b4-0ced65ee17c8",
