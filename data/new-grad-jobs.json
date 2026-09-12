@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T19:30:44.305Z",
+  "updatedAt": "2026-09-12T19:46:30.259Z",
   "jobs": [
     {
       "id": "39fb825f-cf1f-4c61-8800-364c34b0fa28",
@@ -48,18 +48,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Kbr&job=9ecdb2ab-4a49-4f0c-a29f-137b5fc00264&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Beavercreek-Township-Ohio/Junior-Software-Developer_R2129761-1"
-    },
-    {
-      "id": "39413ac8-43de-44e2-8e24-1257c01f965b",
-      "company": "Leidos",
-      "title": "Software Engineer (Tactical Decision Aids – Entry-Level)",
-      "location": "Bethesda, MD",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-09-11",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Leidos&job=39413ac8-43de-44e2-8e24-1257c01f965b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Bethesda-MD/Software-Engineer--Tactical-Decision-Aids---Entry-Level-_R-00191096"
     },
     {
       "id": "abfacdb1-6826-4555-b9c4-e73216d5ba55",
