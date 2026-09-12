@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T19:00:58.390Z",
+  "updatedAt": "2026-09-12T19:16:03.764Z",
   "jobs": [
     {
       "id": "39fb825f-cf1f-4c61-8800-364c34b0fa28",
@@ -12,6 +12,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Boeing&job=39fb825f-cf1f-4c61-8800-364c34b0fa28&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Entry-Level-Simulation-Software-Engineer_JR2026516853"
+    },
+    {
+      "id": "b048e099-00f4-4bfc-8f2f-70c3e4e190f2",
+      "company": "Cisco",
+      "title": "Software Engineer I (Full Time) - United States",
+      "location": "Milpitas California",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-11",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Cisco&job=b048e099-00f4-4bfc-8f2f-70c3e4e190f2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer-I--Full-Time----United-States_2023527"
     },
     {
       "id": "855b6921-1f85-407c-992e-d7d55c569e3d",
@@ -1469,6 +1481,18 @@
       "age": "16d",
       "url": "https://applyguy.ai/jobs?company=Iqvia&job=d5c9720f-9473-49be-9249-f42fd0d8b7af&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://iqvia.wd1.myworkdayjobs.com/iqvia/job/Orlando-FL/MedTech-Field-Service-Software-Technician---Eastern-Time-Zone_R1564635-1"
+    },
+    {
+      "id": "18cb4cb5-38db-4c80-8573-d13e9aa357f1",
+      "company": "Iqvia",
+      "title": "MedTech Field Service Software Update Tech Entry Level Travel - West Coast Timezone",
+      "location": "Las Vegas, NV",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-27",
+      "age": "16d",
+      "url": "https://applyguy.ai/jobs?company=Iqvia&job=18cb4cb5-38db-4c80-8573-d13e9aa357f1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://iqvia.wd1.myworkdayjobs.com/iqvia/job/Las-Vegas--NV/MedTech-Field-Service-Software-Technician---West-Coast-Timezone_R1564643"
     },
     {
       "id": "118ab350-be6d-4bbd-b418-4643b366d9c4",
