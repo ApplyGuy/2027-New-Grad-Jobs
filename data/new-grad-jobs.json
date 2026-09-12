@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T22:30:56.621Z",
+  "updatedAt": "2026-09-12T22:46:03.845Z",
   "jobs": [
     {
       "id": "39fb825f-cf1f-4c61-8800-364c34b0fa28",
@@ -3660,18 +3660,6 @@
       "age": "59d",
       "url": "https://applyguy.ai/jobs?company=Urban+Science&job=daf44c2c-304b-490b-9979-e27038c62fbe&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://careers-urbanscience.icims.com/jobs/5181/associate-software-engineer---serviceview/job"
-    },
-    {
-      "id": "b16ee1a8-b215-4797-afea-9bf721d3a86e",
-      "company": "Twitch",
-      "title": "Software Engineer I, Discovery",
-      "location": "San Francisco, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-14",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Twitch&job=b16ee1a8-b215-4797-afea-9bf721d3a86e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/twitch/jobs/8623578002"
     }
   ]
 }
