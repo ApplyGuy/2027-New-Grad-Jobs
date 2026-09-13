@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-09-13T18:46:06.923Z",
+  "updatedAt": "2026-09-13T19:01:28.481Z",
   "jobs": [
+    {
+      "id": "d698a7e2-288b-4f46-9f3c-a2ed79d09263",
+      "company": "Autostore",
+      "title": "Entry Level Software Engineer",
+      "location": "Atlanta, GA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Autostore&job=d698a7e2-288b-4f46-9f3c-a2ed79d09263&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Entry-Level-Software-Engineer_JR102691"
+    },
     {
       "id": "39fb825f-cf1f-4c61-8800-364c34b0fa28",
       "company": "Boeing",
