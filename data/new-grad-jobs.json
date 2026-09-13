@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T04:00:46.118Z",
+  "updatedAt": "2026-09-13T04:15:42.654Z",
   "jobs": [
     {
       "id": "39fb825f-cf1f-4c61-8800-364c34b0fa28",
@@ -350,6 +350,32 @@
       "listingUrl": "https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---ID1/New-College-Grad---IT-Software-Support-Engineer_JR111038"
     },
     {
+      "id": "custom:microsoft:f4b6d586c4abb39da011",
+      "company": "Microsoft",
+      "title": "Software Engineer",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-09",
+      "age": "4d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556988778",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556988778",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:05ae06ea68171c7895e2",
+      "company": "Microsoft",
+      "title": "Software Engineer Intune",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-09",
+      "age": "4d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556982925",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556982925",
+      "applySupported": false
+    },
+    {
       "id": "26692fb9-c086-4ab5-9381-3014e707c425",
       "company": "Radiancetech",
       "title": "Junior Software Engineer",
@@ -672,6 +698,45 @@
       "age": "9d",
       "url": "https://applyguy.ai/jobs?company=ID.me+University+Recruiting&job=668f9b14-c6f6-4307-bce7-7057313bfbc9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003"
+    },
+    {
+      "id": "custom:microsoft:bd09edb153d64145ce49",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Redmond, WA · Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-04",
+      "age": "9d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556926963",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556926963",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:698bf1cfd0197fa8f311",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-04",
+      "age": "9d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:d021de3d39fd02480f33",
+      "company": "Microsoft",
+      "title": "Software Engineering - CTJ - Poly",
+      "location": "Redmond, WA · Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-04",
+      "age": "9d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+      "applySupported": false
     },
     {
       "id": "75355fb4-c0cd-403e-87d8-a60e28a09e4b",
@@ -2550,18 +2615,6 @@
       "listingUrl": "https://jobs.ashbyhq.com/handshake/fe319ff8-87e1-46d9-b23e-4b78cf6086f8"
     },
     {
-      "id": "a7a2e37d-08bc-424a-afc0-c095238b5784",
-      "company": "PathAI",
-      "title": "Software Engineer I, Fullstack",
-      "location": "Boston, MA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-11",
-      "age": "33d",
-      "url": "https://applyguy.ai/jobs?company=PathAI&job=a7a2e37d-08bc-424a-afc0-c095238b5784&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://www.pathai.com/careers/8696764002?gh_jid=8696764002"
-    },
-    {
       "id": "ca5f112a-ff29-46aa-b7b4-04c06fee3ba6",
       "company": "Schweitzer Engineering Laboratories",
       "title": "Associate Firmware Engineer",
@@ -2596,18 +2649,6 @@
       "age": "34d",
       "url": "https://applyguy.ai/jobs?company=B+Lab&job=5e879e23-9f55-46ae-8827-57c7aca56f8f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/blab/jobs/8688848002"
-    },
-    {
-      "id": "b09e7dd4-752a-4cf8-9303-3c33f9bb27db",
-      "company": "BNH",
-      "title": "Early Career Software Engineer",
-      "location": "Arnold AFB, TN",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-10",
-      "age": "34d",
-      "url": "https://applyguy.ai/jobs?company=BNH&job=b09e7dd4-752a-4cf8-9303-3c33f9bb27db&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://careers-bnh.icims.com/jobs/24638/early-career-software-engineer/job"
     },
     {
       "id": "25e1047d-f966-41d5-8fb5-9c56b6cb8171",
@@ -3150,18 +3191,6 @@
       "age": "52d",
       "url": "https://applyguy.ai/jobs?company=Appian+Corporation&job=6f134f95-bc72-419e-b0dc-1188af252bf4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/appian/jobs/8041241"
-    },
-    {
-      "id": "a77dd5ef-fb80-4ae0-8f7d-498e62fff2e5",
-      "company": "Cortina",
-      "title": "Data Engineer (entry-level)",
-      "location": "Huntsville, AL",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-07-23",
-      "age": "52d",
-      "url": "https://applyguy.ai/jobs?company=Cortina&job=a77dd5ef-fb80-4ae0-8f7d-498e62fff2e5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://cortina.bamboohr.com/careers/363"
     },
     {
       "id": "161ecaa1-8549-4992-867d-5031beb062e0",
