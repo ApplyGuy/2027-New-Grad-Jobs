@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T23:15:41.689Z",
+  "updatedAt": "2026-09-13T23:31:14.422Z",
   "jobs": [
     {
       "id": "d698a7e2-288b-4f46-9f3c-a2ed79d09263",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Autostore&job=d698a7e2-288b-4f46-9f3c-a2ed79d09263&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Entry-Level-Software-Engineer_JR102691"
+    },
+    {
+      "id": "123756c9-42f7-42bb-b0e5-cef8a4c9f8db",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Tucson, AZ",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=123756c9-42f7-42bb-b0e5-cef8a4c9f8db&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01866752"
     },
     {
       "id": "39fb825f-cf1f-4c61-8800-364c34b0fa28",
@@ -3612,18 +3624,6 @@
       "age": "59d",
       "url": "https://applyguy.ai/jobs?company=Netic&job=1fe16092-7572-45a5-9b88-9f7f6efd5107&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/netic/d9bcb6a2-0e54-4cb3-baec-43f2d74db18f"
-    },
-    {
-      "id": "daf44c2c-304b-490b-9979-e27038c62fbe",
-      "company": "Urban Science",
-      "title": "Associate Software Engineer - ServiceView",
-      "location": "Detroit, MI",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-15",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Urban+Science&job=daf44c2c-304b-490b-9979-e27038c62fbe&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://careers-urbanscience.icims.com/jobs/5181/associate-software-engineer---serviceview/job"
     }
   ]
 }
