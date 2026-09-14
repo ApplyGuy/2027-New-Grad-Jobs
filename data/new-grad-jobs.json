@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T17:16:22.165Z",
+  "updatedAt": "2026-09-14T17:31:08.075Z",
   "jobs": [
     {
       "id": "a3c6a2b7-4e13-4eb2-b0cf-7c239a8366dd",
@@ -324,6 +324,18 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=f4bfcb17-575d-4296-a7c9-314c7a98e0d1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineer--I--Onsite-_01871993"
+    },
+    {
+      "id": "b0bd1779-565a-4338-98b2-00e7e779591d",
+      "company": "SEP",
+      "title": "Software Engineer (2027 start dates, in person)",
+      "location": "Westfield, IN",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-10",
+      "age": "4d",
+      "url": "https://applyguy.ai/jobs?company=SEP&job=b0bd1779-565a-4338-98b2-00e7e779591d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.lever.co/sep/f7ad9ffb-03dc-4fb2-9a92-e5f04a85ba08"
     },
     {
       "id": "2786da90-3497-4738-847b-68df90f5dc49",
