@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T20:45:46.008Z",
+  "updatedAt": "2026-09-14T21:00:45.789Z",
   "jobs": [
     {
       "id": "a3c6a2b7-4e13-4eb2-b0cf-7c239a8366dd",
@@ -48,6 +48,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=OneImaging&job=54b45402-6f4c-4314-9b32-ae9fb868819f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/oneimaging/jobs/4405032009"
+    },
+    {
+      "id": "bcc5f260-c9f2-4988-9b9a-a21089ab9b29",
+      "company": "Rocket Lab Corporation",
+      "title": "Flight Software Engineer I",
+      "location": "Littleton, CO",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Rocket+Lab+Corporation&job=bcc5f260-c9f2-4988-9b9a-a21089ab9b29&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7992129003"
     },
     {
       "id": "97574a65-99ce-4276-89f4-4c83e56dd71a",
@@ -2584,18 +2596,6 @@
       "age": "33d",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=b7e619ce-4244-473d-8438-07b66510d810&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer-Software-Engineer_R10245233"
-    },
-    {
-      "id": "cf343222-8607-4d4b-932d-3f1e328fc01f",
-      "company": "Rocket Lab Corporation",
-      "title": "Flight Software Engineer I",
-      "location": "Littleton, CO",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-12",
-      "age": "33d",
-      "url": "https://applyguy.ai/jobs?company=Rocket+Lab+Corporation&job=cf343222-8607-4d4b-932d-3f1e328fc01f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7830196003"
     },
     {
       "id": "c7ed7488-9e78-493b-88fe-5e5599c0cd9c",
