@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T14:31:19.757Z",
+  "updatedAt": "2026-09-14T14:45:44.296Z",
   "jobs": [
     {
       "id": "a3c6a2b7-4e13-4eb2-b0cf-7c239a8366dd",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Fau&job=a3c6a2b7-4e13-4eb2-b0cf-7c239a8366dd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://fau.wd1.myworkdayjobs.com/fau/job/Boca-Raton/Software-Engineer-I_REQ22843"
+    },
+    {
+      "id": "54b45402-6f4c-4314-9b32-ae9fb868819f",
+      "company": "OneImaging",
+      "title": "Associate Data Engineer (Georgia Tech Only)",
+      "location": "Miami, FL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=OneImaging&job=54b45402-6f4c-4314-9b32-ae9fb868819f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/oneimaging/jobs/4405032009"
     },
     {
       "id": "97574a65-99ce-4276-89f4-4c83e56dd71a",
@@ -48,6 +60,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=123756c9-42f7-42bb-b0e5-cef8a4c9f8db&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01866752"
+    },
+    {
+      "id": "2d5b06d7-f12a-4488-b07a-c5c2f39193d0",
+      "company": "OneImaging",
+      "title": "Associate Data Engineer (UF Only)",
+      "location": "Miami, FL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-12",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=OneImaging&job=2d5b06d7-f12a-4488-b07a-c5c2f39193d0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/oneimaging/jobs/4404708009"
     },
     {
       "id": "39fb825f-cf1f-4c61-8800-364c34b0fa28",
