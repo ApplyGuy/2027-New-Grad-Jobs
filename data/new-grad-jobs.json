@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T15:30:44.716Z",
+  "updatedAt": "2026-09-14T15:46:11.675Z",
   "jobs": [
     {
       "id": "a3c6a2b7-4e13-4eb2-b0cf-7c239a8366dd",
@@ -36,6 +36,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=97574a65-99ce-4276-89f4-4c83e56dd71a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineer-I--Onsite-_01873683"
+    },
+    {
+      "id": "ec5f04dd-7472-4cec-8d68-d38489b6afaf",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Ft Wayne, IN",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=ec5f04dd-7472-4cec-8d68-d38489b6afaf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I--Onsite-_01871665"
     },
     {
       "id": "5850997b-e6e1-4f5e-a388-9f9ea1cd7baa",
@@ -312,18 +324,6 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=f4bfcb17-575d-4296-a7c9-314c7a98e0d1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineer--I--Onsite-_01871993"
-    },
-    {
-      "id": "8e4d6b8d-a172-4901-8de9-148874fa3bd9",
-      "company": "RTX",
-      "title": "Software Engineer I -(Onsite)",
-      "location": "Ft Wayne, IN",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-10",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=8e4d6b8d-a172-4901-8de9-148874fa3bd9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I---Onsite-_01868027"
     },
     {
       "id": "2786da90-3497-4738-847b-68df90f5dc49",
