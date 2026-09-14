@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T00:00:44.427Z",
+  "updatedAt": "2026-09-14T00:16:37.895Z",
   "jobs": [
     {
       "id": "d698a7e2-288b-4f46-9f3c-a2ed79d09263",
@@ -120,18 +120,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Roku&job=cfd344fc-5811-4ba4-b7ba-09a4e643930a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.weareroku.com/jobs/8188714?gh_jid=8188714"
-    },
-    {
-      "id": "034d2940-e3fb-4979-a905-6e63d784b173",
-      "company": "RTX",
-      "title": "Software Engineer I - Gen4 Tactical Airborne Radar",
-      "location": "El Segundo, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-11",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=034d2940-e3fb-4979-a905-6e63d784b173&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineer-I---Gen4-Tactical-Airborne-Radar_01874418"
     },
     {
       "id": "656b41fc-f9a5-4de5-bc6f-82733b95d4f9",
@@ -554,18 +542,6 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Nexthopai&job=768a88ec-f203-4d61-a5b7-dae28e780594&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://nexthopai.bamboohr.com/careers/107"
-    },
-    {
-      "id": "ff0d9aca-3ac1-412e-99df-d042fd9ea046",
-      "company": "Northrop Grumman",
-      "title": "2027 Associate Software Engineer / Software Engineer - Roy UT",
-      "location": "Roy, UT",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-08",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=ff0d9aca-3ac1-412e-99df-d042fd9ea046&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Utah-Roy/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Roy-UT_R10249844-1"
     },
     {
       "id": "d3cbd77f-94fc-43e2-a36e-8eae7593a6fb",
