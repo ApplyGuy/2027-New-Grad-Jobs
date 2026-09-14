@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T21:00:45.789Z",
+  "updatedAt": "2026-09-14T21:15:45.883Z",
   "jobs": [
     {
       "id": "a3c6a2b7-4e13-4eb2-b0cf-7c239a8366dd",
@@ -96,6 +96,66 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Silabs&job=5850997b-e6e1-4f5e-a388-9f9ea1cd7baa&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://silabs.wd1.myworkdayjobs.com/siliconlabscareers/job/Austin/Software-Engineer-I_21011-1"
+    },
+    {
+      "id": "b4818ac4-2dd4-4006-a68a-d0419ae8678c",
+      "company": "The Hartford",
+      "title": "Associate Data Engineer - Tech Catalyst Program (Hartford)",
+      "location": "Hartford, CT",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=The+Hartford&job=b4818ac4-2dd4-4006-a68a-d0419ae8678c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_restricted/job/Hartford-CT/Associate-Data-Engineer---Tech-Catalyst-Program--Hartford-_R2626150"
+    },
+    {
+      "id": "b22092e2-6330-4c65-a3e9-adfeb96bbada",
+      "company": "The Hartford",
+      "title": "Associate Data Engineer - Tech Catalyst Program (Charlotte)",
+      "location": "Charlotte, NC",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=The+Hartford&job=b22092e2-6330-4c65-a3e9-adfeb96bbada&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_restricted/job/Charlotte-NC/Associate-Data-Engineer---Tech-Catalyst-Program--Charlotte-_R2626156"
+    },
+    {
+      "id": "2f8442eb-9429-4b3d-be09-d8d60a9599eb",
+      "company": "The Hartford",
+      "title": "Associate Software Engineer - Tech Catalyst Program (Hartford)",
+      "location": "Hartford, CT",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=The+Hartford&job=2f8442eb-9429-4b3d-be09-d8d60a9599eb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_restricted/job/Hartford-CT/Associate-Software-Engineer---Tech-Catalyst-Program--Hartford-_R2626149"
+    },
+    {
+      "id": "2b66c87c-c2ef-4ef0-ad35-134c4007b099",
+      "company": "The Hartford",
+      "title": "Associate Software Engineer - Tech Catalyst Program (Charlotte)",
+      "location": "Charlotte, NC",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=The+Hartford&job=2b66c87c-c2ef-4ef0-ad35-134c4007b099&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_restricted/job/Charlotte-NC/Associate-Software-Engineer---Tech-Catalyst-Program--Charlotte-_R2626157"
+    },
+    {
+      "id": "5b266785-cb73-4410-9b48-3326e1e3b43b",
+      "company": "Troweprice",
+      "title": "2026 Global Technology - Associate Software Engineer",
+      "location": "Owings Mills, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Troweprice&job=5b266785-cb73-4410-9b48-3326e1e3b43b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://troweprice.wd5.myworkdayjobs.com/troweprice/job/Owings-Mills-MD/XMLNAME-2026-Global-Technology---Associate-Software-Engineer_83580"
     },
     {
       "id": "d698a7e2-288b-4f46-9f3c-a2ed79d09263",
