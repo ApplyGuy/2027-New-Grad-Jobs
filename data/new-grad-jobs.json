@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T19:46:06.557Z",
+  "updatedAt": "2026-09-14T20:01:23.497Z",
   "jobs": [
     {
       "id": "a3c6a2b7-4e13-4eb2-b0cf-7c239a8366dd",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Fau&job=a3c6a2b7-4e13-4eb2-b0cf-7c239a8366dd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://fau.wd1.myworkdayjobs.com/fau/job/Boca-Raton/Software-Engineer-I_REQ22843"
+    },
+    {
+      "id": "4269dfb8-5be0-41c7-b5d0-28d20c9a5f51",
+      "company": "FIS",
+      "title": "Mainframe Software Engineer I, COBOL",
+      "location": "Atl 201 Ste 900, GA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=FIS&job=4269dfb8-5be0-41c7-b5d0-28d20c9a5f51&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-GA-ATL-201-STE-900/Mainframe-Software-Engineer-I--COBOL_JR0309079"
     },
     {
       "id": "custom:microsoft:03d65b2b10e701c197e7",
@@ -3577,6 +3589,18 @@
       "age": "59d",
       "url": "https://applyguy.ai/jobs?company=Dstaffing&job=3e877834-6843-425e-8923-1a154cb3807c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://dstaffing.bamboohr.com/careers/252"
+    },
+    {
+      "id": "7e87a1c0-66cf-4b7b-a98f-4a9a3bd21ec5",
+      "company": "Esri",
+      "title": "Software Engineer I - Front-End Engineer for ArcGIS Enterprise",
+      "location": "Redlands, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-07-17",
+      "age": "59d",
+      "url": "https://applyguy.ai/jobs?company=Esri&job=7e87a1c0-66cf-4b7b-a98f-4a9a3bd21ec5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://www.esri.com/careers/5190253007?gh_jid=5190253007"
     },
     {
       "id": "308bc69e-6c51-4609-8810-a45d884b0b50",
