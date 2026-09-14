@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T13:31:16.247Z",
+  "updatedAt": "2026-09-14T13:45:58.664Z",
   "jobs": [
     {
       "id": "d698a7e2-288b-4f46-9f3c-a2ed79d09263",
@@ -3528,18 +3528,6 @@
       "age": "59d",
       "url": "https://applyguy.ai/jobs?company=Quickenloans&job=9e29ba1f-d8c7-484a-bdb2-504d0f7a07ad&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Android-Mobile-Software-Developer-I_R-083752"
-    },
-    {
-      "id": "933abc8e-62d8-48d0-b5ea-eddefebae8ac",
-      "company": "LOGC2",
-      "title": "Jr. Software Developer",
-      "location": "Mechanicsburg, PA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-16",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=LOGC2&job=933abc8e-62d8-48d0-b5ea-eddefebae8ac&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4325339"
     }
   ]
 }
