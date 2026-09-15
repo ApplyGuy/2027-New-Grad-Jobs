@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T20:45:57.568Z",
+  "updatedAt": "2026-09-15T21:00:58.838Z",
   "jobs": [
     {
       "id": "b95d5123-d7e7-46ae-a35b-651c598480c6",
@@ -2898,6 +2898,18 @@
       "listingUrl": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Jr-Software-Engineer_REQ36188"
     },
     {
+      "id": "34488725-5fae-4e8e-bb49-d597c35da7ad",
+      "company": "Observe.AI",
+      "title": "Software Engineer I - AI Agents",
+      "location": "Redwood City, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-10",
+      "age": "36d",
+      "url": "https://applyguy.ai/jobs?company=Observe.AI&job=34488725-5fae-4e8e-bb49-d597c35da7ad&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://www.observe.ai/position?gh_jid=5383979008"
+    },
+    {
       "id": "c6d71385-a4cb-4e4c-b93a-217c21144e0f",
       "company": "PlayStation Global",
       "title": "Software Engineer I SDK",
@@ -3679,18 +3691,6 @@
       "age": "59d",
       "url": "https://applyguy.ai/jobs?company=Boeing&job=da5c85e9-e5da-4e40-9263-d3b1c86f878a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Omaha-NE/Software-Engineer_JR2026517990"
-    },
-    {
-      "id": "7e87a1c0-66cf-4b7b-a98f-4a9a3bd21ec5",
-      "company": "Esri",
-      "title": "Software Engineer I - Front-End Engineer for ArcGIS Enterprise",
-      "location": "Redlands, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-17",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Esri&job=7e87a1c0-66cf-4b7b-a98f-4a9a3bd21ec5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://www.esri.com/careers/5190253007?gh_jid=5190253007"
     }
   ]
 }
