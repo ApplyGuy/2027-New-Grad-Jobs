@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T02:01:12.737Z",
+  "updatedAt": "2026-09-15T02:16:11.227Z",
   "jobs": [
     {
       "id": "867c0bba-3cc3-40f1-9bd1-97516f147711",
@@ -62,6 +62,43 @@
       "listingUrl": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-GA-ATL-201-STE-900/Mainframe-Software-Engineer-I--COBOL_JR0309079"
     },
     {
+      "id": "ed6e3c41-4489-48e1-8ae0-35e582527bcb",
+      "company": "Leidos",
+      "title": "Junior Software Engineer",
+      "location": "Gaithersburg, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-14",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Leidos&job=ed6e3c41-4489-48e1-8ae0-35e582527bcb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Gaithersburg-MD/Junior-Software-Engineer_R-00191835-1"
+    },
+    {
+      "id": "19b1d4a3-8db3-4457-8e02-2a0e1c0c4363",
+      "company": "Leidos",
+      "title": "Junior Software Engineer",
+      "location": "Huntsville, AL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-14",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Leidos&job=19b1d4a3-8db3-4457-8e02-2a0e1c0c4363&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Huntsville-AL/Junior-Software-Engineer_R-00192168"
+    },
+    {
+      "id": "custom:microsoft:03d65b2b10e701c197e7",
+      "company": "Microsoft",
+      "title": "Software Engineering - Commercial Engineering & AI (CEAI)",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-14",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
+      "applySupported": false
+    },
+    {
       "id": "d60923bc-6507-43d0-8a32-6d6556621e27",
       "company": "Miter",
       "title": "Software Engineer (New Grad)",
@@ -110,6 +147,42 @@
       "listingUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7992129003"
     },
     {
+      "id": "d8d8356c-c84d-4186-8dcf-0b0b63e20fe6",
+      "company": "RTX",
+      "title": "HWIL Software Engineer I",
+      "location": "Tucson, AZ",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-14",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=d8d8356c-c84d-4186-8dcf-0b0b63e20fe6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/HWIL-Software-Engineer-I_01874565"
+    },
+    {
+      "id": "76e4a365-30a3-40f7-bb74-d65e38dcc8f7",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Mckinney, TX",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-14",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=76e4a365-30a3-40f7-bb74-d65e38dcc8f7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineer-I--Onsite-_01874333"
+    },
+    {
+      "id": "32e9dd5f-0b0c-415a-9ad3-c3d0d8350099",
+      "company": "RTX",
+      "title": "Software Engineer I -(Onsite)",
+      "location": "Ft Wayne, IN",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-14",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=32e9dd5f-0b0c-415a-9ad3-c3d0d8350099&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I---Onsite-_01868599"
+    },
+    {
       "id": "97574a65-99ce-4276-89f4-4c83e56dd71a",
       "company": "RTX",
       "title": "Software Engineer I (Onsite)",
@@ -120,18 +193,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=97574a65-99ce-4276-89f4-4c83e56dd71a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineer-I--Onsite-_01873683"
-    },
-    {
-      "id": "ec5f04dd-7472-4cec-8d68-d38489b6afaf",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Ft Wayne, IN",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-14",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=ec5f04dd-7472-4cec-8d68-d38489b6afaf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I--Onsite-_01871665"
     },
     {
       "id": "5850997b-e6e1-4f5e-a388-9f9ea1cd7baa",
@@ -542,6 +603,32 @@
       "listingUrl": "https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---ID1/New-College-Grad---IT-Software-Support-Engineer_JR111038"
     },
     {
+      "id": "custom:microsoft:f4b6d586c4abb39da011",
+      "company": "Microsoft",
+      "title": "Software Engineer",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-09",
+      "age": "6d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556988778",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556988778",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:05ae06ea68171c7895e2",
+      "company": "Microsoft",
+      "title": "Software Engineer Intune",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-09",
+      "age": "6d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556982925",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556982925",
+      "applySupported": false
+    },
+    {
       "id": "82c7e578-7191-4f90-9f82-84b889bc9699",
       "company": "Reagroup",
       "title": "Associate Software Engineer",
@@ -828,6 +915,45 @@
       "age": "11d",
       "url": "https://applyguy.ai/jobs?company=ID.me+University+Recruiting&job=668f9b14-c6f6-4307-bce7-7057313bfbc9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003"
+    },
+    {
+      "id": "custom:microsoft:bd09edb153d64145ce49",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Redmond, WA · Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-04",
+      "age": "11d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556926963",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556926963",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:698bf1cfd0197fa8f311",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-04",
+      "age": "11d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:d021de3d39fd02480f33",
+      "company": "Microsoft",
+      "title": "Software Engineering - CTJ - Poly",
+      "location": "Redmond, WA · Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-04",
+      "age": "11d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+      "applySupported": false
     },
     {
       "id": "75355fb4-c0cd-403e-87d8-a60e28a09e4b",
