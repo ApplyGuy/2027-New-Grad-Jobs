@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T21:00:58.838Z",
+  "updatedAt": "2026-09-15T21:15:59.775Z",
   "jobs": [
     {
       "id": "b95d5123-d7e7-46ae-a35b-651c598480c6",
@@ -50,6 +50,18 @@
       "listingUrl": "https://pros.wd5.myworkdayjobs.com/pros_careers/job/USA-TX-Houston-Office/Software-Engineer-I_R3608"
     },
     {
+      "id": "88ba169c-b8a6-48a5-9fd8-d6ac9e4f984e",
+      "company": "Relx",
+      "title": "Aspire Tech Graduate Software Engineer I",
+      "location": "Raleigh, NC",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-15",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Relx&job=88ba169c-b8a6-48a5-9fd8-d6ac9e4f984e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://relx.wd3.myworkdayjobs.com/lexisnexislegal/job/Raleigh-NC/Aspire-Tech-Graduate-Software-Engineer-I_R118694"
+    },
+    {
       "id": "42c222fd-6821-4224-88de-081e1bf78188",
       "company": "RTX",
       "title": "Software Engineer I (Onsite)",
@@ -60,6 +72,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=42c222fd-6821-4224-88de-081e1bf78188&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01873222"
+    },
+    {
+      "id": "39d7d21c-7804-44f4-8cc0-2036b0541364",
+      "company": "Wyetech",
+      "title": "Software Engineer 1",
+      "location": "Annapolis Junction, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-15",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Wyetech&job=39d7d21c-7804-44f4-8cc0-2036b0541364&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.lever.co/wyetechllc/b49f02db-cdd4-41f3-9036-50cf9c2ad86f"
     },
     {
       "id": "867c0bba-3cc3-40f1-9bd1-97516f147711",
@@ -624,18 +648,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=SEP&job=b0bd1779-565a-4338-98b2-00e7e779591d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/sep/f7ad9ffb-03dc-4fb2-9a92-e5f04a85ba08"
-    },
-    {
-      "id": "1cc938ba-fc0d-4be8-9657-568e46e2d030",
-      "company": "Wyetech",
-      "title": "Software Engineer 1",
-      "location": "Annapolis Junction, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-10",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Wyetech&job=1cc938ba-fc0d-4be8-9657-568e46e2d030&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.lever.co/wyetechllc/1fe7707e-a4c1-41ad-a189-893767e8d40e"
     },
     {
       "id": "613eec8e-bb6a-4e04-9800-7aeeb2ca7b7e",
