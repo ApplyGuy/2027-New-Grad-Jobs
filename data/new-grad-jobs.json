@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T06:00:59.555Z",
+  "updatedAt": "2026-09-15T06:15:59.302Z",
   "jobs": [
     {
       "id": "867c0bba-3cc3-40f1-9bd1-97516f147711",
@@ -228,6 +228,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=afc69f25-5f91-471d-875e-e2b3a9cfb972&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I--Onsite-_01867811"
+    },
+    {
+      "id": "815464ef-38a1-412e-ae4c-b6d37b6e97da",
+      "company": "Schweitzer Engineering Laboratories",
+      "title": "Associate Software Engineer",
+      "location": "Pullman, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-14",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Schweitzer+Engineering+Laboratories&job=815464ef-38a1-412e-ae4c-b6d37b6e97da&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://selinc.wd1.myworkdayjobs.com/sel/job/Washington---Pullman/Associate-Software-Engineer_2026-22492-1"
     },
     {
       "id": "5850997b-e6e1-4f5e-a388-9f9ea1cd7baa",
