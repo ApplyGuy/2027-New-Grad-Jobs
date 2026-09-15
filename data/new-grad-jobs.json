@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T01:31:10.426Z",
+  "updatedAt": "2026-09-15T01:45:56.345Z",
   "jobs": [
     {
       "id": "867c0bba-3cc3-40f1-9bd1-97516f147711",
@@ -24,6 +24,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Amat&job=bec44797-dba0-479b-82f7-b29e2a45ffb9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Algorithm-Developer-II_R2627187"
+    },
+    {
+      "id": "6c6078ff-4775-4eb7-bffd-d2ed06f468d0",
+      "company": "Defense Unicorns",
+      "title": "Associate Software Engineer",
+      "location": "Remote, U.S.",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-14",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Defense+Unicorns&job=6c6078ff-4775-4eb7-bffd-d2ed06f468d0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/defenseunicorns/jobs/5236927007"
     },
     {
       "id": "a3c6a2b7-4e13-4eb2-b0cf-7c239a8366dd",
