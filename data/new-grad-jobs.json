@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T00:15:44.373Z",
+  "updatedAt": "2026-09-15T00:30:50.782Z",
   "jobs": [
     {
       "id": "a3c6a2b7-4e13-4eb2-b0cf-7c239a8366dd",
@@ -24,6 +24,19 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=FIS&job=4269dfb8-5be0-41c7-b5d0-28d20c9a5f51&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-GA-ATL-201-STE-900/Mainframe-Software-Engineer-I--COBOL_JR0309079"
+    },
+    {
+      "id": "custom:microsoft:03d65b2b10e701c197e7",
+      "company": "Microsoft",
+      "title": "Software Engineering - Commercial Engineering & AI (CEAI)",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-14",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
+      "applySupported": false
     },
     {
       "id": "d60923bc-6507-43d0-8a32-6d6556621e27",
@@ -230,18 +243,6 @@
       "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Entry-Level-Simulation-Software-Engineer_JR2026516853"
     },
     {
-      "id": "b048e099-00f4-4bfc-8f2f-70c3e4e190f2",
-      "company": "Cisco",
-      "title": "Software Engineer I (Full Time) - United States",
-      "location": "Milpitas California",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-11",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=Cisco&job=b048e099-00f4-4bfc-8f2f-70c3e4e190f2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer-I--Full-Time----United-States_2023527"
-    },
-    {
       "id": "855b6921-1f85-407c-992e-d7d55c569e3d",
       "company": "Commure",
       "title": "Software Engineer, Early Career 2027",
@@ -252,18 +253,6 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Commure&job=855b6921-1f85-407c-992e-d7d55c569e3d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/commure/c6a735ef-3d84-4447-94a9-9e8b2dfefced"
-    },
-    {
-      "id": "9ecdb2ab-4a49-4f0c-a29f-137b5fc00264",
-      "company": "Kbr",
-      "title": "Junior Software Developer",
-      "location": "Beavercreek Township, OH",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-11",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=Kbr&job=9ecdb2ab-4a49-4f0c-a29f-137b5fc00264&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Beavercreek-Township-Ohio/Junior-Software-Developer_R2129761-1"
     },
     {
       "id": "abfacdb1-6826-4555-b9c4-e73216d5ba55",
@@ -410,18 +399,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/grvty/jobs/4401839009"
     },
     {
-      "id": "8279f72f-43a4-48b2-b7f3-1a586fa82a2e",
-      "company": "Pae",
-      "title": "Entry Level Software Engineer",
-      "location": "Dahlgren, VA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-09-10",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Pae&job=8279f72f-43a4-48b2-b7f3-1a586fa82a2e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0148259"
-    },
-    {
       "id": "b310c759-af3b-4ee9-abcc-2ad90dc2a16c",
       "company": "Rover.com",
       "title": "Entry Level Software Engineer, Recommendations",
@@ -456,18 +433,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=SEP&job=b0bd1779-565a-4338-98b2-00e7e779591d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/sep/f7ad9ffb-03dc-4fb2-9a92-e5f04a85ba08"
-    },
-    {
-      "id": "2786da90-3497-4738-847b-68df90f5dc49",
-      "company": "U.S. Bank",
-      "title": ".NET Software Engineer 1",
-      "location": "Cincinnati, OH",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-10",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=U.S.+Bank&job=2786da90-3497-4738-847b-68df90f5dc49&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Cincinnati-OH/XMLNAME-NET-Software-Engineer-1_2026-0026601-1"
     },
     {
       "id": "1cc938ba-fc0d-4be8-9657-568e46e2d030",
@@ -554,16 +519,30 @@
       "listingUrl": "https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---ID1/New-College-Grad---IT-Software-Support-Engineer_JR111038"
     },
     {
-      "id": "26692fb9-c086-4ab5-9381-3014e707c425",
-      "company": "Radiancetech",
-      "title": "Junior Software Engineer",
-      "location": "Dayton, OH",
+      "id": "custom:microsoft:f4b6d586c4abb39da011",
+      "company": "Microsoft",
+      "title": "Software Engineer",
+      "location": "Redmond, WA",
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-09-09",
       "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=Radiancetech&job=26692fb9-c086-4ab5-9381-3014e707c425&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://radiancetech.wd12.myworkdayjobs.com/radiance_external/job/Dayton-Office/Junior-Software-Engineer_HR102399"
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556988778",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556988778",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:05ae06ea68171c7895e2",
+      "company": "Microsoft",
+      "title": "Software Engineer Intune",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-09",
+      "age": "6d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556982925",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556982925",
+      "applySupported": false
     },
     {
       "id": "82c7e578-7191-4f90-9f82-84b889bc9699",
@@ -710,18 +689,6 @@
       "listingUrl": "https://nexthopai.bamboohr.com/careers/107"
     },
     {
-      "id": "d3cbd77f-94fc-43e2-a36e-8eae7593a6fb",
-      "company": "RTX",
-      "title": "EOIR Advanced Products and Solutions- Software Engineer I (Onsite)",
-      "location": "Mckinney, TX",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-08",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=d3cbd77f-94fc-43e2-a36e-8eae7593a6fb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/EOIR-Advanced-Products-and-Solutions--Software-Engineer-I--Onsite-_01872528"
-    },
-    {
       "id": "6e3a8b7c-8aa7-4062-a36f-479c3913d38c",
       "company": "SpaceX",
       "title": "New Graduate Engineer, Software (Starship)",
@@ -866,6 +833,45 @@
       "listingUrl": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003"
     },
     {
+      "id": "custom:microsoft:bd09edb153d64145ce49",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Redmond, WA · Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-04",
+      "age": "11d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556926963",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556926963",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:698bf1cfd0197fa8f311",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-04",
+      "age": "11d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:d021de3d39fd02480f33",
+      "company": "Microsoft",
+      "title": "Software Engineering - CTJ - Poly",
+      "location": "Redmond, WA · Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-04",
+      "age": "11d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+      "applySupported": false
+    },
+    {
       "id": "75355fb4-c0cd-403e-87d8-a60e28a09e4b",
       "company": "Scale AI",
       "title": "Software Engineer - New Grad",
@@ -936,18 +942,6 @@
       "age": "12d",
       "url": "https://applyguy.ai/jobs?company=Kikoff&job=94f54c1b-2287-451f-99c1-dbea26389cdf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/kikoff/jobs/4393822009"
-    },
-    {
-      "id": "9456111d-c672-4086-a5a6-5f4c39c13c68",
-      "company": "Leidos",
-      "title": "Junior Software Engineer",
-      "location": "Huntsville, AL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-03",
-      "age": "12d",
-      "url": "https://applyguy.ai/jobs?company=Leidos&job=9456111d-c672-4086-a5a6-5f4c39c13c68&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Huntsville-AL/Junior-Software-Engineer_R-00191407"
     },
     {
       "id": "acdb4a13-5c0b-4db3-a175-04d356c4a4b6",
@@ -1032,18 +1026,6 @@
       "age": "13d",
       "url": "https://applyguy.ai/jobs?company=Jaxon+Engineering+and+Maintenance&job=a95da467-1f87-4bf5-a076-e5fe019d9fa8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4475286"
-    },
-    {
-      "id": "fe46e18c-6cf4-450c-ac9f-05641c8e825a",
-      "company": "Northrop Grumman",
-      "title": "Associate Software Engineer / Software Engineer",
-      "location": "Huntsville, AL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-02",
-      "age": "13d",
-      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=fe46e18c-6cf4-450c-ac9f-05641c8e825a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/Associate-Software-Engineer---Software-Engineer_R10249088"
     },
     {
       "id": "5130aaf0-75e8-4737-a548-89e0b95e7378",
@@ -2632,18 +2614,6 @@
       "age": "34d",
       "url": "https://applyguy.ai/jobs?company=General+Matter&job=c4656b86-d950-4d6a-bb5f-dfa3b1f9721d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/generalmatter/jobs/5375987008"
-    },
-    {
-      "id": "e53effa5-c25a-4154-b524-b92fafd1b446",
-      "company": "Lennar",
-      "title": "Software Engineer I",
-      "location": "Miami, FL (Job Posting Location)",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-12",
-      "age": "34d",
-      "url": "https://applyguy.ai/jobs?company=Lennar&job=e53effa5-c25a-4154-b524-b92fafd1b446&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://lennar.wd1.myworkdayjobs.com/lennar_jobs/job/Miami-FL-Job-Posting-Location/Software-Engineer-I_R26_0000003523"
     },
     {
       "id": "6785ade0-9b1f-4061-9bf7-00e561ce9a74",
