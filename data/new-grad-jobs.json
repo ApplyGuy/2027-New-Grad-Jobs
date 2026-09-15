@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T00:00:44.435Z",
+  "updatedAt": "2026-09-15T00:15:44.373Z",
   "jobs": [
     {
       "id": "a3c6a2b7-4e13-4eb2-b0cf-7c239a8366dd",
@@ -24,6 +24,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=FIS&job=4269dfb8-5be0-41c7-b5d0-28d20c9a5f51&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-GA-ATL-201-STE-900/Mainframe-Software-Engineer-I--COBOL_JR0309079"
+    },
+    {
+      "id": "d60923bc-6507-43d0-8a32-6d6556621e27",
+      "company": "Miter",
+      "title": "Software Engineer (New Grad)",
+      "location": "New York City, NY",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-14",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Miter&job=d60923bc-6507-43d0-8a32-6d6556621e27&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.ashbyhq.com/miter/f4567649-a0eb-445d-bd00-a0673a26ec6d"
     },
     {
       "id": "cd4a62d9-c4c5-4416-ade7-81769d1a5c60",
@@ -3595,18 +3607,6 @@
       "age": "60d",
       "url": "https://applyguy.ai/jobs?company=Esri&job=7e87a1c0-66cf-4b7b-a98f-4a9a3bd21ec5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.esri.com/careers/5190253007?gh_jid=5190253007"
-    },
-    {
-      "id": "194b37d9-f974-494d-93e0-f466d4d50e75",
-      "company": "PlayStation Global",
-      "title": "Software Engineer I",
-      "location": "United States",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-17",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=PlayStation+Global&job=194b37d9-f974-494d-93e0-f466d4d50e75&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6104600004"
     }
   ]
 }
