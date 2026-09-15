@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-09-15T00:46:09.181Z",
+  "updatedAt": "2026-09-15T01:01:15.093Z",
   "jobs": [
+    {
+      "id": "867c0bba-3cc3-40f1-9bd1-97516f147711",
+      "company": "Amat",
+      "title": "New College Grad - Algorithm Developer III - PhD (Winter 2026 Start)",
+      "location": "Santa Clara, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-14",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Amat&job=867c0bba-3cc3-40f1-9bd1-97516f147711&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/New-College-Grad---Algorithm-Developer-III---PhD--Winter-2026-Start-_R2628587"
+    },
+    {
+      "id": "bec44797-dba0-479b-82f7-b29e2a45ffb9",
+      "company": "Amat",
+      "title": "Algorithm Developer II New College Grad- Master's (Santa Clara, CA)",
+      "location": "Santa Clara, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-14",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Amat&job=bec44797-dba0-479b-82f7-b29e2a45ffb9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Algorithm-Developer-II_R2627187"
+    },
     {
       "id": "a3c6a2b7-4e13-4eb2-b0cf-7c239a8366dd",
       "company": "Fau",
