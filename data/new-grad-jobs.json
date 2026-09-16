@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T14:31:01.072Z",
+  "updatedAt": "2026-09-16T14:46:06.580Z",
   "jobs": [
     {
       "id": "4ae91e9e-8159-4f51-b744-86fb3ec70322",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Guidestone&job=4ae91e9e-8159-4f51-b744-86fb3ec70322&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://guidestone.wd1.myworkdayjobs.com/guidestone/job/Dallas-TX/Associate-Software-Developer_R1989"
+    },
+    {
+      "id": "3dae7aa6-192e-4113-af12-1f24f3d6feda",
+      "company": "Icf",
+      "title": "Junior Software Engineer (Entry level - Remote US)",
+      "location": "Reston, VA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-16",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Icf&job=3dae7aa6-192e-4113-af12-1f24f3d6feda&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Junior-Software-Engineer--Entry-level---Remote-US-_R2603054"
     },
     {
       "id": "5b79fc97-49ab-4858-b5ac-b2ead6015260",
@@ -110,7 +122,7 @@
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4507528"
     },
     {
-      "id": "ecd3c350-4582-431e-9c9b-14104e1254d0",
+      "id": "b1466a53-00c5-482a-a210-64040844feb7",
       "company": "NVIDIA",
       "title": "Software Engineer, Coding Agent Harness Engineering -  New College Grad 2026",
       "location": "Santa Clara, CA",
@@ -118,8 +130,8 @@
       "matchKind": "explicit",
       "posted": "2026-09-15",
       "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=ecd3c350-4582-431e-9c9b-14104e1254d0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Coding-Agent-Harness-Engineering----New-College-Grad-2026_JR2023749"
+      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=b1466a53-00c5-482a-a210-64040844feb7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Coding-Agent-Harness-Engineering----New-College-Grad-2026_JR2023749"
     },
     {
       "id": "adf76023-239b-44cb-8475-f27a6019fd65",
