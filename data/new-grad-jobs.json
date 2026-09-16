@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T01:15:57.043Z",
+  "updatedAt": "2026-09-16T01:31:01.422Z",
   "jobs": [
     {
       "id": "b95d5123-d7e7-46ae-a35b-651c598480c6",
@@ -230,6 +230,19 @@
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Huntsville-AL/Junior-Software-Engineer_R-00192168"
     },
     {
+      "id": "custom:microsoft:03d65b2b10e701c197e7",
+      "company": "Microsoft",
+      "title": "Software Engineering - Commercial Engineering & AI (CEAI)",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-14",
+      "age": "2d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
+      "applySupported": false
+    },
+    {
       "id": "d60923bc-6507-43d0-8a32-6d6556621e27",
       "company": "Miter",
       "title": "Software Engineer (New Grad)",
@@ -372,42 +385,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=The+Hartford&job=b4818ac4-2dd4-4006-a68a-d0419ae8678c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_restricted/job/Hartford-CT/Associate-Data-Engineer---Tech-Catalyst-Program--Hartford-_R2626150"
-    },
-    {
-      "id": "b22092e2-6330-4c65-a3e9-adfeb96bbada",
-      "company": "The Hartford",
-      "title": "Associate Data Engineer - Tech Catalyst Program (Charlotte)",
-      "location": "Charlotte, NC",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-14",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=The+Hartford&job=b22092e2-6330-4c65-a3e9-adfeb96bbada&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_restricted/job/Charlotte-NC/Associate-Data-Engineer---Tech-Catalyst-Program--Charlotte-_R2626156"
-    },
-    {
-      "id": "2f8442eb-9429-4b3d-be09-d8d60a9599eb",
-      "company": "The Hartford",
-      "title": "Associate Software Engineer - Tech Catalyst Program (Hartford)",
-      "location": "Hartford, CT",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-14",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=The+Hartford&job=2f8442eb-9429-4b3d-be09-d8d60a9599eb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_restricted/job/Hartford-CT/Associate-Software-Engineer---Tech-Catalyst-Program--Hartford-_R2626149"
-    },
-    {
-      "id": "2b66c87c-c2ef-4ef0-ad35-134c4007b099",
-      "company": "The Hartford",
-      "title": "Associate Software Engineer - Tech Catalyst Program (Charlotte)",
-      "location": "Charlotte, NC",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-14",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=The+Hartford&job=2b66c87c-c2ef-4ef0-ad35-134c4007b099&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_restricted/job/Charlotte-NC/Associate-Software-Engineer---Tech-Catalyst-Program--Charlotte-_R2626157"
     },
     {
       "id": "5b266785-cb73-4410-9b48-3326e1e3b43b",
@@ -650,18 +627,6 @@
       "listingUrl": "https://jobs.lever.co/rover/303b3b2f-9679-4a77-8908-456e29240486"
     },
     {
-      "id": "f4bfcb17-575d-4296-a7c9-314c7a98e0d1",
-      "company": "RTX",
-      "title": "Software Engineer  I (Onsite)",
-      "location": "Cedar Rapids, IA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-10",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=f4bfcb17-575d-4296-a7c9-314c7a98e0d1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineer--I--Onsite-_01871993"
-    },
-    {
       "id": "b0bd1779-565a-4338-98b2-00e7e779591d",
       "company": "SEP",
       "title": "Software Engineer (2027 start dates, in person)",
@@ -758,6 +723,19 @@
       "listingUrl": "https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---ID1/New-College-Grad---IT-Software-Support-Engineer_JR111038"
     },
     {
+      "id": "custom:microsoft:05ae06ea68171c7895e2",
+      "company": "Microsoft",
+      "title": "Software Engineer Intune",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-09",
+      "age": "7d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556982925",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556982925",
+      "applySupported": false
+    },
+    {
       "id": "82c7e578-7191-4f90-9f82-84b889bc9699",
       "company": "Reagroup",
       "title": "Associate Software Engineer",
@@ -842,18 +820,6 @@
       "listingUrl": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4967177101"
     },
     {
-      "id": "5df9abb9-bcf0-42bc-b05b-9d14d2825e22",
-      "company": "U.S. Bank",
-      "title": "Software engineer 1 – AI/ML Engineer (Generative AI)",
-      "location": "Chicago, IL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-09",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=U.S.+Bank&job=5df9abb9-bcf0-42bc-b05b-9d14d2825e22&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Chicago-IL/Software-engineer-1---AI-ML-Engineer--Generative-AI-_2026-0027055"
-    },
-    {
       "id": "c3ccada2-7560-4614-95e7-987f4af715b5",
       "company": "AeroVironment",
       "title": "Software Engineer I",
@@ -876,6 +842,19 @@
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=Cursor&job=37baf769-069f-40b0-ba97-9a6eb7bc133b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b"
+    },
+    {
+      "id": "custom:microsoft:a17359d2298b5002e3a3",
+      "company": "Microsoft",
+      "title": "Software Engineer",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-08",
+      "age": "8d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556985572",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556985572",
+      "applySupported": false
     },
     {
       "id": "768a88ec-f203-4d61-a5b7-dae28e780594",
@@ -1032,6 +1011,45 @@
       "age": "12d",
       "url": "https://applyguy.ai/jobs?company=ID.me+University+Recruiting&job=668f9b14-c6f6-4307-bce7-7057313bfbc9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003"
+    },
+    {
+      "id": "custom:microsoft:bd09edb153d64145ce49",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Redmond, WA · Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-04",
+      "age": "12d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556926963",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556926963",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:698bf1cfd0197fa8f311",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-04",
+      "age": "12d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:d021de3d39fd02480f33",
+      "company": "Microsoft",
+      "title": "Software Engineering - CTJ - Poly",
+      "location": "Redmond, WA · Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-04",
+      "age": "12d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+      "applySupported": false
     },
     {
       "id": "75355fb4-c0cd-403e-87d8-a60e28a09e4b",
@@ -3041,18 +3059,6 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/78703249065943750-software-engineer-early-career-campus",
       "listingUrl": "https://www.google.com/about/careers/applications/jobs/results/78703249065943750-software-engineer-early-career-campus",
       "applySupported": false
-    },
-    {
-      "id": "a718502a-160b-40d5-aa4c-81d75129ef04",
-      "company": "Jci",
-      "title": "Embedded Software Engineer I - Product Development",
-      "location": "New Freedom-Pennsylvania-United States of America",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-07",
-      "age": "40d",
-      "url": "https://applyguy.ai/jobs?company=Jci&job=a718502a-160b-40d5-aa4c-81d75129ef04&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jci.wd5.myworkdayjobs.com/jci/job/New-Freedom-Pennsylvania-United-States-of-America/Embedded-Software-Engineer-I---Product-Development_WD30272369"
     },
     {
       "id": "a0acf9f7-cb61-4956-a59d-ea9c7940e70a",
