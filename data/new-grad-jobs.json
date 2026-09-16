@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T03:01:22.308Z",
+  "updatedAt": "2026-09-16T03:15:59.063Z",
   "jobs": [
     {
       "id": "b95d5123-d7e7-46ae-a35b-651c598480c6",
@@ -156,6 +156,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=42c222fd-6821-4224-88de-081e1bf78188&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01873222"
+    },
+    {
+      "id": "e9642ed3-0d44-4443-9e87-16694e86283a",
+      "company": "SingleStore",
+      "title": "Software Engineer-New Grad 2027",
+      "location": "United States",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-15",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=SingleStore&job=e9642ed3-0d44-4443-9e87-16694e86283a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/singlestore/jobs/8205427"
     },
     {
       "id": "6b4461a5-e824-4f9e-a72a-78d35196503e",
