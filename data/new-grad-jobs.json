@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T21:31:21.333Z",
+  "updatedAt": "2026-09-16T21:45:54.012Z",
   "jobs": [
     {
       "id": "4ae91e9e-8159-4f51-b744-86fb3ec70322",
@@ -96,6 +96,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=164b6ab2-b9cb-4b65-8af7-f4f6554ff5b9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01873299"
+    },
+    {
+      "id": "9bab672d-59f7-44fe-a490-a5e0235c68cf",
+      "company": "Statestreet",
+      "title": "Junior Software Engineer",
+      "location": "Quincy, MA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-16",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Statestreet&job=9bab672d-59f7-44fe-a490-a5e0235c68cf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Junior-Software-Engineer_R-797359-2"
     },
     {
       "id": "ada42bac-7871-46d2-a2c6-974efc073c2f",
