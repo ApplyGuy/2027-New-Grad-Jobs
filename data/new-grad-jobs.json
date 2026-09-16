@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T02:01:06.863Z",
+  "updatedAt": "2026-09-16T02:16:26.055Z",
   "jobs": [
     {
       "id": "b95d5123-d7e7-46ae-a35b-651c598480c6",
@@ -72,6 +72,66 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Relx&job=88ba169c-b8a6-48a5-9fd8-d6ac9e4f984e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://relx.wd3.myworkdayjobs.com/lexisnexislegal/job/Raleigh-NC/Aspire-Tech-Graduate-Software-Engineer-I_R118694"
+    },
+    {
+      "id": "800a2711-d3ac-40d4-84b7-d96498701827",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Portsmouth, RI",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-15",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=800a2711-d3ac-40d4-84b7-d96498701827&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/Software-Engineer-I--Onsite-_01874854"
+    },
+    {
+      "id": "7705ec67-a229-4b0b-ab8a-e6e8ffb8c273",
+      "company": "RTX",
+      "title": "Software Engineer I (Hybrid - Aguadilla, PR)",
+      "location": "Aguadilla, PR",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-15",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=7705ec67-a229-4b0b-ab8a-e6e8ffb8c273&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--Hybrid---Aguadilla--PR-_01874753"
+    },
+    {
+      "id": "3918bf70-7759-4727-9479-673887d581b1",
+      "company": "RTX",
+      "title": "Software Engineer I(Onsite)",
+      "location": "Ft Wayne, IN",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-15",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=3918bf70-7759-4727-9479-673887d581b1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I-Onsite-_01875442"
+    },
+    {
+      "id": "dc88075b-cfb4-474b-aac8-4bfa883c1bcb",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Marlborough, MA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-15",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=dc88075b-cfb4-474b-aac8-4bfa883c1bcb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineer-I--Onsite-_01874953"
+    },
+    {
+      "id": "70f2c6c6-2552-4478-84e9-57e8703ddf0a",
+      "company": "RTX",
+      "title": "Embedded Software Engineer I (Hybrid - Aguadilla, PR)",
+      "location": "Aguadilla, PR",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-15",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=70f2c6c6-2552-4478-84e9-57e8703ddf0a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Embedded-Software-Engineer-I--Hybrid---Aguadilla--PR-_01874631"
     },
     {
       "id": "42c222fd-6821-4224-88de-081e1bf78188",
@@ -218,18 +278,6 @@
       "listingUrl": "https://iqvia.wd1.myworkdayjobs.com/iqvia/job/Kansas-City-MO/MedTech-Field-Service-Software-Tech-Entry-Level---Central-Time-Zone_R1568795"
     },
     {
-      "id": "ed6e3c41-4489-48e1-8ae0-35e582527bcb",
-      "company": "Leidos",
-      "title": "Junior Software Engineer",
-      "location": "Gaithersburg, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-14",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=Leidos&job=ed6e3c41-4489-48e1-8ae0-35e582527bcb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Gaithersburg-MD/Junior-Software-Engineer_R-00191835-1"
-    },
-    {
       "id": "19b1d4a3-8db3-4457-8e02-2a0e1c0c4363",
       "company": "Leidos",
       "title": "Junior Software Engineer",
@@ -327,18 +375,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineer-I--Onsite-_01874333"
     },
     {
-      "id": "32e9dd5f-0b0c-415a-9ad3-c3d0d8350099",
-      "company": "RTX",
-      "title": "Software Engineer I -(Onsite)",
-      "location": "Ft Wayne, IN",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-14",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=32e9dd5f-0b0c-415a-9ad3-c3d0d8350099&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I---Onsite-_01868599"
-    },
-    {
       "id": "97574a65-99ce-4276-89f4-4c83e56dd71a",
       "company": "RTX",
       "title": "Software Engineer I (Onsite)",
@@ -349,18 +385,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=97574a65-99ce-4276-89f4-4c83e56dd71a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineer-I--Onsite-_01873683"
-    },
-    {
-      "id": "afc69f25-5f91-471d-875e-e2b3a9cfb972",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Marlborough, MA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-14",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=afc69f25-5f91-471d-875e-e2b3a9cfb972&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I--Onsite-_01867811"
     },
     {
       "id": "815464ef-38a1-412e-ae4c-b6d37b6e97da",
