@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T21:16:27.127Z",
+  "updatedAt": "2026-09-16T21:31:21.333Z",
   "jobs": [
     {
       "id": "4ae91e9e-8159-4f51-b744-86fb3ec70322",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Icf&job=3dae7aa6-192e-4113-af12-1f24f3d6feda&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Junior-Software-Engineer--Entry-level---Remote-US-_R2603054"
+    },
+    {
+      "id": "38b2520b-1b04-4f0b-bbb9-4c07a2d0486f",
+      "company": "Quickenloans",
+      "title": "Software Developer I - Tours and Consults",
+      "location": "Seattle, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-16",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Quickenloans&job=38b2520b-1b04-4f0b-bbb9-4c07a2d0486f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Software-Developer-I---Tours-and-Consults_R-084641"
     },
     {
       "id": "8e0f2dfd-4351-4521-9fb0-f517ed65d970",
