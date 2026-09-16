@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T02:16:26.055Z",
+  "updatedAt": "2026-09-16T02:31:16.776Z",
   "jobs": [
     {
       "id": "b95d5123-d7e7-46ae-a35b-651c598480c6",
@@ -48,6 +48,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Isu&job=1a69b706-c986-4354-b1b4-a2dedc737160&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://isu.wd1.myworkdayjobs.com/iowastatejobs/job/Ames-IA/Software-Developer-I_R19926"
+    },
+    {
+      "id": "34544929-bbc2-4a51-a1f2-b6b1cb4fd5c5",
+      "company": "Millennial Software Solutions Inc",
+      "title": "Entry Level Full Stack Developer- $65K-$116K + 15% 401k",
+      "location": "Chantilly, VA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-15",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Millennial+Software+Solutions+Inc&job=34544929-bbc2-4a51-a1f2-b6b1cb4fd5c5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4507528"
     },
     {
       "id": "adf76023-239b-44cb-8475-f27a6019fd65",
