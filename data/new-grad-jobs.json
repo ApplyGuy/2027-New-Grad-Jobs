@@ -1,6 +1,54 @@
 {
-  "updatedAt": "2026-09-16T14:16:21.189Z",
+  "updatedAt": "2026-09-16T14:31:01.072Z",
   "jobs": [
+    {
+      "id": "4ae91e9e-8159-4f51-b744-86fb3ec70322",
+      "company": "Guidestone",
+      "title": "Associate Software Developer",
+      "location": "Dallas, TX",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-16",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Guidestone&job=4ae91e9e-8159-4f51-b744-86fb3ec70322&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://guidestone.wd1.myworkdayjobs.com/guidestone/job/Dallas-TX/Associate-Software-Developer_R1989"
+    },
+    {
+      "id": "5b79fc97-49ab-4858-b5ac-b2ead6015260",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Tewksbury, MA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-16",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=5b79fc97-49ab-4858-b5ac-b2ead6015260&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01875565"
+    },
+    {
+      "id": "480f9b78-725a-460c-9e9d-8769c4f065b6",
+      "company": "RTX",
+      "title": "Software Engineer I - Test",
+      "location": "Tucson, AZ",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-16",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=480f9b78-725a-460c-9e9d-8769c4f065b6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I---Test_01873961"
+    },
+    {
+      "id": "164b6ab2-b9cb-4b65-8af7-f4f6554ff5b9",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Marlborough, MA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-16",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=164b6ab2-b9cb-4b65-8af7-f4f6554ff5b9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01873299"
+    },
     {
       "id": "e96e34b2-ad2c-4492-8943-5536192a9f28",
       "company": "Coram AI",
@@ -122,30 +170,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--Hybrid---Aguadilla--PR-_01874753"
     },
     {
-      "id": "3918bf70-7759-4727-9479-673887d581b1",
-      "company": "RTX",
-      "title": "Software Engineer I(Onsite)",
-      "location": "Ft Wayne, IN",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-15",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=3918bf70-7759-4727-9479-673887d581b1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I-Onsite-_01875442"
-    },
-    {
-      "id": "dc88075b-cfb4-474b-aac8-4bfa883c1bcb",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Marlborough, MA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-15",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=dc88075b-cfb4-474b-aac8-4bfa883c1bcb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineer-I--Onsite-_01874953"
-    },
-    {
       "id": "70f2c6c6-2552-4478-84e9-57e8703ddf0a",
       "company": "RTX",
       "title": "Embedded Software Engineer I (Hybrid - Aguadilla, PR)",
@@ -168,18 +192,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=ef963804-ad0c-4153-a2d7-21a2b2028b90&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineer-I--Onsite-_01874924"
-    },
-    {
-      "id": "42c222fd-6821-4224-88de-081e1bf78188",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Tewksbury, MA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-15",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=42c222fd-6821-4224-88de-081e1bf78188&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01873222"
     },
     {
       "id": "e9642ed3-0d44-4443-9e87-16694e86283a",
@@ -421,6 +433,18 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=76e4a365-30a3-40f7-bb74-d65e38dcc8f7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineer-I--Onsite-_01874333"
+    },
+    {
+      "id": "32e9dd5f-0b0c-415a-9ad3-c3d0d8350099",
+      "company": "RTX",
+      "title": "Software Engineer I -(Onsite)",
+      "location": "Ft Wayne, IN",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-14",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=32e9dd5f-0b0c-415a-9ad3-c3d0d8350099&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I---Onsite-_01868599"
     },
     {
       "id": "97574a65-99ce-4276-89f4-4c83e56dd71a",
