@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T07:01:13.487Z",
+  "updatedAt": "2026-09-17T07:16:13.398Z",
   "jobs": [
     {
       "id": "10350c62-2f11-41b5-b415-244fb10594ba",
@@ -913,19 +913,6 @@
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=Micron&job=a1c443d8-4532-43be-9b3d-fdb7bc943a55&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---ID1/New-College-Grad---IT-Software-Support-Engineer_JR111038"
-    },
-    {
-      "id": "custom:microsoft:05ae06ea68171c7895e2",
-      "company": "Microsoft",
-      "title": "Software Engineer Intune",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-09",
-      "age": "8d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556982925",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556982925",
-      "applySupported": false
     },
     {
       "id": "82c7e578-7191-4f90-9f82-84b889bc9699",
