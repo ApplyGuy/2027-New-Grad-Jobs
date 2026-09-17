@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T00:30:53.979Z",
+  "updatedAt": "2026-09-17T00:45:53.470Z",
   "jobs": [
     {
       "id": "4ae91e9e-8159-4f51-b744-86fb3ec70322",
@@ -1281,7 +1281,7 @@
     {
       "id": "ff7c3998-02a3-4405-b8d5-29f975f01cde",
       "company": "Applied Intuition",
-      "title": "Cybersecurity Software Engineer - New Grad (December 2027)",
+      "title": "Cybersecurity Software Engineer - New Grad (December 2026)",
       "location": "Sunnyvale, CA",
       "eligibility": "New Grad",
       "matchKind": "explicit",
@@ -2665,7 +2665,7 @@
     {
       "id": "4e9581e3-cbf2-4caa-bbb2-b96048d02f06",
       "company": "Applied Intuition",
-      "title": "Embedded Software Engineer - New Grad (2027)",
+      "title": "Embedded Software Engineer - New Grad (December 2026)",
       "location": "Sunnyvale, CA",
       "eligibility": "New Grad",
       "matchKind": "explicit",
@@ -2689,7 +2689,7 @@
     {
       "id": "01e6b429-83f6-4521-bd92-14dd603b4d61",
       "company": "Applied Intuition",
-      "title": "Software Integration Engineer - New Grad (2027)",
+      "title": "Software Integration Engineer - New Grad (December 2026)",
       "location": "Sunnyvale, CA",
       "eligibility": "New Grad",
       "matchKind": "explicit",
