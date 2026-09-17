@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T02:16:07.729Z",
+  "updatedAt": "2026-09-17T02:31:19.826Z",
   "jobs": [
     {
       "id": "10350c62-2f11-41b5-b415-244fb10594ba",
@@ -62,6 +62,18 @@
       "listingUrl": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Junior-Software-Engineer--Entry-level---Remote-US-_R2603054"
     },
     {
+      "id": "434e5324-68fa-4d6f-ada0-7a566d01813b",
+      "company": "PRECISE SOFTWARE SOLUTIONS INCORPORATED",
+      "title": "Junior Software Engineer/QA",
+      "location": "Remote, U.S.",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-16",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=PRECISE+SOFTWARE+SOLUTIONS+INCORPORATED&job=434e5324-68fa-4d6f-ada0-7a566d01813b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4512078"
+    },
+    {
       "id": "38b2520b-1b04-4f0b-bbb9-4c07a2d0486f",
       "company": "Quickenloans",
       "title": "Software Developer I - Tours and Consults",
@@ -72,6 +84,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Quickenloans&job=38b2520b-1b04-4f0b-bbb9-4c07a2d0486f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Software-Developer-I---Tours-and-Consults_R-084641"
+    },
+    {
+      "id": "60d4ddc4-d190-4bb2-b40b-d5200bb62d12",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Cedar Rapids, IA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-16",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=60d4ddc4-d190-4bb2-b40b-d5200bb62d12&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2026-Collins-Full-Time---System-Integration-Software-Engineer-I---Cedar-Rapids--IA--Onsite-_01850421"
     },
     {
       "id": "8e0f2dfd-4351-4521-9fb0-f517ed65d970",
