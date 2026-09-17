@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T04:31:24.398Z",
+  "updatedAt": "2026-09-17T04:46:05.729Z",
   "jobs": [
     {
       "id": "10350c62-2f11-41b5-b415-244fb10594ba",
@@ -348,30 +348,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=SingleStore&job=e9642ed3-0d44-4443-9e87-16694e86283a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/singlestore/jobs/8205427"
-    },
-    {
-      "id": "6b4461a5-e824-4f9e-a72a-78d35196503e",
-      "company": "The Hartford",
-      "title": "Associate Data Engineer - Tech Catalyst Program (All Locations)",
-      "location": "Hartford, CT",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-15",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=The+Hartford&job=6b4461a5-e824-4f9e-a72a-78d35196503e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_restricted/job/Hartford-CT/Associate-Data-Engineer---Tech-Catalyst-Program--All-Locations-_R2627076"
-    },
-    {
-      "id": "3bcfa991-f4ab-4e6a-baf2-dd8471549654",
-      "company": "The Hartford",
-      "title": "Associate Software Engineer - Tech Catalyst Program (All Locations)",
-      "location": "Hartford, CT",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-15",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=The+Hartford&job=3bcfa991-f4ab-4e6a-baf2-dd8471549654&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_restricted/job/Hartford-CT/Associate-Software-Engineer---Tech-Catalyst-Program--All-Locations-_R2627074"
     },
     {
       "id": "39d7d21c-7804-44f4-8cc0-2036b0541364",
@@ -1507,18 +1483,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/myfundedfutures/jobs/4390595009"
     },
     {
-      "id": "5299d0ef-45f7-47c0-b134-797d4eae09e7",
-      "company": "RTX",
-      "title": "Software Engineer I (Hybrid) Arlington, VA & Cambridge, MA",
-      "location": "Arlington, VA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-01",
-      "age": "16d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=5299d0ef-45f7-47c0-b134-797d4eae09e7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-VA-ARLINGTON-111--1300-17Th-St-N--BBN-ARLINGTON/Software-Engineer-I--Hybrid--Arlington--VA---Cambridge--MA_01870647"
-    },
-    {
       "id": "d2c137f3-fd69-4831-b9e2-4ca61013a88e",
       "company": "Sentrilock LLC",
       "title": "Software Engineer I - Cloud Engineer",
@@ -2202,18 +2166,6 @@
       "age": "22d",
       "url": "https://applyguy.ai/jobs?company=Viavisolutions&job=61a0cfa0-0c05-4c50-90b9-dec384ed1919&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Indianapolis-IN-USA/Early-Careers-Rotational-Program-Development-Engineer---Software-Engineering-AI-Track_260004983-1"
-    },
-    {
-      "id": "0096c72f-7dea-49f7-a8c8-32ac655bc63c",
-      "company": "Wellsky",
-      "title": "Associate Software Engineer - DevOps Engineer",
-      "location": "Overland Park, KS",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-26",
-      "age": "22d",
-      "url": "https://applyguy.ai/jobs?company=Wellsky&job=0096c72f-7dea-49f7-a8c8-32ac655bc63c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://wellsky.wd1.myworkdayjobs.com/wellskycareers/job/Overland-Park-KS/Associate-Software-Engineer---DevOps-Engineer_JR5080"
     },
     {
       "id": "02b07628-f7d5-4092-9ad7-58340ea6ff58",
