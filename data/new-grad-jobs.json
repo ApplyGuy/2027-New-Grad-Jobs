@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T17:00:51.067Z",
+  "updatedAt": "2026-09-17T17:16:36.335Z",
   "jobs": [
     {
       "id": "6560ed37-1f96-4277-b5c5-3e98728c374f",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=MAP&job=f5e749dc-519e-447e-a8d3-4169d85cfd64&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/map/jobs/8816124002"
+    },
+    {
+      "id": "0c2e6120-e7a8-4f2e-9e07-2c79f871e7eb",
+      "company": "Peraton",
+      "title": "Junior Data Engineer / Active Secret",
+      "location": "Beltsville, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-17",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Peraton&job=0c2e6120-e7a8-4f2e-9e07-2c79f871e7eb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://careers-peraton.icims.com/jobs/170925/junior-data-engineer---active-secret/job"
     },
     {
       "id": "6b4461a5-e824-4f9e-a72a-78d35196503e",
@@ -386,18 +398,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/Software-Engineer-I--Onsite-_01874854"
     },
     {
-      "id": "7705ec67-a229-4b0b-ab8a-e6e8ffb8c273",
-      "company": "RTX",
-      "title": "Software Engineer I (Hybrid - Aguadilla, PR)",
-      "location": "Aguadilla, PR",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-15",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=7705ec67-a229-4b0b-ab8a-e6e8ffb8c273&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--Hybrid---Aguadilla--PR-_01874753"
-    },
-    {
       "id": "70f2c6c6-2552-4478-84e9-57e8703ddf0a",
       "company": "RTX",
       "title": "Embedded Software Engineer I (Hybrid - Aguadilla, PR)",
@@ -615,18 +615,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7992129003"
     },
     {
-      "id": "d8d8356c-c84d-4186-8dcf-0b0b63e20fe6",
-      "company": "RTX",
-      "title": "HWIL Software Engineer I",
-      "location": "Tucson, AZ",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-14",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=d8d8356c-c84d-4186-8dcf-0b0b63e20fe6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/HWIL-Software-Engineer-I_01874565"
-    },
-    {
       "id": "76e4a365-30a3-40f7-bb74-d65e38dcc8f7",
       "company": "RTX",
       "title": "Software Engineer I (Onsite)",
@@ -685,18 +673,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Silabs&job=5850997b-e6e1-4f5e-a388-9f9ea1cd7baa&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://silabs.wd1.myworkdayjobs.com/siliconlabscareers/job/Austin/Software-Engineer-I_21011-1"
-    },
-    {
-      "id": "5b266785-cb73-4410-9b48-3326e1e3b43b",
-      "company": "Troweprice",
-      "title": "2026 Global Technology - Associate Software Engineer",
-      "location": "Owings Mills, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-14",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=Troweprice&job=5b266785-cb73-4410-9b48-3326e1e3b43b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://troweprice.wd5.myworkdayjobs.com/troweprice/job/Owings-Mills-MD/XMLNAME-2026-Global-Technology---Associate-Software-Engineer_83580"
     },
     {
       "id": "e1dca924-7b87-4f58-939b-d5aafbf64bb7",
