@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T15:00:41.403Z",
+  "updatedAt": "2026-09-17T15:16:12.218Z",
   "jobs": [
     {
       "id": "6560ed37-1f96-4277-b5c5-3e98728c374f",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=6560ed37-1f96-4277-b5c5-3e98728c374f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Gaithersburg-MD/Software-Developer_R-00189881"
+    },
+    {
+      "id": "f5e749dc-519e-447e-a8d3-4169d85cfd64",
+      "company": "MAP",
+      "title": "Associate Data Engineer",
+      "location": "Austin, TX",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-17",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=MAP&job=f5e749dc-519e-447e-a8d3-4169d85cfd64&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/map/jobs/8816124002"
     },
     {
       "id": "6b4461a5-e824-4f9e-a72a-78d35196503e",
