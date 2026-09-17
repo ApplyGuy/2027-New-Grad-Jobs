@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T15:30:38.772Z",
+  "updatedAt": "2026-09-17T15:46:08.286Z",
   "jobs": [
     {
       "id": "6560ed37-1f96-4277-b5c5-3e98728c374f",
@@ -36,6 +36,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=The+Hartford&job=6b4461a5-e824-4f9e-a72a-78d35196503e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_restricted/job/Hartford-CT/Associate-Data-Engineer---Tech-Catalyst-Program--All-Locations-_R2627076"
+    },
+    {
+      "id": "9d312c5e-962f-4053-807f-3e2ce1330664",
+      "company": "Visa",
+      "title": "Software Engineer, New College Grad - 2027 Foster City, CA",
+      "location": "Foster City, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-17",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Visa&job=9d312c5e-962f-4053-807f-3e2ce1330664&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://visa.wd5.myworkdayjobs.com/visa_early_careers/job/US---Foster-City-CA/Software-Engineer--New-College-Grad---2027-Foster-City--CA_REF088543W"
+    },
+    {
+      "id": "202c3ff9-0623-4ccd-8e98-1738076336d2",
+      "company": "Visa",
+      "title": "Software Engineer, New College Grad - 2027, Austin, TX",
+      "location": "Austin, TX",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-17",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Visa&job=202c3ff9-0623-4ccd-8e98-1738076336d2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://visa.wd5.myworkdayjobs.com/visa_early_careers/job/US---Austin-TX/Software-Engineer--New-College-Grad---2027--Austin--TX_REF088586W-2"
     },
     {
       "id": "106b1aaf-66a9-491f-a47f-973de0ddfbdb",
