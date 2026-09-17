@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T12:00:42.071Z",
+  "updatedAt": "2026-09-17T12:16:53.800Z",
   "jobs": [
     {
       "id": "106b1aaf-66a9-491f-a47f-973de0ddfbdb",
@@ -180,6 +180,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=164b6ab2-b9cb-4b65-8af7-f4f6554ff5b9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01873299"
+    },
+    {
+      "id": "5ca3f5f9-3c8a-4c61-9f90-eb28562ed9da",
+      "company": "Schweitzer Engineering Laboratories",
+      "title": "Associate Software Engineer- Full Stack TypeScript/React/C#",
+      "location": "Boise, ID",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-16",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Schweitzer+Engineering+Laboratories&job=5ca3f5f9-3c8a-4c61-9f90-eb28562ed9da&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://selinc.wd1.myworkdayjobs.com/sel/job/Idaho---Boise/Associate-Software-Engineer--Full-Stack-TypeScript-React-C-_2026-23005-1"
     },
     {
       "id": "9bab672d-59f7-44fe-a490-a5e0235c68cf",
