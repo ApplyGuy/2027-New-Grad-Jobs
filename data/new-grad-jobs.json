@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T13:15:51.995Z",
+  "updatedAt": "2026-09-18T13:31:02.786Z",
   "jobs": [
     {
       "id": "703ebe88-be39-4145-8afe-d26e8b70cf91",
@@ -3912,18 +3912,6 @@
       "age": "59d",
       "url": "https://applyguy.ai/jobs?company=Vadum+Inc&job=f8b2b173-36f4-43e3-9978-a4c46c9b3e39&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4349207"
-    },
-    {
-      "id": "745a1279-6dfd-4206-a5af-af70ce57c7a7",
-      "company": "Freedom Technology Solutions Group",
-      "title": "Junior Software Engineer 730",
-      "location": "Annapolis Junction, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-20",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Freedom+Technology+Solutions+Group&job=745a1279-6dfd-4206-a5af-af70ce57c7a7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5190737007"
     }
   ]
 }
