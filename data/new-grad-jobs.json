@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T23:01:23.050Z",
+  "updatedAt": "2026-09-18T23:16:11.760Z",
   "jobs": [
     {
       "id": "c57b5e55-5afc-4d93-9ce3-b6341dbc010d",
@@ -85,6 +85,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=fe46e18c-6cf4-450c-ac9f-05641c8e825a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/Associate-Software-Engineer---Software-Engineer_R10249088"
+    },
+    {
+      "id": "42c91976-2604-4f22-89cd-a10106324d71",
+      "company": "RTX",
+      "title": "Embedded Software Engineer I (Onsite)",
+      "location": "Cedar Rapids, IA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-18",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=42c91976-2604-4f22-89cd-a10106324d71&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Embedded-Software-Engineer-I--Onsite-_01870328"
     },
     {
       "id": "0541a2cf-577b-43be-bc71-a1e1671db5c2",
