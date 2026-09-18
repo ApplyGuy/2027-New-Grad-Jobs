@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-09-18T14:15:33.577Z",
+  "updatedAt": "2026-09-18T14:30:48.694Z",
   "jobs": [
+    {
+      "id": "a718502a-160b-40d5-aa4c-81d75129ef04",
+      "company": "Jci",
+      "title": "Embedded Software Engineer I - Product Development",
+      "location": "New Freedom-Pennsylvania-United States of America",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-18",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Jci&job=a718502a-160b-40d5-aa4c-81d75129ef04&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jci.wd5.myworkdayjobs.com/jci/job/New-Freedom-Pennsylvania-United-States-of-America/Embedded-Software-Engineer-I---Product-Development_WD30272369"
+    },
+    {
+      "id": "fe46e18c-6cf4-450c-ac9f-05641c8e825a",
+      "company": "Northrop Grumman",
+      "title": "Associate Software Engineer / Software Engineer",
+      "location": "Huntsville, AL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-18",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=fe46e18c-6cf4-450c-ac9f-05641c8e825a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/Associate-Software-Engineer---Software-Engineer_R10249088"
+    },
     {
       "id": "703ebe88-be39-4145-8afe-d26e8b70cf91",
       "company": "Ace",
