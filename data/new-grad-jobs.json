@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T22:01:30.787Z",
+  "updatedAt": "2026-09-18T22:16:12.076Z",
   "jobs": [
     {
       "id": "c57b5e55-5afc-4d93-9ce3-b6341dbc010d",
@@ -109,6 +109,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Together+AI&job=5739e0d5-d98a-4cb4-b819-207200d2ebc2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/togetherai/jobs/5211582007"
+    },
+    {
+      "id": "dd24b9f1-691f-4c23-914c-c0fa23cf4046",
+      "company": "Toyota",
+      "title": "Software Engineer (Early Career Professional)",
+      "location": "Plano, TX",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-18",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Toyota&job=dd24b9f1-691f-4c23-914c-c0fa23cf4046&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer--Early-Career-Professional-_10325071"
     },
     {
       "id": "7dde7100-70af-437a-8dfc-bd46926cfc62",
