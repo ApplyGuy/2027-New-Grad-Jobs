@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-09-18T17:46:08.106Z",
+  "updatedAt": "2026-09-18T18:01:09.708Z",
   "jobs": [
+    {
+      "id": "c57b5e55-5afc-4d93-9ce3-b6341dbc010d",
+      "company": "Iqvia",
+      "title": "MedTech Field Service Software Tech Entry Level - Pacific Time Zone",
+      "location": "Phoenix, AZ",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-18",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Iqvia&job=c57b5e55-5afc-4d93-9ce3-b6341dbc010d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://iqvia.wd1.myworkdayjobs.com/iqvia/job/Phoenix-AZ/MedTech-Field-Service-Software-Tech-Entry-Level---Pacific-Time-Zone_R1568796"
+    },
+    {
+      "id": "a779ee2c-3df4-496a-907a-b6d6c4f55ebd",
+      "company": "Iqvia",
+      "title": "MedTech Field Service Software Tech Entry level - Eastern Time Zone",
+      "location": "Atlanta, GA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-18",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Iqvia&job=a779ee2c-3df4-496a-907a-b6d6c4f55ebd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://iqvia.wd1.myworkdayjobs.com/iqvia/job/Atlanta-GA/MedTech-Field-Service-Software-Tech-Entry-level---Eastern-Time-Zone_R1568794"
+    },
+    {
+      "id": "9e0e6ce1-cbf1-4ab7-9e81-78075d59d419",
+      "company": "Iqvia",
+      "title": "MedTech Field Service Software Tech Entry Level - Central Time Zone",
+      "location": "Kansas City, MO",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-18",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Iqvia&job=9e0e6ce1-cbf1-4ab7-9e81-78075d59d419&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://iqvia.wd1.myworkdayjobs.com/iqvia/job/Kansas-City-MO/MedTech-Field-Service-Software-Tech-Entry-Level---Central-Time-Zone_R1568795"
+    },
     {
       "id": "a718502a-160b-40d5-aa4c-81d75129ef04",
       "company": "Jci",
@@ -181,18 +217,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Stripe&job=502b9b76-2f7a-4b9e-9c76-4554198118c7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://stripe.com/jobs/search?gh_jid=8212508"
-    },
-    {
-      "id": "6b4461a5-e824-4f9e-a72a-78d35196503e",
-      "company": "The Hartford",
-      "title": "Associate Data Engineer - Tech Catalyst Program (All Locations)",
-      "location": "Hartford, CT",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-17",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=The+Hartford&job=6b4461a5-e824-4f9e-a72a-78d35196503e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_restricted/job/Hartford-CT/Associate-Data-Engineer---Tech-Catalyst-Program--All-Locations-_R2627076"
     },
     {
       "id": "d279e412-a0ca-4b1e-9443-7dc81587e8a9",
@@ -649,42 +673,6 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=FIS&job=4269dfb8-5be0-41c7-b5d0-28d20c9a5f51&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-GA-ATL-201-STE-900/Mainframe-Software-Engineer-I--COBOL_JR0309079"
-    },
-    {
-      "id": "c57b5e55-5afc-4d93-9ce3-b6341dbc010d",
-      "company": "Iqvia",
-      "title": "MedTech Field Service Software Tech Entry Level - Pacific Time Zone",
-      "location": "Phoenix, AZ",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-09-14",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=Iqvia&job=c57b5e55-5afc-4d93-9ce3-b6341dbc010d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://iqvia.wd1.myworkdayjobs.com/iqvia/job/Phoenix-AZ/MedTech-Field-Service-Software-Tech-Entry-Level---Pacific-Time-Zone_R1568796"
-    },
-    {
-      "id": "a779ee2c-3df4-496a-907a-b6d6c4f55ebd",
-      "company": "Iqvia",
-      "title": "MedTech Field Service Software Tech Entry level - Eastern Time Zone",
-      "location": "Atlanta, GA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-09-14",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=Iqvia&job=a779ee2c-3df4-496a-907a-b6d6c4f55ebd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://iqvia.wd1.myworkdayjobs.com/iqvia/job/Atlanta-GA/MedTech-Field-Service-Software-Tech-Entry-level---Eastern-Time-Zone_R1568794"
-    },
-    {
-      "id": "9e0e6ce1-cbf1-4ab7-9e81-78075d59d419",
-      "company": "Iqvia",
-      "title": "MedTech Field Service Software Tech Entry Level - Central Time Zone",
-      "location": "Kansas City, MO",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-09-14",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=Iqvia&job=9e0e6ce1-cbf1-4ab7-9e81-78075d59d419&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://iqvia.wd1.myworkdayjobs.com/iqvia/job/Kansas-City-MO/MedTech-Field-Service-Software-Tech-Entry-Level---Central-Time-Zone_R1568795"
     },
     {
       "id": "19b1d4a3-8db3-4457-8e02-2a0e1c0c4363",
@@ -2732,18 +2720,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Tti&job=10997521-6775-49d7-bcd7-61b414d43140&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://tti.wd1.myworkdayjobs.com/tti_pe/job/Anderson-SC/Software-Engineer-1_R76960"
-    },
-    {
-      "id": "401b32c4-a494-4ea6-af38-695971dca0ae",
-      "company": "Volaris Group",
-      "title": "Jr. Software Engineer",
-      "location": "Warner Robins, GA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-19",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Volaris+Group&job=401b32c4-a494-4ea6-af38-695971dca0ae&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://volarisgroup.wd3.myworkdayjobs.com/silvervine/job/United-States---Warner-Robins-GA/Jr-Software-Engineer_R70583"
     },
     {
       "id": "356ea4cb-7be2-40ca-a25a-dce9b2b18789",
