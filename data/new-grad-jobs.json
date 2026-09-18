@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T19:00:40.642Z",
+  "updatedAt": "2026-09-18T19:16:09.766Z",
   "jobs": [
     {
       "id": "c57b5e55-5afc-4d93-9ce3-b6341dbc010d",
@@ -48,6 +48,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Jci&job=a718502a-160b-40d5-aa4c-81d75129ef04&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jci.wd5.myworkdayjobs.com/jci/job/New-Freedom-Pennsylvania-United-States-of-America/Embedded-Software-Engineer-I---Product-Development_WD30272369"
+    },
+    {
+      "id": "ea9c41fe-d045-4c41-a3e4-1bea7e6ca1cf",
+      "company": "Job Openings",
+      "title": "Software Developer I",
+      "location": "Dahlgren, VA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-18",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Job+Openings&job=ea9c41fe-d045-4c41-a3e4-1bea7e6ca1cf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4514786"
     },
     {
       "id": "fe46e18c-6cf4-450c-ac9f-05641c8e825a",
