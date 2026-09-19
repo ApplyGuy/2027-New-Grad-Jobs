@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T21:30:43.292Z",
+  "updatedAt": "2026-09-19T21:46:05.628Z",
   "jobs": [
     {
       "id": "dc003e25-e0ff-497c-8938-9d0cbddb98d8",
@@ -120,19 +120,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Job+Openings&job=ea9c41fe-d045-4c41-a3e4-1bea7e6ca1cf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4514786"
-    },
-    {
-      "id": "custom:microsoft:0ae8f2bf560ced65505f",
-      "company": "Microsoft",
-      "title": "Software Engineer: AI Experiences Search",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-18",
-      "age": "1d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556986144",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556986144",
-      "applySupported": false
     },
     {
       "id": "fe46e18c-6cf4-450c-ac9f-05641c8e825a",
@@ -265,19 +252,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Meow&job=c6d7f8b6-ef0b-46ba-876b-1e3eedd63609&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/meow/56e3b840-11a0-4e98-baca-44e8e26b5218"
-    },
-    {
-      "id": "custom:microsoft:6b64606a1fd63afbb43a",
-      "company": "Microsoft",
-      "title": "Software Engineer",
-      "location": "US",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-17",
-      "age": "2d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556928331",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556928331",
-      "applySupported": false
     },
     {
       "id": "2b32eb6d-d5bd-432c-8ec0-c7d458073b3f",
@@ -770,19 +744,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=19b1d4a3-8db3-4457-8e02-2a0e1c0c4363&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Huntsville-AL/Junior-Software-Engineer_R-00192168"
-    },
-    {
-      "id": "custom:microsoft:03d65b2b10e701c197e7",
-      "company": "Microsoft",
-      "title": "Software Engineering - Commercial Engineering & AI (CEAI)",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-14",
-      "age": "5d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
-      "applySupported": false
     },
     {
       "id": "d60923bc-6507-43d0-8a32-6d6556621e27",
@@ -1407,45 +1368,6 @@
       "age": "15d",
       "url": "https://applyguy.ai/jobs?company=ID.me+University+Recruiting&job=668f9b14-c6f6-4307-bce7-7057313bfbc9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003"
-    },
-    {
-      "id": "custom:microsoft:bd09edb153d64145ce49",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Redmond, WA · Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-04",
-      "age": "15d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556926963",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556926963",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:698bf1cfd0197fa8f311",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-04",
-      "age": "15d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:d021de3d39fd02480f33",
-      "company": "Microsoft",
-      "title": "Software Engineering - CTJ - Poly",
-      "location": "Redmond, WA · Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-04",
-      "age": "15d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
-      "applySupported": false
     },
     {
       "id": "75355fb4-c0cd-403e-87d8-a60e28a09e4b",
