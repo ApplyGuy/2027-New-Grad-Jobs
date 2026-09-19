@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T01:46:09.570Z",
+  "updatedAt": "2026-09-19T02:00:39.270Z",
   "jobs": [
     {
       "id": "dc003e25-e0ff-497c-8938-9d0cbddb98d8",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Ace+IT+Careers&job=dc003e25-e0ff-497c-8938-9d0cbddb98d8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://apply.workable.com/ace-it-careers-1/j/8E52B2BF7A/"
+    },
+    {
+      "id": "4b43cb4b-3da1-4e18-a28b-8372881c9764",
+      "company": "Axos",
+      "title": "Jr. Software Engineer",
+      "location": "HQ - San Diego, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-18",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Axos&job=4b43cb4b-3da1-4e18-a28b-8372881c9764&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://axos.wd5.myworkdayjobs.com/axos/job/HQ---San-Diego-CA/Jr-Software-Engineer_JR5480"
     },
     {
       "id": "c57b5e55-5afc-4d93-9ce3-b6341dbc010d",
