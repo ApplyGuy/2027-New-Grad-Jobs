@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T13:31:08.952Z",
+  "updatedAt": "2026-09-19T13:46:10.375Z",
   "jobs": [
     {
       "id": "dc003e25-e0ff-497c-8938-9d0cbddb98d8",
@@ -3949,18 +3949,6 @@
       "age": "60d",
       "url": "https://applyguy.ai/jobs?company=New+Relic&job=01d32a43-d17b-4ab0-a457-91bb5e5e36c3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/newrelic/jobs/5294386008"
-    },
-    {
-      "id": "f8b2b173-36f4-43e3-9978-a4c46c9b3e39",
-      "company": "Vadum Inc",
-      "title": "Junior Software Engineer",
-      "location": "Raleigh, NC",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-21",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Vadum+Inc&job=f8b2b173-36f4-43e3-9978-a4c46c9b3e39&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4349207"
     }
   ]
 }
