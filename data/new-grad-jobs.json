@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T04:01:06.059Z",
+  "updatedAt": "2026-09-19T04:16:13.820Z",
   "jobs": [
     {
       "id": "dc003e25-e0ff-497c-8938-9d0cbddb98d8",
@@ -3298,18 +3298,6 @@
       "age": "40d",
       "url": "https://applyguy.ai/jobs?company=DV+Trading&job=c1f886b8-7801-4c1c-bfe8-dd085abd81ed&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/dvtrading/jobs/4719126005"
-    },
-    {
-      "id": "14469a5c-caa3-49e3-9f78-1551d94a45e0",
-      "company": "Esri",
-      "title": "Software Development Engineer I - Analytics",
-      "location": "Redlands, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-10",
-      "age": "40d",
-      "url": "https://applyguy.ai/jobs?company=Esri&job=14469a5c-caa3-49e3-9f78-1551d94a45e0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://www.esri.com/careers/5205997007?gh_jid=5205997007"
     },
     {
       "id": "3d617441-4b32-4b24-beae-3fb3ee19f343",
