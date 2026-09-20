@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-09-20T19:46:18.943Z",
+  "updatedAt": "2026-09-20T20:00:44.921Z",
   "jobs": [
+    {
+      "id": "322c6af9-9684-4b81-82cf-7573433ad52f",
+      "company": "Amat",
+      "title": "2027 Software Engineer New College Grad (Bachelor's) - Gloucester, MA",
+      "location": "Gloucester, MA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-20",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Amat&job=322c6af9-9684-4b81-82cf-7573433ad52f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://amat.wd1.myworkdayjobs.com/external/job/GloucesterMA/XMLNAME-2027-Software-Engineer-New-College-Grad--Bachelor-s----Gloucester--MA_R2625914"
+    },
     {
       "id": "dc003e25-e0ff-497c-8938-9d0cbddb98d8",
       "company": "Ace IT Careers",
