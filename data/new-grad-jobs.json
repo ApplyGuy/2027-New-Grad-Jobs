@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T07:00:46.829Z",
+  "updatedAt": "2026-09-20T07:16:34.469Z",
   "jobs": [
     {
       "id": "dc003e25-e0ff-497c-8938-9d0cbddb98d8",
@@ -782,19 +782,6 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=19b1d4a3-8db3-4457-8e02-2a0e1c0c4363&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Huntsville-AL/Junior-Software-Engineer_R-00192168"
-    },
-    {
-      "id": "custom:microsoft:03d65b2b10e701c197e7",
-      "company": "Microsoft",
-      "title": "Software Engineering - Commercial Engineering & AI (CEAI)",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-14",
-      "age": "6d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
-      "applySupported": false
     },
     {
       "id": "d60923bc-6507-43d0-8a32-6d6556621e27",
