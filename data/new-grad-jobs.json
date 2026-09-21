@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T16:16:22.321Z",
+  "updatedAt": "2026-09-21T16:30:48.282Z",
   "jobs": [
     {
       "id": "32e9dd5f-0b0c-415a-9ad3-c3d0d8350099",
@@ -36,6 +36,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=419bf2b5-7e25-4840-8c87-d965899c6e39&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineer-I--Onsite-_01867061"
+    },
+    {
+      "id": "fb9a5616-f511-4e88-9065-45611a851b29",
+      "company": "TeleTracking Technologies, Inc.",
+      "title": "Software Engineer I",
+      "location": "Pittsburgh, PA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-21",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=TeleTracking+Technologies%2C+Inc.&job=fb9a5616-f511-4e88-9065-45611a851b29&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/5425154008"
     },
     {
       "id": "322c6af9-9684-4b81-82cf-7573433ad52f",
@@ -2358,18 +2370,6 @@
       "age": "26d",
       "url": "https://applyguy.ai/jobs?company=Energy+Solutions+-+USA&job=d8c02382-6012-4598-a11f-2cec81d9d206&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/energysolutions/jobs/5201891007"
-    },
-    {
-      "id": "f2b9c638-e283-4b0c-acbe-07db9453b447",
-      "company": "TeleTracking Technologies, Inc.",
-      "title": "Software Engineer I",
-      "location": "Pittsburgh, PA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-26",
-      "age": "26d",
-      "url": "https://applyguy.ai/jobs?company=TeleTracking+Technologies%2C+Inc.&job=f2b9c638-e283-4b0c-acbe-07db9453b447&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/5397299008"
     },
     {
       "id": "e6e30371-1c6d-4d07-a770-a836f769cbaf",
