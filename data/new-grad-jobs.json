@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T23:01:12.582Z",
+  "updatedAt": "2026-09-21T23:16:24.190Z",
   "jobs": [
     {
       "id": "1de7bcb6-de6b-4239-9373-8d053c632d0b",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Abnormal&job=1de7bcb6-de6b-4239-9373-8d053c632d0b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://abnormal.ai/careers/jobs/8000334003?gh_jid=8000334003"
+    },
+    {
+      "id": "d72c8f4b-5812-4061-bfb9-cd91e9f3bf9c",
+      "company": "Ace",
+      "title": "Associate Data Engineer",
+      "location": "Costa Mesa, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-21",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Ace&job=d72c8f4b-5812-4061-bfb9-cd91e9f3bf9c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Associate-Data-Engineer_JR202638846"
     },
     {
       "id": "db01b49c-e096-412b-a69b-255c85a069f5",
