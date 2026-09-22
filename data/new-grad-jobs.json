@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T22:46:15.844Z",
+  "updatedAt": "2026-09-22T23:00:58.418Z",
   "jobs": [
     {
       "id": "d34362a3-676b-4b7b-aaf9-0ac3b901efda",
@@ -48,6 +48,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=GDIT&job=eabd59ad-ecfd-47c6-b934-715b25500614&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Engineer-1_RQ228969"
+    },
+    {
+      "id": "389aa5b0-5541-4f35-9485-19bf22a50bce",
+      "company": "Hartz Mountain Corp",
+      "title": "JUNIOR FULL STACK DEVELOPER",
+      "location": "Secaucus, NJ",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-22",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Hartz+Mountain+Corp&job=389aa5b0-5541-4f35-9485-19bf22a50bce&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4525589"
     },
     {
       "id": "69f4e887-126b-4ae7-b70e-3073ad6d5aca",
