@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-09-22T14:31:19.597Z",
+  "updatedAt": "2026-09-22T14:46:40.347Z",
   "jobs": [
+    {
+      "id": "85bb4a2a-df45-40ff-ada3-87d6fd7b413f",
+      "company": "Boeing",
+      "title": "Associate Software Engineer",
+      "location": "Multiple U.S. locations",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-22",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Boeing&job=85bb4a2a-df45-40ff-ada3-87d6fd7b413f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Maryland-Heights-MO/Associate-Software-Engineer_JR2026516706"
+    },
     {
       "id": "6b4461a5-e824-4f9e-a72a-78d35196503e",
       "company": "The Hartford",
