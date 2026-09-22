@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T01:45:54.624Z",
+  "updatedAt": "2026-09-22T02:01:29.071Z",
   "jobs": [
     {
       "id": "1de7bcb6-de6b-4239-9373-8d053c632d0b",
@@ -3670,18 +3670,6 @@
       "age": "49d",
       "url": "https://applyguy.ai/jobs?company=Peraton&job=6d5c736d-c73a-4a8a-b96c-357d5b60a0d9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://careers-peraton.icims.com/jobs/169377/jr.-software-engineer---space-communications-program/job"
-    },
-    {
-      "id": "e98a78b2-5f1a-4bb9-b6e8-4bf175bb26d0",
-      "company": "Repligen",
-      "title": "Software Developer I",
-      "location": "Bridgewater, NJ",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-04",
-      "age": "49d",
-      "url": "https://applyguy.ai/jobs?company=Repligen&job=e98a78b2-5f1a-4bb9-b6e8-4bf175bb26d0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://repligen.wd108.myworkdayjobs.com/repligen_careers/job/Bridgewater-NJ/Software-Developer-I_R-583"
     },
     {
       "id": "custom:amazon:38e673d9be9ca62f6064",
