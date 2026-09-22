@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T04:16:26.360Z",
+  "updatedAt": "2026-09-22T04:31:19.835Z",
   "jobs": [
     {
       "id": "1de7bcb6-de6b-4239-9373-8d053c632d0b",
@@ -96,6 +96,30 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Penumbra&job=83da72fc-6b6e-4a6a-83c1-8e309557be63&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/penumbrainc/f7be9c2d-63df-4431-ac66-bd6ccc41a322"
+    },
+    {
+      "id": "1df411ee-f55c-420e-9d41-b2c1e7ddaac3",
+      "company": "QDSSJobsOhio",
+      "title": "Junior Software Engineer",
+      "location": "Cincinnati, OH",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-21",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=QDSSJobsOhio&job=1df411ee-f55c-420e-9d41-b2c1e7ddaac3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/qdssjobsohio/jobs/5244584007"
+    },
+    {
+      "id": "053abdd9-a59b-4372-ad8b-d7037b84de91",
+      "company": "Quest Defense Systems & Solutions, Inc.",
+      "title": "Junior Software Engineer",
+      "location": "Cincinnati, OH",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-21",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Quest+Defense+Systems+%26+Solutions%2C+Inc.&job=053abdd9-a59b-4372-ad8b-d7037b84de91&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://www.quest-defense.com/careers/life-at-quest-defense/current-opportunities/?gh_jid=5244582007"
     },
     {
       "id": "38b2520b-1b04-4f0b-bbb9-4c07a2d0486f",
