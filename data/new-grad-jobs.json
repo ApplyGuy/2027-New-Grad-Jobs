@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T03:31:08.846Z",
+  "updatedAt": "2026-09-22T03:46:12.306Z",
   "jobs": [
     {
       "id": "1de7bcb6-de6b-4239-9373-8d053c632d0b",
@@ -374,19 +374,6 @@
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4514786"
     },
     {
-      "id": "custom:microsoft:0ae8f2bf560ced65505f",
-      "company": "Microsoft",
-      "title": "Software Engineer: AI Experiences Search",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-18",
-      "age": "4d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556986144",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556986144",
-      "applySupported": false
-    },
-    {
       "id": "fe46e18c-6cf4-450c-ac9f-05641c8e825a",
       "company": "Northrop Grumman",
       "title": "Associate Software Engineer / Software Engineer",
@@ -493,19 +480,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Meow&job=c6d7f8b6-ef0b-46ba-876b-1e3eedd63609&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/meow/56e3b840-11a0-4e98-baca-44e8e26b5218"
-    },
-    {
-      "id": "custom:microsoft:6b64606a1fd63afbb43a",
-      "company": "Microsoft",
-      "title": "Software Engineer",
-      "location": "US",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-17",
-      "age": "5d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556928331",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556928331",
-      "applySupported": false
     },
     {
       "id": "2b32eb6d-d5bd-432c-8ec0-c7d458073b3f",
@@ -1372,18 +1346,6 @@
       "listingUrl": "https://avav.wd1.myworkdayjobs.com/avav/job/Sunrise-FL/Software-Engineer-I_8682"
     },
     {
-      "id": "37baf769-069f-40b0-ba97-9a6eb7bc133b",
-      "company": "Cursor",
-      "title": "Software Engineer, New Grad 2027",
-      "location": "San Francisco, CA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-09-08",
-      "age": "14d",
-      "url": "https://applyguy.ai/jobs?company=Cursor&job=37baf769-069f-40b0-ba97-9a6eb7bc133b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b"
-    },
-    {
       "id": "768a88ec-f203-4d61-a5b7-dae28e780594",
       "company": "Nexthopai",
       "title": "Software Engineer - Hardware Diagnostics - New Grad",
@@ -1418,6 +1380,18 @@
       "age": "14d",
       "url": "https://applyguy.ai/jobs?company=True+Anomaly&job=7c4bb591-0ff4-49b7-a816-fd8dda6f7016&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5232802007"
+    },
+    {
+      "id": "37baf769-069f-40b0-ba97-9a6eb7bc133b",
+      "company": "x.ai",
+      "title": "Software Engineer, New Grad 2027",
+      "location": "San Francisco, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-08",
+      "age": "14d",
+      "url": "https://applyguy.ai/jobs?company=x.ai&job=37baf769-069f-40b0-ba97-9a6eb7bc133b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b"
     },
     {
       "id": "ae0df40b-d32d-4835-b55c-a0cfcff14e7f",
@@ -1538,45 +1512,6 @@
       "age": "18d",
       "url": "https://applyguy.ai/jobs?company=ID.me+University+Recruiting&job=668f9b14-c6f6-4307-bce7-7057313bfbc9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003"
-    },
-    {
-      "id": "custom:microsoft:bd09edb153d64145ce49",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Redmond, WA · Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-04",
-      "age": "18d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556926963",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556926963",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:698bf1cfd0197fa8f311",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-04",
-      "age": "18d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:d021de3d39fd02480f33",
-      "company": "Microsoft",
-      "title": "Software Engineering - CTJ - Poly",
-      "location": "Redmond, WA · Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-04",
-      "age": "18d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
-      "applySupported": false
     },
     {
       "id": "75355fb4-c0cd-403e-87d8-a60e28a09e4b",
