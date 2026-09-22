@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T16:31:18.999Z",
+  "updatedAt": "2026-09-22T16:45:58.630Z",
   "jobs": [
     {
       "id": "85bb4a2a-df45-40ff-ada3-87d6fd7b413f",
@@ -37,6 +37,30 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556962504",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556962504",
       "applySupported": false
+    },
+    {
+      "id": "1e2fe4fc-9e30-48df-b4ce-7b059e095ff1",
+      "company": "Striveworks",
+      "title": "Junior Machine Learning Engineer",
+      "location": "Austin, TX",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-22",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Striveworks&job=1e2fe4fc-9e30-48df-b4ce-7b059e095ff1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/striveworks/jobs/8002515003"
+    },
+    {
+      "id": "aef712fe-6b8a-4433-8f38-e6080d8a2944",
+      "company": "Swa",
+      "title": "Associate Software Engineer - Direct College Hire",
+      "location": "Dallas, TX",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-22",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Swa&job=aef712fe-6b8a-4433-8f38-e6080d8a2944&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Associate-Software-Engineer---Direct-College-Hire_R-2026-72886"
     },
     {
       "id": "6b4461a5-e824-4f9e-a72a-78d35196503e",
