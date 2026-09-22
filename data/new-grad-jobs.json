@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T16:01:06.340Z",
+  "updatedAt": "2026-09-22T16:15:54.251Z",
   "jobs": [
     {
       "id": "85bb4a2a-df45-40ff-ada3-87d6fd7b413f",
@@ -24,6 +24,19 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Bristolmyerssquibb&job=4cd5e571-01ca-4b2c-a156-6c5c234c7f4d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Hyderabad---TS---IN/Software-Developer-I---ServiceNow_R1604126"
+    },
+    {
+      "id": "custom:microsoft:872b1461dd8af2bce47d",
+      "company": "Microsoft",
+      "title": "Software Engineering IC2",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-22",
+      "age": "Today",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556962504",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556962504",
+      "applySupported": false
     },
     {
       "id": "6b4461a5-e824-4f9e-a72a-78d35196503e",
