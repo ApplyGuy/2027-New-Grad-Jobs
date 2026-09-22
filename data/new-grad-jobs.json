@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T18:00:59.922Z",
+  "updatedAt": "2026-09-22T18:15:56.418Z",
   "jobs": [
     {
       "id": "85bb4a2a-df45-40ff-ada3-87d6fd7b413f",
@@ -3858,18 +3858,6 @@
       "age": "57d",
       "url": "https://applyguy.ai/jobs?company=The+Trade+Desk&job=b572e113-4658-42b8-9891-47402f2df0cf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/thetradedesk/jobs/5196864007"
-    },
-    {
-      "id": "2d2c7a27-edeb-49d0-922b-ef98ac4ac327",
-      "company": "Solerity",
-      "title": "JavaScript Developer Software Engineer 1(TS/SCI with Poly)",
-      "location": "Fort Meade, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-24",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Solerity&job=2d2c7a27-edeb-49d0-922b-ef98ac4ac327&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4272523"
     }
   ]
 }
