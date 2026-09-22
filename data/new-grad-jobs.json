@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T22:31:00.473Z",
+  "updatedAt": "2026-09-22T22:46:15.844Z",
   "jobs": [
     {
       "id": "d34362a3-676b-4b7b-aaf9-0ac3b901efda",
@@ -1000,7 +1000,7 @@
     {
       "id": "e9642ed3-0d44-4443-9e87-16694e86283a",
       "company": "SingleStore",
-      "title": "Software Engineer-New Grad 2027",
+      "title": "Software Engineer-Engine-New Grad 2027",
       "location": "United States",
       "eligibility": "New Grad",
       "matchKind": "explicit",
@@ -1008,6 +1008,18 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=SingleStore&job=e9642ed3-0d44-4443-9e87-16694e86283a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/singlestore/jobs/8205427"
+    },
+    {
+      "id": "c574ad07-d233-496e-9dfe-b4905b2df017",
+      "company": "SingleStore",
+      "title": "Software Engineer-Helios-New Grad 2027",
+      "location": "United States",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-15",
+      "age": "7d",
+      "url": "https://applyguy.ai/jobs?company=SingleStore&job=c574ad07-d233-496e-9dfe-b4905b2df017&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/singlestore/jobs/8205389"
     },
     {
       "id": "39d7d21c-7804-44f4-8cc0-2036b0541364",
