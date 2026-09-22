@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-09-22T13:30:52.389Z",
+  "updatedAt": "2026-09-22T13:46:10.638Z",
   "jobs": [
+    {
+      "id": "6b4461a5-e824-4f9e-a72a-78d35196503e",
+      "company": "The Hartford",
+      "title": "Associate Data Engineer - Tech Catalyst Program (All Locations)",
+      "location": "Hartford, CT",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-22",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=The+Hartford&job=6b4461a5-e824-4f9e-a72a-78d35196503e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_restricted/job/Hartford-CT/Associate-Data-Engineer---Tech-Catalyst-Program--All-Locations-_R2627076"
+    },
     {
       "id": "1de7bcb6-de6b-4239-9373-8d053c632d0b",
       "company": "Abnormal",
