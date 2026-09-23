@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T22:46:24.686Z",
+  "updatedAt": "2026-09-23T23:01:25.342Z",
   "jobs": [
     {
       "id": "f4a6457d-2462-4240-9729-4ef3606fde3b",
@@ -72,6 +72,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Scale+AI&job=54eddbd4-55ec-4465-a650-636c0cb97e8e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005"
+    },
+    {
+      "id": "22ab5aa8-a4cd-4af4-94d3-594ad873bacf",
+      "company": "SeatGeek",
+      "title": "Software Engineer - New Grad",
+      "location": "New York City, NY",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-23",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=SeatGeek&job=22ab5aa8-a4cd-4af4-94d3-594ad873bacf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://seatgeek.com/jobs/8227548?gh_jid=8227548"
     },
     {
       "id": "7ddef0be-8f34-476d-9a69-e6328b92ad58",
