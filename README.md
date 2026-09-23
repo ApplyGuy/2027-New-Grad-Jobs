@@ -1,6 +1,6 @@
 # 2027 New Grad Software Engineering Jobs
 
-[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-330-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
+[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-331-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
 
 A continuously verified list of **2027 New Grad software engineering jobs**, **entry-level software engineer jobs**, and early-career developer roles in the United States. Listings come directly from employer career pages and are maintained by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs).
 
@@ -12,9 +12,9 @@ A continuously verified list of **2027 New Grad software engineering jobs**, **e
 
 🎒 **Looking for internships?** Browse [2027 SWE & Product Internships →](https://github.com/ApplyGuy/2027-Internships)
 
-- **330** active U.S. software roles posted within the last **60 days**
+- **331** active U.S. software roles posted within the last **60 days**
 - **127** explicitly labeled New Grad / university graduate / early career
-- Last refresh: **Sep 23, 2026, 10:01 AM PDT**
+- Last refresh: **Sep 23, 2026, 10:16 AM PDT**
 - Machine-readable feed: [data/new-grad-jobs.json](data/new-grad-jobs.json)
 
 Listings with the orange **Apply Guy** button support one-click apply through [Apply Guy](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs). Blue **View** buttons open the employer's career site directly.
@@ -43,6 +43,7 @@ Listings with the orange **Apply Guy** button support one-click apply through [A
 | Striveworks | Junior Machine Learning Engineer | Austin, TX | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Striveworks&job=1e2fe4fc-9e30-48df-b4ce-7b059e095ff1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/striveworks/jobs/8002515003) |
 | Swa | Associate Software Engineer - Direct College Hire | Dallas, TX | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Swa&job=aef712fe-6b8a-4433-8f38-e6080d8a2944&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Associate-Software-Engineer---Direct-College-Hire_R-2026-72886) |
 | U.S. Bank | Associate Software Engineer (C#, .NET Core) | Hopkins, MN | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=U.S.+Bank&job=e1dca924-7b87-4f58-939b-d5aafbf64bb7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Hopkins-MN/Associate-Software-Engineer--C---NET-Core-_2026-0028472) |
+| U.S. Bank | Software Engineer 1- (Full Stack Developer) | Atlanta, GA | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=U.S.+Bank&job=64901d3c-e95f-49d4-861e-b1f5335cb637&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Atlanta-GA/Software-Engineer-1---Full-Stack-Developer-_2026-0022352) |
 | Abnormal | Software Engineer I - Data Platforms | Remote, U.S. | 2d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Abnormal&job=1de7bcb6-de6b-4239-9373-8d053c632d0b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://abnormal.ai/careers/jobs/8000334003?gh_jid=8000334003) |
 | Adyen | Software Engineer I (Front End) - Lifecycle Experience | Chicago, IL | 2d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Adyen&job=db01b49c-e096-412b-a69b-255c85a069f5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/adyen/jobs/8153114) |
 | Cox | Entry Level Software Engineer - Atlanta, GA | Atlanta, GA | 2d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Cox&job=238bac7c-4748-48b0-be76-a7ec19f37112&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Atlanta-GA/Entry-Level-Software-Engineer---Atlanta--GA_R202682766) |
