@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T22:16:49.713Z",
+  "updatedAt": "2026-09-23T22:31:03.834Z",
   "jobs": [
     {
       "id": "f4a6457d-2462-4240-9729-4ef3606fde3b",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Generalmotors&job=8f3ffdc9-ff1c-44f2-8822-9ab9823a51e5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Engineer-AV-HIL-Platform-and-Services--University-Grad-_JR-202604577"
+    },
+    {
+      "id": "7d9b13c8-a507-41d1-9503-30ac3212de83",
+      "company": "Kenect",
+      "title": "Junior Data Engineer",
+      "location": "Pleasant Grove, UT",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-23",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Kenect&job=7d9b13c8-a507-41d1-9503-30ac3212de83&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://kenect.breezy.hr/p/aa47c9879f1d-junior-data-engineer"
     },
     {
       "id": "e15dc1c1-08ca-4280-9bc2-62cfad6300b1",
