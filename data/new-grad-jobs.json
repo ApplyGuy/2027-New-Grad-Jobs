@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T05:31:24.505Z",
+  "updatedAt": "2026-09-23T05:46:11.664Z",
   "jobs": [
     {
       "id": "custom:microsoft:626cbed8ca10d562b4f1",
@@ -976,18 +976,6 @@
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=Hpe&job=c07722f2-e591-482a-8875-466c78f32fc4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/OEM-Systems-Software-Engineer-I_1212452-2"
-    },
-    {
-      "id": "1a69b706-c986-4354-b1b4-a2dedc737160",
-      "company": "Isu",
-      "title": "Software Developer I",
-      "location": "Ames, IA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-15",
-      "age": "8d",
-      "url": "https://applyguy.ai/jobs?company=Isu&job=1a69b706-c986-4354-b1b4-a2dedc737160&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://isu.wd1.myworkdayjobs.com/iowastatejobs/job/Ames-IA/Software-Developer-I_R19926"
     },
     {
       "id": "34544929-bbc2-4a51-a1f2-b6b1cb4fd5c5",
