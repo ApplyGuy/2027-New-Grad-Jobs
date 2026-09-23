@@ -1,6 +1,6 @@
 # 2027 New Grad Software Engineering Jobs
 
-[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-336-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
+[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-337-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
 
 A continuously verified list of **2027 New Grad software engineering jobs**, **entry-level software engineer jobs**, and early-career developer roles in the United States. Listings come directly from employer career pages and are maintained by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs).
 
@@ -12,9 +12,9 @@ A continuously verified list of **2027 New Grad software engineering jobs**, **e
 
 🎒 **Looking for internships?** Browse [2027 SWE & Product Internships →](https://github.com/ApplyGuy/2027-Internships)
 
-- **336** active U.S. software roles posted within the last **60 days**
-- **130** explicitly labeled New Grad / university graduate / early career
-- Last refresh: **Sep 23, 2026, 3:46 PM PDT**
+- **337** active U.S. software roles posted within the last **60 days**
+- **131** explicitly labeled New Grad / university graduate / early career
+- Last refresh: **Sep 23, 2026, 4:01 PM PDT**
 - Machine-readable feed: [data/new-grad-jobs.json](data/new-grad-jobs.json)
 
 Listings with the orange **Apply Guy** button support one-click apply through [Apply Guy](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs). Blue **View** buttons open the employer's career site directly.
@@ -29,6 +29,7 @@ Listings with the orange **Apply Guy** button support one-click apply through [A
 | Nuro | Software Engineer, Performance Tooling and Infrastructure New Grad | Mountain View, California (HQ) | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Nuro&job=14ecbeb1-0c02-411d-8ec6-163c3357f3f3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://nuro.ai/careersitem?gh_jid=8227399) |
 | Radiancetech | Junior Software Engineer | Beavercreek, OH | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Radiancetech&job=e15dc1c1-08ca-4280-9bc2-62cfad6300b1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://radiancetech.wd12.myworkdayjobs.com/radiance_external/job/Beavercreek-OH/Junior-Software-Engineer_HR102428) |
 | Scale AI | Software Engineer, Public Sector - New Grad | San Francisco, CA | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Scale+AI&job=54eddbd4-55ec-4465-a650-636c0cb97e8e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/scaleai/jobs/4736426005) |
+| SeatGeek | Software Engineer - New Grad | New York City, NY | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=SeatGeek&job=22ab5aa8-a4cd-4af4-94d3-594ad873bacf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://seatgeek.com/jobs/8227548?gh_jid=8227548) |
 | Toshiba Global Commerce Solutions - External | Associate Software Engineer | Durham, NC | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Toshiba+Global+Commerce+Solutions+-+External&job=7ddef0be-8f34-476d-9a69-e6328b92ad58&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5247010007) |
 | Abnormal | Software Engineer 1 - Data Platforms | Remote, U.S. | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Abnormal&job=45eeb54f-4059-4a3f-8724-17e49f574eae&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://abnormal.ai/careers/jobs/8001641003?gh_jid=8001641003) |
 | Anduril Industries | 2027 Early Career Firmware Engineer | Costa Mesa, CA | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Anduril+Industries&job=dd0e9fb7-0f0b-47d3-8eb9-38355ccedd89&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007) |
