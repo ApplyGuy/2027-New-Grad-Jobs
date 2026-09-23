@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-09-23T16:31:04.339Z",
+  "updatedAt": "2026-09-23T16:46:13.964Z",
   "jobs": [
+    {
+      "id": "e15dc1c1-08ca-4280-9bc2-62cfad6300b1",
+      "company": "Radiancetech",
+      "title": "Junior Software Engineer",
+      "location": "Beavercreek, OH",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-23",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Radiancetech&job=e15dc1c1-08ca-4280-9bc2-62cfad6300b1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://radiancetech.wd12.myworkdayjobs.com/radiance_external/job/Beavercreek-OH/Junior-Software-Engineer_HR102428"
+    },
     {
       "id": "45eeb54f-4059-4a3f-8724-17e49f574eae",
       "company": "Abnormal",
