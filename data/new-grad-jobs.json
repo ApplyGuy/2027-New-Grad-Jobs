@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T02:16:31.424Z",
+  "updatedAt": "2026-09-23T02:30:56.652Z",
   "jobs": [
     {
       "id": "custom:microsoft:626cbed8ca10d562b4f1",
@@ -13,6 +13,30 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556999328",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556999328",
       "applySupported": false
+    },
+    {
+      "id": "45eeb54f-4059-4a3f-8724-17e49f574eae",
+      "company": "Abnormal",
+      "title": "Software Engineer 1 - Data Platforms",
+      "location": "Remote, U.S.",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-22",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Abnormal&job=45eeb54f-4059-4a3f-8724-17e49f574eae&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://abnormal.ai/careers/jobs/8001641003?gh_jid=8001641003"
+    },
+    {
+      "id": "dd0e9fb7-0f0b-47d3-8eb9-38355ccedd89",
+      "company": "Anduril Industries",
+      "title": "2027 Early Career Firmware Engineer",
+      "location": "Costa Mesa, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-22",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Anduril+Industries&job=dd0e9fb7-0f0b-47d3-8eb9-38355ccedd89&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007"
     },
     {
       "id": "d34362a3-676b-4b7b-aaf9-0ac3b901efda",
