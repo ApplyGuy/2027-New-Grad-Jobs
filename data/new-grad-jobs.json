@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T03:30:54.250Z",
+  "updatedAt": "2026-09-24T03:46:26.236Z",
   "jobs": [
     {
       "id": "f4a6457d-2462-4240-9729-4ef3606fde3b",
@@ -60,6 +60,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Radiancetech&job=e15dc1c1-08ca-4280-9bc2-62cfad6300b1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://radiancetech.wd12.myworkdayjobs.com/radiance_external/job/Beavercreek-OH/Junior-Software-Engineer_HR102428"
+    },
+    {
+      "id": "7258d8e2-65d3-483d-a063-b1e1a54d7eff",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Tewksbury, MA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-23",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=7258d8e2-65d3-483d-a063-b1e1a54d7eff&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01873302"
     },
     {
       "id": "54eddbd4-55ec-4465-a650-636c0cb97e8e",
@@ -1107,18 +1119,6 @@
       "age": "9d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=70f2c6c6-2552-4478-84e9-57e8703ddf0a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Embedded-Software-Engineer-I--Hybrid---Aguadilla--PR-_01874631"
-    },
-    {
-      "id": "42c222fd-6821-4224-88de-081e1bf78188",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Tewksbury, MA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-15",
-      "age": "9d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=42c222fd-6821-4224-88de-081e1bf78188&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01873222"
     },
     {
       "id": "e9642ed3-0d44-4443-9e87-16694e86283a",
