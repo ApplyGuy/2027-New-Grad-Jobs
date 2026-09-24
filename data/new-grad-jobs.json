@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T21:45:38.827Z",
+  "updatedAt": "2026-09-24T22:00:36.159Z",
   "jobs": [
     {
       "id": "d50f22cc-897e-41c5-b984-00cbee7cdc86",
@@ -121,6 +121,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=oningroup&job=b4c19bff-d416-4ab0-80fa-6a339e411ebd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://oningroup.wd501.myworkdayjobs.com/external/job/Nashville-TN/Junior-Software-Developer--Onsite-Nashville--TN_JR100532"
+    },
+    {
+      "id": "c00c7914-5889-4730-99a0-2e52a0b028eb",
+      "company": "RTX",
+      "title": "Software Engineer I, CDS (Onsite - Security Clearance)",
+      "location": "Aguadilla, PR",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=c00c7914-5889-4730-99a0-2e52a0b028eb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--CDS--Onsite---Security-Clearance-_01877720"
+    },
+    {
+      "id": "5b07aa54-fcff-454c-9357-26a22481f80c",
+      "company": "RTX",
+      "title": "Research Software Engineer I (Onsite)",
+      "location": "Cambridge, MA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=5b07aa54-fcff-454c-9357-26a22481f80c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Research-Software-Engineer-I--Onsite-_01876370"
     },
     {
       "id": "8e6de592-2844-4296-8421-26281bad2c08",
