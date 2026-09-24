@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T13:30:59.193Z",
+  "updatedAt": "2026-09-24T13:46:39.593Z",
   "jobs": [
     {
       "id": "custom:amazon:cfde0310784db9a8a37f",
@@ -13,6 +13,18 @@
       "url": "https://www.amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027",
       "listingUrl": "https://www.amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027",
       "applySupported": false
+    },
+    {
+      "id": "0d17efee-c4f5-46fb-b43b-132911ca54db",
+      "company": "CACI",
+      "title": "Software Engineer - Early Career - Cloud",
+      "location": "Hanover MD",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=CACI&job=0d17efee-c4f5-46fb-b43b-132911ca54db&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Hanover-MD-US/Software-Engineer---Early-Career---Cloud_330679"
     },
     {
       "id": "f364280b-f737-4ece-9196-5d059e207521",
