@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T21:17:03.922Z",
+  "updatedAt": "2026-09-24T21:30:50.091Z",
   "jobs": [
     {
       "id": "d50f22cc-897e-41c5-b984-00cbee7cdc86",
@@ -61,6 +61,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Boeing&job=01b001c6-dc90-4465-84aa-44414800b8ae&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/Associate-Software-Engineer---Developers_JR2026512427"
+    },
+    {
+      "id": "24f9ff9e-8630-4cbe-bba5-5493ce6180fe",
+      "company": "Btisolutions",
+      "title": "Junior Full Stack Developer",
+      "location": "Plano, TX",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Btisolutions&job=24f9ff9e-8630-4cbe-bba5-5493ce6180fe&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://btisolutions.wd12.myworkdayjobs.com/external/job/Plano-TX/Junior-Full-Stack-Developer_JR102071-1"
     },
     {
       "id": "0d17efee-c4f5-46fb-b43b-132911ca54db",
