@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-09-24T20:31:03.544Z",
+  "updatedAt": "2026-09-24T20:46:15.050Z",
   "jobs": [
+    {
+      "id": "d50f22cc-897e-41c5-b984-00cbee7cdc86",
+      "company": "Adobe",
+      "title": "2027 University Graduate - Software Engineer",
+      "location": "San Jose, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Adobe&job=d50f22cc-897e-41c5-b984-00cbee7cdc86&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083"
+    },
+    {
+      "id": "4be19d07-a5f8-4673-b2af-e1407c7338fd",
+      "company": "Adobe",
+      "title": "2027 University Graduate - Machine Learning Engineer",
+      "location": "San Jose, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Adobe&job=4be19d07-a5f8-4673-b2af-e1407c7338fd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085"
+    },
     {
       "id": "custom:amazon:cfde0310784db9a8a37f",
       "company": "Amazon",
@@ -85,6 +109,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=f9601415-9686-4d1e-8cc4-b95a8eff217a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01866752-1"
+    },
+    {
+      "id": "7e0e2bac-b8c9-4b14-866b-d2f64e19d751",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Woburn, MA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=7e0e2bac-b8c9-4b14-866b-d2f64e19d751&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-I_01875564"
     },
     {
       "id": "d8d8356c-c84d-4186-8dcf-0b0b63e20fe6",
@@ -361,6 +397,19 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=69f4e887-126b-4ae7-b70e-3073ad6d5aca&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/San-Diego-CA/Software-Engineer_R-00192469"
+    },
+    {
+      "id": "custom:microsoft:872b1461dd8af2bce47d",
+      "company": "Microsoft",
+      "title": "Software Engineering IC2",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-22",
+      "age": "2d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556962504",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556962504",
+      "applySupported": false
     },
     {
       "id": "bf263da6-b080-4ebe-8a35-37bcd5e8f761",
@@ -1624,18 +1673,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineer-I--Onsite-_01871083"
     },
     {
-      "id": "ef98541b-fbc0-455d-b999-20a3bee70e42",
-      "company": "RTX",
-      "title": "Software Engineer I  (Onsite)",
-      "location": "Woburn, MA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-09",
-      "age": "15d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=ef98541b-fbc0-455d-b999-20a3bee70e42&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-I---Onsite-_01872445"
-    },
-    {
       "id": "58d43bf8-8de3-40f4-adc2-1865095c31a9",
       "company": "RTX",
       "title": "Embedded Software Engineer I (Onsite)",
@@ -1826,6 +1863,45 @@
       "age": "20d",
       "url": "https://applyguy.ai/jobs?company=ID.me+University+Recruiting&job=668f9b14-c6f6-4307-bce7-7057313bfbc9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003"
+    },
+    {
+      "id": "custom:microsoft:bd09edb153d64145ce49",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Redmond, WA · Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-04",
+      "age": "20d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556926963",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556926963",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:698bf1cfd0197fa8f311",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-04",
+      "age": "20d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:d021de3d39fd02480f33",
+      "company": "Microsoft",
+      "title": "Software Engineering - CTJ - Poly",
+      "location": "Redmond, WA · Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-04",
+      "age": "20d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+      "applySupported": false
     },
     {
       "id": "75355fb4-c0cd-403e-87d8-a60e28a09e4b",
