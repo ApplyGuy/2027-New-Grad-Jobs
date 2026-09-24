@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T22:16:02.115Z",
+  "updatedAt": "2026-09-24T22:31:06.534Z",
   "jobs": [
     {
       "id": "d50f22cc-897e-41c5-b984-00cbee7cdc86",
@@ -85,6 +85,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=CACI&job=0d17efee-c4f5-46fb-b43b-132911ca54db&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Hanover-MD-US/Software-Engineer---Early-Career---Cloud_330679"
+    },
+    {
+      "id": "1b09b691-d5fb-49ee-a263-78f2980a667e",
+      "company": "Endictus Corp",
+      "title": "Jr Software Engineer / Software Developer I - Evergreen",
+      "location": "Washington, DC",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Endictus+Corp&job=1b09b691-d5fb-49ee-a263-78f2980a667e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4534532"
     },
     {
       "id": "fd732419-b13b-42fa-9282-da5f1b875e17",
