@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T05:01:17.044Z",
+  "updatedAt": "2026-09-24T05:16:48.230Z",
   "jobs": [
     {
       "id": "f4a6457d-2462-4240-9729-4ef3606fde3b",
@@ -108,6 +108,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=SeatGeek&job=22ab5aa8-a4cd-4af4-94d3-594ad873bacf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://seatgeek.com/jobs/8227548?gh_jid=8227548"
+    },
+    {
+      "id": "a824b4c0-9688-4f34-81b6-cea6b8820bbb",
+      "company": "Snc",
+      "title": "Software Engineer I (For 2026 Interns Only)",
+      "location": "Plano, TX",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-23",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Snc&job=a824b4c0-9688-4f34-81b6-cea6b8820bbb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Plano-TX/Software-Engineer-I--For-2026-Interns-Only-_R0030584"
     },
     {
       "id": "7ddef0be-8f34-476d-9a69-e6328b92ad58",
@@ -733,19 +745,6 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Job+Openings&job=ea9c41fe-d045-4c41-a3e4-1bea7e6ca1cf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4514786"
-    },
-    {
-      "id": "custom:microsoft:0ae8f2bf560ced65505f",
-      "company": "Microsoft",
-      "title": "Software Engineer: AI Experiences Search",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-18",
-      "age": "6d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556986144",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556986144",
-      "applySupported": false
     },
     {
       "id": "fe46e18c-6cf4-450c-ac9f-05641c8e825a",
