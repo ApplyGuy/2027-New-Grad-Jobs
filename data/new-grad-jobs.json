@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T17:01:37.968Z",
+  "updatedAt": "2026-09-24T17:16:07.382Z",
   "jobs": [
     {
       "id": "custom:amazon:cfde0310784db9a8a37f",
@@ -97,6 +97,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=d8d8356c-c84d-4186-8dcf-0b0b63e20fe6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/HWIL-Software-Engineer-I_01874565"
+    },
+    {
+      "id": "ae2a6dd2-02a0-41ea-9a2a-be0b06a2e678",
+      "company": "ZipRecruiter",
+      "title": "Software Engineer - New Grad",
+      "location": "Santa Monica, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=ZipRecruiter&job=ae2a6dd2-02a0-41ea-9a2a-be0b06a2e678&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/ziprecruiter/jobs/8127108"
     },
     {
       "id": "f364280b-f737-4ece-9196-5d059e207521",
