@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T16:46:32.117Z",
+  "updatedAt": "2026-09-24T17:01:37.968Z",
   "jobs": [
     {
       "id": "custom:amazon:cfde0310784db9a8a37f",
@@ -49,6 +49,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Modmed&job=afd44a4d-902f-43e8-b1f3-ec6c7e7ff3a7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://modmed.wd501.myworkdayjobs.com/modmed12/job/Boca-Raton-FL/Software-Engineer-1_R4917"
+    },
+    {
+      "id": "b4c19bff-d416-4ab0-80fa-6a339e411ebd",
+      "company": "oningroup",
+      "title": "Junior Software Developer -Onsite Nashville, TN",
+      "location": "Nashville, TN",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=oningroup&job=b4c19bff-d416-4ab0-80fa-6a339e411ebd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://oningroup.wd501.myworkdayjobs.com/external/job/Nashville-TN/Junior-Software-Developer--Onsite-Nashville--TN_JR100532"
     },
     {
       "id": "8e6de592-2844-4296-8421-26281bad2c08",
