@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T04:00:58.612Z",
+  "updatedAt": "2026-09-24T04:16:01.919Z",
   "jobs": [
     {
       "id": "f4a6457d-2462-4240-9729-4ef3606fde3b",
@@ -2897,18 +2897,6 @@
       "listingUrl": "https://jobs.lever.co/clearedge/e72517e3-8831-46ea-8d44-41ab6ac22b4c"
     },
     {
-      "id": "62f4374e-4f30-4b68-88b0-16178e49760d",
-      "company": "Esri",
-      "title": "C# Software Engineer I – Feature Services",
-      "location": "Redlands, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-21",
-      "age": "34d",
-      "url": "https://applyguy.ai/jobs?company=Esri&job=62f4374e-4f30-4b68-88b0-16178e49760d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://www.esri.com/careers/5214134007?gh_jid=5214134007"
-    },
-    {
       "id": "49bef747-c371-45e0-a524-5475cb4bdce7",
       "company": "Quickenloans",
       "title": "Software Developer I - Search",
@@ -3390,18 +3378,6 @@
       "listingUrl": "https://chamberlain.wd1.myworkdayjobs.com/chamberlain_group/job/Oak-Brook-IL/Software-Engineer-I---AI_JR30290"
     },
     {
-      "id": "68db4486-0a2e-457b-b640-7339d4576a6c",
-      "company": "CSpring",
-      "title": "Junior Software Developer",
-      "location": "Indianapolis, IN",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-12",
-      "age": "43d",
-      "url": "https://applyguy.ai/jobs?company=CSpring&job=68db4486-0a2e-457b-b640-7339d4576a6c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4415195"
-    },
-    {
       "id": "c4656b86-d950-4d6a-bb5f-dfa3b1f9721d",
       "company": "General Matter",
       "title": "Software Engineer, New Grad",
@@ -3460,18 +3436,6 @@
       "age": "43d",
       "url": "https://applyguy.ai/jobs?company=Uniswap+Labs&job=64fde33a-25fe-4c1d-9c3a-14a6be753749&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/uniswap/fb4d4137-f003-4669-beb7-2a5caca88012"
-    },
-    {
-      "id": "8cc764e1-9b3d-44a9-a1d8-97733e9f468c",
-      "company": "Handshake",
-      "title": "Associate Software Engineer, Operator Experience",
-      "location": "San Francisco, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-11",
-      "age": "44d",
-      "url": "https://applyguy.ai/jobs?company=Handshake&job=8cc764e1-9b3d-44a9-a1d8-97733e9f468c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.ashbyhq.com/handshake/fe319ff8-87e1-46d9-b23e-4b78cf6086f8"
     },
     {
       "id": "ca5f112a-ff29-46aa-b7b4-04c06fee3ba6",
