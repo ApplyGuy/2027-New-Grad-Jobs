@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T08:46:27.697Z",
+  "updatedAt": "2026-09-25T09:00:58.809Z",
   "jobs": [
     {
       "id": "d50f22cc-897e-41c5-b984-00cbee7cdc86",
@@ -289,18 +289,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=ZipRecruiter&job=ae2a6dd2-02a0-41ea-9a2a-be0b06a2e678&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/ziprecruiter/jobs/8127108"
-    },
-    {
-      "id": "f364280b-f737-4ece-9196-5d059e207521",
-      "company": "Acrisure",
-      "title": "Software Engineer I",
-      "location": "816 Congress Ave Ste 1800 AUSTIN, TX",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-23",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=Acrisure&job=f364280b-f737-4ece-9196-5d059e207521&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://acrisure.wd1.myworkdayjobs.com/acrisure/job/816-Congress-Ave-Ste-1800----AUSTIN-TX/Software-Engineer-I_JR114404"
     },
     {
       "id": "f4a6457d-2462-4240-9729-4ef3606fde3b",
