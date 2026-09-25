@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T18:30:32.198Z",
+  "updatedAt": "2026-09-25T18:46:01.595Z",
   "jobs": [
     {
       "id": "f1161ae2-9942-41ef-859f-e0bede26e06c",
@@ -36,6 +36,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=ceb2c5fe-ed61-47e0-bf78-78f831e1edd6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineer-I--Onsite-_01872684"
+    },
+    {
+      "id": "f9217c8e-cb5b-49c2-8a24-ffd1e2e08c75",
+      "company": "steampunk",
+      "title": "Associate Software Developer",
+      "location": "McLean, VA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=steampunk&job=f9217c8e-cb5b-49c2-8a24-ffd1e2e08c75&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://careers-steampunk.icims.com/jobs/8238/associate-software-developer/job"
     },
     {
       "id": "ada42bac-7871-46d2-a2c6-974efc073c2f",
