@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T16:46:00.737Z",
+  "updatedAt": "2026-09-25T17:00:40.172Z",
   "jobs": [
     {
       "id": "f1161ae2-9942-41ef-859f-e0bede26e06c",
@@ -169,18 +169,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=b4dc2d7a-33e5-4c8d-be91-0e231c977b7f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Gaithersburg-MD/Jr-Software-Developer_R-00193045"
-    },
-    {
-      "id": "afd44a4d-902f-43e8-b1f3-ec6c7e7ff3a7",
-      "company": "Modmed",
-      "title": "Software Engineer 1",
-      "location": "Boca Raton, FL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-24",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Modmed&job=afd44a4d-902f-43e8-b1f3-ec6c7e7ff3a7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://modmed.wd501.myworkdayjobs.com/modmed12/job/Boca-Raton-FL/Software-Engineer-1_R4917"
     },
     {
       "id": "a8417dfe-0159-4b44-8ac2-71e9075ac9b0",
@@ -3498,6 +3486,18 @@
       "age": "44d",
       "url": "https://applyguy.ai/jobs?company=Uniswap+Labs&job=64fde33a-25fe-4c1d-9c3a-14a6be753749&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/uniswap/fb4d4137-f003-4669-beb7-2a5caca88012"
+    },
+    {
+      "id": "a7a2e37d-08bc-424a-afc0-c095238b5784",
+      "company": "PathAI",
+      "title": "Software Engineer I, Fullstack",
+      "location": "Boston, MA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-11",
+      "age": "45d",
+      "url": "https://applyguy.ai/jobs?company=PathAI&job=a7a2e37d-08bc-424a-afc0-c095238b5784&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://www.pathai.com/careers/8696764002?gh_jid=8696764002"
     },
     {
       "id": "ca5f112a-ff29-46aa-b7b4-04c06fee3ba6",
