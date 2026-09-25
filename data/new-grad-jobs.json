@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-09-25T20:16:25.987Z",
+  "updatedAt": "2026-09-25T20:30:34.684Z",
   "jobs": [
+    {
+      "id": "34b03c84-aff9-40ea-9d91-2f334706187d",
+      "company": "Abbott",
+      "title": "Software Engineer I",
+      "location": "La Jolla, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Abbott&job=34b03c84-aff9-40ea-9d91-2f334706187d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---La-Jolla/Software-Engineer-I_31162389"
+    },
     {
       "id": "f1161ae2-9942-41ef-859f-e0bede26e06c",
       "company": "Lodestar",
