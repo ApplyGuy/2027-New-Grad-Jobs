@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T17:30:55.580Z",
+  "updatedAt": "2026-09-25T17:46:09.115Z",
   "jobs": [
     {
       "id": "f1161ae2-9942-41ef-859f-e0bede26e06c",
@@ -24,6 +24,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=064a1d6c-5a01-49d2-9f76-e9697f88ddc2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineer-I--Onsite-_01875568"
+    },
+    {
+      "id": "ceb2c5fe-ed61-47e0-bf78-78f831e1edd6",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Cedar Rapids, IA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=ceb2c5fe-ed61-47e0-bf78-78f831e1edd6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineer-I--Onsite-_01872684"
+    },
+    {
+      "id": "ada42bac-7871-46d2-a2c6-974efc073c2f",
+      "company": "Wgu",
+      "title": "Associate Data Engineer",
+      "location": "Salt Lake City, UT",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Wgu&job=ada42bac-7871-46d2-a2c6-974efc073c2f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Associate-Data-Engineer_JR-025987"
     },
     {
       "id": "d50f22cc-897e-41c5-b984-00cbee7cdc86",
