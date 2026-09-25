@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T00:01:08.115Z",
+  "updatedAt": "2026-09-25T00:15:34.871Z",
   "jobs": [
     {
       "id": "d50f22cc-897e-41c5-b984-00cbee7cdc86",
@@ -241,6 +241,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=d8d8356c-c84d-4186-8dcf-0b0b63e20fe6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/HWIL-Software-Engineer-I_01874565"
+    },
+    {
+      "id": "86ae0bd0-17e3-415d-8383-39ebd410b431",
+      "company": "Usan",
+      "title": "Software Engineer - DevOps - Recent Graduate - Hybrid - Norcross, GA",
+      "location": "Norcross, GA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-24",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Usan&job=86ae0bd0-17e3-415d-8383-39ebd410b431&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://usan.bamboohr.com/careers/203"
     },
     {
       "id": "ae2a6dd2-02a0-41ea-9a2a-be0b06a2e678",
