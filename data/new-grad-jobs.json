@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-09-25T10:31:12.533Z",
+  "updatedAt": "2026-09-25T10:46:28.846Z",
   "jobs": [
+    {
+      "id": "f1161ae2-9942-41ef-859f-e0bede26e06c",
+      "company": "Lodestar",
+      "title": "Software Engineer I: Payload Engineer",
+      "location": "Los Angeles, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Lodestar&job=f1161ae2-9942-41ef-859f-e0bede26e06c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.eu.greenhouse.io/lodestarspace/jobs/4987198101"
+    },
     {
       "id": "d50f22cc-897e-41c5-b984-00cbee7cdc86",
       "company": "Adobe",
