@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T18:46:01.595Z",
+  "updatedAt": "2026-09-25T19:01:09.650Z",
   "jobs": [
     {
       "id": "f1161ae2-9942-41ef-859f-e0bede26e06c",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Lodestar&job=f1161ae2-9942-41ef-859f-e0bede26e06c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.eu.greenhouse.io/lodestarspace/jobs/4987198101"
+    },
+    {
+      "id": "a1c443d8-4532-43be-9b3d-fdb7bc943a55",
+      "company": "Micron",
+      "title": "New College Grad - IT Software Support Engineer",
+      "location": "Boise, ID",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Micron&job=a1c443d8-4532-43be-9b3d-fdb7bc943a55&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---ID1/New-College-Grad---IT-Software-Support-Engineer_JR111038"
     },
     {
       "id": "064a1d6c-5a01-49d2-9f76-e9697f88ddc2",
@@ -4032,18 +4044,6 @@
       "age": "59d",
       "url": "https://applyguy.ai/jobs?company=Tebra&job=5d059d9f-4095-4312-9d48-ecd2a6bd4c8c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/tebra/jobs/4714981005"
-    },
-    {
-      "id": "b572e113-4658-42b8-9891-47402f2df0cf",
-      "company": "The Trade Desk",
-      "title": "Software Engineer I",
-      "location": "Bellevue, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-27",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=The+Trade+Desk&job=b572e113-4658-42b8-9891-47402f2df0cf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/thetradedesk/jobs/5196864007"
     }
   ]
 }
