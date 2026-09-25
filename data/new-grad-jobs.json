@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T16:00:35.299Z",
+  "updatedAt": "2026-09-25T16:16:06.364Z",
   "jobs": [
     {
       "id": "f1161ae2-9942-41ef-859f-e0bede26e06c",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Lodestar&job=f1161ae2-9942-41ef-859f-e0bede26e06c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.eu.greenhouse.io/lodestarspace/jobs/4987198101"
+    },
+    {
+      "id": "064a1d6c-5a01-49d2-9f76-e9697f88ddc2",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "West Valley City, UT",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=064a1d6c-5a01-49d2-9f76-e9697f88ddc2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineer-I--Onsite-_01875568"
     },
     {
       "id": "d50f22cc-897e-41c5-b984-00cbee7cdc86",
