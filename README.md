@@ -1,6 +1,6 @@
 # 2027 New Grad Software Engineering Jobs
 
-[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-331-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
+[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-332-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
 
 A continuously verified list of **2027 New Grad software engineering jobs**, **entry-level software engineer jobs**, and early-career developer roles in the United States. Listings come directly from employer career pages and are maintained by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs).
 
@@ -12,9 +12,9 @@ A continuously verified list of **2027 New Grad software engineering jobs**, **e
 
 🎒 **Looking for internships?** Browse [2027 SWE & Product Internships →](https://github.com/ApplyGuy/2027-Internships)
 
-- **331** active U.S. software roles posted within the last **60 days**
+- **332** active U.S. software roles posted within the last **60 days**
 - **132** explicitly labeled New Grad / university graduate / early career
-- Last refresh: **Sep 25, 2026, 3:31 AM PDT**
+- Last refresh: **Sep 25, 2026, 3:46 AM PDT**
 - Machine-readable feed: [data/new-grad-jobs.json](data/new-grad-jobs.json)
 
 Listings with the orange **Apply Guy** button support one-click apply through [Apply Guy](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs). Blue **View** buttons open the employer's career site directly.
@@ -23,6 +23,7 @@ Listings with the orange **Apply Guy** button support one-click apply through [A
 
 | Company | Role | Location | Posted | Actions |
 |---|---|---|---:|---|
+| Lodestar | Software Engineer I: Payload Engineer | Los Angeles, CA | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Lodestar&job=f1161ae2-9942-41ef-859f-e0bede26e06c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://job-boards.eu.greenhouse.io/lodestarspace/jobs/4987198101) |
 | Adobe | 2027 University Graduate - Software Engineer | San Jose, CA | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Adobe&job=d50f22cc-897e-41c5-b984-00cbee7cdc86&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083) |
 | Adobe | 2027 University Graduate - Machine Learning Engineer | San Jose, CA | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Adobe&job=4be19d07-a5f8-4673-b2af-e1407c7338fd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085) |
 | Amazon | Software Development Engineer I, Annapurna Labs, Early Career - 2027 | Cupertino, CA | 1d | [![View original listing](assets/view-listing.svg)](https://www.amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027) |
