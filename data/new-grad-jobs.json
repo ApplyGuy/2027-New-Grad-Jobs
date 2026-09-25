@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T04:01:32.350Z",
+  "updatedAt": "2026-09-25T04:15:36.325Z",
   "jobs": [
     {
       "id": "d50f22cc-897e-41c5-b984-00cbee7cdc86",
@@ -3095,30 +3095,6 @@
       "applySupported": false
     },
     {
-      "id": "de57c3d0-72f3-4a3e-b377-d5218581e2f6",
-      "company": "TraceLink, Inc",
-      "title": "Software Engineer I",
-      "location": "Wilmington, MA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-24",
-      "age": "32d",
-      "url": "https://applyguy.ai/jobs?company=TraceLink%2C+Inc&job=de57c3d0-72f3-4a3e-b377-d5218581e2f6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://www.tracelink.com/about/culture-and-careers/jobs?gh_jid=5217396007"
-    },
-    {
-      "id": "2bcbc0aa-bafe-4768-acdd-19801b9ca7d8",
-      "company": "VectorVMS",
-      "title": "Associate Software Engineer",
-      "location": "Raleigh, NC",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-24",
-      "age": "32d",
-      "url": "https://applyguy.ai/jobs?company=VectorVMS&job=2bcbc0aa-bafe-4768-acdd-19801b9ca7d8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://vectorvms.breezy.hr/p/677ae6c42f23-associate-software-engineer"
-    },
-    {
       "id": "8efc4f62-f3dd-46a3-b451-150d6bbe1148",
       "company": "Clearedge",
       "title": "Software Engineer I",
@@ -3684,30 +3660,6 @@
       "listingUrl": "https://selinc.wd1.myworkdayjobs.com/sel/job/Idaho---Boise/Associate-Firmware-Engineer_2026-22257"
     },
     {
-      "id": "192d2777-30de-480f-8c9d-6830f38d820e",
-      "company": "B Lab",
-      "title": "Junior Data Engineer (Philadelphia, PA)",
-      "location": "Philadelphia, PA metro area",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-10",
-      "age": "46d",
-      "url": "https://applyguy.ai/jobs?company=B+Lab&job=192d2777-30de-480f-8c9d-6830f38d820e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/blab/jobs/8688450002"
-    },
-    {
-      "id": "5e879e23-9f55-46ae-8827-57c7aca56f8f",
-      "company": "B Lab",
-      "title": "Junior Data Engineer (New York, NY)",
-      "location": "New York City, NY metro area",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-10",
-      "age": "46d",
-      "url": "https://applyguy.ai/jobs?company=B+Lab&job=5e879e23-9f55-46ae-8827-57c7aca56f8f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/blab/jobs/8688848002"
-    },
-    {
       "id": "25e1047d-f966-41d5-8fb5-9c56b6cb8171",
       "company": "Captivation Software",
       "title": "Software Engineer 1 (Call-In Support) - Linux/Bash/Python/Java/Spring/NoSQL/Docker/Kafka/Ansible",
@@ -3997,18 +3949,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/torcrobotics/jobs/8676173002"
     },
     {
-      "id": "1ddb731c-0447-4605-a39e-0526813aa038",
-      "company": "Agate Software",
-      "title": "Software Developer I - hybrid in Glendale AZ  [SD1-2026-08]",
-      "location": "Glendale, AZ",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-04",
-      "age": "52d",
-      "url": "https://applyguy.ai/jobs?company=Agate+Software&job=1ddb731c-0447-4605-a39e-0526813aa038&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.lever.co/agatesoftware/60c278e1-9b47-4ba9-8961-0e0cf41e0739"
-    },
-    {
       "id": "18f6f6cf-af8d-49a7-b987-1dc4711e7599",
       "company": "Belvedere Trading",
       "title": "Software Engineer - Entry Level 2027",
@@ -4128,18 +4068,6 @@
       "age": "57d",
       "url": "https://applyguy.ai/jobs?company=Handshake&job=b6a921c1-881c-4552-b56b-92eb4c2c8020&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/handshake/9a93ec72-d396-4971-8d4c-222094f9c5a3"
-    },
-    {
-      "id": "5cbc79dc-d389-45ad-8261-30bec8aac21b",
-      "company": "Themis Insight",
-      "title": "Jr. Software Engineer",
-      "location": "Fort Meade, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-29",
-      "age": "58d",
-      "url": "https://applyguy.ai/jobs?company=Themis+Insight&job=5cbc79dc-d389-45ad-8261-30bec8aac21b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://themis-insight.breezy.hr/p/7cf99faec54a-jr-software-engineer"
     },
     {
       "id": "daec511d-ee2d-4871-b890-bb34dddb7926",
