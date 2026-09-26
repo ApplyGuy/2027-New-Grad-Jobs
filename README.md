@@ -1,6 +1,6 @@
 # 2027 New Grad Software Engineering Jobs
 
-[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-335-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
+[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-334-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
 
 A continuously verified list of **2027 New Grad software engineering jobs**, **entry-level software engineer jobs**, and early-career developer roles in the United States. Listings come directly from employer career pages and are maintained by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs).
 
@@ -12,9 +12,9 @@ A continuously verified list of **2027 New Grad software engineering jobs**, **e
 
 🎒 **Looking for internships?** Browse [2027 SWE & Product Internships →](https://github.com/ApplyGuy/2027-Internships)
 
-- **335** active U.S. software roles posted within the last **60 days**
+- **334** active U.S. software roles posted within the last **60 days**
 - **133** explicitly labeled New Grad / university graduate / early career
-- Last refresh: **Sep 25, 2026, 9:46 PM PDT**
+- Last refresh: **Sep 25, 2026, 10:01 PM PDT**
 - Machine-readable feed: [data/new-grad-jobs.json](data/new-grad-jobs.json)
 
 Listings with the orange **Apply Guy** button support one-click apply through [Apply Guy](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs). Blue **View** buttons open the employer's career site directly.
@@ -191,7 +191,6 @@ Listings with the orange **Apply Guy** button support one-click apply through [A
 | ID.me University Recruiting | Summer 2027- Software Development Engineer - New Grad | Mountain View, CA | 22d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=ID.me+University+Recruiting&job=668f9b14-c6f6-4307-bce7-7057313bfbc9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003) |
 | Microsoft | Software Engineer - CTJ - Poly | Redmond, WA · Reston, VA · MD | 22d | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556926963) |
 | Microsoft | Software Engineer - CTJ - Poly | Reston, VA · MD | 22d | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556860973) |
-| Microsoft | Software Engineering - CTJ - Poly | Redmond, WA · Reston, VA · MD | 22d | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556858723) |
 | Scale AI | Software Engineer - New Grad | San Francisco, CA | 22d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Scale+AI&job=75355fb4-c0cd-403e-87d8-a60e28a09e4b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/scaleai/jobs/4730836005) |
 | Accenture Federal Services | Associate Software Engineer-Hire-to-Train Program (Pega) | Washington, DC | 23d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Accenture+Federal+Services&job=359854ab-f2d8-4723-9cee-4be6b6cdbd10&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://boards.greenhouse.io/accenturefederalservices/jobs/4711147006?gh_jid=4711147006) |
 | Amat | Software Engineer, New College Grad- Master's (Chandler, AZ) | Chandler, AZ | 23d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Amat&job=b8c19995-0b7f-43f6-b137-af0a742ed3cc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://amat.wd1.myworkdayjobs.com/external/job/ChandlerAZ/Software-Engineer--New-College-Grad--Master-s--Chandler--AZ-_R2627911) |
