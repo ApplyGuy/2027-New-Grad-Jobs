@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T13:45:53.660Z",
+  "updatedAt": "2026-09-26T14:01:32.168Z",
   "jobs": [
     {
       "id": "58f266fb-4edb-461f-9d84-95781ea2ad1d",
@@ -649,6 +649,19 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=69f4e887-126b-4ae7-b70e-3073ad6d5aca&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/San-Diego-CA/Software-Engineer_R-00192469"
+    },
+    {
+      "id": "custom:microsoft:872b1461dd8af2bce47d",
+      "company": "Microsoft",
+      "title": "Software Engineering IC2",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-22",
+      "age": "4d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556962504",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556962504",
+      "applySupported": false
     },
     {
       "id": "bf263da6-b080-4ebe-8a35-37bcd5e8f761",
