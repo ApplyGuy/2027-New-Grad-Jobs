@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T19:45:59.589Z",
+  "updatedAt": "2026-09-26T20:00:39.693Z",
   "jobs": [
     {
       "id": "58f266fb-4edb-461f-9d84-95781ea2ad1d",
@@ -3873,18 +3873,6 @@
       "age": "58d",
       "url": "https://applyguy.ai/jobs?company=Handshake&job=b6a921c1-881c-4552-b56b-92eb4c2c8020&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/handshake/9a93ec72-d396-4971-8d4c-222094f9c5a3"
-    },
-    {
-      "id": "5d059d9f-4095-4312-9d48-ecd2a6bd4c8c",
-      "company": "Tebra",
-      "title": "Software Engineer 1",
-      "location": "Remote, U.S.",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-07-28",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Tebra&job=5d059d9f-4095-4312-9d48-ecd2a6bd4c8c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/tebra/jobs/4714981005"
     }
   ]
 }
