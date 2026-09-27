@@ -1,6 +1,6 @@
 # 2027 New Grad Software Engineering Jobs
 
-[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-322-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
+[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-321-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
 
 A continuously verified list of **2027 New Grad software engineering jobs**, **entry-level software engineer jobs**, and early-career developer roles in the United States. Listings come directly from employer career pages and are maintained by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs).
 
@@ -12,9 +12,9 @@ A continuously verified list of **2027 New Grad software engineering jobs**, **e
 
 🎒 **Looking for internships?** Browse [2027 SWE & Product Internships →](https://github.com/ApplyGuy/2027-Internships)
 
-- **322** active U.S. software roles posted within the last **60 days**
+- **321** active U.S. software roles posted within the last **60 days**
 - **129** explicitly labeled New Grad / university graduate / early career
-- Last refresh: **Sep 26, 2026, 9:01 PM PDT**
+- Last refresh: **Sep 26, 2026, 9:15 PM PDT**
 - Machine-readable feed: [data/new-grad-jobs.json](data/new-grad-jobs.json)
 
 Listings with the orange **Apply Guy** button support one-click apply through [Apply Guy](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs). Blue **View** buttons open the employer's career site directly.
@@ -231,7 +231,6 @@ Listings with the orange **Apply Guy** button support one-click apply through [A
 | Solace | Associate Data Engineer (College Grad 2027) | Redwood City, CA | 30d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Solace&job=208416e7-b813-4119-a965-2e977b35b875&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/solace/7deb5d7e-9960-4407-9600-aa8e84d9edba) |
 | ASM | Software Engineer - Early Career (Fall 2026) | Phoenix, AZ | 31d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=ASM&job=45e13644-1357-421e-a2f9-680aa38524f0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://www.asm.com/open-vacancies/?gh_jid=4876722101) |
 | Blackrock | Associate Data Engineer, Data Management – Data Office | Ny7, NY | 31d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Blackrock&job=2032b951-6961-4ad9-a59e-333e5238d5aa&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/NY7---50-Hudson-Yards-New-York/Associate-Data-Engineer--Data-Management---Data-Office_R266266) |
-| Esri | Software Development Engineer I - AWS | Redlands, CA | 31d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Esri&job=718e723e-176a-4d51-8a71-3a3bcaa91e43&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://www.esri.com/careers/5220060007?gh_jid=5220060007) |
 | Hatch IT | Junior Data Engineer (DEA) | Arlington, VA | 31d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Hatch+IT&job=65772c20-ea73-4992-8437-59f401402ffd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://jobs.lever.co/hatchit/7f2e771d-2363-4e85-b62f-ca130c478a97) |
 | Iqvia | MedTech Field Service Software Tech Entry level - Eastern Time Zone | Orlando, FL | 31d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Iqvia&job=d5c9720f-9473-49be-9249-f42fd0d8b7af&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://iqvia.wd1.myworkdayjobs.com/iqvia/job/Orlando-FL/MedTech-Field-Service-Software-Technician---Eastern-Time-Zone_R1564635-1) |
 | Iqvia | MedTech Field Service Software Update Tech Entry Level Travel - West Coast Timezone | Las Vegas, NV | 31d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Iqvia&job=18cb4cb5-38db-4c80-8573-d13e9aa357f1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://iqvia.wd1.myworkdayjobs.com/iqvia/job/Las-Vegas--NV/MedTech-Field-Service-Software-Technician---West-Coast-Timezone_R1564643) |
