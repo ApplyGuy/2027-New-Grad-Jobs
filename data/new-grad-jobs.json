@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T18:46:00.917Z",
+  "updatedAt": "2026-09-27T19:01:18.467Z",
   "jobs": [
     {
       "id": "58f266fb-4edb-461f-9d84-95781ea2ad1d",
@@ -50,18 +50,6 @@
       "listingUrl": "https://radiancetech.wd12.myworkdayjobs.com/radiance_external/job/Stennis-Space-Center-MS/Junior-Software-Engineer_HR102450"
     },
     {
-      "id": "ae1102c3-934a-46c4-8b81-4bd1ae7628a6",
-      "company": "RTX",
-      "title": "Software Engineer I, Gen4 Airborne Radar",
-      "location": "El Segundo, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-25",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=ae1102c3-934a-46c4-8b81-4bd1ae7628a6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineer-I--Gen4-Airborne-Radar_01877039"
-    },
-    {
       "id": "064a1d6c-5a01-49d2-9f76-e9697f88ddc2",
       "company": "RTX",
       "title": "Software Engineer I (Onsite)",
@@ -84,6 +72,18 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=ceb2c5fe-ed61-47e0-bf78-78f831e1edd6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineer-I--Onsite-_01872684"
+    },
+    {
+      "id": "123756c9-42f7-42bb-b0e5-cef8a4c9f8db",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Tucson, AZ",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-25",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=123756c9-42f7-42bb-b0e5-cef8a4c9f8db&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01866752"
     },
     {
       "id": "f9217c8e-cb5b-49c2-8a24-ffd1e2e08c75",
@@ -337,18 +337,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=8e6de592-2844-4296-8421-26281bad2c08&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01877495"
-    },
-    {
-      "id": "f9601415-9686-4d1e-8cc4-b95a8eff217a",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Tucson, AZ",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-24",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=f9601415-9686-4d1e-8cc4-b95a8eff217a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01866752-1"
     },
     {
       "id": "7e0e2bac-b8c9-4b14-866b-d2f64e19d751",
