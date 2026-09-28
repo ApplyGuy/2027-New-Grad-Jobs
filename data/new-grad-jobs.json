@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T18:01:08.450Z",
+  "updatedAt": "2026-09-28T18:16:02.515Z",
   "jobs": [
     {
       "id": "3b705c67-d8f1-48a1-8bd9-de9bc79d475e",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Amynta&job=3b705c67-d8f1-48a1-8bd9-de9bc79d475e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://amynta.wd5.myworkdayjobs.com/global/job/Baltimore/Software-Developer-I--IN-OFFICE-4-DAYS-_2609-0540"
+    },
+    {
+      "id": "ad53d16e-b774-42df-ada3-0197b04014ac",
+      "company": "Lhw",
+      "title": "Associate Data Engineer",
+      "location": "New York City, NY",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Lhw&job=ad53d16e-b774-42df-ada3-0197b04014ac&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://lhw.bamboohr.com/careers/99"
     },
     {
       "id": "97574a65-99ce-4276-89f4-4c83e56dd71a",
