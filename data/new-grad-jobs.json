@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T19:16:23.616Z",
+  "updatedAt": "2026-09-28T19:30:58.320Z",
   "jobs": [
     {
       "id": "3b705c67-d8f1-48a1-8bd9-de9bc79d475e",
@@ -3487,18 +3487,6 @@
       "age": "53d",
       "url": "https://applyguy.ai/jobs?company=SMX&job=fe49152b-b1c0-4eab-be5f-6795c648baa6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.smxtech.com/careers/?gh_jid=7832667003"
-    },
-    {
-      "id": "70635e1a-9f05-4876-9733-48873ea59060",
-      "company": "Manhattan Associates",
-      "title": "Software Engineer - Early Career",
-      "location": "Atlanta, GA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-05",
-      "age": "54d",
-      "url": "https://applyguy.ai/jobs?company=Manhattan+Associates&job=70635e1a-9f05-4876-9733-48873ea59060&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://manh.wd5.myworkdayjobs.com/campus/job/Atlanta-GA/Software-Engineer---Early-Career_16977"
     },
     {
       "id": "e6cb5068-0d3d-4cf6-aa4e-0a2ec52ab94f",
