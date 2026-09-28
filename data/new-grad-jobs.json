@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T18:45:40.154Z",
+  "updatedAt": "2026-09-28T19:01:42.779Z",
   "jobs": [
     {
       "id": "3b705c67-d8f1-48a1-8bd9-de9bc79d475e",
@@ -291,18 +291,6 @@
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Huntsville-AL/Junior-Software-Developer_R-00193099"
     },
     {
-      "id": "b4dc2d7a-33e5-4c8d-be91-0e231c977b7f",
-      "company": "Leidos",
-      "title": "Jr Software Developer",
-      "location": "Gaithersburg, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-24",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=Leidos&job=b4dc2d7a-33e5-4c8d-be91-0e231c977b7f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Gaithersburg-MD/Jr-Software-Developer_R-00193045"
-    },
-    {
       "id": "a8417dfe-0159-4b44-8ac2-71e9075ac9b0",
       "company": "Northrop Grumman",
       "title": "Associate Software Engineer / Software Engineer",
@@ -397,18 +385,6 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=d8d8356c-c84d-4186-8dcf-0b0b63e20fe6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/HWIL-Software-Engineer-I_01874565"
-    },
-    {
-      "id": "b2c0b932-dcc3-4e81-a7ce-f02b0c91e08e",
-      "company": "U.S. Bank",
-      "title": "Software Engineer 1 (AI, Python, LLM, RAG, CI CD)",
-      "location": "Irving, TX",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-24",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=U.S.+Bank&job=b2c0b932-dcc3-4e81-a7ce-f02b0c91e08e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Irving-TX/Software-Engineer-1--AI--Python--LLM--RAG--CI-CD-_2026-0029593"
     },
     {
       "id": "86ae0bd0-17e3-415d-8383-39ebd410b431",
@@ -1552,18 +1528,6 @@
       "listingUrl": "https://boards.greenhouse.io/spacex/jobs/8802882002?gh_jid=8802882002"
     },
     {
-      "id": "cd67ef3c-f18c-43ef-abc5-91ee157adc60",
-      "company": "Boeing",
-      "title": "Associate Software Engineer, Phantom Works",
-      "location": "Berkeley, MO",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-10",
-      "age": "18d",
-      "url": "https://applyguy.ai/jobs?company=Boeing&job=cd67ef3c-f18c-43ef-abc5-91ee157adc60&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Associate-Software-Engineer--Phantom-Works_JR2026523287-1"
-    },
-    {
       "id": "0d2e3278-70e1-4787-9d89-bd2cd56c86f9",
       "company": "EarthCam",
       "title": "Junior Software Developer",
@@ -1718,18 +1682,6 @@
       "age": "19d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=f68f1b9b-dbc5-4c58-b007-310815fb9140&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineer-I--Onsite-_01871083"
-    },
-    {
-      "id": "58d43bf8-8de3-40f4-adc2-1865095c31a9",
-      "company": "RTX",
-      "title": "Embedded Software Engineer I (Onsite)",
-      "location": "Mckinney, TX",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-09",
-      "age": "19d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=58d43bf8-8de3-40f4-adc2-1865095c31a9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Embedded-Software-Engineer-I--Onsite-_01871867"
     },
     {
       "id": "0bc3663a-f55b-4f02-8a02-ae1360a86199",
