@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T22:30:35.661Z",
+  "updatedAt": "2026-09-28T22:46:07.457Z",
   "jobs": [
     {
       "id": "3b705c67-d8f1-48a1-8bd9-de9bc79d475e",
@@ -12,6 +12,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Amynta&job=3b705c67-d8f1-48a1-8bd9-de9bc79d475e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://amynta.wd5.myworkdayjobs.com/global/job/Baltimore/Software-Developer-I--IN-OFFICE-4-DAYS-_2609-0540"
+    },
+    {
+      "id": "02276b46-72e0-4fb4-be99-a9637aea7897",
+      "company": "Eversource",
+      "title": "IT Associate Software Engineer (Hybrid)",
+      "location": "Berlin, CT",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Eversource&job=02276b46-72e0-4fb4-be99-a9637aea7897&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://eversource.wd1.myworkdayjobs.com/externalsite/job/Berlin-CT/IT-Associate-Software-Engineer--Hybrid-_R-031045"
+    },
+    {
+      "id": "f808c368-e4a1-40bb-9997-1ce59f2cd35d",
+      "company": "EvolutionIQ",
+      "title": "Associate Data Engineer (Python / AI Insurance SaaS)",
+      "location": "New York City, NY",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=EvolutionIQ&job=f808c368-e4a1-40bb-9997-1ce59f2cd35d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/evolutioniq/jobs/6210230004"
     },
     {
       "id": "ad53d16e-b774-42df-ada3-0197b04014ac",
@@ -37,6 +61,30 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
       "applySupported": false
+    },
+    {
+      "id": "fb163b14-3825-42e3-925e-bcfc1834d4b2",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Ft Wayne, IN",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=fb163b14-3825-42e3-925e-bcfc1834d4b2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I---Space-and-RF-Sensors--Onsite-_01878512"
+    },
+    {
+      "id": "fa675331-8f6a-45d8-8cac-9393a101a149",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Cedar Rapids, IA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=fa675331-8f6a-45d8-8cac-9393a101a149&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I--Onsite-_01878081"
     },
     {
       "id": "97574a65-99ce-4276-89f4-4c83e56dd71a",
@@ -109,18 +157,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=064a1d6c-5a01-49d2-9f76-e9697f88ddc2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineer-I--Onsite-_01875568"
-    },
-    {
-      "id": "ceb2c5fe-ed61-47e0-bf78-78f831e1edd6",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Cedar Rapids, IA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-25",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=ceb2c5fe-ed61-47e0-bf78-78f831e1edd6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineer-I--Onsite-_01872684"
     },
     {
       "id": "123756c9-42f7-42bb-b0e5-cef8a4c9f8db",
@@ -818,18 +854,6 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=480f9b78-725a-460c-9e9d-8769c4f065b6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I---Test_01873961"
-    },
-    {
-      "id": "32e9dd5f-0b0c-415a-9ad3-c3d0d8350099",
-      "company": "RTX",
-      "title": "Software Engineer I -(Onsite)",
-      "location": "Ft Wayne, IN",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-21",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=32e9dd5f-0b0c-415a-9ad3-c3d0d8350099&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I---Onsite-_01868599"
     },
     {
       "id": "25a7a488-0842-4c69-9c77-f093eb04b582",
