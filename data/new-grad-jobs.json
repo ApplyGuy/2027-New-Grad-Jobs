@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-09-28T15:31:52.943Z",
+  "updatedAt": "2026-09-28T15:45:39.761Z",
   "jobs": [
+    {
+      "id": "3b705c67-d8f1-48a1-8bd9-de9bc79d475e",
+      "company": "Amynta",
+      "title": "Software Developer I (IN-OFFICE 4 DAYS)",
+      "location": "Baltimore, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Amynta&job=3b705c67-d8f1-48a1-8bd9-de9bc79d475e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://amynta.wd5.myworkdayjobs.com/global/job/Baltimore/Software-Developer-I--IN-OFFICE-4-DAYS-_2609-0540"
+    },
     {
       "id": "97574a65-99ce-4276-89f4-4c83e56dd71a",
       "company": "RTX",
