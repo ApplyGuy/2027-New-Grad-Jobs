@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-09-28T13:45:53.996Z",
+  "updatedAt": "2026-09-28T14:01:19.299Z",
   "jobs": [
+    {
+      "id": "97574a65-99ce-4276-89f4-4c83e56dd71a",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Indianapolis, IN",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=97574a65-99ce-4276-89f4-4c83e56dd71a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineer-I--Onsite-_01873683"
+    },
     {
       "id": "58f266fb-4edb-461f-9d84-95781ea2ad1d",
       "company": "Abbott",
