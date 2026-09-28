@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T04:01:20.666Z",
+  "updatedAt": "2026-09-28T04:15:38.142Z",
   "jobs": [
     {
       "id": "58f266fb-4edb-461f-9d84-95781ea2ad1d",
@@ -625,19 +625,6 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=69f4e887-126b-4ae7-b70e-3073ad6d5aca&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/San-Diego-CA/Software-Engineer_R-00192469"
-    },
-    {
-      "id": "custom:microsoft:872b1461dd8af2bce47d",
-      "company": "Microsoft",
-      "title": "Software Engineering IC2",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-22",
-      "age": "6d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556962504",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556962504",
-      "applySupported": false
     },
     {
       "id": "bf263da6-b080-4ebe-8a35-37bcd5e8f761",
@@ -2598,78 +2585,6 @@
       "listingUrl": "https://jobs.lever.co/deltasands/78ed860f-7c69-4888-9a05-e8c9006be291"
     },
     {
-      "id": "40c92df4-6d4e-4024-8643-4d9368c80fc3",
-      "company": "Energy Solutions - USA",
-      "title": "Software Engineer I (Portland, OR - US)",
-      "location": "Portland, OR",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-26",
-      "age": "33d",
-      "url": "https://applyguy.ai/jobs?company=Energy+Solutions+-+USA&job=40c92df4-6d4e-4024-8643-4d9368c80fc3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/energysolutions/jobs/5222431007"
-    },
-    {
-      "id": "43737d31-8022-4fba-a944-e592c3018f8c",
-      "company": "Energy Solutions - USA",
-      "title": "Software Engineer I (Orange, CA - US)",
-      "location": "Orange, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-26",
-      "age": "33d",
-      "url": "https://applyguy.ai/jobs?company=Energy+Solutions+-+USA&job=43737d31-8022-4fba-a944-e592c3018f8c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/energysolutions/jobs/5222429007"
-    },
-    {
-      "id": "52dd9f7c-3fdf-47e3-b68f-c0c2db7bdbb6",
-      "company": "Energy Solutions - USA",
-      "title": "Software Engineer I (Oakland, CA - US)",
-      "location": "Oakland, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-26",
-      "age": "33d",
-      "url": "https://applyguy.ai/jobs?company=Energy+Solutions+-+USA&job=52dd9f7c-3fdf-47e3-b68f-c0c2db7bdbb6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/energysolutions/jobs/5222428007"
-    },
-    {
-      "id": "8695145c-79c1-47f9-a702-82a10ee039eb",
-      "company": "Energy Solutions - USA",
-      "title": "Software Engineer I (New York, NY - US)",
-      "location": "New York City, NY",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-26",
-      "age": "33d",
-      "url": "https://applyguy.ai/jobs?company=Energy+Solutions+-+USA&job=8695145c-79c1-47f9-a702-82a10ee039eb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/energysolutions/jobs/5222432007"
-    },
-    {
-      "id": "6efca28c-c759-4095-bdd6-8913e80e515c",
-      "company": "Energy Solutions - USA",
-      "title": "Software Engineer I (Chicago, IL - US)",
-      "location": "Chicago, IL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-26",
-      "age": "33d",
-      "url": "https://applyguy.ai/jobs?company=Energy+Solutions+-+USA&job=6efca28c-c759-4095-bdd6-8913e80e515c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/energysolutions/jobs/5222430007"
-    },
-    {
-      "id": "d8c02382-6012-4598-a11f-2cec81d9d206",
-      "company": "Energy Solutions - USA",
-      "title": "Software Engineer I (Boston, MA - US)",
-      "location": "Boston, MA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-26",
-      "age": "33d",
-      "url": "https://applyguy.ai/jobs?company=Energy+Solutions+-+USA&job=d8c02382-6012-4598-a11f-2cec81d9d206&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/energysolutions/jobs/5201891007"
-    },
-    {
       "id": "e6e30371-1c6d-4d07-a770-a836f769cbaf",
       "company": "Twitch",
       "title": "Software Engineer I, Memberships",
@@ -3056,18 +2971,6 @@
       "listingUrl": "https://boards.greenhouse.io/spacex/jobs/8729121002?gh_jid=8729121002"
     },
     {
-      "id": "10997521-6775-49d7-bcd7-61b414d43140",
-      "company": "Tti",
-      "title": "Software Engineer 1",
-      "location": "Anderson, SC",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-19",
-      "age": "40d",
-      "url": "https://applyguy.ai/jobs?company=Tti&job=10997521-6775-49d7-bcd7-61b414d43140&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://tti.wd1.myworkdayjobs.com/tti_pe/job/Anderson-SC/Software-Engineer-1_R76960"
-    },
-    {
       "id": "356ea4cb-7be2-40ca-a25a-dce9b2b18789",
       "company": "Dark Wolf Solutions",
       "title": "Junior Data Engineer",
@@ -3114,18 +3017,6 @@
       "age": "42d",
       "url": "https://applyguy.ai/jobs?company=Fleetio&job=6dd439e6-fff0-4837-b6a4-8e017142c06b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/fleetio/jobs/5213856007"
-    },
-    {
-      "id": "7aba27b6-d0c6-4bdb-b6d7-d9bd20369903",
-      "company": "Usan",
-      "title": "Entry Level Software Engineer - Hybrid - Norcross, GA",
-      "location": "Norcross, GA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-17",
-      "age": "42d",
-      "url": "https://applyguy.ai/jobs?company=Usan&job=7aba27b6-d0c6-4bdb-b6d7-d9bd20369903&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://usan.bamboohr.com/careers/200"
     },
     {
       "id": "custom:amazon:8dac7b7753315479f633",
@@ -3441,18 +3332,6 @@
       "listingUrl": "https://selinc.wd1.myworkdayjobs.com/sel/job/Idaho---Boise/Associate-Firmware-Engineer_2026-22257"
     },
     {
-      "id": "25e1047d-f966-41d5-8fb5-9c56b6cb8171",
-      "company": "Captivation Software",
-      "title": "Software Engineer 1 (Call-In Support) - Linux/Bash/Python/Java/Spring/NoSQL/Docker/Kafka/Ansible",
-      "location": "Annapolis Junction, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-10",
-      "age": "49d",
-      "url": "https://applyguy.ai/jobs?company=Captivation+Software&job=25e1047d-f966-41d5-8fb5-9c56b6cb8171&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/captivation/jobs/5385108008"
-    },
-    {
       "id": "c1f886b8-7801-4c1c-bfe8-dd085abd81ed",
       "company": "DV Trading",
       "title": "2027 Graduate Software Engineer (DV Commodities)",
@@ -3598,30 +3477,6 @@
       "listingUrl": "https://payitgov.com/careers-list?gh_jid=7836825003"
     },
     {
-      "id": "0db8b6ec-8b8e-4755-b4dd-097d3314da1a",
-      "company": "VetsEZ",
-      "title": "Junior Software Engineer – Security Release Engineering (SecRel)",
-      "location": "Tampa, FL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-07",
-      "age": "52d",
-      "url": "https://applyguy.ai/jobs?company=VetsEZ&job=0db8b6ec-8b8e-4755-b4dd-097d3314da1a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://vetsez.breezy.hr/p/c976c120b64b01-junior-software-engineer-security-release-engineering-secrel"
-    },
-    {
-      "id": "39407128-e5e3-4ece-ad14-0a69bf4617ef",
-      "company": "VetsEZ",
-      "title": "Junior Software Engineer – Security Release Engineering (SecRel)",
-      "location": "Remote, U.S.",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-07",
-      "age": "52d",
-      "url": "https://applyguy.ai/jobs?company=VetsEZ&job=39407128-e5e3-4ece-ad14-0a69bf4617ef&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://vetsez.breezy.hr/p/c492d2abf56301-junior-software-engineer-security-release-engineering-secrel"
-    },
-    {
       "id": "324ac327-460c-43d0-acf0-b6d6cc1d98e6",
       "company": "Impact.com",
       "title": "Associate Software Engineer",
@@ -3682,18 +3537,6 @@
       "listingUrl": "https://jobs.ashbyhq.com/nooks/311d6e70-5cfa-4e80-89f6-fe00ac1f9f53"
     },
     {
-      "id": "7b34976c-262f-488e-9bc6-60913ae3b5a9",
-      "company": "Peraton",
-      "title": "Junior Software Developer - Space Weather",
-      "location": "Colorado Springs, CO",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-05",
-      "age": "54d",
-      "url": "https://applyguy.ai/jobs?company=Peraton&job=7b34976c-262f-488e-9bc6-60913ae3b5a9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://careers-peraton.icims.com/jobs/169403/junior-software-developer---space-weather/job"
-    },
-    {
       "id": "b787bb89-547d-4d4a-a2a3-59018fdd7969",
       "company": "Roblox",
       "title": "[2027] Software Engineer, Early Career",
@@ -3704,18 +3547,6 @@
       "age": "54d",
       "url": "https://applyguy.ai/jobs?company=Roblox&job=b787bb89-547d-4d4a-a2a3-59018fdd7969&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244"
-    },
-    {
-      "id": "be66dbc6-7a6e-492a-a199-6304009b4e72",
-      "company": "Torc Robotics",
-      "title": "Software Engineer I - Metrics for Release",
-      "location": "Ann Arbor, MI",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-05",
-      "age": "54d",
-      "url": "https://applyguy.ai/jobs?company=Torc+Robotics&job=be66dbc6-7a6e-492a-a199-6304009b4e72&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/torcrobotics/jobs/8676173002"
     },
     {
       "id": "18f6f6cf-af8d-49a7-b987-1dc4711e7599",
