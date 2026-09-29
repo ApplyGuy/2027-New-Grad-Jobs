@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T16:46:01.454Z",
+  "updatedAt": "2026-09-29T17:00:39.951Z",
   "jobs": [
     {
       "id": "4cd5e571-01ca-4b2c-a156-6c5c234c7f4d",
@@ -36,6 +36,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=OneImaging&job=47991204-3712-402d-9d5d-ea85ea111f15&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/oneimaging/jobs/4423640009"
+    },
+    {
+      "id": "a3edf6a4-8f13-4996-af94-d6b45aa75691",
+      "company": "RTX",
+      "title": "Software Engineer I, Onsite",
+      "location": "Cedar Rapids, IA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-29",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=a3edf6a4-8f13-4996-af94-d6b45aa75691&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I--Onsite_01878662"
+    },
+    {
+      "id": "896e224f-60ab-4ab7-bf33-50cfb9133ff5",
+      "company": "RTX",
+      "title": "Software Engineer I, RCU (Onsite - Security Clearance)",
+      "location": "Aguadilla, PR",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-29",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=896e224f-60ab-4ab7-bf33-50cfb9133ff5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--RCU--Onsite---Security-Clearance-_01878753"
     },
     {
       "id": "73c47ef4-7a58-4ec3-b335-f4a413e30102",
@@ -110,6 +134,19 @@
       "listingUrl": "https://lhw.bamboohr.com/careers/99"
     },
     {
+      "id": "custom:microsoft:03d65b2b10e701c197e7",
+      "company": "Microsoft",
+      "title": "Software Engineering - Commercial Engineering & AI (CEAI)",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-28",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
+      "applySupported": false
+    },
+    {
       "id": "eb1a30c8-9a96-4179-bb2a-a1ba6071287e",
       "company": "Momentum Engineering, Inc.",
       "title": "ME00682-Software Engineer 1",
@@ -168,18 +205,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=fb163b14-3825-42e3-925e-bcfc1834d4b2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I---Space-and-RF-Sensors--Onsite-_01878512"
-    },
-    {
-      "id": "fa675331-8f6a-45d8-8cac-9393a101a149",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Cedar Rapids, IA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-28",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=fa675331-8f6a-45d8-8cac-9393a101a149&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I--Onsite-_01878081"
     },
     {
       "id": "97574a65-99ce-4276-89f4-4c83e56dd71a",
