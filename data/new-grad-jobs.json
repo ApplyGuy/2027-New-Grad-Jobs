@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T06:00:30.544Z",
+  "updatedAt": "2026-09-29T06:16:02.375Z",
   "jobs": [
     {
       "id": "a6aca4d0-0773-4c65-b805-d3316d745f93",
@@ -109,6 +109,18 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
       "applySupported": false
+    },
+    {
+      "id": "eb1a30c8-9a96-4179-bb2a-a1ba6071287e",
+      "company": "Momentum Engineering, Inc.",
+      "title": "ME00682-Software Engineer 1",
+      "location": "Annapolis Junction, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-28",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Momentum+Engineering%2C+Inc.&job=eb1a30c8-9a96-4179-bb2a-a1ba6071287e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://ats.rippling.com/momentumcareers/jobs/bca6bef8-620f-4d9f-bca8-a4503f8d5658"
     },
     {
       "id": "bf7f22f9-6a8e-4806-8c2f-f1b337b6bbfd",
