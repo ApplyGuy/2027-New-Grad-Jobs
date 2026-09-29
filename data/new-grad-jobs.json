@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T18:30:39.013Z",
+  "updatedAt": "2026-09-29T18:46:07.520Z",
   "jobs": [
     {
       "id": "4cd5e571-01ca-4b2c-a156-6c5c234c7f4d",
@@ -12,6 +12,32 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Bristolmyerssquibb&job=4cd5e571-01ca-4b2c-a156-6c5c234c7f4d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Hyderabad---TS---IN/Software-Developer-I---ServiceNow_R1604126"
+    },
+    {
+      "id": "custom:microsoft:d5cc945fb1d75453a945",
+      "company": "Microsoft",
+      "title": "Software Engineer",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-29",
+      "age": "Today",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557008566",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557008566",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:698bf1cfd0197fa8f311",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-29",
+      "age": "Today",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "applySupported": false
     },
     {
       "id": "e555940c-0634-4e66-ab98-7a86793b673d",
@@ -98,6 +124,18 @@
       "listingUrl": "https://boards.greenhouse.io/spacex/jobs/8854394002?gh_jid=8854394002"
     },
     {
+      "id": "5df9abb9-bcf0-42bc-b05b-9d14d2825e22",
+      "company": "U.S. Bank",
+      "title": "Software engineer 1 – AI/ML Engineer (Generative AI)",
+      "location": "Chicago, IL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-29",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=U.S.+Bank&job=5df9abb9-bcf0-42bc-b05b-9d14d2825e22&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Chicago-IL/Software-engineer-1---AI-ML-Engineer--Generative-AI-_2026-0027055"
+    },
+    {
       "id": "3b705c67-d8f1-48a1-8bd9-de9bc79d475e",
       "company": "Amynta",
       "title": "Software Developer I (IN-OFFICE 4 DAYS)",
@@ -156,6 +194,19 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Lhw&job=ad53d16e-b774-42df-ada3-0197b04014ac&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://lhw.bamboohr.com/careers/99"
+    },
+    {
+      "id": "custom:microsoft:03d65b2b10e701c197e7",
+      "company": "Microsoft",
+      "title": "Software Engineering - Commercial Engineering & AI (CEAI)",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-28",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
+      "applySupported": false
     },
     {
       "id": "eb1a30c8-9a96-4179-bb2a-a1ba6071287e",
