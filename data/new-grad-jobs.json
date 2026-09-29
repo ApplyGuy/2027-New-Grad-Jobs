@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T19:00:35.172Z",
+  "updatedAt": "2026-09-29T19:16:04.068Z",
   "jobs": [
     {
       "id": "4cd5e571-01ca-4b2c-a156-6c5c234c7f4d",
@@ -12,32 +12,6 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Bristolmyerssquibb&job=4cd5e571-01ca-4b2c-a156-6c5c234c7f4d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Hyderabad---TS---IN/Software-Developer-I---ServiceNow_R1604126"
-    },
-    {
-      "id": "custom:microsoft:d5cc945fb1d75453a945",
-      "company": "Microsoft",
-      "title": "Software Engineer",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-29",
-      "age": "Today",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557008566",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557008566",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:698bf1cfd0197fa8f311",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-29",
-      "age": "Today",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "applySupported": false
     },
     {
       "id": "e555940c-0634-4e66-ab98-7a86793b673d",
@@ -194,19 +168,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Lhw&job=ad53d16e-b774-42df-ada3-0197b04014ac&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://lhw.bamboohr.com/careers/99"
-    },
-    {
-      "id": "custom:microsoft:03d65b2b10e701c197e7",
-      "company": "Microsoft",
-      "title": "Software Engineering - Commercial Engineering & AI (CEAI)",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-28",
-      "age": "1d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
-      "applySupported": false
     },
     {
       "id": "eb1a30c8-9a96-4179-bb2a-a1ba6071287e",
@@ -594,6 +555,18 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-I_01875564"
     },
     {
+      "id": "5b79fc97-49ab-4858-b5ac-b2ead6015260",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Tewksbury, MA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-24",
+      "age": "5d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=5b79fc97-49ab-4858-b5ac-b2ead6015260&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01875565"
+    },
+    {
       "id": "d8d8356c-c84d-4186-8dcf-0b0b63e20fe6",
       "company": "RTX",
       "title": "HWIL Software Engineer I",
@@ -700,18 +673,6 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Radiancetech&job=e15dc1c1-08ca-4280-9bc2-62cfad6300b1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://radiancetech.wd12.myworkdayjobs.com/radiance_external/job/Beavercreek-OH/Junior-Software-Engineer_HR102428"
-    },
-    {
-      "id": "7258d8e2-65d3-483d-a063-b1e1a54d7eff",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Tewksbury, MA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-23",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=7258d8e2-65d3-483d-a063-b1e1a54d7eff&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01873302"
     },
     {
       "id": "54eddbd4-55ec-4465-a650-636c0cb97e8e",
@@ -1541,18 +1502,6 @@
       "age": "15d",
       "url": "https://applyguy.ai/jobs?company=Defense+Unicorns&job=6c6078ff-4775-4eb7-bffd-d2ed06f468d0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/defenseunicorns/jobs/5236927007"
-    },
-    {
-      "id": "a3c6a2b7-4e13-4eb2-b0cf-7c239a8366dd",
-      "company": "Fau",
-      "title": "Software Engineer I",
-      "location": "Boca Raton, FL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-14",
-      "age": "15d",
-      "url": "https://applyguy.ai/jobs?company=Fau&job=a3c6a2b7-4e13-4eb2-b0cf-7c239a8366dd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://fau.wd1.myworkdayjobs.com/fau/job/Boca-Raton/Software-Engineer-I_REQ22843"
     },
     {
       "id": "4269dfb8-5be0-41c7-b5d0-28d20c9a5f51",
@@ -2984,19 +2933,6 @@
       "listingUrl": "https://carislifesciences.wd12.myworkdayjobs.com/cls/job/Irving-TX---75039/Associate-Software-Engineer_JR105464"
     },
     {
-      "id": "custom:google:84680705375642310",
-      "company": "Google",
-      "title": "Software Engineer, Infrastructure, PhD, Early Career, 2027 Start",
-      "location": "Multiple U.S. locations",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-24",
-      "age": "36d",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/84680705375642310-software-engineer-infrastructure-phd-early-career-2027-start",
-      "listingUrl": "https://www.google.com/about/careers/applications/jobs/results/84680705375642310-software-engineer-infrastructure-phd-early-career-2027-start",
-      "applySupported": false
-    },
-    {
       "id": "custom:google:123087196289671878",
       "company": "Google",
       "title": "Software Engineer, AI/Machine Learning,  PhD, Early Career, 2027 Start",
@@ -3007,6 +2943,19 @@
       "age": "36d",
       "url": "https://www.google.com/about/careers/applications/jobs/results/123087196289671878-software-engineer-ai-machine-learning-phd-early-career-2027-start",
       "listingUrl": "https://www.google.com/about/careers/applications/jobs/results/123087196289671878-software-engineer-ai-machine-learning-phd-early-career-2027-start",
+      "applySupported": false
+    },
+    {
+      "id": "custom:google:84680705375642310",
+      "company": "Google",
+      "title": "Software Engineer, Infrastructure, PhD, Early Career, 2027 Start",
+      "location": "Multiple U.S. locations",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-24",
+      "age": "36d",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/84680705375642310-software-engineer-infrastructure-phd-early-career-2027-start",
+      "listingUrl": "https://www.google.com/about/careers/applications/jobs/results/84680705375642310-software-engineer-infrastructure-phd-early-career-2027-start",
       "applySupported": false
     },
     {
