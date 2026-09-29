@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T17:45:38.488Z",
+  "updatedAt": "2026-09-29T18:00:43.440Z",
   "jobs": [
     {
       "id": "4cd5e571-01ca-4b2c-a156-6c5c234c7f4d",
@@ -40,6 +40,18 @@
       "applySupported": false
     },
     {
+      "id": "e555940c-0634-4e66-ab98-7a86793b673d",
+      "company": "Northrop Grumman",
+      "title": "2027 Associate Software Engineer - Huntsville (AL)",
+      "location": "Huntsville, AL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-29",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=e555940c-0634-4e66-ab98-7a86793b673d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Huntsville--AL-_R10253518"
+    },
+    {
       "id": "a6aca4d0-0773-4c65-b805-d3316d745f93",
       "company": "OneImaging",
       "title": "Associate Data Engineer (UMiami Only)",
@@ -62,6 +74,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=OneImaging&job=47991204-3712-402d-9d5d-ea85ea111f15&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/oneimaging/jobs/4423640009"
+    },
+    {
+      "id": "5e2c1baf-dca8-4fc3-b8f4-471a1052691f",
+      "company": "Rollsroyce",
+      "title": "Junior Machine Learning Engineer",
+      "location": "Indianapolis, IN",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-29",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Rollsroyce&job=5e2c1baf-dca8-4fc3-b8f4-471a1052691f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Indianapolis/Junior-Machine-Learning-Engineer_JR6159705"
     },
     {
       "id": "a3edf6a4-8f13-4996-af94-d6b45aa75691",
