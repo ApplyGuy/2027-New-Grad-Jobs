@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-09-29T09:30:40.848Z",
+  "updatedAt": "2026-09-29T09:45:35.360Z",
   "jobs": [
+    {
+      "id": "4cd5e571-01ca-4b2c-a156-6c5c234c7f4d",
+      "company": "Bristolmyerssquibb",
+      "title": "Software Developer I - ServiceNow",
+      "location": "Hyderabad, IN",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-29",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Bristolmyerssquibb&job=4cd5e571-01ca-4b2c-a156-6c5c234c7f4d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Hyderabad---TS---IN/Software-Developer-I---ServiceNow_R1604126"
+    },
     {
       "id": "a6aca4d0-0773-4c65-b805-d3316d745f93",
       "company": "OneImaging",
