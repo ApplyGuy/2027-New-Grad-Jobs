@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T17:31:22.855Z",
+  "updatedAt": "2026-09-29T17:45:38.488Z",
   "jobs": [
     {
       "id": "4cd5e571-01ca-4b2c-a156-6c5c234c7f4d",
@@ -12,6 +12,19 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Bristolmyerssquibb&job=4cd5e571-01ca-4b2c-a156-6c5c234c7f4d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Hyderabad---TS---IN/Software-Developer-I---ServiceNow_R1604126"
+    },
+    {
+      "id": "custom:microsoft:d5cc945fb1d75453a945",
+      "company": "Microsoft",
+      "title": "Software Engineer",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-29",
+      "age": "Today",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557008566",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557008566",
+      "applySupported": false
     },
     {
       "id": "custom:microsoft:698bf1cfd0197fa8f311",
@@ -29,7 +42,7 @@
     {
       "id": "a6aca4d0-0773-4c65-b805-d3316d745f93",
       "company": "OneImaging",
-      "title": "Associate Data Engineer (Miami Only)",
+      "title": "Associate Data Engineer (UMiami Only)",
       "location": "Miami, FL",
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
@@ -41,7 +54,7 @@
     {
       "id": "47991204-3712-402d-9d5d-ea85ea111f15",
       "company": "OneImaging",
-      "title": "Full Stack Associate Software Engineer (Miami Only)",
+      "title": "Full Stack Associate Software Engineer (UMiami Only)",
       "location": "Miami, FL",
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
