@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T23:00:59.684Z",
+  "updatedAt": "2026-09-29T23:16:04.443Z",
   "jobs": [
     {
       "id": "172badbf-48fe-4595-87b9-c3682509b98d",
@@ -26,6 +26,18 @@
       "listingUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Hyderabad---TS---IN/Software-Developer-I---ServiceNow_R1604126"
     },
     {
+      "id": "e3c2b5bb-642f-40d5-a7cd-b985b85ea9fe",
+      "company": "Globusmedical",
+      "title": "Associate Software Engineer",
+      "location": "Audubon, PA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-29",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Globusmedical&job=e3c2b5bb-642f-40d5-a7cd-b985b85ea9fe&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/Audubon-PA/Associate-Software-Engineer_JR107947-1"
+    },
+    {
       "id": "e555940c-0634-4e66-ab98-7a86793b673d",
       "company": "Northrop Grumman",
       "title": "2027 Associate Software Engineer - Huntsville (AL)",
@@ -36,6 +48,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=e555940c-0634-4e66-ab98-7a86793b673d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Huntsville--AL-_R10253518"
+    },
+    {
+      "id": "9309a7a4-8867-4353-8d34-a3abaf8e265c",
+      "company": "NVIDIA",
+      "title": "Applied Machine Learning Engineer, AI for VLSI Design - New College Grad 2026",
+      "location": "Santa Clara, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-29",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=9309a7a4-8867-4353-8d34-a3abaf8e265c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--AI-for-VLSI-Design---New-College-Grad-2026_JR2026576"
     },
     {
       "id": "a6aca4d0-0773-4c65-b805-d3316d745f93",
