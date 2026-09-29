@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T00:01:07.251Z",
+  "updatedAt": "2026-09-29T00:15:42.128Z",
   "jobs": [
     {
       "id": "3b705c67-d8f1-48a1-8bd9-de9bc79d475e",
@@ -50,17 +50,16 @@
       "listingUrl": "https://lhw.bamboohr.com/careers/99"
     },
     {
-      "id": "custom:microsoft:03d65b2b10e701c197e7",
-      "company": "Microsoft",
-      "title": "Software Engineering - Commercial Engineering & AI (CEAI)",
-      "location": "Redmond, WA",
+      "id": "bf7f22f9-6a8e-4806-8c2f-f1b337b6bbfd",
+      "company": "Momentum Engineering, Inc.",
+      "title": "ME00675 - Cloud Software Engineer 1",
+      "location": "Annapolis Junction, MD",
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
       "posted": "2026-09-28",
       "age": "1d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
-      "applySupported": false
+      "url": "https://applyguy.ai/jobs?company=Momentum+Engineering%2C+Inc.&job=bf7f22f9-6a8e-4806-8c2f-f1b337b6bbfd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://ats.rippling.com/momentumcareers/jobs/4814716a-3d10-4dbf-9d13-b1d3e46b18de"
     },
     {
       "id": "afe25188-427f-48a7-83c1-69c0120048e3",
@@ -109,6 +108,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=97574a65-99ce-4276-89f4-4c83e56dd71a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineer-I--Onsite-_01873683"
+    },
+    {
+      "id": "36338c1a-01ee-4c02-aa12-0f8c3bb22c14",
+      "company": "Wattswater",
+      "title": "Software Engineer I",
+      "location": "Blauvelt, NY",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-28",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Wattswater&job=36338c1a-01ee-4c02-aa12-0f8c3bb22c14&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://wattswater.wd5.myworkdayjobs.com/external/job/Blauvelt-NY/Software-Engineer-I_10017656"
     },
     {
       "id": "58f266fb-4edb-461f-9d84-95781ea2ad1d",
