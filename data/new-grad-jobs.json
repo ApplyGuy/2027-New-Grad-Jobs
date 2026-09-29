@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T11:16:07.662Z",
+  "updatedAt": "2026-09-29T11:30:36.433Z",
   "jobs": [
     {
       "id": "4cd5e571-01ca-4b2c-a156-6c5c234c7f4d",
@@ -110,19 +110,6 @@
       "listingUrl": "https://lhw.bamboohr.com/careers/99"
     },
     {
-      "id": "custom:microsoft:03d65b2b10e701c197e7",
-      "company": "Microsoft",
-      "title": "Software Engineering - Commercial Engineering & AI (CEAI)",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-28",
-      "age": "1d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
-      "applySupported": false
-    },
-    {
       "id": "eb1a30c8-9a96-4179-bb2a-a1ba6071287e",
       "company": "Momentum Engineering, Inc.",
       "title": "ME00682-Software Engineer 1",
@@ -229,18 +216,6 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Abbott&job=58f266fb-4edb-461f-9d84-95781ea2ad1d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---La-Jolla/Software-Engineer-I_31162389-1"
-    },
-    {
-      "id": "f1161ae2-9942-41ef-859f-e0bede26e06c",
-      "company": "Lodestar",
-      "title": "Software Engineer I: Payload Engineer",
-      "location": "Los Angeles, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-25",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=Lodestar&job=f1161ae2-9942-41ef-859f-e0bede26e06c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.eu.greenhouse.io/lodestarspace/jobs/4987198101"
     },
     {
       "id": "a1c443d8-4532-43be-9b3d-fdb7bc943a55",
