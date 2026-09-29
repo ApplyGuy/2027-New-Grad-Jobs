@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T04:45:34.738Z",
+  "updatedAt": "2026-09-29T05:01:12.285Z",
   "jobs": [
     {
       "id": "3b705c67-d8f1-48a1-8bd9-de9bc79d475e",
@@ -36,6 +36,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=EvolutionIQ&job=f808c368-e4a1-40bb-9997-1ce59f2cd35d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/evolutioniq/jobs/6210230004"
+    },
+    {
+      "id": "7329eae5-37b2-4901-a010-b5e0e4fd46b5",
+      "company": "Leidos",
+      "title": "Junior Software Engineer",
+      "location": "Huntsville, AL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-28",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Leidos&job=7329eae5-37b2-4901-a010-b5e0e4fd46b5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Huntsville-AL/Junior-Software-Engineer_R-00193299"
     },
     {
       "id": "ad53d16e-b774-42df-ada3-0197b04014ac",
@@ -85,6 +97,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Pae&job=afe25188-427f-48a7-83c1-69c0120048e3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-MD-Hanover/Software-Engineer-1_R0171612"
+    },
+    {
+      "id": "9f37d60b-5400-438a-9922-89843c41f623",
+      "company": "RTX",
+      "title": "Research Software Engineer I - Onsite",
+      "location": "Cambridge, MA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-28",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=9f37d60b-5400-438a-9922-89843c41f623&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Research-Software-Engineer-I---Onsite_01878338"
     },
     {
       "id": "fb163b14-3825-42e3-925e-bcfc1834d4b2",
@@ -422,18 +446,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=c00c7914-5889-4730-99a0-2e52a0b028eb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--CDS--Onsite---Security-Clearance-_01877720"
-    },
-    {
-      "id": "5b07aa54-fcff-454c-9357-26a22481f80c",
-      "company": "RTX",
-      "title": "Research Software Engineer I (Onsite)",
-      "location": "Cambridge, MA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-24",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=5b07aa54-fcff-454c-9357-26a22481f80c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Research-Software-Engineer-I--Onsite-_01876370"
     },
     {
       "id": "8e6de592-2844-4296-8421-26281bad2c08",
