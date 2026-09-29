@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T08:00:41.256Z",
+  "updatedAt": "2026-09-29T08:15:37.770Z",
   "jobs": [
     {
       "id": "a6aca4d0-0773-4c65-b805-d3316d745f93",
@@ -96,6 +96,19 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Lhw&job=ad53d16e-b774-42df-ada3-0197b04014ac&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://lhw.bamboohr.com/careers/99"
+    },
+    {
+      "id": "custom:microsoft:03d65b2b10e701c197e7",
+      "company": "Microsoft",
+      "title": "Software Engineering - Commercial Engineering & AI (CEAI)",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-28",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
+      "applySupported": false
     },
     {
       "id": "eb1a30c8-9a96-4179-bb2a-a1ba6071287e",
