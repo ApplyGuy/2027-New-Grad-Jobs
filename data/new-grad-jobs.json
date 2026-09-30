@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T23:15:46.404Z",
+  "updatedAt": "2026-09-30T23:31:22.264Z",
   "jobs": [
     {
       "id": "17c47596-249e-4028-84ce-c3c52991a7fe",
@@ -72,6 +72,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Generalmotors&job=63a2ef1f-4127-4197-944e-e895fce6158f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Data-Collection_JR-202618529"
+    },
+    {
+      "id": "cd3b1d14-71f4-4fe4-b7b0-1510cb00918b",
+      "company": "IMC",
+      "title": "Software Engineer, Early Career",
+      "location": "Chicago, IL",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-30",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=IMC&job=cd3b1d14-71f4-4fe4-b7b0-1510cb00918b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.eu.greenhouse.io/imc/jobs/4796143101"
     },
     {
       "id": "dacc5288-ad54-40f2-b112-5294c61aa4c9",
