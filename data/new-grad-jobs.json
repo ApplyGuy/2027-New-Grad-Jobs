@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T17:01:28.863Z",
+  "updatedAt": "2026-09-30T17:15:51.737Z",
   "jobs": [
     {
       "id": "df6e30cc-2db4-49df-a8b1-ecc2996a1ab4",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=CleanSlate+Technology+Group&job=df6e30cc-2db4-49df-a8b1-ecc2996a1ab4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4534868"
+    },
+    {
+      "id": "63a2ef1f-4127-4197-944e-e895fce6158f",
+      "company": "Generalmotors",
+      "title": "Software Engineer, AV Data Collection - Early Career",
+      "location": "Sunnyvale, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-30",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Generalmotors&job=63a2ef1f-4127-4197-944e-e895fce6158f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Data-Collection_JR-202618529"
     },
     {
       "id": "dacc5288-ad54-40f2-b112-5294c61aa4c9",
