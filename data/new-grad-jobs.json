@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-09-30T12:45:35.865Z",
+  "updatedAt": "2026-09-30T13:00:58.372Z",
   "jobs": [
+    {
+      "id": "df6e30cc-2db4-49df-a8b1-ecc2996a1ab4",
+      "company": "CleanSlate Technology Group",
+      "title": "Cloud Full-Stack Developer- Associate (New Grad) 2027",
+      "location": "USA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-30",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=CleanSlate+Technology+Group&job=df6e30cc-2db4-49df-a8b1-ecc2996a1ab4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4534868"
+    },
     {
       "id": "dacc5288-ad54-40f2-b112-5294c61aa4c9",
       "company": "Momentum Engineering, Inc.",
