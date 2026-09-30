@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T04:46:04.856Z",
+  "updatedAt": "2026-09-30T05:00:52.277Z",
   "jobs": [
     {
       "id": "172badbf-48fe-4595-87b9-c3682509b98d",
@@ -120,6 +120,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Rollsroyce&job=5e2c1baf-dca8-4fc3-b8f4-471a1052691f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Indianapolis/Junior-Machine-Learning-Engineer_JR6159705"
+    },
+    {
+      "id": "e721e4d9-a889-4c46-a29b-368c9823ff02",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "St Petersburg, FL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-29",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=e721e4d9-a889-4c46-a29b-368c9823ff02&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineer-I--Onsite-_01874924-1"
     },
     {
       "id": "a3edf6a4-8f13-4996-af94-d6b45aa75691",
