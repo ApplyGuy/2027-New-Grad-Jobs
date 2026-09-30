@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T23:31:22.264Z",
+  "updatedAt": "2026-09-30T23:46:01.454Z",
   "jobs": [
     {
       "id": "17c47596-249e-4028-84ce-c3c52991a7fe",
@@ -86,6 +86,18 @@
       "listingUrl": "https://job-boards.eu.greenhouse.io/imc/jobs/4796143101"
     },
     {
+      "id": "97cca630-5598-4d96-9eba-b8890bacafbb",
+      "company": "Jamf",
+      "title": "Software Engineer I",
+      "location": "Remote, U.S.",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-30",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Jamf&job=97cca630-5598-4d96-9eba-b8890bacafbb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://www.jamf.com/about/careers/jobs/?gh_jid=6207163004&gh_jid=6207163004"
+    },
+    {
       "id": "dacc5288-ad54-40f2-b112-5294c61aa4c9",
       "company": "Momentum Engineering, Inc.",
       "title": "ME00692-Software Engineer 1",
@@ -156,32 +168,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Globusmedical&job=e3c2b5bb-642f-40d5-a7cd-b985b85ea9fe&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/Audubon-PA/Associate-Software-Engineer_JR107947-1"
-    },
-    {
-      "id": "custom:microsoft:d5cc945fb1d75453a945",
-      "company": "Microsoft",
-      "title": "Software Engineer",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-29",
-      "age": "1d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557008566",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557008566",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:698bf1cfd0197fa8f311",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-29",
-      "age": "1d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "applySupported": false
     },
     {
       "id": "a79b357a-de45-473a-84e7-d701518a0714",
@@ -386,19 +372,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Lhw&job=ad53d16e-b774-42df-ada3-0197b04014ac&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://lhw.bamboohr.com/careers/99"
-    },
-    {
-      "id": "custom:microsoft:03d65b2b10e701c197e7",
-      "company": "Microsoft",
-      "title": "Software Engineering - Commercial Engineering & AI (CEAI)",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-28",
-      "age": "2d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
-      "applySupported": false
     },
     {
       "id": "eb1a30c8-9a96-4179-bb2a-a1ba6071287e",
