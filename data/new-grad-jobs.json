@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T05:15:35.702Z",
+  "updatedAt": "2026-09-30T05:30:35.950Z",
   "jobs": [
     {
       "id": "172badbf-48fe-4595-87b9-c3682509b98d",
@@ -38,32 +38,6 @@
       "listingUrl": "https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/Audubon-PA/Associate-Software-Engineer_JR107947-1"
     },
     {
-      "id": "custom:microsoft:d5cc945fb1d75453a945",
-      "company": "Microsoft",
-      "title": "Software Engineer",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-29",
-      "age": "1d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557008566",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557008566",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:698bf1cfd0197fa8f311",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-29",
-      "age": "1d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "applySupported": false
-    },
-    {
       "id": "a0772b1c-5895-410e-96a4-d4a9e47a2cbf",
       "company": "Northrop Grumman",
       "title": "2026 Associate Software Engineer or Software Engineer - Aurora CO",
@@ -98,6 +72,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=e555940c-0634-4e66-ab98-7a86793b673d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Huntsville--AL-_R10253518"
+    },
+    {
+      "id": "d73b9dbb-adac-4ba8-bf47-61f98445229c",
+      "company": "NVIDIA",
+      "title": "Software Engineer, DGX Cloud AI Infrastructure - New College Grad 2026",
+      "location": "Santa Clara, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-29",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=d73b9dbb-adac-4ba8-bf47-61f98445229c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--DGX-Cloud-AI-Infrastructure---New-College-Grad-2026_JR2026477"
     },
     {
       "id": "ff4d695b-6a47-433b-8c2e-cc351c3ef893",
@@ -254,19 +240,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Lhw&job=ad53d16e-b774-42df-ada3-0197b04014ac&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://lhw.bamboohr.com/careers/99"
-    },
-    {
-      "id": "custom:microsoft:03d65b2b10e701c197e7",
-      "company": "Microsoft",
-      "title": "Software Engineering - Commercial Engineering & AI (CEAI)",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-28",
-      "age": "2d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
-      "applySupported": false
     },
     {
       "id": "eb1a30c8-9a96-4179-bb2a-a1ba6071287e",
