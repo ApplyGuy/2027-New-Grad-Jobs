@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T19:01:35.667Z",
+  "updatedAt": "2026-09-30T19:16:25.463Z",
   "jobs": [
     {
       "id": "df6e30cc-2db4-49df-a8b1-ecc2996a1ab4",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=CleanSlate+Technology+Group&job=df6e30cc-2db4-49df-a8b1-ecc2996a1ab4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4534868"
+    },
+    {
+      "id": "3846eea5-c801-46d0-b74d-644d645524a9",
+      "company": "Crowe",
+      "title": "Machine Learning Software Engineer 1",
+      "location": "Chicago IL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-30",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Crowe&job=3846eea5-c801-46d0-b74d-644d645524a9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Machine-Learning-Software-Engineer-1_R-71006"
     },
     {
       "id": "b32b9962-2af2-4d08-a4d6-d274971b76a6",
@@ -48,6 +60,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Momentum+Engineering%2C+Inc.&job=dacc5288-ad54-40f2-b112-5294c61aa4c9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://ats.rippling.com/momentumcareers/jobs/dd4281b8-fa2a-4833-8370-b1859933b612"
+    },
+    {
+      "id": "a824b4c0-9688-4f34-81b6-cea6b8820bbb",
+      "company": "Snc",
+      "title": "Software Engineer I (For 2026 Interns Only)",
+      "location": "Plano, TX",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-30",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Snc&job=a824b4c0-9688-4f34-81b6-cea6b8820bbb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Plano-TX/Software-Engineer-I--For-2026-Interns-Only-_R0030584"
     },
     {
       "id": "1d80ad6e-d1f2-4b9d-baa7-278918d6067d",
@@ -326,6 +350,18 @@
       "listingUrl": "https://ats.rippling.com/momentumcareers/jobs/4814716a-3d10-4dbf-9d13-b1d3e46b18de"
     },
     {
+      "id": "fe46e18c-6cf4-450c-ac9f-05641c8e825a",
+      "company": "Northrop Grumman",
+      "title": "Associate Software Engineer / Software Engineer",
+      "location": "Huntsville, AL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-28",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=fe46e18c-6cf4-450c-ac9f-05641c8e825a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/Associate-Software-Engineer---Software-Engineer_R10249088"
+    },
+    {
       "id": "afe25188-427f-48a7-83c1-69c0120048e3",
       "company": "Pae",
       "title": "Software Engineer 1",
@@ -420,18 +456,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Radiancetech&job=63227538-444d-4b84-8b5f-1ddb5727e7d3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://radiancetech.wd12.myworkdayjobs.com/radiance_external/job/Stennis-Space-Center-MS/Junior-Software-Engineer_HR102450"
-    },
-    {
-      "id": "064a1d6c-5a01-49d2-9f76-e9697f88ddc2",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "West Valley City, UT",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-25",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=064a1d6c-5a01-49d2-9f76-e9697f88ddc2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineer-I--Onsite-_01875568"
     },
     {
       "id": "123756c9-42f7-42bb-b0e5-cef8a4c9f8db",
@@ -615,18 +639,6 @@
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Huntsville-AL/Junior-Software-Developer_R-00193099"
     },
     {
-      "id": "a8417dfe-0159-4b44-8ac2-71e9075ac9b0",
-      "company": "Northrop Grumman",
-      "title": "Associate Software Engineer / Software Engineer",
-      "location": "Huntsville, AL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-24",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=a8417dfe-0159-4b44-8ac2-71e9075ac9b0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/Associate-Software-Engineer---Software-Engineer_R10253028-1"
-    },
-    {
       "id": "b4c19bff-d416-4ab0-80fa-6a339e411ebd",
       "company": "oningroup",
       "title": "Junior Software Developer -Onsite Nashville, TN",
@@ -673,30 +685,6 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=8e6de592-2844-4296-8421-26281bad2c08&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01877495"
-    },
-    {
-      "id": "7e0e2bac-b8c9-4b14-866b-d2f64e19d751",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Woburn, MA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-24",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=7e0e2bac-b8c9-4b14-866b-d2f64e19d751&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-I_01875564"
-    },
-    {
-      "id": "5b79fc97-49ab-4858-b5ac-b2ead6015260",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Tewksbury, MA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-24",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=5b79fc97-49ab-4858-b5ac-b2ead6015260&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01875565"
     },
     {
       "id": "d8d8356c-c84d-4186-8dcf-0b0b63e20fe6",
@@ -829,18 +817,6 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=SeatGeek&job=22ab5aa8-a4cd-4af4-94d3-594ad873bacf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://seatgeek.com/jobs/8227548?gh_jid=8227548"
-    },
-    {
-      "id": "a824b4c0-9688-4f34-81b6-cea6b8820bbb",
-      "company": "Snc",
-      "title": "Software Engineer I (For 2026 Interns Only)",
-      "location": "Plano, TX",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-23",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=Snc&job=a824b4c0-9688-4f34-81b6-cea6b8820bbb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Plano-TX/Software-Engineer-I--For-2026-Interns-Only-_R0030584"
     },
     {
       "id": "7ddef0be-8f34-476d-9a69-e6328b92ad58",
@@ -999,18 +975,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/striveworks/jobs/8002515003"
     },
     {
-      "id": "64901d3c-e95f-49d4-861e-b1f5335cb637",
-      "company": "U.S. Bank",
-      "title": "Software Engineer 1- (Full Stack Developer)",
-      "location": "Atlanta, GA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-22",
-      "age": "8d",
-      "url": "https://applyguy.ai/jobs?company=U.S.+Bank&job=64901d3c-e95f-49d4-861e-b1f5335cb637&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Atlanta-GA/Software-Engineer-1---Full-Stack-Developer-_2026-0022352"
-    },
-    {
       "id": "1de7bcb6-de6b-4239-9373-8d053c632d0b",
       "company": "Abnormal",
       "title": "Software Engineer I - Data Platforms",
@@ -1105,18 +1069,6 @@
       "age": "9d",
       "url": "https://applyguy.ai/jobs?company=Quickenloans&job=38b2520b-1b04-4f0b-bbb9-4c07a2d0486f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Software-Developer-I---Tours-and-Consults_R-084641"
-    },
-    {
-      "id": "480f9b78-725a-460c-9e9d-8769c4f065b6",
-      "company": "RTX",
-      "title": "Software Engineer I - Test",
-      "location": "Tucson, AZ",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-21",
-      "age": "9d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=480f9b78-725a-460c-9e9d-8769c4f065b6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I---Test_01873961"
     },
     {
       "id": "25a7a488-0842-4c69-9c77-f093eb04b582",
@@ -1347,18 +1299,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/togetherai/jobs/5211582007"
     },
     {
-      "id": "6560ed37-1f96-4277-b5c5-3e98728c374f",
-      "company": "Leidos",
-      "title": "Backend Jr Software Developer",
-      "location": "Gaithersburg, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-17",
-      "age": "13d",
-      "url": "https://applyguy.ai/jobs?company=Leidos&job=6560ed37-1f96-4277-b5c5-3e98728c374f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Gaithersburg-MD/Software-Developer_R-00189881"
-    },
-    {
       "id": "f5e749dc-519e-447e-a8d3-4169d85cfd64",
       "company": "MAP",
       "title": "Associate Data Engineer",
@@ -1549,6 +1489,18 @@
       "age": "15d",
       "url": "https://applyguy.ai/jobs?company=Relx&job=88ba169c-b8a6-48a5-9fd8-d6ac9e4f984e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://relx.wd3.myworkdayjobs.com/lexisnexislegal/job/Raleigh-NC/Aspire-Tech-Graduate-Software-Engineer-I_R118694"
+    },
+    {
+      "id": "42c222fd-6821-4224-88de-081e1bf78188",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Tewksbury, MA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-15",
+      "age": "15d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=42c222fd-6821-4224-88de-081e1bf78188&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01873222"
     },
     {
       "id": "e9642ed3-0d44-4443-9e87-16694e86283a",
@@ -1957,6 +1909,18 @@
       "age": "21d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=f68f1b9b-dbc5-4c58-b007-310815fb9140&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineer-I--Onsite-_01871083"
+    },
+    {
+      "id": "ef98541b-fbc0-455d-b999-20a3bee70e42",
+      "company": "RTX",
+      "title": "Software Engineer I  (Onsite)",
+      "location": "Woburn, MA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-09",
+      "age": "21d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=ef98541b-fbc0-455d-b999-20a3bee70e42&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-I---Onsite-_01872445"
     },
     {
       "id": "0bc3663a-f55b-4f02-8a02-ae1360a86199",
@@ -2715,18 +2679,6 @@
       "listingUrl": "https://www.asm.com/open-vacancies/?gh_jid=4876722101"
     },
     {
-      "id": "2032b951-6961-4ad9-a59e-333e5238d5aa",
-      "company": "Blackrock",
-      "title": "Associate Data Engineer, Data Management – Data Office",
-      "location": "Ny7, NY",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-27",
-      "age": "34d",
-      "url": "https://applyguy.ai/jobs?company=Blackrock&job=2032b951-6961-4ad9-a59e-333e5238d5aa&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/NY7---50-Hudson-Yards-New-York/Associate-Data-Engineer--Data-Management---Data-Office_R266266"
-    },
-    {
       "id": "65772c20-ea73-4992-8437-59f401402ffd",
       "company": "Hatch IT",
       "title": "Junior Data Engineer (DEA)",
@@ -3124,18 +3076,6 @@
       "age": "40d",
       "url": "https://applyguy.ai/jobs?company=True+Anomaly&job=f6470e7a-c59a-41c3-95f2-035f11bac538&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5218935007"
-    },
-    {
-      "id": "3846eea5-c801-46d0-b74d-644d645524a9",
-      "company": "Crowe",
-      "title": "Machine Learning Software Engineer 1",
-      "location": "Chicago IL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-20",
-      "age": "41d",
-      "url": "https://applyguy.ai/jobs?company=Crowe&job=3846eea5-c801-46d0-b74d-644d645524a9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Machine-Learning-Software-Engineer-1_R-71006"
     },
     {
       "id": "dc0399ce-23c6-4d75-8328-ff1ff317cee0",
