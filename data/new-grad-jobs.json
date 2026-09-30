@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T12:01:29.441Z",
+  "updatedAt": "2026-09-30T12:16:13.640Z",
   "jobs": [
     {
       "id": "dacc5288-ad54-40f2-b112-5294c61aa4c9",
@@ -1381,19 +1381,6 @@
       "age": "13d",
       "url": "https://applyguy.ai/jobs?company=Stripe&job=502b9b76-2f7a-4b9e-9c76-4554198118c7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://stripe.com/jobs/search?gh_jid=8212508"
-    },
-    {
-      "id": "custom:amazon:8b37644b16da4b8ce5f0",
-      "company": "Amazon",
-      "title": "Software Development Engineer I, GenAI and Agentic ADC",
-      "location": "Arlington, VA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-16",
-      "age": "14d",
-      "url": "https://www.amazon.jobs/en/jobs/10550768/software-development-engineer-i-genai-and-agentic-adc",
-      "listingUrl": "https://www.amazon.jobs/en/jobs/10550768/software-development-engineer-i-genai-and-agentic-adc",
-      "applySupported": false
     },
     {
       "id": "10350c62-2f11-41b5-b415-244fb10594ba",
