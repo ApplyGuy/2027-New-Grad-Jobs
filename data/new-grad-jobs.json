@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-01T22:15:46.530Z",
+  "updatedAt": "2026-10-01T22:31:15.061Z",
   "jobs": [
+    {
+      "id": "a64a96d3-d3da-4b0a-af3a-8b1be951543c",
+      "company": "Barrywehmiller",
+      "title": "Entry Level Software Engineer - RDU-3",
+      "location": "Raleigh, NC",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-10-01",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Barrywehmiller&job=a64a96d3-d3da-4b0a-af3a-8b1be951543c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Raleigh-NC/Entry-Level-Software-Engineer---RDU-3_R022993"
+    },
     {
       "id": "85996b38-ef4e-440d-b5da-743bd2b063a6",
       "company": "Coke",
