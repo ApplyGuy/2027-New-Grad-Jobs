@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-01T11:01:02.018Z",
+  "updatedAt": "2026-10-01T11:15:59.922Z",
   "jobs": [
+    {
+      "id": "258e6057-155e-40c3-8220-807b5100e3d2",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "El Segundo, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-01",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=258e6057-155e-40c3-8220-807b5100e3d2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineer-I--Onsite-_01878759"
+    },
     {
       "id": "17c47596-249e-4028-84ce-c3c52991a7fe",
       "company": "Btisolutions",
@@ -132,6 +144,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=4c90151e-da8d-466b-b3ee-12c50382b6ad&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01879214"
+    },
+    {
+      "id": "3ab73a1f-8de1-42c7-9508-b70616da5375",
+      "company": "RTX",
+      "title": "Embedded Software Engineer I (Onsite)",
+      "location": "East Hartford, CT",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-30",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=3ab73a1f-8de1-42c7-9508-b70616da5375&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Embedded-Software-Engineer-I--Onsite-_01878013"
     },
     {
       "id": "9f37d60b-5400-438a-9922-89843c41f623",
