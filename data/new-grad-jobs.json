@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T04:01:09.455Z",
+  "updatedAt": "2026-10-01T04:15:44.336Z",
   "jobs": [
     {
       "id": "17c47596-249e-4028-84ce-c3c52991a7fe",
@@ -3548,18 +3548,6 @@
       "age": "50d",
       "url": "https://applyguy.ai/jobs?company=General+Matter&job=c4656b86-d950-4d6a-bb5f-dfa3b1f9721d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/generalmatter/jobs/5375987008"
-    },
-    {
-      "id": "6785ade0-9b1f-4061-9bf7-00e561ce9a74",
-      "company": "Mach Industries",
-      "title": "December 2026 New Graduate Engineer, Software / GNC",
-      "location": "Huntington Beach, CA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-12",
-      "age": "50d",
-      "url": "https://applyguy.ai/jobs?company=Mach+Industries&job=6785ade0-9b1f-4061-9bf7-00e561ce9a74&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.ashbyhq.com/mach/43c8b037-c77d-4efb-9379-52a6c3718bdb"
     },
     {
       "id": "cf98cfdc-d54b-4268-85bc-f0232becd9e9",
