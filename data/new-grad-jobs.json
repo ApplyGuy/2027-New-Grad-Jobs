@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T06:00:40.466Z",
+  "updatedAt": "2026-10-01T06:15:52.547Z",
   "jobs": [
     {
       "id": "17c47596-249e-4028-84ce-c3c52991a7fe",
@@ -204,18 +204,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=a79b357a-de45-473a-84e7-d701518a0714&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/Associate-Software-Engineer---Software-Engineer_R10253287"
-    },
-    {
-      "id": "9a1ab81b-a514-46a3-bfbe-5e4bbf92bb6e",
-      "company": "Northrop Grumman",
-      "title": "2027 Associate Software Engineer / Software Engineer",
-      "location": "Melbourne, FL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-29",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=9a1ab81b-a514-46a3-bfbe-5e4bbf92bb6e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer_R10253396"
     },
     {
       "id": "3c63bc9d-2791-4c1d-860e-c584368548f8",
@@ -3509,6 +3497,18 @@
       "age": "50d",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=cf98cfdc-d54b-4268-85bc-f0232becd9e9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Illinois-Rolling-Meadows/Associate-Software-Engineer_R10245470"
+    },
+    {
+      "id": "b7e619ce-4244-473d-8438-07b66510d810",
+      "company": "Northrop Grumman",
+      "title": "2027 Associate Software Engineer/Software Engineer",
+      "location": "Melbourne, FL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-12",
+      "age": "50d",
+      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=b7e619ce-4244-473d-8438-07b66510d810&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer-Software-Engineer_R10245233"
     },
     {
       "id": "64fde33a-25fe-4c1d-9c3a-14a6be753749",
