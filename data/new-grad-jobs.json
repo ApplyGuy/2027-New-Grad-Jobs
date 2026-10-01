@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T14:45:39.785Z",
+  "updatedAt": "2026-10-01T15:01:30.208Z",
   "jobs": [
     {
       "id": "258e6057-155e-40c3-8220-807b5100e3d2",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=7be78e79-7462-4c2d-8288-2ceeb0e6ef35&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--Hybrid---Aguadilla--PR-_01870496"
+    },
+    {
+      "id": "64901d3c-e95f-49d4-861e-b1f5335cb637",
+      "company": "U.S. Bank",
+      "title": "Software Engineer 1- (Full Stack Developer)",
+      "location": "Atlanta, GA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-01",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=U.S.+Bank&job=64901d3c-e95f-49d4-861e-b1f5335cb637&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Atlanta-GA/Software-Engineer-1---Full-Stack-Developer-_2026-0022352"
     },
     {
       "id": "17c47596-249e-4028-84ce-c3c52991a7fe",
@@ -230,32 +242,6 @@
       "listingUrl": "https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/Audubon-PA/Associate-Software-Engineer_JR107947-1"
     },
     {
-      "id": "custom:microsoft:d5cc945fb1d75453a945",
-      "company": "Microsoft",
-      "title": "Software Engineer",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-29",
-      "age": "2d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557008566",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557008566",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:698bf1cfd0197fa8f311",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-29",
-      "age": "2d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "applySupported": false
-    },
-    {
       "id": "a79b357a-de45-473a-84e7-d701518a0714",
       "company": "Northrop Grumman",
       "title": "Associate Software Engineer / Software Engineer",
@@ -422,19 +408,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Lhw&job=ad53d16e-b774-42df-ada3-0197b04014ac&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://lhw.bamboohr.com/careers/99"
-    },
-    {
-      "id": "custom:microsoft:03d65b2b10e701c197e7",
-      "company": "Microsoft",
-      "title": "Software Engineering - Commercial Engineering & AI (CEAI)",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-28",
-      "age": "3d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
-      "applySupported": false
     },
     {
       "id": "eb1a30c8-9a96-4179-bb2a-a1ba6071287e",
