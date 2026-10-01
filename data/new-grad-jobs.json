@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T23:31:38.668Z",
+  "updatedAt": "2026-10-01T23:45:44.880Z",
   "jobs": [
     {
       "id": "a64a96d3-d3da-4b0a-af3a-8b1be951543c",
@@ -49,6 +49,18 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
       "applySupported": false
+    },
+    {
+      "id": "3a280089-2bd8-494a-b78e-0de5ad399e1d",
+      "company": "NVIDIA",
+      "title": "Systems Software Engineer - New College Grad 2026",
+      "location": "US, OR, Hillsboro",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-10-01",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=3a280089-2bd8-494a-b78e-0de5ad399e1d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083"
     },
     {
       "id": "8a04a03f-0345-428b-b6da-e3aa237b9d47",
