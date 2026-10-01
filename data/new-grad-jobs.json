@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T19:16:07.726Z",
+  "updatedAt": "2026-10-01T19:30:44.900Z",
   "jobs": [
     {
       "id": "85996b38-ef4e-440d-b5da-743bd2b063a6",
@@ -533,6 +533,18 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--RCU--Onsite---Security-Clearance-_01878753"
     },
     {
+      "id": "dc88075b-cfb4-474b-aac8-4bfa883c1bcb",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Marlborough, MA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-29",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=dc88075b-cfb4-474b-aac8-4bfa883c1bcb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineer-I--Onsite-_01874953"
+    },
+    {
       "id": "73c47ef4-7a58-4ec3-b335-f4a413e30102",
       "company": "SpaceX",
       "title": "New Graduate Engineer, Software (Starfall)",
@@ -919,18 +931,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--CDS--Onsite---Security-Clearance-_01877720"
     },
     {
-      "id": "8e6de592-2844-4296-8421-26281bad2c08",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Marlborough, MA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-24",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=8e6de592-2844-4296-8421-26281bad2c08&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01877495"
-    },
-    {
       "id": "d8d8356c-c84d-4186-8dcf-0b0b63e20fe6",
       "company": "RTX",
       "title": "HWIL Software Engineer I",
@@ -1109,18 +1109,6 @@
       "age": "9d",
       "url": "https://applyguy.ai/jobs?company=Anduril+Industries&job=dd0e9fb7-0f0b-47d3-8eb9-38355ccedd89&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007"
-    },
-    {
-      "id": "d34362a3-676b-4b7b-aaf9-0ac3b901efda",
-      "company": "Bcbsmn",
-      "title": "Associate Data Engineer",
-      "location": "Eagan, MN",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-22",
-      "age": "9d",
-      "url": "https://applyguy.ai/jobs?company=Bcbsmn&job=d34362a3-676b-4b7b-aaf9-0ac3b901efda&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://bcbsmn.wd5.myworkdayjobs.com/bluecrossmn/job/Eagan-MN/Associate-Data-Engineer_R0006787-1"
     },
     {
       "id": "85bb4a2a-df45-40ff-ada3-87d6fd7b413f",
@@ -1903,18 +1891,6 @@
       "listingUrl": "https://silabs.wd1.myworkdayjobs.com/siliconlabscareers/job/Austin/Software-Engineer-I_21011-1"
     },
     {
-      "id": "d698a7e2-288b-4f46-9f3c-a2ed79d09263",
-      "company": "Autostore",
-      "title": "Entry Level Software Engineer",
-      "location": "Atlanta, GA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-09-13",
-      "age": "18d",
-      "url": "https://applyguy.ai/jobs?company=Autostore&job=d698a7e2-288b-4f46-9f3c-a2ed79d09263&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Entry-Level-Software-Engineer_JR102691"
-    },
-    {
       "id": "2d5b06d7-f12a-4488-b07a-c5c2f39193d0",
       "company": "OneImaging",
       "title": "Associate Data Engineer (UF Only)",
@@ -2489,18 +2465,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=Trulioo&job=eb211fdb-db8a-4000-8907-98ed5e80b69e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/trulioo/51347dfe-5ba8-4480-a225-ffd7f641613e"
-    },
-    {
-      "id": "543dba20-b4e3-4b46-857b-b0f1c9bce41a",
-      "company": "AeroVironment",
-      "title": "Entry-Level Software Engineer",
-      "location": "Austin, TX",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-09-01",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=AeroVironment&job=543dba20-b4e3-4b46-857b-b0f1c9bce41a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://avav.wd1.myworkdayjobs.com/avav/job/Austin-TX/Entry-Level-Software-Engineer_8600"
     },
     {
       "id": "0472f208-3f3e-4bf2-96e3-ed08d5a96c71",
