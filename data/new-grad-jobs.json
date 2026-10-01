@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T17:00:43.009Z",
+  "updatedAt": "2026-10-01T17:16:27.305Z",
   "jobs": [
     {
       "id": "85996b38-ef4e-440d-b5da-743bd2b063a6",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=PolicyMe&job=069946f7-ec97-4ce9-8223-31a3dacd5ac4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/policyme/30e81807-adb5-44a9-baad-4beb75913694"
+    },
+    {
+      "id": "886bd894-5fa5-4633-88e4-b78877599836",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Annapolis, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-01",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=886bd894-5fa5-4633-88e4-b78877599836&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Engineer-I--Onsite-_01873236"
     },
     {
       "id": "258e6057-155e-40c3-8220-807b5100e3d2",
@@ -278,32 +290,6 @@
       "listingUrl": "https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/Audubon-PA/Associate-Software-Engineer_JR107947-1"
     },
     {
-      "id": "custom:microsoft:d5cc945fb1d75453a945",
-      "company": "Microsoft",
-      "title": "Software Engineer",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-29",
-      "age": "2d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557008566",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557008566",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:698bf1cfd0197fa8f311",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-29",
-      "age": "2d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "applySupported": false
-    },
-    {
       "id": "a79b357a-de45-473a-84e7-d701518a0714",
       "company": "Northrop Grumman",
       "title": "Associate Software Engineer / Software Engineer",
@@ -470,19 +456,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Lhw&job=ad53d16e-b774-42df-ada3-0197b04014ac&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://lhw.bamboohr.com/careers/99"
-    },
-    {
-      "id": "custom:microsoft:03d65b2b10e701c197e7",
-      "company": "Microsoft",
-      "title": "Software Engineering - Commercial Engineering & AI (CEAI)",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-28",
-      "age": "3d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
-      "applySupported": false
     },
     {
       "id": "eb1a30c8-9a96-4179-bb2a-a1ba6071287e",
