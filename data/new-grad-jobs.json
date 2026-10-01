@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-01T16:30:40.218Z",
+  "updatedAt": "2026-10-01T16:46:06.968Z",
   "jobs": [
+    {
+      "id": "069946f7-ec97-4ce9-8223-31a3dacd5ac4",
+      "company": "PolicyMe",
+      "title": "Junior Software Engineer (Remote)",
+      "location": "Ontario, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-01",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=PolicyMe&job=069946f7-ec97-4ce9-8223-31a3dacd5ac4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.lever.co/policyme/30e81807-adb5-44a9-baad-4beb75913694"
+    },
     {
       "id": "258e6057-155e-40c3-8220-807b5100e3d2",
       "company": "RTX",
@@ -2713,18 +2725,6 @@
       "age": "34d",
       "url": "https://applyguy.ai/jobs?company=Midtown+Home+Improvements&job=84107032-a070-491b-bf38-9a7b7652d335&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://midtown-home-improvements.breezy.hr/p/824adfc228b2-software-engineer-i-full-stack"
-    },
-    {
-      "id": "76ed44f2-37e4-42b5-b88b-419acbb8d8a4",
-      "company": "PolicyMe",
-      "title": "Junior Software Engineer (Remote)",
-      "location": "Ontario, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-28",
-      "age": "34d",
-      "url": "https://applyguy.ai/jobs?company=PolicyMe&job=76ed44f2-37e4-42b5-b88b-419acbb8d8a4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.lever.co/policyme/2ad3fd98-21fc-4bbd-aa91-868befe5f699"
     },
     {
       "id": "6f085430-1a23-4d26-ab87-c223adf8b48b",
