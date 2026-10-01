@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T18:16:06.216Z",
+  "updatedAt": "2026-10-01T18:31:15.943Z",
   "jobs": [
     {
       "id": "85996b38-ef4e-440d-b5da-743bd2b063a6",
@@ -62,6 +62,18 @@
       "listingUrl": "https://jobs.lever.co/policyme/30e81807-adb5-44a9-baad-4beb75913694"
     },
     {
+      "id": "e81b78b4-0351-4a4d-b86f-1aa6412b1acf",
+      "company": "Priceline",
+      "title": "Junior Software Engineer",
+      "location": "New York",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-01",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Priceline&job=e81b78b4-0351-4a4d-b86f-1aa6412b1acf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://priceline.wd1.myworkdayjobs.com/priceline/job/New-York/Junior-Software-Engineer_R5847"
+    },
+    {
       "id": "e61b4959-8052-489d-80b4-96a8693ab001",
       "company": "Resmed",
       "title": "Associate Software Engineer",
@@ -110,6 +122,18 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Embedded-Software-Engineer-I--Onsite-_01872627"
     },
     {
+      "id": "5b79fc97-49ab-4858-b5ac-b2ead6015260",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Tewksbury, MA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-01",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=5b79fc97-49ab-4858-b5ac-b2ead6015260&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01875565"
+    },
+    {
       "id": "7be78e79-7462-4c2d-8288-2ceeb0e6ef35",
       "company": "RTX",
       "title": "Software Engineer I (Hybrid - Aguadilla, PR)",
@@ -120,6 +144,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=7be78e79-7462-4c2d-8288-2ceeb0e6ef35&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--Hybrid---Aguadilla--PR-_01870496"
+    },
+    {
+      "id": "cb309c81-2a12-4d6d-8c82-b68f4de68a2f",
+      "company": "SanMar-Internal",
+      "title": "Associate Software Developer",
+      "location": "Issaquah, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-01",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=SanMar-Internal&job=cb309c81-2a12-4d6d-8c82-b68f4de68a2f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/sanmaremployeeopenings/jobs/5254348007"
     },
     {
       "id": "64901d3c-e95f-49d4-861e-b1f5335cb637",
@@ -987,6 +1023,18 @@
       "listingUrl": "https://seatgeek.com/jobs/8227548?gh_jid=8227548"
     },
     {
+      "id": "7af2ab8d-e81e-4527-9111-4c51f0f14adb",
+      "company": "Striveworks",
+      "title": "Junior Software Engineer",
+      "location": "Austin, TX",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-23",
+      "age": "8d",
+      "url": "https://applyguy.ai/jobs?company=Striveworks&job=7af2ab8d-e81e-4527-9111-4c51f0f14adb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/striveworks/jobs/8002825003"
+    },
+    {
       "id": "7ddef0be-8f34-476d-9a69-e6328b92ad58",
       "company": "Toshiba Global Commerce Solutions - External",
       "title": "Associate Software Engineer",
@@ -1657,18 +1705,6 @@
       "age": "16d",
       "url": "https://applyguy.ai/jobs?company=Relx&job=88ba169c-b8a6-48a5-9fd8-d6ac9e4f984e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://relx.wd3.myworkdayjobs.com/lexisnexislegal/job/Raleigh-NC/Aspire-Tech-Graduate-Software-Engineer-I_R118694"
-    },
-    {
-      "id": "42c222fd-6821-4224-88de-081e1bf78188",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Tewksbury, MA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-15",
-      "age": "16d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=42c222fd-6821-4224-88de-081e1bf78188&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01873222"
     },
     {
       "id": "e9642ed3-0d44-4443-9e87-16694e86283a",
@@ -3126,10 +3162,10 @@
     {
       "id": "c054e31b-04b6-4af4-9a24-b675642ccf61",
       "company": "True Anomaly",
-      "title": "Flight Software Engineer I (New Grad)",
+      "title": "Flight Software Engineer I (Temp-to-hire)",
       "location": "Denver, CO",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
       "posted": "2026-08-25",
       "age": "37d",
       "url": "https://applyguy.ai/jobs?company=True+Anomaly&job=c054e31b-04b6-4af4-9a24-b675642ccf61&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
