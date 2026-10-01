@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T00:01:03.580Z",
+  "updatedAt": "2026-10-01T00:16:28.269Z",
   "jobs": [
     {
       "id": "17c47596-249e-4028-84ce-c3c52991a7fe",
@@ -110,6 +110,18 @@
       "listingUrl": "https://ats.rippling.com/momentumcareers/jobs/dd4281b8-fa2a-4833-8370-b1859933b612"
     },
     {
+      "id": "a0772b1c-5895-410e-96a4-d4a9e47a2cbf",
+      "company": "Northrop Grumman",
+      "title": "2026 Associate Software Engineer or Software Engineer - Aurora CO",
+      "location": "Aurora, CO",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-30",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=a0772b1c-5895-410e-96a4-d4a9e47a2cbf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Aurora/XMLNAME-2026-Associate-Software-Engineering-or-Software-Engineer---Aurora-CO_R10253437"
+    },
+    {
       "id": "4c90151e-da8d-466b-b3ee-12c50382b6ad",
       "company": "RTX",
       "title": "Software Engineer I (Onsite)",
@@ -192,18 +204,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=9a1ab81b-a514-46a3-bfbe-5e4bbf92bb6e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer_R10253396"
-    },
-    {
-      "id": "a0772b1c-5895-410e-96a4-d4a9e47a2cbf",
-      "company": "Northrop Grumman",
-      "title": "2026 Associate Software Engineer or Software Engineer - Aurora CO",
-      "location": "Aurora, CO",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-29",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=a0772b1c-5895-410e-96a4-d4a9e47a2cbf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Aurora/XMLNAME-2026-Associate-Software-Engineering-or-Software-Engineer---Aurora-CO_R10253437"
     },
     {
       "id": "3c63bc9d-2791-4c1d-860e-c584368548f8",
