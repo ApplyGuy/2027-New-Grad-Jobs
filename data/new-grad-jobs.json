@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T18:31:13.523Z",
+  "updatedAt": "2026-10-02T18:46:01.060Z",
   "jobs": [
     {
       "id": "20e7acdb-5279-40f5-986d-0d1bb2911334",
@@ -132,18 +132,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=PolicyMe&job=069946f7-ec97-4ce9-8223-31a3dacd5ac4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/policyme/30e81807-adb5-44a9-baad-4beb75913694"
-    },
-    {
-      "id": "e81b78b4-0351-4a4d-b86f-1aa6412b1acf",
-      "company": "Priceline",
-      "title": "Junior Software Engineer",
-      "location": "New York",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-01",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Priceline&job=e81b78b4-0351-4a4d-b86f-1aa6412b1acf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://priceline.wd1.myworkdayjobs.com/priceline/job/New-York/Junior-Software-Engineer_R5847"
     },
     {
       "id": "e61b4959-8052-489d-80b4-96a8693ab001",
