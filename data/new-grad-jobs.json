@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T00:30:44.869Z",
+  "updatedAt": "2026-10-02T00:46:31.526Z",
   "jobs": [
     {
       "id": "a64a96d3-d3da-4b0a-af3a-8b1be951543c",
@@ -242,6 +242,30 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=SanMar-Internal&job=cb309c81-2a12-4d6d-8c82-b68f4de68a2f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/sanmaremployeeopenings/jobs/5254348007"
+    },
+    {
+      "id": "31e9b1d3-c472-49ba-9086-a4fac7caabd0",
+      "company": "Truist",
+      "title": "Associate Software Engineer--Python & Data Analytics",
+      "location": "Richmond, VA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-01",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Truist&job=31e9b1d3-c472-49ba-9086-a4fac7caabd0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://truist.wd1.myworkdayjobs.com/careers/job/Richmond-VA/Associate-Software-Engineer--Python---Data-Analytics_R0119972"
+    },
+    {
+      "id": "9cc5f49d-c25f-4a80-9262-72f469846a4d",
+      "company": "U.S. Bank",
+      "title": "Software Engineer 1 - Mainframe (Cobol)",
+      "location": "Brookfield, WI",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-01",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=U.S.+Bank&job=9cc5f49d-c25f-4a80-9262-72f469846a4d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Brookfield-WI/Software-Engineer-1---Mainframe--Cobol-_2026-0030686"
     },
     {
       "id": "64901d3c-e95f-49d4-861e-b1f5335cb637",
