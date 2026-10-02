@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T05:15:37.891Z",
+  "updatedAt": "2026-10-02T05:30:45.416Z",
   "jobs": [
     {
       "id": "a64a96d3-d3da-4b0a-af3a-8b1be951543c",
@@ -158,6 +158,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Resmed&job=e61b4959-8052-489d-80b4-96a8693ab001&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://resmed.wd3.myworkdayjobs.com/resmed_external_careers/job/San-Diego-CA-United-States/Associate-Software-Engineer_JR_053889-1"
+    },
+    {
+      "id": "adc3ca49-f4e8-4c9b-8a87-ce5bb7eba8a0",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Richardson, TX",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-01",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=adc3ca49-f4e8-4c9b-8a87-ce5bb7eba8a0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01875418"
     },
     {
       "id": "b4830c3d-7914-4be2-a497-6bef73ef0e67",
