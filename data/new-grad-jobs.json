@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T20:15:41.617Z",
+  "updatedAt": "2026-10-02T20:31:34.079Z",
   "jobs": [
     {
       "id": "20e7acdb-5279-40f5-986d-0d1bb2911334",
@@ -36,6 +36,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Pae&job=fef6611c-5d0a-4eea-b620-9f628f4c1cb2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Dahlgren/Junior-Software-Developer_R0172202"
+    },
+    {
+      "id": "5850997b-e6e1-4f5e-a388-9f9ea1cd7baa",
+      "company": "Silabs",
+      "title": "Software Engineer I",
+      "location": "Austin, TX",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Silabs&job=5850997b-e6e1-4f5e-a388-9f9ea1cd7baa&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://silabs.wd1.myworkdayjobs.com/siliconlabscareers/job/Austin/Software-Engineer-I_21011-1"
     },
     {
       "id": "a64a96d3-d3da-4b0a-af3a-8b1be951543c",
