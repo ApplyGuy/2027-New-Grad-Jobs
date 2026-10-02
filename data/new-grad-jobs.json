@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T20:31:34.079Z",
+  "updatedAt": "2026-10-02T20:45:48.187Z",
   "jobs": [
     {
       "id": "20e7acdb-5279-40f5-986d-0d1bb2911334",
@@ -3959,18 +3959,6 @@
       "age": "59d",
       "url": "https://applyguy.ai/jobs?company=Peraton&job=6d5c736d-c73a-4a8a-b96c-357d5b60a0d9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://careers-peraton.icims.com/jobs/169377/jr.-software-engineer---space-communications-program/job"
-    },
-    {
-      "id": "d1a6a274-8d4d-401b-945b-262e33f49ae0",
-      "company": "SimpliSafe",
-      "title": "Software Engineer I- User Systems",
-      "location": "Boston, MA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-03",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=SimpliSafe&job=d1a6a274-8d4d-401b-945b-262e33f49ae0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/simplisafe/jobs/8095181"
     }
   ]
 }
