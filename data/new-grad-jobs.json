@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T19:16:44.460Z",
+  "updatedAt": "2026-10-02T19:31:29.122Z",
   "jobs": [
     {
       "id": "20e7acdb-5279-40f5-986d-0d1bb2911334",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=CACI&job=20e7acdb-5279-40f5-986d-0d1bb2911334&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Houston-TX-US/Early-Career-NASA-Space-Reactor---1-Freedom-Flight-Software-Development-Engineer_333050"
+    },
+    {
+      "id": "4f8fdeb6-b438-45fc-bd8f-80a582ea41b5",
+      "company": "Cambiahealth",
+      "title": "Software Development Engineer I – III (Salesforce)",
+      "location": "Salt Lake City, UT",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-02",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Cambiahealth&job=4f8fdeb6-b438-45fc-bd8f-80a582ea41b5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://cambiahealth.wd504.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Software-Development-Engineer-I---III_R-6738"
     },
     {
       "id": "fef6611c-5d0a-4eea-b620-9f628f4c1cb2",
@@ -764,18 +776,6 @@
       "listingUrl": "https://wattswater.wd5.myworkdayjobs.com/external/job/Blauvelt-NY/Software-Engineer-I_10017656"
     },
     {
-      "id": "58f266fb-4edb-461f-9d84-95781ea2ad1d",
-      "company": "Abbott",
-      "title": "Software Engineer I",
-      "location": "La Jolla, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-25",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=Abbott&job=58f266fb-4edb-461f-9d84-95781ea2ad1d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---La-Jolla/Software-Engineer-I_31162389-1"
-    },
-    {
       "id": "a1c443d8-4532-43be-9b3d-fdb7bc943a55",
       "company": "Micron",
       "title": "New College Grad - IT Software Support Engineer",
@@ -834,18 +834,6 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Varsitybrands&job=6a0eb9a1-8c93-4999-95f7-44a15007d357&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://varsitybrands.wd503.myworkdayjobs.com/externalcareersite/job/TN---Memphis/Software-Engineer-I--Net-_JR114518"
-    },
-    {
-      "id": "ada42bac-7871-46d2-a2c6-974efc073c2f",
-      "company": "Wgu",
-      "title": "Associate Data Engineer",
-      "location": "Salt Lake City, UT",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-25",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=Wgu&job=ada42bac-7871-46d2-a2c6-974efc073c2f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Associate-Data-Engineer_JR-025987"
     },
     {
       "id": "d50f22cc-897e-41c5-b984-00cbee7cdc86",
@@ -931,18 +919,6 @@
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=CACI&job=0d17efee-c4f5-46fb-b43b-132911ca54db&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Hanover-MD-US/Software-Engineer---Early-Career---Cloud_330679"
-    },
-    {
-      "id": "4f8fdeb6-b438-45fc-bd8f-80a582ea41b5",
-      "company": "Cambiahealth",
-      "title": "Software Development Engineer I – III (Salesforce)",
-      "location": "Salt Lake City, UT",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-24",
-      "age": "8d",
-      "url": "https://applyguy.ai/jobs?company=Cambiahealth&job=4f8fdeb6-b438-45fc-bd8f-80a582ea41b5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://cambiahealth.wd504.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Software-Development-Engineer-I---III_R-6738"
     },
     {
       "id": "1b09b691-d5fb-49ee-a263-78f2980a667e",
@@ -1965,18 +1941,6 @@
       "listingUrl": "https://selinc.wd1.myworkdayjobs.com/sel/job/Washington---Pullman/Associate-Software-Engineer_2026-22492-1"
     },
     {
-      "id": "5850997b-e6e1-4f5e-a388-9f9ea1cd7baa",
-      "company": "Silabs",
-      "title": "Software Engineer I",
-      "location": "Austin, TX",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-14",
-      "age": "18d",
-      "url": "https://applyguy.ai/jobs?company=Silabs&job=5850997b-e6e1-4f5e-a388-9f9ea1cd7baa&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://silabs.wd1.myworkdayjobs.com/siliconlabscareers/job/Austin/Software-Engineer-I_21011-1"
-    },
-    {
       "id": "2d5b06d7-f12a-4488-b07a-c5c2f39193d0",
       "company": "OneImaging",
       "title": "Associate Data Engineer (UF Only)",
@@ -2179,18 +2143,6 @@
       "age": "23d",
       "url": "https://applyguy.ai/jobs?company=Reagroup&job=82c7e578-7191-4f90-9f82-84b889bc9699&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://reagroup.wd3.myworkdayjobs.com/reacareers/job/Richmond-Melbourne-VIC/Associate-Software-Engineer_R0015637"
-    },
-    {
-      "id": "04e0cdaa-a376-49db-96a2-2d371eef15f5",
-      "company": "Redhat",
-      "title": "Associate Software Engineer",
-      "location": "Raleigh, NC",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-09",
-      "age": "23d",
-      "url": "https://applyguy.ai/jobs?company=Redhat&job=04e0cdaa-a376-49db-96a2-2d371eef15f5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Associate-Software-Engineer_R-059573"
     },
     {
       "id": "18128ad0-c691-4034-9968-7904e4a8ac2d",
@@ -3875,18 +3827,6 @@
       "age": "56d",
       "url": "https://applyguy.ai/jobs?company=Ace+IT+Careers&job=9282d1d9-411e-462f-8b99-70a631731695&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://apply.workable.com/ace-it-careers-1/j/123BC500CB/"
-    },
-    {
-      "id": "b34827b6-7bb6-4376-8610-cefa3a6e2238",
-      "company": "Costar",
-      "title": "Matterport - Software Engineer I",
-      "location": "Irvine, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-07",
-      "age": "56d",
-      "url": "https://applyguy.ai/jobs?company=Costar&job=b34827b6-7bb6-4376-8610-cefa3a6e2238&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://costar.wd1.myworkdayjobs.com/costarcareers/job/Irvine-US/Matterport---Software-Engineer-I_R39503"
     },
     {
       "id": "01cac459-7aa9-4d2a-8e94-76a884e9c1ef",
