@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T11:01:06.868Z",
+  "updatedAt": "2026-10-03T11:16:17.746Z",
   "jobs": [
     {
       "id": "20e7acdb-5279-40f5-986d-0d1bb2911334",
@@ -36,6 +36,19 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Firstorion&job=90762877-3659-415c-b782-4649402bf372&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://firstorion.wd1.myworkdayjobs.com/first_orion/job/North-Little-Rock-AR/Associate-Software-Engineer_R785"
+    },
+    {
+      "id": "custom:microsoft:05ae06ea68171c7895e2",
+      "company": "Microsoft",
+      "title": "Software Engineer Intune",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-02",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556982925",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556982925",
+      "applySupported": false
     },
     {
       "id": "a84cc921-ba2a-4df0-8e6f-610f0738edc5",
@@ -96,6 +109,58 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=FiscalNote&job=6ad5ceb6-24dd-4748-826f-3dc52c15c484&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/fiscalnote/51a2e18f-1af1-416c-9544-5bede8e9537c"
+    },
+    {
+      "id": "custom:microsoft:6b64606a1fd63afbb43a",
+      "company": "Microsoft",
+      "title": "Software Engineer",
+      "location": "US",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-01",
+      "age": "2d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556928331",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556928331",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:4f439a21d753ae8a5eb4",
+      "company": "Microsoft",
+      "title": "Software Engineer",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-01",
+      "age": "2d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557022395",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557022395",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:d021de3d39fd02480f33",
+      "company": "Microsoft",
+      "title": "Software Engineering - CTJ - Poly",
+      "location": "Redmond, WA · Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-01",
+      "age": "2d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:a7e272998be8b44d73e3",
+      "company": "Microsoft",
+      "title": "Software Engineer- CoreAI",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-01",
+      "age": "2d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556989020",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556989020",
+      "applySupported": false
     },
     {
       "id": "3c63bc9d-2791-4c1d-860e-c584368548f8",
@@ -470,6 +535,19 @@
       "listingUrl": "https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/Audubon-PA/Associate-Software-Engineer_JR107947-1"
     },
     {
+      "id": "custom:microsoft:698bf1cfd0197fa8f311",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-29",
+      "age": "4d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "applySupported": false
+    },
+    {
       "id": "2173473f-a9b9-4cbb-b1de-176eec01d884",
       "company": "NVIDIA",
       "title": "Software Engineer, DGX Cloud AI Infrastructure - New College Grad 2026",
@@ -588,6 +666,19 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Lhw&job=ad53d16e-b774-42df-ada3-0197b04014ac&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://lhw.bamboohr.com/careers/99"
+    },
+    {
+      "id": "custom:microsoft:03d65b2b10e701c197e7",
+      "company": "Microsoft",
+      "title": "Software Engineering - Commercial Engineering & AI (CEAI)",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-28",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
+      "applySupported": false
     },
     {
       "id": "eb1a30c8-9a96-4179-bb2a-a1ba6071287e",
