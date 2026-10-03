@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T16:46:19.235Z",
+  "updatedAt": "2026-10-03T17:00:49.646Z",
   "jobs": [
     {
       "id": "20e7acdb-5279-40f5-986d-0d1bb2911334",
@@ -3900,18 +3900,6 @@
       "age": "59d",
       "url": "https://applyguy.ai/jobs?company=Roblox&job=b787bb89-547d-4d4a-a2a3-59018fdd7969&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244"
-    },
-    {
-      "id": "18f6f6cf-af8d-49a7-b987-1dc4711e7599",
-      "company": "Belvedere Trading",
-      "title": "Software Engineer - Entry Level 2027",
-      "location": "Chicago, IL",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-04",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Belvedere+Trading&job=18f6f6cf-af8d-49a7-b987-1dc4711e7599&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f"
     }
   ]
 }
