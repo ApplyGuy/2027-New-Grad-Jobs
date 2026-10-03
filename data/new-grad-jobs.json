@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T06:30:44.734Z",
+  "updatedAt": "2026-10-03T06:46:44.184Z",
   "jobs": [
     {
       "id": "20e7acdb-5279-40f5-986d-0d1bb2911334",
@@ -548,19 +548,7 @@
       "applySupported": false
     },
     {
-      "id": "a79b357a-de45-473a-84e7-d701518a0714",
-      "company": "Northrop Grumman",
-      "title": "Associate Software Engineer / Software Engineer",
-      "location": "Melbourne, FL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-29",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=a79b357a-de45-473a-84e7-d701518a0714&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/Associate-Software-Engineer---Software-Engineer_R10253287"
-    },
-    {
-      "id": "2173473f-a9b9-4cbb-b1de-176eec01d884",
+      "id": "d73b9dbb-adac-4ba8-bf47-61f98445229c",
       "company": "NVIDIA",
       "title": "Software Engineer, DGX Cloud AI Infrastructure - New College Grad 2026",
       "location": "Santa Clara, CA",
@@ -568,8 +556,8 @@
       "matchKind": "explicit",
       "posted": "2026-09-29",
       "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=2173473f-a9b9-4cbb-b1de-176eec01d884&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DGX-Cloud-AI-Infrastructure---New-College-Grad-2026_JR2026477"
+      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=d73b9dbb-adac-4ba8-bf47-61f98445229c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--DGX-Cloud-AI-Infrastructure---New-College-Grad-2026_JR2026477"
     },
     {
       "id": "ff4d695b-6a47-433b-8c2e-cc351c3ef893",
