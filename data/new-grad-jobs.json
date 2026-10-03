@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T15:30:59.652Z",
+  "updatedAt": "2026-10-03T15:46:17.968Z",
   "jobs": [
     {
       "id": "20e7acdb-5279-40f5-986d-0d1bb2911334",
@@ -3821,18 +3821,6 @@
       "age": "60d",
       "url": "https://applyguy.ai/jobs?company=Belvedere+Trading&job=18f6f6cf-af8d-49a7-b987-1dc4711e7599&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f"
-    },
-    {
-      "id": "6d5c736d-c73a-4a8a-b96c-357d5b60a0d9",
-      "company": "Peraton",
-      "title": "Jr. Software Engineer / Space Communications Program",
-      "location": "Las Cruces, NM",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-04",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Peraton&job=6d5c736d-c73a-4a8a-b96c-357d5b60a0d9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://careers-peraton.icims.com/jobs/169377/jr.-software-engineer---space-communications-program/job"
     }
   ]
 }
