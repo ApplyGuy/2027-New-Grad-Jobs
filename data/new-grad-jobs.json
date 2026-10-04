@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T16:31:15.087Z",
+  "updatedAt": "2026-10-04T16:46:04.357Z",
   "jobs": [
     {
       "id": "20e7acdb-5279-40f5-986d-0d1bb2911334",
@@ -3701,18 +3701,6 @@
       "age": "59d",
       "url": "https://applyguy.ai/jobs?company=SMX&job=fe49152b-b1c0-4eab-be5f-6795c648baa6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.smxtech.com/careers/?gh_jid=7832667003"
-    },
-    {
-      "id": "e6cb5068-0d3d-4cf6-aa4e-0a2ec52ab94f",
-      "company": "Muon Space",
-      "title": "Software Engineer, Entry-Level",
-      "location": "San Jose, CA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-05",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Muon+Space&job=e6cb5068-0d3d-4cf6-aa4e-0a2ec52ab94f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/muonspace/jobs/5204498007"
     }
   ]
 }
