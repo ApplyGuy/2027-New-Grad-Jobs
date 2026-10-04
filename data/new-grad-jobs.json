@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T04:01:07.695Z",
+  "updatedAt": "2026-10-04T04:16:15.009Z",
   "jobs": [
     {
       "id": "20e7acdb-5279-40f5-986d-0d1bb2911334",
@@ -2806,18 +2806,6 @@
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Laurel-MD/Junior-Software-Engineer_R-00190592"
     },
     {
-      "id": "ccf0ace4-886d-46a3-aa91-bb43d99602ba",
-      "company": "Metrc, LLC",
-      "title": "Jr. Software Engineer, AI-Driven Engineering",
-      "location": "Remote, U.S.",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-28",
-      "age": "37d",
-      "url": "https://applyguy.ai/jobs?company=Metrc%2C+LLC&job=ccf0ace4-886d-46a3-aa91-bb43d99602ba&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4461465"
-    },
-    {
       "id": "84107032-a070-491b-bf38-9a7b7652d335",
       "company": "Midtown Home Improvements",
       "title": "Software Engineer I - Full Stack",
@@ -2840,18 +2828,6 @@
       "age": "37d",
       "url": "https://applyguy.ai/jobs?company=PolicyMe&job=76ed44f2-37e4-42b5-b88b-419acbb8d8a4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/policyme/2ad3fd98-21fc-4bbd-aa91-868befe5f699"
-    },
-    {
-      "id": "208416e7-b813-4119-a965-2e977b35b875",
-      "company": "Solace",
-      "title": "Associate Data Engineer (College Grad 2027)",
-      "location": "Redwood City, CA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-28",
-      "age": "37d",
-      "url": "https://applyguy.ai/jobs?company=Solace&job=208416e7-b813-4119-a965-2e977b35b875&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.ashbyhq.com/solace/7deb5d7e-9960-4407-9600-aa8e84d9edba"
     },
     {
       "id": "45e13644-1357-421e-a2f9-680aa38524f0",
