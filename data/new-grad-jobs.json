@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T01:31:15.111Z",
+  "updatedAt": "2026-10-04T01:46:28.187Z",
   "jobs": [
     {
       "id": "20e7acdb-5279-40f5-986d-0d1bb2911334",
@@ -2840,18 +2840,6 @@
       "age": "37d",
       "url": "https://applyguy.ai/jobs?company=PolicyMe&job=76ed44f2-37e4-42b5-b88b-419acbb8d8a4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/policyme/2ad3fd98-21fc-4bbd-aa91-868befe5f699"
-    },
-    {
-      "id": "6f085430-1a23-4d26-ab87-c223adf8b48b",
-      "company": "Remitly",
-      "title": "Software Development Engineer I- IHUB",
-      "location": "Seattle, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-28",
-      "age": "37d",
-      "url": "https://applyguy.ai/jobs?company=Remitly&job=6f085430-1a23-4d26-ab87-c223adf8b48b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Seattle-Washington-United-States/Software-Development-Engineer-I--IHUB_R_106706"
     },
     {
       "id": "208416e7-b813-4119-a965-2e977b35b875",
