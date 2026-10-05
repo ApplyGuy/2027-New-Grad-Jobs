@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T20:15:48.559Z",
+  "updatedAt": "2026-10-05T20:31:24.470Z",
   "jobs": [
     {
       "id": "4cba8406-e3f2-455c-8f13-deac51b31c7a",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Lseg&job=4cba8406-e3f2-455c-8f13-deac51b31c7a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://lseg.wd3.myworkdayjobs.com/careers/job/USA-St-Louis-795-Office-Pkwy/Real-Time-Software-Engineer---Early-Career_R0124057"
+    },
+    {
+      "id": "04e0cdaa-a376-49db-96a2-2d371eef15f5",
+      "company": "Redhat",
+      "title": "Associate Software Engineer",
+      "location": "Raleigh, NC",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-05",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Redhat&job=04e0cdaa-a376-49db-96a2-2d371eef15f5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Associate-Software-Engineer_R-059573"
     },
     {
       "id": "ae1102c3-934a-46c4-8b81-4bd1ae7628a6",
