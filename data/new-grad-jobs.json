@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T18:30:49.601Z",
+  "updatedAt": "2026-10-05T18:46:11.329Z",
   "jobs": [
     {
       "id": "8e6de592-2844-4296-8421-26281bad2c08",
@@ -157,19 +157,6 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=FiscalNote&job=6ad5ceb6-24dd-4748-826f-3dc52c15c484&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/fiscalnote/51a2e18f-1af1-416c-9544-5bede8e9537c"
-    },
-    {
-      "id": "custom:microsoft:6b64606a1fd63afbb43a",
-      "company": "Microsoft",
-      "title": "Software Engineer",
-      "location": "US",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-01",
-      "age": "4d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556928331",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556928331",
-      "applySupported": false
     },
     {
       "id": "custom:microsoft:4f439a21d753ae8a5eb4",
@@ -2864,6 +2851,18 @@
       "age": "39d",
       "url": "https://applyguy.ai/jobs?company=Kbr&job=6953c199-198b-4c36-87fd-c5cd9d1c90b0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Colorado-Springs-Colorado/Jr-Software-Developer_R2128436"
+    },
+    {
+      "id": "3c03150a-ee51-48a9-b58d-ed93cf3fdfa2",
+      "company": "NationsBenefits, LLC",
+      "title": "Software Development Engineer I",
+      "location": "Remote, U.S.",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-27",
+      "age": "39d",
+      "url": "https://applyguy.ai/jobs?company=NationsBenefits%2C+LLC&job=3c03150a-ee51-48a9-b58d-ed93cf3fdfa2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://nationsbenefits.breezy.hr/p/ceb3693725d7-software-development-engineer-i"
     },
     {
       "id": "39ee6c0d-b6c3-4796-ac5f-6cbd7f4c955b",
