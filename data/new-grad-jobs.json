@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T00:15:44.634Z",
+  "updatedAt": "2026-10-05T00:31:47.691Z",
   "jobs": [
     {
       "id": "20e7acdb-5279-40f5-986d-0d1bb2911334",
@@ -161,18 +161,6 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556989020",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556989020",
       "applySupported": false
-    },
-    {
-      "id": "3c63bc9d-2791-4c1d-860e-c584368548f8",
-      "company": "Northrop Grumman",
-      "title": "2027 - Associate Software Engineer - McClellan CA",
-      "location": "McClellan, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-01",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=3c63bc9d-2791-4c1d-860e-c584368548f8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-McClellan/XMLNAME-2027---Associate-Software-Engineer---McClellan-CA_R10253394"
     },
     {
       "id": "8a04a03f-0345-428b-b6da-e3aa237b9d47",
