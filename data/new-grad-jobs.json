@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T01:31:10.571Z",
+  "updatedAt": "2026-10-05T01:46:20.077Z",
   "jobs": [
     {
       "id": "20e7acdb-5279-40f5-986d-0d1bb2911334",
@@ -2576,18 +2576,6 @@
       "age": "35d",
       "url": "https://applyguy.ai/jobs?company=Everlaw&job=4b8e4618-1876-4b59-b08f-7a990b1f3600&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/everlaw/jobs/4705236006"
-    },
-    {
-      "id": "d5bcd942-59a6-4296-bafc-d07d45e8fbcf",
-      "company": "Harris",
-      "title": "Associate Software Engineer, RPG",
-      "location": "Tennessee",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-31",
-      "age": "35d",
-      "url": "https://applyguy.ai/jobs?company=Harris&job=d5bcd942-59a6-4296-bafc-d07d45e8fbcf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Tennessee-United-States/Associate-Software-Engineer--RPG_R0045601-1"
     },
     {
       "id": "1f5279e6-26dc-45e9-adaf-5d248189a0ce",
