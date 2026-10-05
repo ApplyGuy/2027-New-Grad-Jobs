@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T18:46:11.329Z",
+  "updatedAt": "2026-10-05T19:00:59.927Z",
   "jobs": [
     {
       "id": "8e6de592-2844-4296-8421-26281bad2c08",
@@ -511,18 +511,6 @@
       "listingUrl": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Plano-TX/Software-Engineer-I--For-2026-Interns-Only-_R0030584"
     },
     {
-      "id": "1d80ad6e-d1f2-4b9d-baa7-278918d6067d",
-      "company": "Snc",
-      "title": "Software Engineer I",
-      "location": "Folsom, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-30",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Snc&job=1d80ad6e-d1f2-4b9d-baa7-278918d6067d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Folsom-CA/Software-Engineer-I_R0030526"
-    },
-    {
       "id": "172badbf-48fe-4595-87b9-c3682509b98d",
       "company": "Angc",
       "title": "Junior Data Engineer",
@@ -618,18 +606,6 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Pmat&job=e0c5cac8-ec3f-4b40-aab4-664b87268b38&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://pmat.bamboohr.com/careers/324"
-    },
-    {
-      "id": "5e2c1baf-dca8-4fc3-b8f4-471a1052691f",
-      "company": "Rollsroyce",
-      "title": "Junior Machine Learning Engineer",
-      "location": "Indianapolis, IN",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-29",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=Rollsroyce&job=5e2c1baf-dca8-4fc3-b8f4-471a1052691f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Indianapolis/Junior-Machine-Learning-Engineer_JR6159705"
     },
     {
       "id": "73c47ef4-7a58-4ec3-b335-f4a413e30102",
