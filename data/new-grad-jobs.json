@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T07:00:58.818Z",
+  "updatedAt": "2026-10-05T07:16:10.927Z",
   "jobs": [
     {
       "id": "5df9abb9-bcf0-42bc-b05b-9d14d2825e22",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=U.S.+Bank&job=5df9abb9-bcf0-42bc-b05b-9d14d2825e22&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Chicago-IL/Software-engineer-1---AI-ML-Engineer--Generative-AI-_2026-0027055"
+    },
+    {
+      "id": "834c4b08-0cfc-48ea-b069-be427204ecff",
+      "company": "Unimelb",
+      "title": "AURIN Associate Software Engineer",
+      "location": "Parkville, Victoria",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-05",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Unimelb&job=834c4b08-0cfc-48ea-b069-be427204ecff&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://unimelb.wd105.myworkdayjobs.com/uom_external_career/job/Parkville-Victoria/AURIN-Associate-Software-Engineer_JR-018050"
     },
     {
       "id": "20e7acdb-5279-40f5-986d-0d1bb2911334",
