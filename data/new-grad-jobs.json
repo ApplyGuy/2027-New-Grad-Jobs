@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-10-05T16:45:43.036Z",
+  "updatedAt": "2026-10-05T17:00:58.692Z",
   "jobs": [
+    {
+      "id": "8e6de592-2844-4296-8421-26281bad2c08",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Marlborough, MA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-05",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=8e6de592-2844-4296-8421-26281bad2c08&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01877495"
+    },
+    {
+      "id": "7258d8e2-65d3-483d-a063-b1e1a54d7eff",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Tewksbury, MA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-05",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=7258d8e2-65d3-483d-a063-b1e1a54d7eff&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01873302"
+    },
     {
       "id": "5df9abb9-bcf0-42bc-b05b-9d14d2825e22",
       "company": "U.S. Bank",
@@ -294,18 +318,6 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=dc1b5699-87fc-465d-9284-684ca0cb43c9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Embedded-Software-Engineer-I--Onsite-_01872627"
-    },
-    {
-      "id": "5b79fc97-49ab-4858-b5ac-b2ead6015260",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Tewksbury, MA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-01",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=5b79fc97-49ab-4858-b5ac-b2ead6015260&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01875565"
     },
     {
       "id": "7be78e79-7462-4c2d-8288-2ceeb0e6ef35",
@@ -631,18 +643,6 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Rollsroyce&job=5e2c1baf-dca8-4fc3-b8f4-471a1052691f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Indianapolis/Junior-Machine-Learning-Engineer_JR6159705"
-    },
-    {
-      "id": "dc88075b-cfb4-474b-aac8-4bfa883c1bcb",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Marlborough, MA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-29",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=dc88075b-cfb4-474b-aac8-4bfa883c1bcb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineer-I--Onsite-_01874953"
     },
     {
       "id": "73c47ef4-7a58-4ec3-b335-f4a413e30102",
