@@ -1,6 +1,6 @@
 # 2027 New Grad Software Engineering Jobs
 
-[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-308-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
+[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-309-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
 
 A continuously verified list of **2027 New Grad software engineering jobs**, **entry-level software engineer jobs**, and early-career developer roles in the United States. Listings come directly from employer career pages and are maintained by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs).
 
@@ -12,9 +12,9 @@ A continuously verified list of **2027 New Grad software engineering jobs**, **e
 
 🎒 **Looking for internships?** Browse [2027 SWE & Product Internships →](https://github.com/ApplyGuy/2027-Internships)
 
-- **308** active U.S. software roles posted within the last **60 days**
-- **123** explicitly labeled New Grad / university graduate / early career
-- Last refresh: **Oct 5, 2026, 12:00 PM PDT**
+- **309** active U.S. software roles posted within the last **60 days**
+- **124** explicitly labeled New Grad / university graduate / early career
+- Last refresh: **Oct 5, 2026, 12:15 PM PDT**
 - Machine-readable feed: [data/new-grad-jobs.json](data/new-grad-jobs.json)
 
 Listings with the orange **Apply Guy** button support one-click apply through [Apply Guy](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs). Blue **View** buttons open the employer's career site directly.
@@ -23,6 +23,7 @@ Listings with the orange **Apply Guy** button support one-click apply through [A
 
 | Company | Role | Location | Posted | Actions |
 |---|---|---|---:|---|
+| Lseg | Real-Time Software Engineer - Early Career | 795 Office Pkwy | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Lseg&job=4cba8406-e3f2-455c-8f13-deac51b31c7a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://lseg.wd3.myworkdayjobs.com/careers/job/USA-St-Louis-795-Office-Pkwy/Real-Time-Software-Engineer---Early-Career_R0124057) |
 | RTX | Software Engineer I (Onsite) | Marlborough, MA | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=8e6de592-2844-4296-8421-26281bad2c08&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01877495) |
 | RTX | Software Engineer I (Onsite) | Tewksbury, MA | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=7258d8e2-65d3-483d-a063-b1e1a54d7eff&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01873302) |
 | U.S. Bank | Software engineer 1 – AI/ML Engineer (MLOps) | Chicago, IL | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=U.S.+Bank&job=5df9abb9-bcf0-42bc-b05b-9d14d2825e22&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Chicago-IL/Software-engineer-1---AI-ML-Engineer--Generative-AI-_2026-0027055) |
