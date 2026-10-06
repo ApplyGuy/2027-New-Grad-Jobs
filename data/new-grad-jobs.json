@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T14:45:41.276Z",
+  "updatedAt": "2026-10-06T15:00:40.590Z",
   "jobs": [
     {
       "id": "258431bc-591c-4eb0-8ba5-3715d737a3d7",
@@ -96,19 +96,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Mastercard&job=04ebb92c-d1e4-43b2-bbda-5a1284d102ae&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-291661"
-    },
-    {
-      "id": "custom:microsoft:a32b9fa39bae3a9cc93c",
-      "company": "Microsoft",
-      "title": "Software Engineering",
-      "location": "US",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-05",
-      "age": "1d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557023035",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557023035",
-      "applySupported": false
     },
     {
       "id": "6bf118c5-00d1-4664-8553-3651c78c8bb9",
@@ -315,32 +302,6 @@
       "listingUrl": "https://firstorion.wd1.myworkdayjobs.com/first_orion/job/North-Little-Rock-AR/Associate-Software-Engineer_R785"
     },
     {
-      "id": "custom:microsoft:05ae06ea68171c7895e2",
-      "company": "Microsoft",
-      "title": "Software Engineer Intune",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-02",
-      "age": "4d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556982925",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556982925",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:5db4916631acde4fa30e",
-      "company": "Microsoft",
-      "title": "Software Engineer",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-02",
-      "age": "4d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557016400",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557016400",
-      "applySupported": false
-    },
-    {
       "id": "a84cc921-ba2a-4df0-8e6f-610f0738edc5",
       "company": "OppFi",
       "title": "Software Engineer I",
@@ -399,32 +360,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=FiscalNote&job=6ad5ceb6-24dd-4748-826f-3dc52c15c484&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/fiscalnote/51a2e18f-1af1-416c-9544-5bede8e9537c"
-    },
-    {
-      "id": "custom:microsoft:d021de3d39fd02480f33",
-      "company": "Microsoft",
-      "title": "Software Engineering - CTJ - Poly",
-      "location": "Redmond, WA · Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-01",
-      "age": "5d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:a7e272998be8b44d73e3",
-      "company": "Microsoft",
-      "title": "Software Engineer- CoreAI",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-01",
-      "age": "5d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556989020",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556989020",
-      "applySupported": false
     },
     {
       "id": "8a04a03f-0345-428b-b6da-e3aa237b9d47",
@@ -725,19 +660,6 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Globusmedical&job=e3c2b5bb-642f-40d5-a7cd-b985b85ea9fe&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/Audubon-PA/Associate-Software-Engineer_JR107947-1"
-    },
-    {
-      "id": "custom:microsoft:698bf1cfd0197fa8f311",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-29",
-      "age": "7d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "applySupported": false
     },
     {
       "id": "2173473f-a9b9-4cbb-b1de-176eec01d884",
