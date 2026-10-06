@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T22:01:39.777Z",
+  "updatedAt": "2026-10-06T22:16:13.916Z",
   "jobs": [
     {
       "id": "2b5af97c-19ac-4c65-8b6b-68f14fdbf40f",
@@ -60,6 +60,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=607d2de2-6382-496c-b215-653f16b45081&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-I---Onsite-_01872447"
+    },
+    {
+      "id": "52cc1616-8b63-4aa5-8088-07e8d23bb3e2",
+      "company": "Shield AI",
+      "title": "Software Development Engineer - New Graduate",
+      "location": "San Diego, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-10-06",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Shield+AI&job=52cc1616-8b63-4aa5-8088-07e8d23bb3e2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.lever.co/shieldai/79c3b65f-ce0c-4868-bedf-4ddcc4cfe583"
     },
     {
       "id": "9cdcbd1e-0f70-494e-af52-bab9f4f96b7f",
