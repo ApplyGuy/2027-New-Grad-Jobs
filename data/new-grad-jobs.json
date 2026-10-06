@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T07:00:44.625Z",
+  "updatedAt": "2026-10-06T07:15:45.203Z",
   "jobs": [
     {
       "id": "258431bc-591c-4eb0-8ba5-3715d737a3d7",
@@ -387,19 +387,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=FiscalNote&job=6ad5ceb6-24dd-4748-826f-3dc52c15c484&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/fiscalnote/51a2e18f-1af1-416c-9544-5bede8e9537c"
-    },
-    {
-      "id": "custom:microsoft:f32e2fdda1f5bb47bf6d",
-      "company": "Microsoft",
-      "title": "Software Engineer - Forward Deployed Engineer",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-01",
-      "age": "5d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557004814",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557004814",
-      "applySupported": false
     },
     {
       "id": "custom:microsoft:d021de3d39fd02480f33",
