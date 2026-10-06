@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T21:46:12.401Z",
+  "updatedAt": "2026-10-06T22:01:39.777Z",
   "jobs": [
     {
       "id": "2b5af97c-19ac-4c65-8b6b-68f14fdbf40f",
@@ -768,18 +768,6 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Pmat&job=e0c5cac8-ec3f-4b40-aab4-664b87268b38&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://pmat.bamboohr.com/careers/324"
-    },
-    {
-      "id": "dc88075b-cfb4-474b-aac8-4bfa883c1bcb",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Marlborough, MA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-29",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=dc88075b-cfb4-474b-aac8-4bfa883c1bcb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineer-I--Onsite-_01874953"
     },
     {
       "id": "73c47ef4-7a58-4ec3-b335-f4a413e30102",
