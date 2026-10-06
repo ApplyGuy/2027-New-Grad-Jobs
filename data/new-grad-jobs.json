@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T19:46:39.409Z",
+  "updatedAt": "2026-10-06T20:01:00.069Z",
   "jobs": [
     {
       "id": "2b5af97c-19ac-4c65-8b6b-68f14fdbf40f",
@@ -48,6 +48,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=480f9b78-725a-460c-9e9d-8769c4f065b6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I---Test_01873961"
+    },
+    {
+      "id": "607d2de2-6382-496c-b215-653f16b45081",
+      "company": "RTX",
+      "title": "Software Engineer I  (Onsite)",
+      "location": "Woburn, MA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-06",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=607d2de2-6382-496c-b215-653f16b45081&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-I---Onsite-_01872447"
     },
     {
       "id": "9cdcbd1e-0f70-494e-af52-bab9f4f96b7f",
@@ -264,6 +276,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=ae1102c3-934a-46c4-8b81-4bd1ae7628a6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineer-I--Gen4-Airborne-Radar_01877039"
+    },
+    {
+      "id": "d8d8356c-c84d-4186-8dcf-0b0b63e20fe6",
+      "company": "RTX",
+      "title": "HWIL Software Engineer I",
+      "location": "Tucson, AZ",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-05",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=d8d8356c-c84d-4186-8dcf-0b0b63e20fe6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/HWIL-Software-Engineer-I_01874565"
     },
     {
       "id": "5df9abb9-bcf0-42bc-b05b-9d14d2825e22",
@@ -890,18 +914,6 @@
       "listingUrl": "https://careers-steampunk.icims.com/jobs/8238/associate-software-developer/job"
     },
     {
-      "id": "6a0eb9a1-8c93-4999-95f7-44a15007d357",
-      "company": "Varsitybrands",
-      "title": "Software Engineer I (.Net)",
-      "location": "Memphis, TN",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-25",
-      "age": "11d",
-      "url": "https://applyguy.ai/jobs?company=Varsitybrands&job=6a0eb9a1-8c93-4999-95f7-44a15007d357&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://varsitybrands.wd503.myworkdayjobs.com/externalcareersite/job/TN---Memphis/Software-Engineer-I--Net-_JR114518"
-    },
-    {
       "id": "d50f22cc-897e-41c5-b984-00cbee7cdc86",
       "company": "Adobe",
       "title": "2027 University Graduate - Software Engineer",
@@ -1057,18 +1069,6 @@
       "age": "12d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=c00c7914-5889-4730-99a0-2e52a0b028eb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--CDS--Onsite---Security-Clearance-_01877720"
-    },
-    {
-      "id": "d8d8356c-c84d-4186-8dcf-0b0b63e20fe6",
-      "company": "RTX",
-      "title": "HWIL Software Engineer I",
-      "location": "Tucson, AZ",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-24",
-      "age": "12d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=d8d8356c-c84d-4186-8dcf-0b0b63e20fe6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/HWIL-Software-Engineer-I_01874565"
     },
     {
       "id": "86ae0bd0-17e3-415d-8383-39ebd410b431",
@@ -1863,18 +1863,6 @@
       "listingUrl": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/New-College-Grad---Algorithm-Developer-III---PhD--Winter-2026-Start-_R2628587"
     },
     {
-      "id": "bec44797-dba0-479b-82f7-b29e2a45ffb9",
-      "company": "Amat",
-      "title": "Algorithm Developer II New College Grad- Master's (Santa Clara, CA)",
-      "location": "Santa Clara, CA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-09-14",
-      "age": "22d",
-      "url": "https://applyguy.ai/jobs?company=Amat&job=bec44797-dba0-479b-82f7-b29e2a45ffb9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Algorithm-Developer-II_R2627187"
-    },
-    {
       "id": "6c6078ff-4775-4eb7-bffd-d2ed06f468d0",
       "company": "Defense Unicorns",
       "title": "Associate Software Engineer",
@@ -2173,18 +2161,6 @@
       "age": "27d",
       "url": "https://applyguy.ai/jobs?company=Replit&job=18128ad0-c691-4034-9968-7904e4a8ac2d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc"
-    },
-    {
-      "id": "ef98541b-fbc0-455d-b999-20a3bee70e42",
-      "company": "RTX",
-      "title": "Software Engineer I  (Onsite)",
-      "location": "Woburn, MA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-09",
-      "age": "27d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=ef98541b-fbc0-455d-b999-20a3bee70e42&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-I---Onsite-_01872445"
     },
     {
       "id": "c4a5a019-f2d3-41e1-9cff-c8ae6862e87a",
