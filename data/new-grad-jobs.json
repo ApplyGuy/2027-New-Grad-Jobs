@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T18:17:13.593Z",
+  "updatedAt": "2026-10-06T18:31:00.370Z",
   "jobs": [
     {
       "id": "2b5af97c-19ac-4c65-8b6b-68f14fdbf40f",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Boeing&job=2b5af97c-19ac-4c65-8b6b-68f14fdbf40f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Embedded-Software-Engineer---Entry-Level_JR2026522089-1"
+    },
+    {
+      "id": "d53b09dd-bbae-44f8-a5e9-f2752a81c33c",
+      "company": "Embraer",
+      "title": "Software Development Engineer I - MLB",
+      "location": "Melbourne, FL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-06",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Embraer&job=d53b09dd-bbae-44f8-a5e9-f2752a81c33c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://embraer.breezy.hr/p/02564bcdcf94-software-development-engineer-i-mlb"
     },
     {
       "id": "custom:microsoft:03d65b2b10e701c197e7",
