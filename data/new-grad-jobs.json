@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T00:31:45.713Z",
+  "updatedAt": "2026-10-06T00:46:37.709Z",
   "jobs": [
     {
       "id": "8620f0d6-a4b1-4750-bed3-56bde33b6b79",
@@ -61,6 +61,18 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557023035",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557023035",
       "applySupported": false
+    },
+    {
+      "id": "9eb37e41-6390-443b-9379-1e34bad05eab",
+      "company": "Pae",
+      "title": "Entry Level Software Engineer",
+      "location": "Fredericksburg, VA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-10-05",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Pae&job=9eb37e41-6390-443b-9379-1e34bad05eab&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0172148"
     },
     {
       "id": "4213f21a-d69f-4f82-8959-3526c257dbc1",
