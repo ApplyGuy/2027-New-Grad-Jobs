@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T21:16:08.446Z",
+  "updatedAt": "2026-10-06T21:30:48.497Z",
   "jobs": [
     {
       "id": "2b5af97c-19ac-4c65-8b6b-68f14fdbf40f",
@@ -3840,18 +3840,6 @@
       "age": "57d",
       "url": "https://applyguy.ai/jobs?company=WeRide.ai&job=abd1e382-d605-4f75-b7b6-42b4164779f3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/weride/5cde0d09-ba2d-408d-947e-4a42028cd4f7"
-    },
-    {
-      "id": "01cac459-7aa9-4d2a-8e94-76a884e9c1ef",
-      "company": "Freeform",
-      "title": "Software Engineer (New Grad December 2026)",
-      "location": "Los Angeles, CA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-07",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Freeform&job=01cac459-7aa9-4d2a-8e94-76a884e9c1ef&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7826634003"
     }
   ]
 }
