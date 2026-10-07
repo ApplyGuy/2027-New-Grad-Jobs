@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T18:15:42.475Z",
+  "updatedAt": "2026-10-07T18:30:58.962Z",
   "jobs": [
     {
       "id": "d34b31ff-c78a-4a8e-9c55-0f8b25022e4e",
@@ -26,6 +26,18 @@
       "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Associate-Software-Engineer_JR2026524131-2"
     },
     {
+      "id": "d998177b-6c6c-4656-a12c-a6db76ca12d7",
+      "company": "Leidos",
+      "title": "Junior Software Engineer",
+      "location": "Huntsville, AL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-07",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Leidos&job=d998177b-6c6c-4656-a12c-a6db76ca12d7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Huntsville-AL/Junior-Software-Engineer_R-00194081"
+    },
+    {
       "id": "24b7276c-dbd8-4571-9713-97c94bdbb44d",
       "company": "Mastercard",
       "title": "Software Engineer I",
@@ -36,6 +48,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Mastercard&job=24b7276c-dbd8-4571-9713-97c94bdbb44d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-292618-1"
+    },
+    {
+      "id": "d24be80e-3315-43b9-b444-9fa06c83be2e",
+      "company": "RTX",
+      "title": "Embedded Software Developer I  (Onsite)",
+      "location": "El Segundo, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-07",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=d24be80e-3315-43b9-b444-9fa06c83be2e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Software-Developer-I---Onsite-_01880909"
     },
     {
       "id": "dc88075b-cfb4-474b-aac8-4bfa883c1bcb",
@@ -3820,7 +3844,7 @@
     {
       "id": "c1f886b8-7801-4c1c-bfe8-dd085abd81ed",
       "company": "DV Trading",
-      "title": "2027 Graduate Software Engineer (DV Commodities)",
+      "title": "Graduate Software Engineer (DV Commodities)",
       "location": "New York",
       "eligibility": "New Grad",
       "matchKind": "explicit",
