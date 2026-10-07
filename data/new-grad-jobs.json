@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-07T23:01:05.240Z",
+  "updatedAt": "2026-10-07T23:15:49.417Z",
   "jobs": [
+    {
+      "id": "d90710b5-f126-42ed-8d0b-e9cf01907209",
+      "company": "Ace",
+      "title": "Associate Data Engineer",
+      "location": "Costa Mesa, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-07",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Ace&job=d90710b5-f126-42ed-8d0b-e9cf01907209&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Associate-Data-Engineer_JR202639452"
+    },
     {
       "id": "d34b31ff-c78a-4a8e-9c55-0f8b25022e4e",
       "company": "ASSYST, Inc.",
