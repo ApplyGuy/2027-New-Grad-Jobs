@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T00:00:47.721Z",
+  "updatedAt": "2026-10-07T00:16:04.572Z",
   "jobs": [
     {
       "id": "65669682-ee1e-473b-ac55-ea198f7637ef",
@@ -158,6 +158,18 @@
       "listingUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5257769007"
     },
     {
+      "id": "06324a70-82fc-415b-af8d-a2fbcaeae1e7",
+      "company": "Whoop",
+      "title": "Software Engineer I (Frontend, AI Platform)",
+      "location": "Boston, MA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-06",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Whoop&job=06324a70-82fc-415b-af8d-a2fbcaeae1e7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.ashbyhq.com/whoop/ae351985-e5cf-4bd8-b8a1-6f8c2d5b5de3"
+    },
+    {
       "id": "10e15e75-aefd-45e7-addb-5283630a889c",
       "company": "Hpe",
       "title": "Graduate Systems/Software Engineer I",
@@ -252,18 +264,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Pae&job=9eb37e41-6390-443b-9379-1e34bad05eab&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0172148"
-    },
-    {
-      "id": "4213f21a-d69f-4f82-8959-3526c257dbc1",
-      "company": "Pae",
-      "title": "Entry Level Software Engineer",
-      "location": "Dahlgren, VA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-10-05",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=Pae&job=4213f21a-d69f-4f82-8959-3526c257dbc1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0171030"
     },
     {
       "id": "04e0cdaa-a376-49db-96a2-2d371eef15f5",
