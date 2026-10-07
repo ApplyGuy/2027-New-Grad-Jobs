@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T18:30:58.962Z",
+  "updatedAt": "2026-10-07T18:45:56.288Z",
   "jobs": [
     {
       "id": "d34b31ff-c78a-4a8e-9c55-0f8b25022e4e",
@@ -193,6 +193,18 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
       "applySupported": false
+    },
+    {
+      "id": "3270c26d-cc80-4c18-b48a-ba9d9eb1c140",
+      "company": "NVIDIA",
+      "title": "Systems Software Engineer,  AI and Cloud - New College Grad 2026",
+      "location": "Santa Clara, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-10-06",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=3270c26d-cc80-4c18-b48a-ba9d9eb1c140&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Systems-Software-Engineer---AI-and-Cloud---New-College-Grad-2026_JR2025458"
     },
     {
       "id": "0fab392e-dc04-4007-8aa3-5fe995518163",
