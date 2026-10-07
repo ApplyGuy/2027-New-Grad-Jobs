@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T12:01:27.345Z",
+  "updatedAt": "2026-10-07T12:16:01.721Z",
   "jobs": [
     {
       "id": "65669682-ee1e-473b-ac55-ea198f7637ef",
@@ -96,6 +96,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=EquipmentShare&job=d9386fad-de6d-484a-9c9a-d0005c21b2b1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.equipmentshare.com/careers/openings/?gh_jid=8071715"
+    },
+    {
+      "id": "cfc1b6f0-a1be-467f-86b8-c2d33ce2e038",
+      "company": "Hpe",
+      "title": "Systems/Software Engineer I - Graduate",
+      "location": "Houston, TX",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-06",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Hpe&job=cfc1b6f0-a1be-467f-86b8-c2d33ce2e038&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Houston-Texas-United-States-of-America/Systems-Software-Engineer-I---Graduate_1213648"
     },
     {
       "id": "custom:microsoft:03d65b2b10e701c197e7",
