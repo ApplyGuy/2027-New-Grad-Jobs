@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T01:30:48.603Z",
+  "updatedAt": "2026-10-07T01:45:56.972Z",
   "jobs": [
     {
       "id": "65669682-ee1e-473b-ac55-ea198f7637ef",
@@ -169,6 +169,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Shield+AI&job=52cc1616-8b63-4aa5-8088-07e8d23bb3e2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/shieldai/79c3b65f-ce0c-4868-bedf-4ddcc4cfe583"
+    },
+    {
+      "id": "d1508bb8-00db-41c8-be72-88d63b38b54d",
+      "company": "Snc",
+      "title": "Software Engineer I (For 2026 Interns Only)",
+      "location": "Dayton, OH",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-06",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Snc&job=d1508bb8-00db-41c8-be72-88d63b38b54d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Dayton-OH/Software-Engineer-I--For-2026-Interns-Only-_R0030889"
     },
     {
       "id": "9cdcbd1e-0f70-494e-af52-bab9f4f96b7f",
