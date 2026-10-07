@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T06:15:53.608Z",
+  "updatedAt": "2026-10-07T06:31:04.340Z",
   "jobs": [
     {
       "id": "65669682-ee1e-473b-ac55-ea198f7637ef",
@@ -360,18 +360,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=d8d8356c-c84d-4186-8dcf-0b0b63e20fe6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/HWIL-Software-Engineer-I_01874565"
-    },
-    {
-      "id": "5df9abb9-bcf0-42bc-b05b-9d14d2825e22",
-      "company": "U.S. Bank",
-      "title": "Software engineer 1 – AI/ML Engineer (MLOps)",
-      "location": "Chicago, IL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-05",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=U.S.+Bank&job=5df9abb9-bcf0-42bc-b05b-9d14d2825e22&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Chicago-IL/Software-engineer-1---AI-ML-Engineer--Generative-AI-_2026-0027055"
     },
     {
       "id": "834c4b08-0cfc-48ea-b069-be427204ecff",
