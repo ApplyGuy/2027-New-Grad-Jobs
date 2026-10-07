@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T07:15:52.044Z",
+  "updatedAt": "2026-10-07T07:30:47.291Z",
   "jobs": [
     {
       "id": "65669682-ee1e-473b-ac55-ea198f7637ef",
@@ -1349,7 +1349,7 @@
     {
       "id": "fd52273a-5a98-4209-b573-3b11f4086324",
       "company": "Relativity Space",
-      "title": "Full Stack Software Engineer I",
+      "title": "Software Engineer I",
       "location": "Long Beach, CA",
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
@@ -1525,18 +1525,6 @@
       "age": "18d",
       "url": "https://applyguy.ai/jobs?company=Ace+IT+Careers&job=dc003e25-e0ff-497c-8938-9d0cbddb98d8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://apply.workable.com/ace-it-careers-1/j/8E52B2BF7A/"
-    },
-    {
-      "id": "928cf6c5-919b-4eb9-90c4-8d8bcf0a2f26",
-      "company": "Relativity Space",
-      "title": "Software Engineer I",
-      "location": "Long Beach, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-19",
-      "age": "18d",
-      "url": "https://applyguy.ai/jobs?company=Relativity+Space&job=928cf6c5-919b-4eb9-90c4-8d8bcf0a2f26&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://boards.greenhouse.io/relativity/jobs/8747134002?gh_jid=8747134002"
     },
     {
       "id": "9d844fd1-3d21-4e9d-9766-079ef605f8c0",
