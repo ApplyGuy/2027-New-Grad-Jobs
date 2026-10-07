@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T00:16:04.572Z",
+  "updatedAt": "2026-10-07T00:31:29.136Z",
   "jobs": [
     {
       "id": "65669682-ee1e-473b-ac55-ea198f7637ef",
@@ -84,6 +84,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Embraer&job=d53b09dd-bbae-44f8-a5e9-f2752a81c33c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://embraer.breezy.hr/p/02564bcdcf94-software-development-engineer-i-mlb"
+    },
+    {
+      "id": "d9386fad-de6d-484a-9c9a-d0005c21b2b1",
+      "company": "EquipmentShare",
+      "title": "Software Engineer I",
+      "location": "Columbia, MO (Headquarters)",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-06",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=EquipmentShare&job=d9386fad-de6d-484a-9c9a-d0005c21b2b1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://www.equipmentshare.com/careers/openings/?gh_jid=8071715"
     },
     {
       "id": "258431bc-591c-4eb0-8ba5-3715d737a3d7",
