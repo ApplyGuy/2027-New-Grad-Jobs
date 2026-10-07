@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-07T14:46:18.148Z",
+  "updatedAt": "2026-10-07T15:00:59.982Z",
   "jobs": [
+    {
+      "id": "dc88075b-cfb4-474b-aac8-4bfa883c1bcb",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Marlborough, MA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-07",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=dc88075b-cfb4-474b-aac8-4bfa883c1bcb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineer-I--Onsite-_01874953"
+    },
     {
       "id": "65669682-ee1e-473b-ac55-ea198f7637ef",
       "company": "AeroVironment",
