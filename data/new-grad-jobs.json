@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T08:30:53.191Z",
+  "updatedAt": "2026-10-07T08:45:42.578Z",
   "jobs": [
     {
       "id": "65669682-ee1e-473b-ac55-ea198f7637ef",
@@ -847,18 +847,6 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
       "applySupported": false
-    },
-    {
-      "id": "2173473f-a9b9-4cbb-b1de-176eec01d884",
-      "company": "NVIDIA",
-      "title": "Software Engineer, DGX Cloud AI Infrastructure - New College Grad 2026",
-      "location": "Santa Clara, CA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-09-29",
-      "age": "8d",
-      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=2173473f-a9b9-4cbb-b1de-176eec01d884&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DGX-Cloud-AI-Infrastructure---New-College-Grad-2026_JR2026477"
     },
     {
       "id": "ff4d695b-6a47-433b-8c2e-cc351c3ef893",
