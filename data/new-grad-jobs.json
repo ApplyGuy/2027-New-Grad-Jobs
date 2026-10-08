@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T10:45:46.701Z",
+  "updatedAt": "2026-10-08T11:00:42.557Z",
   "jobs": [
     {
       "id": "6d99854b-652d-4be1-96b3-4e87c927ece5",
@@ -36,6 +36,30 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Ace&job=d90710b5-f126-42ed-8d0b-e9cf01907209&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Associate-Data-Engineer_JR202639452"
+    },
+    {
+      "id": "cb2aa156-0344-4105-bb18-ac0434baaaa9",
+      "company": "Amat",
+      "title": "New College Grad Software Development Engineer (Bachelors - Santa Clara, CA)",
+      "location": "Santa Clara, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-10-07",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Amat&job=cb2aa156-0344-4105-bb18-ac0434baaaa9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/New-College-Grad-Software-Development-Engineer--Bachelors---Santa-Clara--CA-_R2628997"
+    },
+    {
+      "id": "b683b9b7-07e8-4a4a-a843-549bedc1bc43",
+      "company": "Amat",
+      "title": "New College Grad Software Engineer I (Bachelors - Santa Clara, CA)",
+      "location": "Santa Clara, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-10-07",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Amat&job=b683b9b7-07e8-4a4a-a843-549bedc1bc43&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/New-College-Grad-Software-Engineer-I--Bachelors---Santa-Clara--CA-_R2628998"
     },
     {
       "id": "d34b31ff-c78a-4a8e-9c55-0f8b25022e4e",
