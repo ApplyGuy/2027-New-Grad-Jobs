@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T03:46:12.702Z",
+  "updatedAt": "2026-10-08T04:00:59.110Z",
   "jobs": [
     {
       "id": "6d99854b-652d-4be1-96b3-4e87c927ece5",
@@ -12,6 +12,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=9c26369c-d400-4eb7-a9b3-ab8f6469f9e8&job=6d99854b-652d-4be1-96b3-4e87c927ece5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/amplitude/9c43576b-d16f-4192-a366-7c9eb689c4be"
+    },
+    {
+      "id": "fbf77ffc-941e-408d-a5f5-f15f8d6cc023",
+      "company": "Abbott",
+      "title": "Associate Software Engineer",
+      "location": "Plymouth, MN",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-07",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Abbott&job=fbf77ffc-941e-408d-a5f5-f15f8d6cc023&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Plymouth/Associate-Software-Engineer_31163984-1"
     },
     {
       "id": "d90710b5-f126-42ed-8d0b-e9cf01907209",
