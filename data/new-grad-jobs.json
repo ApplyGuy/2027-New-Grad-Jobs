@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T01:46:14.323Z",
+  "updatedAt": "2026-10-08T02:00:47.646Z",
   "jobs": [
     {
       "id": "6d99854b-652d-4be1-96b3-4e87c927ece5",
@@ -216,6 +216,42 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=42c91976-2604-4f22-89cd-a10106324d71&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Embedded-Software-Engineer-I--Onsite-_01870328"
+    },
+    {
+      "id": "716df31b-cc9c-4ab7-af08-3443be7ccc4d",
+      "company": "Sierraspace",
+      "title": "Software Engineer I - DevOps / DevSecOps",
+      "location": "Louisville, CO",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-07",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Sierraspace&job=716df31b-cc9c-4ab7-af08-3443be7ccc4d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://sierraspace.wd1.myworkdayjobs.com/sierra_space_external_career_site/job/Louisville-CO/Software-Engineer-I---DevOps---DevSecOps_R26394-1"
+    },
+    {
+      "id": "5a2efece-b4de-4e41-a9ae-feab00c2a91f",
+      "company": "Sierraspace",
+      "title": "Software Engineer I - Flight Software",
+      "location": "Centennial, CO",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-07",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Sierraspace&job=5a2efece-b4de-4e41-a9ae-feab00c2a91f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://sierraspace.wd1.myworkdayjobs.com/sierra_space_external_career_site/job/Centennial-CO/Software-Engineer-I---Flight-Software_R26391-1"
+    },
+    {
+      "id": "5486d342-2bb7-4050-85d9-5e11f3e264ff",
+      "company": "Sierraspace",
+      "title": "Software Engineer I - Ground Software",
+      "location": "Centennial, CO",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-07",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Sierraspace&job=5486d342-2bb7-4050-85d9-5e11f3e264ff&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://sierraspace.wd1.myworkdayjobs.com/sierra_space_external_career_site/job/Centennial-CO/Software-Engineer-I---Ground-Software_R26393-1"
     },
     {
       "id": "69ee30ac-e75a-4182-943c-8f61ddd136d8",
