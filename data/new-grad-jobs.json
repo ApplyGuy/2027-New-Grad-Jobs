@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T21:45:48.517Z",
+  "updatedAt": "2026-10-08T22:00:56.120Z",
   "jobs": [
     {
       "id": "custom:amazon:e8d327233a5babe10406",
@@ -73,6 +73,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Snc&job=96a80577-5eca-4477-bf7e-352b0540fe6a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0031025"
+    },
+    {
+      "id": "31e9b1d3-c472-49ba-9086-a4fac7caabd0",
+      "company": "Truist",
+      "title": "Associate Software Engineer--Python & Data Analytics",
+      "location": "Richmond, VA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-08",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Truist&job=31e9b1d3-c472-49ba-9086-a4fac7caabd0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://truist.wd1.myworkdayjobs.com/careers/job/Richmond-VA/Associate-Software-Engineer--Python---Data-Analytics_R0119972"
     },
     {
       "id": "14140795-1b30-4b71-a47c-e00b2883f4fd",
