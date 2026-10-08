@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T18:15:32.067Z",
+  "updatedAt": "2026-10-08T18:30:34.454Z",
   "jobs": [
     {
       "id": "custom:amazon:e8d327233a5babe10406",
@@ -25,6 +25,42 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Bmo&job=bf740eac-a5aa-42c0-ba86-180cff7346c2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://bmo.wd3.myworkdayjobs.com/campus/job/Irving-TX-USA/Software-Developer---Early-Career---15_R260021450-1"
+    },
+    {
+      "id": "12523ea9-71ad-4f00-a37b-d26b4509f987",
+      "company": "Csusystem",
+      "title": "Junior Software Engineer",
+      "location": "Chicago, IL 60615",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-08",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Csusystem&job=12523ea9-71ad-4f00-a37b-d26b4509f987&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://csusystem.wd12.myworkdayjobs.com/fortcollins_careers/job/Chicago-IL-60615/Junior-Software-Engineer_R2026107887"
+    },
+    {
+      "id": "f57d3d47-9cac-4529-a2b3-179d2353f325",
+      "company": "RTX",
+      "title": "Embedded Software Engineer I (Onsite)",
+      "location": "Mckinney, TX",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-08",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=f57d3d47-9cac-4529-a2b3-179d2353f325&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513PW--2501-W-University-Dr--PW-BLDG/Embedded-Software-Engineer-I--Onsite-_01881232"
+    },
+    {
+      "id": "16b34306-09a1-402a-a91b-817146b886cd",
+      "company": "RTX",
+      "title": "Software Engineer I, Onsite",
+      "location": "Ft Wayne, IN",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-08",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=16b34306-09a1-402a-a91b-817146b886cd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I--Onsite_01881108"
     },
     {
       "id": "6d99854b-652d-4be1-96b3-4e87c927ece5",
