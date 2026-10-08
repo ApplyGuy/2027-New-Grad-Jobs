@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T01:16:06.879Z",
+  "updatedAt": "2026-10-08T01:31:09.519Z",
   "jobs": [
     {
       "id": "6d99854b-652d-4be1-96b3-4e87c927ece5",
@@ -156,6 +156,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Mastercard&job=24b7276c-dbd8-4571-9713-97c94bdbb44d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-292618-1"
+    },
+    {
+      "id": "283b6fee-6f74-4849-949e-380b74f0e4ef",
+      "company": "Otter.ai",
+      "title": "Software Engineer, Front-End (New Grad)",
+      "location": "Mountain View, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-10-07",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Otter.ai&job=283b6fee-6f74-4849-949e-380b74f0e4ef&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://otter.ai/careers?gh_jid=8016078003"
     },
     {
       "id": "d24be80e-3315-43b9-b444-9fa06c83be2e",
