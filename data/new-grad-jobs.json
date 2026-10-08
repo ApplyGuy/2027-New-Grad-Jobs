@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-08T18:00:42.960Z",
+  "updatedAt": "2026-10-08T18:15:32.067Z",
   "jobs": [
+    {
+      "id": "custom:amazon:e8d327233a5babe10406",
+      "company": "Amazon",
+      "title": "Software Engineer I",
+      "location": "San Francisco, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-08",
+      "age": "Today",
+      "url": "https://www.amazon.jobs/en/jobs/10573768/software-engineer-i",
+      "listingUrl": "https://www.amazon.jobs/en/jobs/10573768/software-engineer-i",
+      "applySupported": false
+    },
+    {
+      "id": "bf740eac-a5aa-42c0-ba86-180cff7346c2",
+      "company": "Bmo",
+      "title": "Software Developer ( Early Career )-15",
+      "location": "Irving, TX",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-10-08",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Bmo&job=bf740eac-a5aa-42c0-ba86-180cff7346c2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://bmo.wd3.myworkdayjobs.com/campus/job/Irving-TX-USA/Software-Developer---Early-Career---15_R260021450-1"
+    },
     {
       "id": "6d99854b-652d-4be1-96b3-4e87c927ece5",
       "company": "9c26369c-d400-4eb7-a9b3-ab8f6469f9e8",
