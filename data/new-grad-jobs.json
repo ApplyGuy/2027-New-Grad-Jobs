@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T07:00:47.439Z",
+  "updatedAt": "2026-10-08T07:15:49.517Z",
   "jobs": [
     {
       "id": "6d99854b-652d-4be1-96b3-4e87c927ece5",
@@ -676,19 +676,6 @@
       "listingUrl": "https://firstorion.wd1.myworkdayjobs.com/first_orion/job/North-Little-Rock-AR/Associate-Software-Engineer_R785"
     },
     {
-      "id": "custom:microsoft:05ae06ea68171c7895e2",
-      "company": "Microsoft",
-      "title": "Software Engineer Intune",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-02",
-      "age": "6d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556982925",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556982925",
-      "applySupported": false
-    },
-    {
       "id": "custom:microsoft:5db4916631acde4fa30e",
       "company": "Microsoft",
       "title": "Software Engineer",
@@ -772,19 +759,6 @@
       "age": "7d",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:a7e272998be8b44d73e3",
-      "company": "Microsoft",
-      "title": "Software Engineer- CoreAI",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-01",
-      "age": "7d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556989020",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556989020",
       "applySupported": false
     },
     {
