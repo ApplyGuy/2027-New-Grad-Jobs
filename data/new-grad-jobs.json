@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T19:00:45.063Z",
+  "updatedAt": "2026-10-08T19:15:48.202Z",
   "jobs": [
     {
       "id": "custom:amazon:e8d327233a5babe10406",
@@ -2802,6 +2802,18 @@
       "age": "36d",
       "url": "https://applyguy.ai/jobs?company=Jaxon+Engineering+and+Maintenance&job=a95da467-1f87-4bf5-a076-e5fe019d9fa8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4475286"
+    },
+    {
+      "id": "39fb6639-86f2-4fe1-b854-9500e2cc1c1c",
+      "company": "Minitab",
+      "title": "Entry Level Inside Sales Representative- Software Sales",
+      "location": "State College, PA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-02",
+      "age": "36d",
+      "url": "https://applyguy.ai/jobs?company=Minitab&job=39fb6639-86f2-4fe1-b854-9500e2cc1c1c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/minitab/jobs/7984770003"
     },
     {
       "id": "5130aaf0-75e8-4737-a548-89e0b95e7378",
