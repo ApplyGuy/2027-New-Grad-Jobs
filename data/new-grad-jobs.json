@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T06:01:13.856Z",
+  "updatedAt": "2026-10-08T06:15:49.134Z",
   "jobs": [
     {
       "id": "6d99854b-652d-4be1-96b3-4e87c927ece5",
@@ -2355,6 +2355,18 @@
       "listingUrl": "https://jobs.ashbyhq.com/handshake/2f936add-3a94-48d9-9759-90c1e2c64d3e"
     },
     {
+      "id": "768a88ec-f203-4d61-a5b7-dae28e780594",
+      "company": "Nexthopai",
+      "title": "Software Engineer - Hardware Diagnostics - New Grad",
+      "location": "Santa Clara, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-09",
+      "age": "29d",
+      "url": "https://applyguy.ai/jobs?company=Nexthopai&job=768a88ec-f203-4d61-a5b7-dae28e780594&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://nexthopai.bamboohr.com/careers/107"
+    },
+    {
       "id": "82c7e578-7191-4f90-9f82-84b889bc9699",
       "company": "Reagroup",
       "title": "Associate Software Engineer",
@@ -2401,18 +2413,6 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=StubHub&job=0bc3663a-f55b-4f02-8a02-ae1360a86199&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4967177101"
-    },
-    {
-      "id": "768a88ec-f203-4d61-a5b7-dae28e780594",
-      "company": "Nexthopai",
-      "title": "Software Engineer - Hardware Diagnostics - New Grad",
-      "location": "Santa Clara, CA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-09-08",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Nexthopai&job=768a88ec-f203-4d61-a5b7-dae28e780594&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://nexthopai.bamboohr.com/careers/107"
     },
     {
       "id": "6e3a8b7c-8aa7-4062-a36f-479c3913d38c",
