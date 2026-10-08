@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T00:30:53.070Z",
+  "updatedAt": "2026-10-08T00:46:06.936Z",
   "jobs": [
     {
       "id": "6d99854b-652d-4be1-96b3-4e87c927ece5",
@@ -98,6 +98,18 @@
       "listingUrl": "https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f"
     },
     {
+      "id": "05bad1af-9630-46a2-94af-49dd26825599",
+      "company": "Dexcom",
+      "title": "Software Development Engineer 1",
+      "location": "Remote, U.S.",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-07",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Dexcom&job=05bad1af-9630-46a2-94af-49dd26825599&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://dexcom.wd1.myworkdayjobs.com/dexcom/job/Remote---United-States/Software-Development-Engineer-1_JR120540"
+    },
+    {
       "id": "d998177b-6c6c-4656-a12c-a6db76ca12d7",
       "company": "Leidos",
       "title": "Junior Software Engineer",
@@ -132,6 +144,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=d24be80e-3315-43b9-b444-9fa06c83be2e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Software-Developer-I---Onsite-_01880909"
+    },
+    {
+      "id": "aaa0e283-9c9a-44db-bb0f-e5278bca6a4f",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "East Hartford, CT",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-07",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=aaa0e283-9c9a-44db-bb0f-e5278bca6a4f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Software-Engineer-I--Onsite-_01874537"
     },
     {
       "id": "dc88075b-cfb4-474b-aac8-4bfa883c1bcb",
