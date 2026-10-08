@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-08T00:00:48.448Z",
+  "updatedAt": "2026-10-08T00:16:16.335Z",
   "jobs": [
+    {
+      "id": "6d99854b-652d-4be1-96b3-4e87c927ece5",
+      "company": "9c26369c-d400-4eb7-a9b3-ab8f6469f9e8",
+      "title": "Software Engineer I",
+      "location": "San Francisco, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-07",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=9c26369c-d400-4eb7-a9b3-ab8f6469f9e8&job=6d99854b-652d-4be1-96b3-4e87c927ece5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.ashbyhq.com/amplitude/9c43576b-d16f-4192-a366-7c9eb689c4be"
+    },
     {
       "id": "d90710b5-f126-42ed-8d0b-e9cf01907209",
       "company": "Ace",
@@ -72,6 +84,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Centricsoftware&job=467fa1c6-9f98-486e-8742-bed15934e457&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://centricsoftware.wd501.myworkdayjobs.com/centric/job/Campbell-CA/Software-Engineer-1_JR396"
+    },
+    {
+      "id": "78e4a315-3939-4005-9b0d-23a53d1b7005",
+      "company": "Chalk",
+      "title": "Software Engineer - New Grad",
+      "location": "San Francisco, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-10-07",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Chalk&job=78e4a315-3939-4005-9b0d-23a53d1b7005&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f"
     },
     {
       "id": "d998177b-6c6c-4656-a12c-a6db76ca12d7",
@@ -432,18 +456,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Redhat&job=04e0cdaa-a376-49db-96a2-2d371eef15f5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Associate-Software-Engineer_R-059573"
-    },
-    {
-      "id": "0bd2af34-d61d-4866-ac87-4f1347a326a4",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Cedar Rapids, IA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-05",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=0bd2af34-d61d-4866-ac87-4f1347a326a4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineer-I--Onsite-_01878730-1"
     },
     {
       "id": "20780aaa-7f2c-433f-b8e3-3fe74c148c65",
@@ -854,6 +866,18 @@
       "listingUrl": "https://ats.rippling.com/momentumcareers/jobs/dd4281b8-fa2a-4833-8370-b1859933b612"
     },
     {
+      "id": "4c90151e-da8d-466b-b3ee-12c50382b6ad",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Cedar Rapids, IA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-30",
+      "age": "8d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=4c90151e-da8d-466b-b3ee-12c50382b6ad&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01879214"
+    },
+    {
       "id": "3ab73a1f-8de1-42c7-9508-b70616da5375",
       "company": "RTX",
       "title": "Embedded Software Engineer I (Onsite)",
@@ -1032,18 +1056,6 @@
       "age": "10d",
       "url": "https://applyguy.ai/jobs?company=Pae&job=afe25188-427f-48a7-83c1-69c0120048e3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-MD-Hanover/Software-Engineer-1_R0171612"
-    },
-    {
-      "id": "fb163b14-3825-42e3-925e-bcfc1834d4b2",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Ft Wayne, IN",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-28",
-      "age": "10d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=fb163b14-3825-42e3-925e-bcfc1834d4b2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I---Space-and-RF-Sensors--Onsite-_01878512"
     },
     {
       "id": "36338c1a-01ee-4c02-aa12-0f8c3bb22c14",
