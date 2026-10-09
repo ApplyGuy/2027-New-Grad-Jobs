@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T12:30:33.204Z",
+  "updatedAt": "2026-10-09T12:46:04.918Z",
   "jobs": [
     {
       "id": "12a8a431-02af-4b8b-836d-aacc375d9216",
@@ -12,6 +12,78 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Aurelian&job=12a8a431-02af-4b8b-836d-aacc375d9216&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/aurelian/a2bc965f-d639-41f7-946a-67c05c22e04e"
+    },
+    {
+      "id": "fe8ace3a-a106-4545-888c-b48601af7282",
+      "company": "RTX",
+      "title": "Web/Full Stack Software Engineer I (Onsite)",
+      "location": "Fullerton, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=fe8ace3a-a106-4545-888c-b48601af7282&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-611--1801-Hughes-Dr--BLDG-611/Web-Full-Stack-Software-Engineer-I--Onsite-_01881496"
+    },
+    {
+      "id": "fc26fae4-ff4d-4110-b51e-58793da0e20e",
+      "company": "RTX",
+      "title": "Embedded Software Engineer I (Onsite)",
+      "location": "Fullerton, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=fc26fae4-ff4d-4110-b51e-58793da0e20e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-611--1801-Hughes-Dr--BLDG-611/Embedded-Software-Engineer-I--Onsite-_01881493"
+    },
+    {
+      "id": "fa08828a-8438-44bf-beb5-e8b319190ecb",
+      "company": "RTX",
+      "title": "Embedded Security Software Engineer I (Onsite)",
+      "location": "Tewksbury, MA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=fa08828a-8438-44bf-beb5-e8b319190ecb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Embedded-Security-Software-Engineer-I--Onsite-_01881440"
+    },
+    {
+      "id": "a56b16eb-dee2-4198-9b95-c6be8554d57b",
+      "company": "RTX",
+      "title": "Full Stack Software Engineer I (Onsite)",
+      "location": "San Diego, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=a56b16eb-dee2-4198-9b95-c6be8554d57b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-DIEGO-SD1--8650-Balboa-Ave--SAN-ANTONIO-BLDG/Full-Stack-Software-Engineer-I--Onsite-_01881492"
+    },
+    {
+      "id": "96640738-85a4-44d5-8477-c76531d47429",
+      "company": "RTX",
+      "title": "Embedded Software Engineer I (Onsite)",
+      "location": "San Diego, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=96640738-85a4-44d5-8477-c76531d47429&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-DIEGO-SD1--8650-Balboa-Ave--SAN-ANTONIO-BLDG/Embedded-Software-Engineer-I--Onsite-_01881491"
+    },
+    {
+      "id": "ef963804-ad0c-4153-a2d7-21a2b2028b90",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "St Petersburg, FL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=ef963804-ad0c-4153-a2d7-21a2b2028b90&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineer-I--Onsite-_01874924"
     },
     {
       "id": "bc61125a-af95-4fe7-a179-ce414b3fa24f",
