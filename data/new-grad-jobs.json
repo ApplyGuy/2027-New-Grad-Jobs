@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T01:00:35.745Z",
+  "updatedAt": "2026-10-09T01:15:51.114Z",
   "jobs": [
     {
       "id": "bc61125a-af95-4fe7-a179-ce414b3fa24f",
@@ -85,6 +85,30 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Csusystem&job=12523ea9-71ad-4f00-a37b-d26b4509f987&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://csusystem.wd12.myworkdayjobs.com/fortcollins_careers/job/Chicago-IL-60615/Junior-Software-Engineer_R2026107887"
+    },
+    {
+      "id": "543cf392-8039-4399-b215-2f4f4e67e53a",
+      "company": "Forge Nano",
+      "title": "Software Engineer I",
+      "location": "Thornton, CO",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-08",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Forge+Nano&job=543cf392-8039-4399-b215-2f4f4e67e53a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://forge-nano.breezy.hr/p/66630c61f7e4-software-engineer-i"
+    },
+    {
+      "id": "04c64431-8bf4-4b09-9ec1-051d01c136c8",
+      "company": "Pae",
+      "title": "Software Engineer 1",
+      "location": "Hanover, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-08",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Pae&job=04c64431-8bf4-4b09-9ec1-051d01c136c8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-MD-Hanover/Software-Engineer-1_R0171606"
     },
     {
       "id": "e331417e-cfce-4e30-8eed-a9cace85696a",
@@ -1309,18 +1333,6 @@
       "age": "11d",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=fe46e18c-6cf4-450c-ac9f-05641c8e825a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/Associate-Software-Engineer---Software-Engineer_R10249088"
-    },
-    {
-      "id": "afe25188-427f-48a7-83c1-69c0120048e3",
-      "company": "Pae",
-      "title": "Software Engineer 1",
-      "location": "Hanover, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-28",
-      "age": "11d",
-      "url": "https://applyguy.ai/jobs?company=Pae&job=afe25188-427f-48a7-83c1-69c0120048e3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-MD-Hanover/Software-Engineer-1_R0171612"
     },
     {
       "id": "36338c1a-01ee-4c02-aa12-0f8c3bb22c14",
