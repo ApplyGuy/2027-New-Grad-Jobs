@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T10:45:50.673Z",
+  "updatedAt": "2026-10-09T11:00:34.956Z",
   "jobs": [
     {
       "id": "12a8a431-02af-4b8b-836d-aacc375d9216",
@@ -3232,6 +3232,18 @@
       "listingUrl": "https://jobs.lever.co/hatchit/7f2e771d-2363-4e85-b62f-ca130c478a97"
     },
     {
+      "id": "118ab350-be6d-4bbd-b418-4643b366d9c4",
+      "company": "Iqvia",
+      "title": "MedTech Field Service Software Tech Entry Level - Central Time Zone",
+      "location": "Dallas, TX",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-27",
+      "age": "43d",
+      "url": "https://applyguy.ai/jobs?company=Iqvia&job=118ab350-be6d-4bbd-b418-4643b366d9c4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://iqvia.wd1.myworkdayjobs.com/iqvia/job/Dallas-TX/MedTech-Field-Service-Software-Technician---Central-Time-Zone_R1564641"
+    },
+    {
       "id": "d5c9720f-9473-49be-9249-f42fd0d8b7af",
       "company": "Iqvia",
       "title": "MedTech Field Service Software Tech Entry level - Eastern Time Zone",
@@ -3254,18 +3266,6 @@
       "age": "43d",
       "url": "https://applyguy.ai/jobs?company=Iqvia&job=18cb4cb5-38db-4c80-8573-d13e9aa357f1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://iqvia.wd1.myworkdayjobs.com/iqvia/job/Las-Vegas--NV/MedTech-Field-Service-Software-Technician---West-Coast-Timezone_R1564643"
-    },
-    {
-      "id": "118ab350-be6d-4bbd-b418-4643b366d9c4",
-      "company": "Iqvia",
-      "title": "MedTech Field Service Software Tech Entry Level - Central Time Zone",
-      "location": "Dallas, TX",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-27",
-      "age": "43d",
-      "url": "https://applyguy.ai/jobs?company=Iqvia&job=118ab350-be6d-4bbd-b418-4643b366d9c4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://iqvia.wd1.myworkdayjobs.com/iqvia/job/Dallas-TX/MedTech-Field-Service-Software-Technician---Central-Time-Zone_R1564641"
     },
     {
       "id": "6953c199-198b-4c36-87fd-c5cd9d1c90b0",
