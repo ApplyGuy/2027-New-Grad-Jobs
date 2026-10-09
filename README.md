@@ -1,6 +1,6 @@
 # 2027 New Grad Software Engineering Jobs
 
-[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-353-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
+[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-352-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
 
 A continuously verified list of **2027 New Grad software engineering jobs**, **entry-level software engineer jobs**, and early-career developer roles in the United States. Listings come directly from employer career pages and are maintained by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs).
 
@@ -12,9 +12,9 @@ A continuously verified list of **2027 New Grad software engineering jobs**, **e
 
 🎒 **Looking for internships?** Browse [2027 SWE & Product Internships →](https://github.com/ApplyGuy/2027-Internships)
 
-- **353** active U.S. software roles posted within the last **60 days**
-- **137** explicitly labeled New Grad / university graduate / early career
-- Last refresh: **Oct 9, 2026, 3:15 PM PDT**
+- **352** active U.S. software roles posted within the last **60 days**
+- **136** explicitly labeled New Grad / university graduate / early career
+- Last refresh: **Oct 9, 2026, 3:30 PM PDT**
 - Machine-readable feed: [data/new-grad-jobs.json](data/new-grad-jobs.json)
 
 Listings with the orange **Apply Guy** button support one-click apply through [Apply Guy](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs). Blue **View** buttons open the employer's career site directly.
@@ -374,7 +374,6 @@ Listings with the orange **Apply Guy** button support one-click apply through [A
 | Uniswap Labs | Software Engineer - Early Career | New York | 58d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Uniswap+Labs&job=64fde33a-25fe-4c1d-9c3a-14a6be753749&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/uniswap/fb4d4137-f003-4669-beb7-2a5caca88012) |
 | PathAI | Software Engineer I, Fullstack | Boston, MA | 59d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=PathAI&job=a7a2e37d-08bc-424a-afc0-c095238b5784&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://www.pathai.com/careers/8696764002?gh_jid=8696764002) |
 | Schweitzer Engineering Laboratories | Associate Firmware Engineer | Boise, ID | 59d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Schweitzer+Engineering+Laboratories&job=ca5f112a-ff29-46aa-b7b4-04c06fee3ba6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://selinc.wd1.myworkdayjobs.com/sel/job/Idaho---Boise/Associate-Firmware-Engineer_2026-22257) |
-| DV Trading | Graduate Software Engineer (DV Commodities) | New York | 60d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=DV+Trading&job=c1f886b8-7801-4c1c-bfe8-dd085abd81ed&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/dvtrading/jobs/4719126005) |
 | PlayStation Global | Software Engineer I SDK | United States | 60d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=PlayStation+Global&job=c6d71385-a4cb-4e4c-b93a-217c21144e0f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6119793004) |
 
 ## Contributing
