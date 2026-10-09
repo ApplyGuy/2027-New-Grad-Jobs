@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T20:15:33.166Z",
+  "updatedAt": "2026-10-09T20:30:49.080Z",
   "jobs": [
     {
       "id": "2727c9ca-9c5e-4910-951a-ab4799e22886",
@@ -157,6 +157,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=ef963804-ad0c-4153-a2d7-21a2b2028b90&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineer-I--Onsite-_01874924"
+    },
+    {
+      "id": "f4c42e75-9fa2-41cb-a46d-48c0b0dbced6",
+      "company": "Troweprice",
+      "title": "Associate Software Engineer",
+      "location": "Owings Mills, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Troweprice&job=f4c42e75-9fa2-41cb-a46d-48c0b0dbced6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://troweprice.wd5.myworkdayjobs.com/troweprice/job/Owings-Mills-MD/Associate-Software-Engineer_83767-1"
     },
     {
       "id": "bc61125a-af95-4fe7-a179-ce414b3fa24f",
