@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T18:45:41.010Z",
+  "updatedAt": "2026-10-09T19:00:48.409Z",
   "jobs": [
     {
       "id": "2727c9ca-9c5e-4910-951a-ab4799e22886",
@@ -36,6 +36,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=CACI&job=30659ba5-da61-4fb4-8961-e57d931568be&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Sarasota-FL-US/Junior-Software-Engineer_333295"
+    },
+    {
+      "id": "f280c94d-1164-484c-8d20-f417d381b38b",
+      "company": "Freedom Technology Solutions Group",
+      "title": "Junior Software Engineer 780",
+      "location": "Annapolis Junction, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Freedom+Technology+Solutions+Group&job=f280c94d-1164-484c-8d20-f417d381b38b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5248064007"
     },
     {
       "id": "d2dc07ab-fcb7-463f-b58e-23ff9934359c",
