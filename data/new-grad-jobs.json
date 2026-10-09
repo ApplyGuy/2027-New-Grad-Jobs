@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T00:31:24.123Z",
+  "updatedAt": "2026-10-09T00:45:50.789Z",
   "jobs": [
     {
       "id": "bc61125a-af95-4fe7-a179-ce414b3fa24f",
@@ -85,6 +85,54 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Csusystem&job=12523ea9-71ad-4f00-a37b-d26b4509f987&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://csusystem.wd12.myworkdayjobs.com/fortcollins_careers/job/Chicago-IL-60615/Junior-Software-Engineer_R2026107887"
+    },
+    {
+      "id": "e331417e-cfce-4e30-8eed-a9cace85696a",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Cedar Rapids, IA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-08",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=e331417e-cfce-4e30-8eed-a9cace85696a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineer-I--Onsite-_01871887"
+    },
+    {
+      "id": "e1f5551b-e185-4532-9c40-19699d6a1bff",
+      "company": "RTX",
+      "title": "Embedded Software Engineer I (Onsite)",
+      "location": "Point Mugu, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-08",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=e1f5551b-e185-4532-9c40-19699d6a1bff&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-POINT-MUGU-TR20--13th-St-and-S-L-St--BLDG-TR20/Embedded-Software-Engineer-I--Onsite-_01881385"
+    },
+    {
+      "id": "c831e85f-0cd5-4395-bbe7-54e30cbe14dd",
+      "company": "RTX",
+      "title": "Embedded Security Software Engineer I (Onsite)",
+      "location": "El Segundo, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-08",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=c831e85f-0cd5-4395-bbe7-54e30cbe14dd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Security-Software-Engineer-I--Onsite-_01881355"
+    },
+    {
+      "id": "59047d19-ab68-4974-8898-09e6f2d1c256",
+      "company": "RTX",
+      "title": "Embedded Security Software Engineer I (Onsite)",
+      "location": "Tucson, AZ",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-08",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=59047d19-ab68-4974-8898-09e6f2d1c256&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-800--1151-E-Hermans-Rd--BLDG-800/Embedded-Security-Software-Engineer-I--Onsite-_01881370"
     },
     {
       "id": "f57d3d47-9cac-4529-a2b3-179d2353f325",
@@ -1093,18 +1141,6 @@
       "age": "9d",
       "url": "https://applyguy.ai/jobs?company=Momentum+Engineering%2C+Inc.&job=dacc5288-ad54-40f2-b112-5294c61aa4c9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://ats.rippling.com/momentumcareers/jobs/dd4281b8-fa2a-4833-8370-b1859933b612"
-    },
-    {
-      "id": "4c90151e-da8d-466b-b3ee-12c50382b6ad",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Cedar Rapids, IA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-30",
-      "age": "9d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=4c90151e-da8d-466b-b3ee-12c50382b6ad&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01879214"
     },
     {
       "id": "3ab73a1f-8de1-42c7-9508-b70616da5375",
