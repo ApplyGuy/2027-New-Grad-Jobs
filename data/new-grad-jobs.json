@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T02:15:34.947Z",
+  "updatedAt": "2026-10-09T02:31:02.853Z",
   "jobs": [
     {
       "id": "bc61125a-af95-4fe7-a179-ce414b3fa24f",
@@ -24,6 +24,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=66+Degrees&job=4400cfe1-3101-48d4-a073-8ef3340f6504&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/66degrees/jobs/6220280004"
+    },
+    {
+      "id": "d90710b5-f126-42ed-8d0b-e9cf01907209",
+      "company": "Ace",
+      "title": "Associate Data Engineer",
+      "location": "Costa Mesa, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-08",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Ace&job=d90710b5-f126-42ed-8d0b-e9cf01907209&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Associate-Data-Engineer_JR202639452"
     },
     {
       "id": "custom:amazon:e8d327233a5babe10406",
@@ -183,6 +195,18 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I--Onsite_01881108"
     },
     {
+      "id": "d24be80e-3315-43b9-b444-9fa06c83be2e",
+      "company": "RTX",
+      "title": "Embedded Software Developer I  (Onsite)",
+      "location": "El Segundo, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-08",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=d24be80e-3315-43b9-b444-9fa06c83be2e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Software-Developer-I---Onsite-_01880909"
+    },
+    {
       "id": "75669530-8104-429e-a8ea-3816e164edbf",
       "company": "Snc",
       "title": "Software Engineer I",
@@ -243,18 +267,6 @@
       "listingUrl": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Minnesota---Plymouth/Associate-Software-Engineer_31163984"
     },
     {
-      "id": "d90710b5-f126-42ed-8d0b-e9cf01907209",
-      "company": "Ace",
-      "title": "Associate Data Engineer",
-      "location": "Costa Mesa, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-07",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=Ace&job=d90710b5-f126-42ed-8d0b-e9cf01907209&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Associate-Data-Engineer_JR202639452"
-    },
-    {
       "id": "cb2aa156-0344-4105-bb18-ac0434baaaa9",
       "company": "Amat",
       "title": "New College Grad Software Development Engineer (Bachelors - Santa Clara, CA)",
@@ -289,18 +301,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=ASSYST%2C+Inc.&job=d34b31ff-c78a-4a8e-9c55-0f8b25022e4e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/assystinc/jobs/4436912009"
-    },
-    {
-      "id": "6904879c-4b66-446c-b9f2-ca8a2dfee72a",
-      "company": "Barrywehmiller",
-      "title": "Entry Level Software Engineer",
-      "location": "Dallas, TX",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-10-07",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=Barrywehmiller&job=6904879c-4b66-446c-b9f2-ca8a2dfee72a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://barrywehmiller.wd1.myworkdayjobs.com/bwconfidential/job/Dallas-TX/Entry-Level-Software-Engineer_R023049"
     },
     {
       "id": "6eb482e8-2098-4fb4-854e-5e0dcc8d122b",
@@ -423,18 +423,6 @@
       "listingUrl": "https://otter.ai/careers?gh_jid=8016078003"
     },
     {
-      "id": "d24be80e-3315-43b9-b444-9fa06c83be2e",
-      "company": "RTX",
-      "title": "Embedded Software Developer I  (Onsite)",
-      "location": "El Segundo, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-07",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=d24be80e-3315-43b9-b444-9fa06c83be2e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Software-Developer-I---Onsite-_01880909"
-    },
-    {
       "id": "aaa0e283-9c9a-44db-bb0f-e5278bca6a4f",
       "company": "RTX",
       "title": "Software Engineer I (Onsite)",
@@ -445,18 +433,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=aaa0e283-9c9a-44db-bb0f-e5278bca6a4f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Software-Engineer-I--Onsite-_01874537"
-    },
-    {
-      "id": "dc88075b-cfb4-474b-aac8-4bfa883c1bcb",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Marlborough, MA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-07",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=dc88075b-cfb4-474b-aac8-4bfa883c1bcb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineer-I--Onsite-_01874953"
     },
     {
       "id": "716df31b-cc9c-4ab7-af08-3443be7ccc4d",
@@ -601,19 +577,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Hpe&job=cfc1b6f0-a1be-467f-86b8-c2d33ce2e038&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Houston-Texas-United-States-of-America/Systems-Software-Engineer-I---Graduate_1213648"
-    },
-    {
-      "id": "custom:microsoft:03d65b2b10e701c197e7",
-      "company": "Microsoft",
-      "title": "Software Engineering - Commercial Engineering & AI (CEAI)",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-06",
-      "age": "3d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
-      "applySupported": false
     },
     {
       "id": "5853801d-d83f-43e6-9b3e-efc24489905f",
@@ -782,19 +745,6 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Lseg&job=4cba8406-e3f2-455c-8f13-deac51b31c7a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://lseg.wd3.myworkdayjobs.com/careers/job/USA-St-Louis-795-Office-Pkwy/Real-Time-Software-Engineer---Early-Career_R0124057"
-    },
-    {
-      "id": "custom:microsoft:a32b9fa39bae3a9cc93c",
-      "company": "Microsoft",
-      "title": "Software Engineering",
-      "location": "US",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-05",
-      "age": "4d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557023035",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557023035",
-      "applySupported": false
     },
     {
       "id": "6bf118c5-00d1-4664-8553-3651c78c8bb9",
@@ -977,19 +927,6 @@
       "listingUrl": "https://jobs.lever.co/fiscalnote/51a2e18f-1af1-416c-9544-5bede8e9537c"
     },
     {
-      "id": "custom:microsoft:d021de3d39fd02480f33",
-      "company": "Microsoft",
-      "title": "Software Engineering - CTJ - Poly",
-      "location": "Redmond, WA · Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-01",
-      "age": "8d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
-      "applySupported": false
-    },
-    {
       "id": "8a04a03f-0345-428b-b6da-e3aa237b9d47",
       "company": "Pinterest",
       "title": "University Grad Software Engineer 2027 (USA)",
@@ -1072,18 +1009,6 @@
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=5b79fc97-49ab-4858-b5ac-b2ead6015260&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01875565"
-    },
-    {
-      "id": "7be78e79-7462-4c2d-8288-2ceeb0e6ef35",
-      "company": "RTX",
-      "title": "Software Engineer I (Hybrid - Aguadilla, PR)",
-      "location": "Aguadilla, PR",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-01",
-      "age": "8d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=7be78e79-7462-4c2d-8288-2ceeb0e6ef35&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--Hybrid---Aguadilla--PR-_01870496"
     },
     {
       "id": "cb309c81-2a12-4d6d-8c82-b68f4de68a2f",
@@ -1252,19 +1177,6 @@
       "age": "10d",
       "url": "https://applyguy.ai/jobs?company=Globusmedical&job=e3c2b5bb-642f-40d5-a7cd-b985b85ea9fe&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/Audubon-PA/Associate-Software-Engineer_JR107947-1"
-    },
-    {
-      "id": "custom:microsoft:698bf1cfd0197fa8f311",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-29",
-      "age": "10d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "applySupported": false
     },
     {
       "id": "ff4d695b-6a47-433b-8c2e-cc351c3ef893",
@@ -1472,7 +1384,7 @@
       "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Huntsville-AL/Associate-Software-Engineer_JR2026520254"
     },
     {
-      "id": "49d145e6-547b-4169-8919-c31982afd538",
+      "id": "01b001c6-dc90-4465-84aa-44414800b8ae",
       "company": "Boeing",
       "title": "Associate Software Engineer - Developers",
       "location": "Oklahoma City, OK",
@@ -1480,8 +1392,8 @@
       "matchKind": "entry_level",
       "posted": "2026-09-24",
       "age": "15d",
-      "url": "https://applyguy.ai/jobs?company=Boeing&job=49d145e6-547b-4169-8919-c31982afd538&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Associate-Software-Engineer---Developers_JR2026512427-1"
+      "url": "https://applyguy.ai/jobs?company=Boeing&job=01b001c6-dc90-4465-84aa-44414800b8ae&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/Associate-Software-Engineer---Developers_JR2026512427"
     },
     {
       "id": "24f9ff9e-8630-4cbe-bba5-5493ce6180fe",
@@ -1530,18 +1442,6 @@
       "age": "15d",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=545f8366-264d-4976-b69d-63c0310071f3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Huntsville-AL/Junior-Software-Developer_R-00193099"
-    },
-    {
-      "id": "b4c19bff-d416-4ab0-80fa-6a339e411ebd",
-      "company": "oningroup",
-      "title": "Junior Software Developer -Onsite Nashville, TN",
-      "location": "Nashville, TN",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-24",
-      "age": "15d",
-      "url": "https://applyguy.ai/jobs?company=oningroup&job=b4c19bff-d416-4ab0-80fa-6a339e411ebd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://oningroup.wd501.myworkdayjobs.com/external/job/Nashville-TN/Junior-Software-Developer--Onsite-Nashville--TN_JR100532"
     },
     {
       "id": "78c60e59-9237-4dba-95f7-b889dd5ede0c",
@@ -2070,18 +1970,6 @@
       "age": "21d",
       "url": "https://applyguy.ai/jobs?company=Job+Openings&job=ea9c41fe-d045-4c41-a3e4-1bea7e6ca1cf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4514786"
-    },
-    {
-      "id": "adf76023-239b-44cb-8475-f27a6019fd65",
-      "company": "Pros",
-      "title": "Software Engineer I",
-      "location": "Houston, TX",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-18",
-      "age": "21d",
-      "url": "https://applyguy.ai/jobs?company=Pros&job=adf76023-239b-44cb-8475-f27a6019fd65&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://pros.wd5.myworkdayjobs.com/pros_careers/job/USA-TX-Houston-Office/Software-Engineer-I_R3608"
     },
     {
       "id": "0541a2cf-577b-43be-bc71-a1e1671db5c2",
