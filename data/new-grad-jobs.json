@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T08:30:56.461Z",
+  "updatedAt": "2026-10-10T08:45:48.575Z",
   "jobs": [
     {
       "id": "2727c9ca-9c5e-4910-951a-ab4799e22886",
@@ -24,6 +24,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Aurelian&job=12a8a431-02af-4b8b-836d-aacc375d9216&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/aurelian/a2bc965f-d639-41f7-946a-67c05c22e04e"
+    },
+    {
+      "id": "176860ba-078f-4ae9-a2fa-99d4cc963bfd",
+      "company": "Bdx",
+      "title": "Software Engineer I",
+      "location": "- Sparks, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-09",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Bdx&job=176860ba-078f-4ae9-a2fa-99d4cc963bfd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://bdx.wd1.myworkdayjobs.com/external_career_site_usa/job/USA-MD---Sparks---7-Loveton-Circle/Software-Engineer-I_R-557002-1"
     },
     {
       "id": "30659ba5-da61-4fb4-8961-e57d931568be",
