@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T04:00:40.964Z",
+  "updatedAt": "2026-10-10T04:16:13.666Z",
   "jobs": [
     {
       "id": "2727c9ca-9c5e-4910-951a-ab4799e22886",
@@ -2680,18 +2680,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineer-I--Onsite-_01871018"
     },
     {
-      "id": "0bc3663a-f55b-4f02-8a02-ae1360a86199",
-      "company": "StubHub",
-      "title": "Software Engineer I - Platform Engineer - Core Compute Platform",
-      "location": "New York City, NY",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-09",
-      "age": "31d",
-      "url": "https://applyguy.ai/jobs?company=StubHub&job=0bc3663a-f55b-4f02-8a02-ae1360a86199&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4967177101"
-    },
-    {
       "id": "6e3a8b7c-8aa7-4062-a36f-479c3913d38c",
       "company": "SpaceX",
       "title": "New Graduate Engineer, Software (Starship)",
@@ -3002,18 +2990,6 @@
       "age": "39d",
       "url": "https://applyguy.ai/jobs?company=Ciena&job=0472f208-3f3e-4bf2-96e3-ed08d5a96c71&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://ciena.wd5.myworkdayjobs.com/careers/job/Atlanta/WaveLogic-Software-Developer---New-Grad_R031608"
-    },
-    {
-      "id": "c87ab983-0504-4d0d-93c9-fb4f4f6f9d39",
-      "company": "Climavision",
-      "title": "Jr. Software Engineer",
-      "location": "Remote, U.S.",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-01",
-      "age": "39d",
-      "url": "https://applyguy.ai/jobs?company=Climavision&job=c87ab983-0504-4d0d-93c9-fb4f4f6f9d39&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://climavision.breezy.hr/p/85938efae74c-jr-software-engineer"
     },
     {
       "id": "55384868-51f4-4761-95ce-b3d682f3cb39",
