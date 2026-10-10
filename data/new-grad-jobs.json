@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T13:00:46.071Z",
+  "updatedAt": "2026-10-10T13:16:21.530Z",
   "jobs": [
     {
       "id": "2727c9ca-9c5e-4910-951a-ab4799e22886",
@@ -96,6 +96,19 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=JND&job=d2dc07ab-fcb7-463f-b58e-23ff9934359c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jnd-inc.breezy.hr/p/dab2f4d1a81a-entry-level-korean-bilingual-qa-test-engineer-mobile-software-ai-5g-field-product-quality-testing-261001-2"
+    },
+    {
+      "id": "custom:microsoft:09f0b93eacf7bebf5bff",
+      "company": "Microsoft",
+      "title": "Software Engineer",
+      "location": "US",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-09",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557027422",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557027422",
+      "applySupported": false
     },
     {
       "id": "065afd09-34e2-429c-b82b-110c815315f5",
@@ -783,6 +796,19 @@
       "listingUrl": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Houston-Texas-United-States-of-America/Systems-Software-Engineer-I---Graduate_1213648"
     },
     {
+      "id": "custom:microsoft:03d65b2b10e701c197e7",
+      "company": "Microsoft",
+      "title": "Software Engineering - Commercial Engineering & AI (CEAI)",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-06",
+      "age": "4d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
+      "applySupported": false
+    },
+    {
       "id": "5853801d-d83f-43e6-9b3e-efc24489905f",
       "company": "NVIDIA",
       "title": "Systems Software Engineer,  AI and Cloud - New College Grad 2026",
@@ -937,6 +963,19 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Lseg&job=4cba8406-e3f2-455c-8f13-deac51b31c7a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://lseg.wd3.myworkdayjobs.com/careers/job/USA-St-Louis-795-Office-Pkwy/Real-Time-Software-Engineer---Early-Career_R0124057"
+    },
+    {
+      "id": "custom:microsoft:a32b9fa39bae3a9cc93c",
+      "company": "Microsoft",
+      "title": "Software Engineering",
+      "location": "US",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-05",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557023035",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557023035",
+      "applySupported": false
     },
     {
       "id": "6bf118c5-00d1-4664-8553-3651c78c8bb9",
@@ -1117,6 +1156,19 @@
       "age": "9d",
       "url": "https://applyguy.ai/jobs?company=FiscalNote&job=6ad5ceb6-24dd-4748-826f-3dc52c15c484&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/fiscalnote/51a2e18f-1af1-416c-9544-5bede8e9537c"
+    },
+    {
+      "id": "custom:microsoft:d021de3d39fd02480f33",
+      "company": "Microsoft",
+      "title": "Software Engineering - CTJ - Poly",
+      "location": "Redmond, WA · Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-01",
+      "age": "9d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+      "applySupported": false
     },
     {
       "id": "8a04a03f-0345-428b-b6da-e3aa237b9d47",
@@ -1345,6 +1397,19 @@
       "age": "11d",
       "url": "https://applyguy.ai/jobs?company=Globusmedical&job=e3c2b5bb-642f-40d5-a7cd-b985b85ea9fe&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/Audubon-PA/Associate-Software-Engineer_JR107947-1"
+    },
+    {
+      "id": "custom:microsoft:698bf1cfd0197fa8f311",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-29",
+      "age": "11d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "applySupported": false
     },
     {
       "id": "ff4d695b-6a47-433b-8c2e-cc351c3ef893",
