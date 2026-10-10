@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T02:30:45.567Z",
+  "updatedAt": "2026-10-10T02:46:25.432Z",
   "jobs": [
     {
       "id": "2727c9ca-9c5e-4910-951a-ab4799e22886",
@@ -627,18 +627,6 @@
       "listingUrl": "https://otter.ai/careers?gh_jid=8016078003"
     },
     {
-      "id": "aaa0e283-9c9a-44db-bb0f-e5278bca6a4f",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "East Hartford, CT",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-07",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=aaa0e283-9c9a-44db-bb0f-e5278bca6a4f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Software-Engineer-I--Onsite-_01874537"
-    },
-    {
       "id": "716df31b-cc9c-4ab7-af08-3443be7ccc4d",
       "company": "Sierraspace",
       "title": "Software Engineer I - DevOps / DevSecOps",
@@ -819,18 +807,6 @@
       "listingUrl": "https://www.weareroku.com/jobs/8188704?gh_jid=8188704"
     },
     {
-      "id": "480f9b78-725a-460c-9e9d-8769c4f065b6",
-      "company": "RTX",
-      "title": "Software Engineer I - Test",
-      "location": "Tucson, AZ",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-06",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=480f9b78-725a-460c-9e9d-8769c4f065b6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I---Test_01873961"
-    },
-    {
       "id": "607d2de2-6382-496c-b215-653f16b45081",
       "company": "RTX",
       "title": "Software Engineer I  (Onsite)",
@@ -997,18 +973,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=1dc213a4-6154-44e4-9744-9dfa62b87d58&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/XMLNAME-2026-Raytheon-Full-Time---Receiver--Exciter----Processing-Architecture-Software-Engineer-I---Marlborough--MA--Onsite-_01848076"
-    },
-    {
-      "id": "ae1102c3-934a-46c4-8b81-4bd1ae7628a6",
-      "company": "RTX",
-      "title": "Software Engineer I, Gen4 Airborne Radar",
-      "location": "El Segundo, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-05",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=ae1102c3-934a-46c4-8b81-4bd1ae7628a6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineer-I--Gen4-Airborne-Radar_01877039"
     },
     {
       "id": "d8d8356c-c84d-4186-8dcf-0b0b63e20fe6",
@@ -1215,18 +1179,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Engineer-I--Onsite-_01873236"
     },
     {
-      "id": "5b79fc97-49ab-4858-b5ac-b2ead6015260",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Tewksbury, MA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-01",
-      "age": "9d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=5b79fc97-49ab-4858-b5ac-b2ead6015260&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01875565"
-    },
-    {
       "id": "cb309c81-2a12-4d6d-8c82-b68f4de68a2f",
       "company": "SanMar-Internal",
       "title": "Associate Software Developer",
@@ -1297,18 +1249,6 @@
       "age": "10d",
       "url": "https://applyguy.ai/jobs?company=EvenUp&job=b32b9962-2af2-4d08-a4d6-d274971b76a6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/evenup/19eb22cd-9540-49ed-840b-6422714413b5"
-    },
-    {
-      "id": "63a2ef1f-4127-4197-944e-e895fce6158f",
-      "company": "Generalmotors",
-      "title": "Software Engineer, AV Data Collection - Early Career",
-      "location": "Sunnyvale, CA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-09-30",
-      "age": "10d",
-      "url": "https://applyguy.ai/jobs?company=Generalmotors&job=63a2ef1f-4127-4197-944e-e895fce6158f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Data-Collection_JR-202618529"
     },
     {
       "id": "cd3b1d14-71f4-4fe4-b7b0-1510cb00918b",
@@ -1586,18 +1526,6 @@
       "url": "https://www.amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027",
       "listingUrl": "https://www.amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027",
       "applySupported": false
-    },
-    {
-      "id": "bc50b8d9-61fb-4600-b3fa-22ca1da240e3",
-      "company": "Boeing",
-      "title": "Associate Software Engineer",
-      "location": "Huntsville, AL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-24",
-      "age": "16d",
-      "url": "https://applyguy.ai/jobs?company=Boeing&job=bc50b8d9-61fb-4600-b3fa-22ca1da240e3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Huntsville-AL/Associate-Software-Engineer_JR2026520254"
     },
     {
       "id": "01b001c6-dc90-4465-84aa-44414800b8ae",
@@ -1886,18 +1814,6 @@
       "age": "18d",
       "url": "https://applyguy.ai/jobs?company=Lattice&job=cb729ddd-b4ed-4ee3-8c18-051cbbaaec61&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://latticesemi.wd5.myworkdayjobs.com/latticesemiconductorscareers/job/Duluth-Georgia/Junior-Firmware-Engineer_R-103111"
-    },
-    {
-      "id": "69f4e887-126b-4ae7-b70e-3073ad6d5aca",
-      "company": "Leidos",
-      "title": "Software Engineer I",
-      "location": "San Diego, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-22",
-      "age": "18d",
-      "url": "https://applyguy.ai/jobs?company=Leidos&job=69f4e887-126b-4ae7-b70e-3073ad6d5aca&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/San-Diego-CA/Software-Engineer_R-00192469"
     },
     {
       "id": "bf263da6-b080-4ebe-8a35-37bcd5e8f761",
@@ -2690,18 +2606,6 @@
       "age": "31d",
       "url": "https://applyguy.ai/jobs?company=Esri&job=662032b8-2d8c-42cb-9f2b-dc7cef3b1c64&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.esri.com/careers/5227685007?gh_jid=5227685007"
-    },
-    {
-      "id": "b5995c0b-1ab4-4718-b5df-22490a66ccd2",
-      "company": "Generalmotors",
-      "title": "Software Engineer, AV Frameworks – Early Career",
-      "location": "Sunnyvale, CA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-09-09",
-      "age": "31d",
-      "url": "https://applyguy.ai/jobs?company=Generalmotors&job=b5995c0b-1ab4-4718-b5df-22490a66ccd2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Frameworks---Early-Career_JR-202619943"
     },
     {
       "id": "68115136-a172-4569-a36f-803b691890ca",
