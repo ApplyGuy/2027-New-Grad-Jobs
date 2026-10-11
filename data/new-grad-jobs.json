@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T18:16:00.765Z",
+  "updatedAt": "2026-10-11T18:31:36.638Z",
   "jobs": [
     {
       "id": "34382b05-2365-4b5a-867e-bc9156ca6af7",
@@ -303,7 +303,7 @@
       "listingUrl": "https://bmo.wd3.myworkdayjobs.com/external/job/Irving-TX-USA/Software-Developer---Early-Career---15_R260021450"
     },
     {
-      "id": "106d7079-1f10-4e98-bb35-c6d46369fbdb",
+      "id": "7de32362-5e12-45f7-85e1-e6b152b5ad43",
       "company": "Boeing",
       "title": "Associate Software Engineer",
       "location": "Maryland Heights, MO",
@@ -311,8 +311,8 @@
       "matchKind": "entry_level",
       "posted": "2026-10-08",
       "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=Boeing&job=106d7079-1f10-4e98-bb35-c6d46369fbdb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Maryland-Heights-MO/Associate-Software-Engineer_JR2026522010-1"
+      "url": "https://applyguy.ai/jobs?company=Boeing&job=7de32362-5e12-45f7-85e1-e6b152b5ad43&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Associate-Software-Engineer_JR2026522010-1"
     },
     {
       "id": "aed08cf6-d982-485a-850b-438a873f2045",
@@ -471,18 +471,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/twitch/jobs/8879673002"
     },
     {
-      "id": "6d99854b-652d-4be1-96b3-4e87c927ece5",
-      "company": "9c26369c-d400-4eb7-a9b3-ab8f6469f9e8",
-      "title": "Software Engineer I",
-      "location": "San Francisco, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-07",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=9c26369c-d400-4eb7-a9b3-ab8f6469f9e8&job=6d99854b-652d-4be1-96b3-4e87c927ece5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.ashbyhq.com/amplitude/9c43576b-d16f-4192-a366-7c9eb689c4be"
-    },
-    {
       "id": "25575294-9602-4303-ba15-959a950b9394",
       "company": "Abbott",
       "title": "Associate Software Engineer",
@@ -519,6 +507,18 @@
       "listingUrl": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/New-College-Grad-Software-Engineer-I--Bachelors---Santa-Clara--CA-_R2628998"
     },
     {
+      "id": "6d99854b-652d-4be1-96b3-4e87c927ece5",
+      "company": "Amplitude",
+      "title": "Software Engineer I",
+      "location": "San Francisco, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-07",
+      "age": "4d",
+      "url": "https://applyguy.ai/jobs?company=Amplitude&job=6d99854b-652d-4be1-96b3-4e87c927ece5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.ashbyhq.com/amplitude/9c43576b-d16f-4192-a366-7c9eb689c4be"
+    },
+    {
       "id": "d34b31ff-c78a-4a8e-9c55-0f8b25022e4e",
       "company": "ASSYST, Inc.",
       "title": "Full Stack Developer (Entry Level)",
@@ -531,7 +531,7 @@
       "listingUrl": "https://job-boards.greenhouse.io/assystinc/jobs/4436912009"
     },
     {
-      "id": "6eb482e8-2098-4fb4-854e-5e0dcc8d122b",
+      "id": "86f64ff3-731f-4e02-afb5-775b226c13fc",
       "company": "Boeing",
       "title": "Associate Software Engineer",
       "location": "Berkeley, MO",
@@ -539,8 +539,8 @@
       "matchKind": "entry_level",
       "posted": "2026-10-07",
       "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=Boeing&job=6eb482e8-2098-4fb4-854e-5e0dcc8d122b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Berkeley-MO/Associate-Software-Engineer_JR2026525833-1"
+      "url": "https://applyguy.ai/jobs?company=Boeing&job=86f64ff3-731f-4e02-afb5-775b226c13fc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Associate-Software-Engineer_JR2026525833-1"
     },
     {
       "id": "13211a10-d21e-4d33-9c80-cf62ea808102",
@@ -735,18 +735,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/affirm/jobs/8008649003"
     },
     {
-      "id": "190e8d21-6096-4941-98a7-2b6ef4e4653f",
-      "company": "Boeing",
-      "title": "Associate Software Engineer",
-      "location": "Heath, OH",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-06",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Boeing&job=190e8d21-6096-4941-98a7-2b6ef4e4653f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Heath-OH/Associate-Software-Engineer_JR2026526261-1"
-    },
-    {
       "id": "d53b09dd-bbae-44f8-a5e9-f2752a81c33c",
       "company": "Embraer",
       "title": "Software Development Engineer I - MLB",
@@ -841,18 +829,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Shield+AI&job=52cc1616-8b63-4aa5-8088-07e8d23bb3e2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/shieldai/79c3b65f-ce0c-4868-bedf-4ddcc4cfe583"
-    },
-    {
-      "id": "d1508bb8-00db-41c8-be72-88d63b38b54d",
-      "company": "Snc",
-      "title": "Software Engineer I (For 2026 Interns Only)",
-      "location": "Dayton, OH",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-06",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Snc&job=d1508bb8-00db-41c8-be72-88d63b38b54d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Dayton-OH/Software-Engineer-I--For-2026-Interns-Only-_R0030889"
     },
     {
       "id": "9cdcbd1e-0f70-494e-af52-bab9f4f96b7f",
@@ -1395,6 +1371,18 @@
       "listingUrl": "https://boards.greenhouse.io/spacex/jobs/8854394002?gh_jid=8854394002"
     },
     {
+      "id": "e1b18d42-dd5a-4ebb-b962-caebcdc9254b",
+      "company": "Boeing",
+      "title": "Associate Software Engineer",
+      "location": "Hazelwood, MO",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-28",
+      "age": "13d",
+      "url": "https://applyguy.ai/jobs?company=Boeing&job=e1b18d42-dd5a-4ebb-b962-caebcdc9254b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Hazelwood-MO/Associate-Software-Engineer_JR2026511462-1"
+    },
+    {
       "id": "f808c368-e4a1-40bb-9997-1ce59f2cd35d",
       "company": "EvolutionIQ",
       "title": "Associate Data Engineer (Python / AI Insurance SaaS)",
@@ -1778,6 +1766,18 @@
       "age": "19d",
       "url": "https://applyguy.ai/jobs?company=Anduril+Industries&job=dd0e9fb7-0f0b-47d3-8eb9-38355ccedd89&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007"
+    },
+    {
+      "id": "0b51a72e-7cd2-4cc6-bbd5-22dcb5b87233",
+      "company": "Boeing",
+      "title": "Associate Software Engineer",
+      "location": "Multiple U.S. locations",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-22",
+      "age": "19d",
+      "url": "https://applyguy.ai/jobs?company=Boeing&job=0b51a72e-7cd2-4cc6-bbd5-22dcb5b87233&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Maryland-Heights-MO/Associate-Software-Engineer_JR2026516706-1"
     },
     {
       "id": "eabd59ad-ecfd-47c6-b934-715b25500614",
@@ -3677,6 +3677,18 @@
       "age": "51d",
       "url": "https://applyguy.ai/jobs?company=True+Anomaly&job=f6470e7a-c59a-41c3-95f2-035f11bac538&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5218935007"
+    },
+    {
+      "id": "103648cc-0c46-42f0-b5bf-2be555fc5145",
+      "company": "Boeing",
+      "title": "Associate Software Engineer",
+      "location": "Omaha, NE",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-08-20",
+      "age": "52d",
+      "url": "https://applyguy.ai/jobs?company=Boeing&job=103648cc-0c46-42f0-b5bf-2be555fc5145&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Omaha-NE/Software-Engineer_JR2026517990-1"
     },
     {
       "id": "dc0399ce-23c6-4d75-8328-ff1ff317cee0",
