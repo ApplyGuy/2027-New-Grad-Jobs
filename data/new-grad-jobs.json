@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T20:31:12.900Z",
+  "updatedAt": "2026-10-11T20:45:59.933Z",
   "jobs": [
     {
       "id": "34382b05-2365-4b5a-867e-bc9156ca6af7",
@@ -1014,7 +1014,7 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/HWIL-Software-Engineer-I_01874565"
     },
     {
-      "id": "834c4b08-0cfc-48ea-b069-be427204ecff",
+      "id": "c2b97ad3-cc62-4e60-9be7-815959e2abb8",
       "company": "Unimelb",
       "title": "AURIN Associate Software Engineer",
       "location": "Parkville, Victoria",
@@ -1022,8 +1022,8 @@
       "matchKind": "entry_level",
       "posted": "2026-10-05",
       "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=Unimelb&job=834c4b08-0cfc-48ea-b069-be427204ecff&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://unimelb.wd105.myworkdayjobs.com/uom_external_career/job/Parkville-Victoria/AURIN-Associate-Software-Engineer_JR-018050"
+      "url": "https://applyguy.ai/jobs?company=Unimelb&job=c2b97ad3-cc62-4e60-9be7-815959e2abb8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://unimelb.wd105.myworkdayjobs.com/broadbean_external/job/Parkville-Victoria/AURIN-Associate-Software-Engineer_JR-018050-1"
     },
     {
       "id": "20e7acdb-5279-40f5-986d-0d1bb2911334",
@@ -3490,7 +3490,7 @@
       "listingUrl": "https://job-boards.greenhouse.io/twitch/jobs/8748320002"
     },
     {
-      "id": "76b3cfd9-8516-4d3a-a433-bf0d4c437e1c",
+      "id": "b10c4c25-f119-413e-b8cb-42ebce1251f9",
       "company": "Viavisolutions",
       "title": "Early Careers Rotational Program Development Engineer - Software Engineering/AI Track",
       "location": "Morrisville, NC",
@@ -3498,11 +3498,11 @@
       "matchKind": "explicit",
       "posted": "2026-08-26",
       "age": "46d",
-      "url": "https://applyguy.ai/jobs?company=Viavisolutions&job=76b3cfd9-8516-4d3a-a433-bf0d4c437e1c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "url": "https://applyguy.ai/jobs?company=Viavisolutions&job=b10c4c25-f119-413e-b8cb-42ebce1251f9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Morrisville-NC-USA/Early-Careers-Rotational-Program-Development-Engineer---Software-Engineering-AI-Track_260004987-1"
     },
     {
-      "id": "61a0cfa0-0c05-4c50-90b9-dec384ed1919",
+      "id": "1a87824d-e1ab-4892-84cc-898ed7afb333",
       "company": "Viavisolutions",
       "title": "Early Careers Rotational Program Development Engineer - Software Engineering/AI Track",
       "location": "Indianapolis, IN",
@@ -3510,7 +3510,7 @@
       "matchKind": "explicit",
       "posted": "2026-08-26",
       "age": "46d",
-      "url": "https://applyguy.ai/jobs?company=Viavisolutions&job=61a0cfa0-0c05-4c50-90b9-dec384ed1919&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "url": "https://applyguy.ai/jobs?company=Viavisolutions&job=1a87824d-e1ab-4892-84cc-898ed7afb333&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Indianapolis-IN-USA/Early-Careers-Rotational-Program-Development-Engineer---Software-Engineering-AI-Track_260004983-1"
     },
     {
