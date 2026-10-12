@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T20:16:03.677Z",
+  "updatedAt": "2026-10-12T20:31:01.874Z",
   "jobs": [
     {
       "id": "12f64526-5f78-4434-adee-a783fd465a59",
@@ -1119,18 +1119,6 @@
       "listingUrl": "https://www.pinterestcareers.com/jobs/?gh_jid=8140363"
     },
     {
-      "id": "e61b4959-8052-489d-80b4-96a8693ab001",
-      "company": "Resmed",
-      "title": "Associate Software Engineer",
-      "location": "San Diego, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-01",
-      "age": "11d",
-      "url": "https://applyguy.ai/jobs?company=Resmed&job=e61b4959-8052-489d-80b4-96a8693ab001&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://resmed.wd3.myworkdayjobs.com/resmed_external_careers/job/San-Diego-CA-United-States/Associate-Software-Engineer_JR_053889-1"
-    },
-    {
       "id": "b4830c3d-7914-4be2-a497-6bef73ef0e67",
       "company": "RTX",
       "title": "Software Engineer I (Hybrid)",
@@ -1552,18 +1540,6 @@
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Huntsville-AL/Junior-Software-Developer_R-00193099"
     },
     {
-      "id": "78c60e59-9237-4dba-95f7-b889dd5ede0c",
-      "company": "Relx",
-      "title": "Software Engineer 1",
-      "location": "Alpharetta, GA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-24",
-      "age": "18d",
-      "url": "https://applyguy.ai/jobs?company=Relx&job=78c60e59-9237-4dba-95f7-b889dd5ede0c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://relx.wd3.myworkdayjobs.com/risksolutions/job/Alpharetta-GA/Software-Engineer-1_R117973"
-    },
-    {
       "id": "c00c7914-5889-4730-99a0-2e52a0b028eb",
       "company": "RTX",
       "title": "Software Engineer I, CDS (Onsite - Security Clearance)",
@@ -1794,7 +1770,7 @@
     {
       "id": "fd52273a-5a98-4209-b573-3b11f4086324",
       "company": "Relativity Space",
-      "title": "Software Engineer I",
+      "title": "Software Engineer I (Factory Platform)",
       "location": "Long Beach, CA",
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
@@ -1970,6 +1946,18 @@
       "age": "23d",
       "url": "https://applyguy.ai/jobs?company=Ace+IT+Careers&job=dc003e25-e0ff-497c-8938-9d0cbddb98d8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://apply.workable.com/ace-it-careers-1/j/8E52B2BF7A/"
+    },
+    {
+      "id": "928cf6c5-919b-4eb9-90c4-8d8bcf0a2f26",
+      "company": "Relativity Space",
+      "title": "Software Engineer I",
+      "location": "Long Beach, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-19",
+      "age": "23d",
+      "url": "https://applyguy.ai/jobs?company=Relativity+Space&job=928cf6c5-919b-4eb9-90c4-8d8bcf0a2f26&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://boards.greenhouse.io/relativity/jobs/8747134002?gh_jid=8747134002"
     },
     {
       "id": "9d844fd1-3d21-4e9d-9766-079ef605f8c0",
@@ -3134,42 +3122,6 @@
       "age": "42d",
       "url": "https://applyguy.ai/jobs?company=Precisely+US+Jobs&job=775db71d-a3fb-446d-a7c9-ac080567114c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.precisely.com/careers-and-culture/us-jobs/job/4722721005?gh_jid=4722721005"
-    },
-    {
-      "id": "fdc66848-1677-46d3-9db8-f2b3c050dd54",
-      "company": "Relx",
-      "title": "Tech Accelerate Graduate Program - Software Engineer (Boca Raton - June)",
-      "location": "Boca Raton, FL",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-31",
-      "age": "42d",
-      "url": "https://applyguy.ai/jobs?company=Relx&job=fdc66848-1677-46d3-9db8-f2b3c050dd54&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://relx.wd3.myworkdayjobs.com/risksolutions/job/Boca-Raton-FL/Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2"
-    },
-    {
-      "id": "c3ea13da-29fd-462c-bf2e-e20b3e19c61e",
-      "company": "Relx",
-      "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - June)",
-      "location": "Alpharetta, GA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-31",
-      "age": "42d",
-      "url": "https://applyguy.ai/jobs?company=Relx&job=c3ea13da-29fd-462c-bf2e-e20b3e19c61e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://relx.wd3.myworkdayjobs.com/risksolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1"
-    },
-    {
-      "id": "12ef9604-d8a2-4dbd-a5f8-a77aca5a71ba",
-      "company": "Relx",
-      "title": "Tech Accelerate Graduate Program - Software Engineer (Alpharetta - January)",
-      "location": "Alpharetta, GA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-31",
-      "age": "42d",
-      "url": "https://applyguy.ai/jobs?company=Relx&job=12ef9604-d8a2-4dbd-a5f8-a77aca5a71ba&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://relx.wd3.myworkdayjobs.com/risksolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617"
     },
     {
       "id": "a380b713-d31f-4984-9963-e6d340c41b24",
