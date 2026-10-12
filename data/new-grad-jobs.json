@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T20:46:00.971Z",
+  "updatedAt": "2026-10-12T21:01:00.839Z",
   "jobs": [
     {
       "id": "12f64526-5f78-4434-adee-a783fd465a59",
@@ -12,18 +12,6 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=NVIDIA&job=12f64526-5f78-4434-adee-a783fd465a59&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2027_JR2027083"
-    },
-    {
-      "id": "6a0eb9a1-8c93-4999-95f7-44a15007d357",
-      "company": "Varsitybrands",
-      "title": "Software Engineer I (.Net)",
-      "location": "Memphis, TN",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-12",
-      "age": "Today",
-      "url": "https://applyguy.ai/jobs?company=Varsitybrands&job=6a0eb9a1-8c93-4999-95f7-44a15007d357&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://varsitybrands.wd503.myworkdayjobs.com/externalcareersite/job/TN---Memphis/Software-Engineer-I--Net-_JR114518"
     },
     {
       "id": "96ff10af-76dd-4baa-8d7f-a9dffc407a1e",
@@ -445,18 +433,6 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=d24be80e-3315-43b9-b444-9fa06c83be2e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Software-Developer-I---Onsite-_01880909"
-    },
-    {
-      "id": "75669530-8104-429e-a8ea-3816e164edbf",
-      "company": "Snc",
-      "title": "Software Engineer I",
-      "location": "Lone Tree, CO",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-08",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=Snc&job=75669530-8104-429e-a8ea-3816e164edbf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0031014"
     },
     {
       "id": "31e9b1d3-c472-49ba-9086-a4fac7caabd0",
@@ -1273,18 +1249,6 @@
       "age": "12d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=9f37d60b-5400-438a-9922-89843c41f623&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Research-Software-Engineer-I---Onsite_01878338"
-    },
-    {
-      "id": "a824b4c0-9688-4f34-81b6-cea6b8820bbb",
-      "company": "Snc",
-      "title": "Software Engineer I (For 2026 Interns Only)",
-      "location": "Plano, TX",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-30",
-      "age": "12d",
-      "url": "https://applyguy.ai/jobs?company=Snc&job=a824b4c0-9688-4f34-81b6-cea6b8820bbb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Plano-TX/Software-Engineer-I--For-2026-Interns-Only-_R0030584"
     },
     {
       "id": "ff4d695b-6a47-433b-8c2e-cc351c3ef893",
