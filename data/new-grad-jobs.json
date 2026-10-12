@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T04:01:17.212Z",
+  "updatedAt": "2026-10-12T04:16:11.657Z",
   "jobs": [
     {
       "id": "96ff10af-76dd-4baa-8d7f-a9dffc407a1e",
@@ -3439,18 +3439,6 @@
       "age": "46d",
       "url": "https://applyguy.ai/jobs?company=Ontic&job=39ee6c0d-b6c3-4796-ac5f-6cbd7f4c955b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/ontic/d50b6bea-876f-43fc-afb9-716efe9eca02"
-    },
-    {
-      "id": "367a59ae-0881-4ff6-8952-230a8f08422f",
-      "company": "Schweitzer Engineering Laboratories",
-      "title": "Associate Software Engineer - Vulnerability Assessment",
-      "location": "Pullman, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-27",
-      "age": "46d",
-      "url": "https://applyguy.ai/jobs?company=Schweitzer+Engineering+Laboratories&job=367a59ae-0881-4ff6-8952-230a8f08422f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://selinc.wd1.myworkdayjobs.com/sel/job/Washington---Pullman/Associate-Software-Engineer---Vulnerability-Assessment_2026-22231"
     },
     {
       "id": "custom:amazon:1bcd77e56ccd10ad7bf3",
