@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T19:16:08.152Z",
+  "updatedAt": "2026-10-12T19:31:24.485Z",
   "jobs": [
     {
       "id": "6a0eb9a1-8c93-4999-95f7-44a15007d357",
@@ -1820,18 +1820,6 @@
       "age": "20d",
       "url": "https://applyguy.ai/jobs?company=Anduril+Industries&job=dd0e9fb7-0f0b-47d3-8eb9-38355ccedd89&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5246141007?gh_jid=5246141007"
-    },
-    {
-      "id": "eabd59ad-ecfd-47c6-b934-715b25500614",
-      "company": "GDIT",
-      "title": "Software Engineer 1",
-      "location": "Annapolis Junction, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-22",
-      "age": "20d",
-      "url": "https://applyguy.ai/jobs?company=GDIT&job=eabd59ad-ecfd-47c6-b934-715b25500614&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Engineer-1_RQ228969"
     },
     {
       "id": "389aa5b0-5541-4f35-9485-19bf22a50bce",
