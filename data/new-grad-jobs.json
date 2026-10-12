@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T23:01:17.389Z",
+  "updatedAt": "2026-10-12T23:15:51.158Z",
   "jobs": [
     {
       "id": "12f64526-5f78-4434-adee-a783fd465a59",
@@ -589,18 +589,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=d998177b-6c6c-4656-a12c-a6db76ca12d7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Huntsville-AL/Junior-Software-Engineer_R-00194081"
-    },
-    {
-      "id": "24b7276c-dbd8-4571-9713-97c94bdbb44d",
-      "company": "Mastercard",
-      "title": "Software Engineer I",
-      "location": "O'Fallon, MO",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-07",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Mastercard&job=24b7276c-dbd8-4571-9713-97c94bdbb44d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-292618-1"
     },
     {
       "id": "283b6fee-6f74-4849-949e-380b74f0e4ef",
