@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T19:31:24.485Z",
+  "updatedAt": "2026-10-12T19:46:07.263Z",
   "jobs": [
     {
       "id": "6a0eb9a1-8c93-4999-95f7-44a15007d357",
@@ -108,18 +108,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Freedom+Technology+Solutions+Group&job=f280c94d-1164-484c-8d20-f417d381b38b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5248064007"
-    },
-    {
-      "id": "fc1c0837-5fcd-46c8-a419-cea218891188",
-      "company": "Globalfoundries",
-      "title": "Software Engineer (2027 New College Graduate)",
-      "location": "Austin, TX",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-10-09",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=Globalfoundries&job=fc1c0837-5fcd-46c8-a419-cea218891188&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalfoundries.wd1.myworkdayjobs.com/external/job/USA---Texas---Austin/Software-Engineer--2027-New-College-Graduate-_JR-2604100"
     },
     {
       "id": "d2dc07ab-fcb7-463f-b58e-23ff9934359c",
@@ -918,6 +906,18 @@
       "listingUrl": "https://job-boards.greenhouse.io/idme/jobs/8011089003"
     },
     {
+      "id": "4d1395bc-4785-4673-be31-225affebf552",
+      "company": "ID.me",
+      "title": "Software Development Engineer II – Life Hub (Super App) (New Grad / Early Career)",
+      "location": "Mountain View, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-10-05",
+      "age": "7d",
+      "url": "https://applyguy.ai/jobs?company=ID.me&job=4d1395bc-4785-4673-be31-225affebf552&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/idme/jobs/8011095003"
+    },
+    {
       "id": "7fc3183c-8ff4-4580-8a18-5aec9228e429",
       "company": "Iqvia",
       "title": "MedTech Field Service Software Tech Entry level - Batesville, IN",
@@ -1350,18 +1350,6 @@
       "age": "12d",
       "url": "https://applyguy.ai/jobs?company=Snc&job=a824b4c0-9688-4f34-81b6-cea6b8820bbb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Plano-TX/Software-Engineer-I--For-2026-Interns-Only-_R0030584"
-    },
-    {
-      "id": "e3c2b5bb-642f-40d5-a7cd-b985b85ea9fe",
-      "company": "Globusmedical",
-      "title": "Associate Software Engineer",
-      "location": "Audubon, PA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-29",
-      "age": "13d",
-      "url": "https://applyguy.ai/jobs?company=Globusmedical&job=e3c2b5bb-642f-40d5-a7cd-b985b85ea9fe&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/Audubon-PA/Associate-Software-Engineer_JR107947-1"
     },
     {
       "id": "custom:microsoft:698bf1cfd0197fa8f311",
