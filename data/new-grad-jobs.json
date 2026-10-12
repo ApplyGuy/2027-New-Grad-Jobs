@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T19:01:21.109Z",
+  "updatedAt": "2026-10-12T19:16:08.152Z",
   "jobs": [
     {
       "id": "6a0eb9a1-8c93-4999-95f7-44a15007d357",
@@ -364,18 +364,6 @@
       "listingUrl": "https://www.braincorp.com/open-positions?gh_jid=8879726002"
     },
     {
-      "id": "12523ea9-71ad-4f00-a37b-d26b4509f987",
-      "company": "Csusystem",
-      "title": "Junior Software Engineer",
-      "location": "Chicago, IL 60615",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-08",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=Csusystem&job=12523ea9-71ad-4f00-a37b-d26b4509f987&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://csusystem.wd12.myworkdayjobs.com/fortcollins_careers/job/Chicago-IL-60615/Junior-Software-Engineer_R2026107887"
-    },
-    {
       "id": "543cf392-8039-4399-b215-2f4f4e67e53a",
       "company": "Forge Nano",
       "title": "Software Engineer I",
@@ -615,18 +603,6 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Chalk&job=78e4a315-3939-4005-9b0d-23a53d1b7005&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f"
-    },
-    {
-      "id": "05bad1af-9630-46a2-94af-49dd26825599",
-      "company": "Dexcom",
-      "title": "Software Development Engineer 1",
-      "location": "San Diego, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-07",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Dexcom&job=05bad1af-9630-46a2-94af-49dd26825599&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://dexcom.wd1.myworkdayjobs.com/dexcom/job/San-Diego-California/Software-Development-Engineer-1_JR120540"
     },
     {
       "id": "885ffffc-9d70-4f42-88f9-44bcab96ebe9",
