@@ -1,6 +1,6 @@
 # 2027 New Grad Software Engineering Jobs
 
-[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-339-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
+[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-338-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
 
 A continuously verified list of **2027 New Grad software engineering jobs**, **entry-level software engineer jobs**, and early-career developer roles in the United States. Listings come directly from employer career pages and are maintained by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs).
 
@@ -12,9 +12,9 @@ A continuously verified list of **2027 New Grad software engineering jobs**, **e
 
 🎒 **Looking for internships?** Browse [2027 SWE & Product Internships →](https://github.com/ApplyGuy/2027-Internships)
 
-- **339** active U.S. software roles posted within the last **60 days**
+- **338** active U.S. software roles posted within the last **60 days**
 - **135** explicitly labeled New Grad / university graduate / early career
-- Last refresh: **Oct 11, 2026, 9:01 PM PDT**
+- Last refresh: **Oct 11, 2026, 9:16 PM PDT**
 - Machine-readable feed: [data/new-grad-jobs.json](data/new-grad-jobs.json)
 
 Listings with the orange **Apply Guy** button support one-click apply through [Apply Guy](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs). Blue **View** buttons open the employer's career site directly.
@@ -309,7 +309,6 @@ Listings with the orange **Apply Guy** button support one-click apply through [A
 | Kbr | Jr Software Developer | Colorado Springs, CO | 46d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Kbr&job=6953c199-198b-4c36-87fd-c5cd9d1c90b0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://kbr.wd5.myworkdayjobs.com/kbr_careers/job/Colorado-Springs-Colorado/Jr-Software-Developer_R2128436) |
 | NationsBenefits, LLC | Software Development Engineer I | Remote, U.S. | 46d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=NationsBenefits%2C+LLC&job=3c03150a-ee51-48a9-b58d-ed93cf3fdfa2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://nationsbenefits.breezy.hr/p/ceb3693725d7-software-development-engineer-i) |
 | Ontic | Associate Software Engineer - Full Stack | Austin, TX | 46d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Ontic&job=39ee6c0d-b6c3-4796-ac5f-6cbd7f4c955b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/ontic/d50b6bea-876f-43fc-afb9-716efe9eca02) |
-| Schweitzer Engineering Laboratories | Associate Software Engineer - Vulnerability Assessment | Pullman, WA | 46d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Schweitzer+Engineering+Laboratories&job=367a59ae-0881-4ff6-8952-230a8f08422f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://selinc.wd1.myworkdayjobs.com/sel/job/Washington---Pullman/Associate-Software-Engineer---Vulnerability-Assessment_2026-22231) |
 | Amazon | Software Engineer I, Memberships | San Francisco, CA | 47d | [![View original listing](assets/view-listing.svg)](https://www.amazon.jobs/en/jobs/10515912/software-engineer-i-memberships) |
 | Delta Solutions & Strategies | Junior Software Engineer | Colorado Springs, CO | 47d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Delta+Solutions+%26+Strategies&job=7e652669-ea14-4e37-89c9-828de03b86a8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://jobs.lever.co/deltasands/78ed860f-7c69-4888-9a05-e8c9006be291) |
 | Twitch | Software Engineer I, Memberships | Seattle, WA | 47d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Twitch&job=e6e30371-1c6d-4d07-a770-a836f769cbaf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/twitch/jobs/8751076002) |
