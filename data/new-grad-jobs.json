@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T19:46:02.508Z",
+  "updatedAt": "2026-10-13T20:00:56.840Z",
   "jobs": [
     {
       "id": "350abd2c-2631-4050-bed6-4d4c612a7571",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Advantage+Design+Group&job=350abd2c-2631-4050-bed6-4d4c612a7571&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://advantage-design-group.breezy.hr/p/b321c457c48f-software-developer-i"
+    },
+    {
+      "id": "2866902e-a3cb-41c7-9c42-48b6a2f13d5e",
+      "company": "Gruve",
+      "title": "Junior Full Stack Developer",
+      "location": "Remote, U.S.",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Gruve&job=2866902e-a3cb-41c7-9c42-48b6a2f13d5e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://gruve.ai/careers/?gh_jid=5434249008"
     },
     {
       "id": "64901d3c-e95f-49d4-861e-b1f5335cb637",
