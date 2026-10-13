@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T22:00:51.642Z",
+  "updatedAt": "2026-10-13T22:15:59.787Z",
   "jobs": [
     {
       "id": "350abd2c-2631-4050-bed6-4d4c612a7571",
@@ -84,6 +84,19 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Campaignmonitor&job=17fa979d-2027-42ae-a12d-d03995955c04&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://campaignmonitor.wd5.myworkdayjobs.com/marigold/job/Remote-United-States/Associate-Software-Engineer_R2487"
+    },
+    {
+      "id": "custom:microsoft:90fe3fff74d8d2766669",
+      "company": "Microsoft",
+      "title": "Software Engineer",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-12",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557023170",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557023170",
+      "applySupported": false
     },
     {
       "id": "12f64526-5f78-4434-adee-a783fd465a59",
@@ -192,6 +205,19 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=JND&job=d2dc07ab-fcb7-463f-b58e-23ff9934359c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jnd-inc.breezy.hr/p/dab2f4d1a81a-entry-level-korean-bilingual-qa-test-engineer-mobile-software-ai-5g-field-product-quality-testing-261001-2"
+    },
+    {
+      "id": "custom:microsoft:09f0b93eacf7bebf5bff",
+      "company": "Microsoft",
+      "title": "Software Engineer",
+      "location": "US",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-09",
+      "age": "4d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557027422",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557027422",
+      "applySupported": false
     },
     {
       "id": "065afd09-34e2-429c-b82b-110c815315f5",
@@ -735,6 +761,32 @@
       "listingUrl": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Houston-Texas-United-States-of-America/Systems-Software-Engineer-I---Graduate_1213648"
     },
     {
+      "id": "custom:microsoft:2b898a24c4d4b7ada9a8",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Reston, VA · Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-06",
+      "age": "7d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557022487",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557022487",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:03d65b2b10e701c197e7",
+      "company": "Microsoft",
+      "title": "Software Engineering - Commercial Engineering & AI (CEAI)",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-06",
+      "age": "7d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
+      "applySupported": false
+    },
+    {
       "id": "5853801d-d83f-43e6-9b3e-efc24489905f",
       "company": "NVIDIA",
       "title": "Systems Software Engineer,  AI and Cloud - New College Grad 2026",
@@ -865,6 +917,19 @@
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=Iqvia&job=7fc3183c-8ff4-4580-8a18-5aec9228e429&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://iqvia.wd1.myworkdayjobs.com/iqvia/job/Batesville-Indiana-United-States/MedTech-Field-Service-Software-Tech-Entry-level---Batesville--IN_R1572568"
+    },
+    {
+      "id": "custom:microsoft:a32b9fa39bae3a9cc93c",
+      "company": "Microsoft",
+      "title": "Software Engineering",
+      "location": "US",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-05",
+      "age": "8d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557023035",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557023035",
+      "applySupported": false
     },
     {
       "id": "6bf118c5-00d1-4664-8553-3651c78c8bb9",
@@ -1035,6 +1100,19 @@
       "listingUrl": "https://jobs.lever.co/fiscalnote/51a2e18f-1af1-416c-9544-5bede8e9537c"
     },
     {
+      "id": "custom:microsoft:d021de3d39fd02480f33",
+      "company": "Microsoft",
+      "title": "Software Engineering - CTJ - Poly",
+      "location": "Redmond, WA · Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-01",
+      "age": "12d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+      "applySupported": false
+    },
+    {
       "id": "8a04a03f-0345-428b-b6da-e3aa237b9d47",
       "company": "Pinterest",
       "title": "University Grad Software Engineer 2027 (USA)",
@@ -1201,6 +1279,19 @@
       "age": "13d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=9f37d60b-5400-438a-9922-89843c41f623&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Research-Software-Engineer-I---Onsite_01878338"
+    },
+    {
+      "id": "custom:microsoft:698bf1cfd0197fa8f311",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-29",
+      "age": "14d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "applySupported": false
     },
     {
       "id": "ff4d695b-6a47-433b-8c2e-cc351c3ef893",
