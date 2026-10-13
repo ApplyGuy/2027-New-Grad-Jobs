@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T21:00:54.880Z",
+  "updatedAt": "2026-10-13T21:15:56.165Z",
   "jobs": [
     {
       "id": "350abd2c-2631-4050-bed6-4d4c612a7571",
@@ -24,6 +24,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Gruve&job=2866902e-a3cb-41c7-9c42-48b6a2f13d5e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://gruve.ai/careers/?gh_jid=5434249008"
+    },
+    {
+      "id": "4ef319ce-d4bc-498d-ab73-891c92a46425",
+      "company": "Justworks",
+      "title": "Associate Software Engineer, Frontend",
+      "location": "New York City, NY",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Justworks&job=4ef319ce-d4bc-498d-ab73-891c92a46425&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://boards.greenhouse.io/justworks/jobs/8236815?gh_jid=8236815"
+    },
+    {
+      "id": "069241c7-e2ac-401d-98e0-6b5965c5f92b",
+      "company": "Sierraspace",
+      "title": "Software Engineer I - Flight Software",
+      "location": "Louisville, CO",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Sierraspace&job=069241c7-e2ac-401d-98e0-6b5965c5f92b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://sierraspace.wd1.myworkdayjobs.com/sierra_space_external_career_site/job/Louisville-CO/Software-Engineer-I---Flight-Software_R26390-1"
     },
     {
       "id": "64901d3c-e95f-49d4-861e-b1f5335cb637",
