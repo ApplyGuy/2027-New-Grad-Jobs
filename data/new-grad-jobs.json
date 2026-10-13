@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T01:31:14.137Z",
+  "updatedAt": "2026-10-13T01:46:18.341Z",
   "jobs": [
     {
       "id": "b683b9b7-07e8-4a4a-a843-549bedc1bc43",
@@ -61,18 +61,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=NVIDIA&job=96ff10af-76dd-4baa-8d7f-a9dffc407a1e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337"
-    },
-    {
-      "id": "34382b05-2365-4b5a-867e-bc9156ca6af7",
-      "company": "Highmarkhealth",
-      "title": "Associate Software Engineer",
-      "location": "Working at Home - Pennsylvania, PA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-10",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=Highmarkhealth&job=34382b05-2365-4b5a-867e-bc9156ca6af7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Associate-Software-Engineer_J288028"
     },
     {
       "id": "2727c9ca-9c5e-4910-951a-ab4799e22886",
