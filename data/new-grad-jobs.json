@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T15:30:53.023Z",
+  "updatedAt": "2026-10-13T15:46:25.410Z",
   "jobs": [
     {
       "id": "64901d3c-e95f-49d4-861e-b1f5335cb637",
@@ -3605,18 +3605,6 @@
       "age": "57d",
       "url": "https://applyguy.ai/jobs?company=Fleetio&job=6dd439e6-fff0-4837-b6a4-8e017142c06b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/fleetio/jobs/5213856007"
-    },
-    {
-      "id": "41d216bc-98ff-43fa-8ec4-09bdafdffa1b",
-      "company": "Boom Technology, Inc.",
-      "title": "Software Engineer (Early Career, Exceptional Talent)",
-      "location": "Centennial, CO",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-14",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Boom+Technology%2C+Inc.&job=41d216bc-98ff-43fa-8ec4-09bdafdffa1b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://ats.rippling.com/boom-supersonic/jobs/a6ea239b-70a4-4d72-b7d8-3ab1312568dc"
     },
     {
       "id": "63c2089b-3d08-4579-a432-7e843f561a69",
