@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T21:46:20.711Z",
+  "updatedAt": "2026-10-14T22:00:53.220Z",
   "jobs": [
     {
       "id": "custom:amazon:615fde1b7b0183d97ccb",
@@ -73,6 +73,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Signetjewelers&job=747ba9a8-c2df-4b33-bb02-656bde7df46d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://signetjewelers.wd1.myworkdayjobs.com/signetcorporatecareers/job/Support-Center---Akron-OH/Software-Engineer-I--Remote-_REQ_83354-1"
+    },
+    {
+      "id": "a2ec046c-b595-4a95-a906-33c989c548be",
+      "company": "TRISTAR",
+      "title": "Software Developer I",
+      "location": "Bloomington, IN",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=TRISTAR&job=a2ec046c-b595-4a95-a906-33c989c548be&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4586392"
     },
     {
       "id": "f2ba8e0a-a31c-4892-abe4-e4dc9dc29310",
