@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T21:01:04.246Z",
+  "updatedAt": "2026-10-14T21:16:03.712Z",
   "jobs": [
     {
       "id": "custom:amazon:615fde1b7b0183d97ccb",
@@ -27,6 +27,18 @@
       "listingUrl": "https://job-boards.greenhouse.io/clear/jobs/8241829"
     },
     {
+      "id": "90762877-3659-415c-b782-4649402bf372",
+      "company": "Firstorion",
+      "title": "Associate Software Engineer",
+      "location": "North Little Rock, AR",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Firstorion&job=90762877-3659-415c-b782-4649402bf372&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://firstorion.wd1.myworkdayjobs.com/first_orion/job/North-Little-Rock-AR/Associate-Software-Engineer_R785"
+    },
+    {
       "id": "1452b40d-9604-40c6-bc3b-dad6309a421e",
       "company": "Reagroup",
       "title": "Associate Machine Learning Engineer",
@@ -49,6 +61,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=573ddd08-bf46-4b4b-8348-53c3df8410bd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineer-I--Onsite-_01874953-1"
+    },
+    {
+      "id": "747ba9a8-c2df-4b33-bb02-656bde7df46d",
+      "company": "Signetjewelers",
+      "title": "Software Engineer I (Remote)",
+      "location": "Support Center - Akron, OH",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Signetjewelers&job=747ba9a8-c2df-4b33-bb02-656bde7df46d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://signetjewelers.wd1.myworkdayjobs.com/signetcorporatecareers/job/Support-Center---Akron-OH/Software-Engineer-I--Remote-_REQ_83354-1"
+    },
+    {
+      "id": "f2ba8e0a-a31c-4892-abe4-e4dc9dc29310",
+      "company": "Twitch",
+      "title": "Software Engineer I",
+      "location": "San Francisco, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Twitch&job=f2ba8e0a-a31c-4892-abe4-e4dc9dc29310&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/twitch/jobs/8887222002"
     },
     {
       "id": "350abd2c-2631-4050-bed6-4d4c612a7571",
@@ -601,18 +637,6 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Truist&job=31e9b1d3-c472-49ba-9086-a4fac7caabd0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://truist.wd1.myworkdayjobs.com/careers/job/Richmond-VA/Associate-Software-Engineer--Python---Data-Analytics_R0119972"
-    },
-    {
-      "id": "14140795-1b30-4b71-a47c-e00b2883f4fd",
-      "company": "Twitch",
-      "title": "Software Engineer I",
-      "location": "San Francisco, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-08",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=Twitch&job=14140795-1b30-4b71-a47c-e00b2883f4fd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/twitch/jobs/8879673002"
     },
     {
       "id": "25575294-9602-4303-ba15-959a950b9394",
