@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T07:01:23.098Z",
+  "updatedAt": "2026-10-14T07:15:54.874Z",
   "jobs": [
     {
       "id": "1452b40d-9604-40c6-bc3b-dad6309a421e",
@@ -843,19 +843,6 @@
       "age": "8d",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557022487",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557022487",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:03d65b2b10e701c197e7",
-      "company": "Microsoft",
-      "title": "Software Engineering - Commercial Engineering & AI (CEAI)",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-06",
-      "age": "8d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
       "applySupported": false
     },
     {
