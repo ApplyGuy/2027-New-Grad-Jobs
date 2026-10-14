@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T00:46:16.988Z",
+  "updatedAt": "2026-10-14T01:00:53.953Z",
   "jobs": [
     {
       "id": "350abd2c-2631-4050-bed6-4d4c612a7571",
@@ -84,18 +84,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Amat&job=b683b9b7-07e8-4a4a-a843-549bedc1bc43&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/New-College-Grad-Software-Engineer-I--Bachelors---Santa-Clara--CA-_R2628998"
-    },
-    {
-      "id": "17fa979d-2027-42ae-a12d-d03995955c04",
-      "company": "Campaignmonitor",
-      "title": "Associate Software Engineer",
-      "location": "Remote, U.S.",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-12",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=Campaignmonitor&job=17fa979d-2027-42ae-a12d-d03995955c04&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://campaignmonitor.wd5.myworkdayjobs.com/marigold/job/Remote-United-States/Associate-Software-Engineer_R2487"
     },
     {
       "id": "custom:microsoft:90fe3fff74d8d2766669",
