@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T19:16:00.840Z",
+  "updatedAt": "2026-10-14T19:30:57.896Z",
   "jobs": [
     {
       "id": "custom:amazon:615fde1b7b0183d97ccb",
@@ -13,6 +13,18 @@
       "url": "https://www.amazon.jobs/en/jobs/10578558/software-engineer-i",
       "listingUrl": "https://www.amazon.jobs/en/jobs/10578558/software-engineer-i",
       "applySupported": false
+    },
+    {
+      "id": "265754fa-6d05-4dc2-a93c-cd599f96ed33",
+      "company": "CLEAR - Corporate",
+      "title": "Software Development Engineer I",
+      "location": "Austin, TX",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=CLEAR+-+Corporate&job=265754fa-6d05-4dc2-a93c-cd599f96ed33&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/clear/jobs/8241829"
     },
     {
       "id": "1452b40d-9604-40c6-bc3b-dad6309a421e",
