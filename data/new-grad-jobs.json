@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-14T02:30:53.455Z",
+  "updatedAt": "2026-10-14T02:45:54.917Z",
   "jobs": [
+    {
+      "id": "1452b40d-9604-40c6-bc3b-dad6309a421e",
+      "company": "Reagroup",
+      "title": "Associate Machine Learning Engineer",
+      "location": "Richmond, Melbourne VIC",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-14",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Reagroup&job=1452b40d-9604-40c6-bc3b-dad6309a421e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://reagroup.wd3.myworkdayjobs.com/reacareers/job/Richmond-Melbourne-VIC/Associate-Machine-Learning-Engineer_R0015805-1"
+    },
     {
       "id": "350abd2c-2631-4050-bed6-4d4c612a7571",
       "company": "Advantage Design Group",
