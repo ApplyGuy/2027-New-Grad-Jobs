@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-15T20:01:17.673Z",
+  "updatedAt": "2026-10-15T20:16:28.580Z",
   "jobs": [
+    {
+      "id": "98b1c033-95cb-4e3f-84b3-3f25dc3bdc59",
+      "company": "Leidos",
+      "title": "Junior Software Engineer",
+      "location": "Tucson, AZ",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-15",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Leidos&job=98b1c033-95cb-4e3f-84b3-3f25dc3bdc59&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Tucson-AZ/Junior-Software-Engineer_R-00194640"
+    },
     {
       "id": "480f9b78-725a-460c-9e9d-8769c4f065b6",
       "company": "RTX",
