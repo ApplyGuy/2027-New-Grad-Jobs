@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T03:15:42.436Z",
+  "updatedAt": "2026-10-15T03:30:51.457Z",
   "jobs": [
     {
       "id": "8703eabc-5fa5-42db-9786-dfc9a33fd321",
@@ -277,19 +277,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Amat&job=b683b9b7-07e8-4a4a-a843-549bedc1bc43&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/New-College-Grad-Software-Engineer-I--Bachelors---Santa-Clara--CA-_R2628998"
-    },
-    {
-      "id": "custom:microsoft:90fe3fff74d8d2766669",
-      "company": "Microsoft",
-      "title": "Software Engineer",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-12",
-      "age": "3d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557023170",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557023170",
-      "applySupported": false
     },
     {
       "id": "12f64526-5f78-4434-adee-a783fd465a59",
@@ -844,19 +831,6 @@
       "listingUrl": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Houston-Texas-United-States-of-America/Systems-Software-Engineer-I---Graduate_1213648"
     },
     {
-      "id": "custom:microsoft:2b898a24c4d4b7ada9a8",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Reston, VA · Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-06",
-      "age": "9d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557022487",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557022487",
-      "applySupported": false
-    },
-    {
       "id": "5853801d-d83f-43e6-9b3e-efc24489905f",
       "company": "NVIDIA",
       "title": "Systems Software Engineer,  AI and Cloud - New College Grad 2026",
@@ -989,19 +963,6 @@
       "listingUrl": "https://iqvia.wd1.myworkdayjobs.com/iqvia/job/Batesville-Indiana-United-States/MedTech-Field-Service-Software-Tech-Entry-level---Batesville--IN_R1572568"
     },
     {
-      "id": "custom:microsoft:a32b9fa39bae3a9cc93c",
-      "company": "Microsoft",
-      "title": "Software Engineering",
-      "location": "US",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-05",
-      "age": "10d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557023035",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557023035",
-      "applySupported": false
-    },
-    {
       "id": "6bf118c5-00d1-4664-8553-3651c78c8bb9",
       "company": "Nuro",
       "title": "New Grad Software Engineer, Product Engineering",
@@ -1132,19 +1093,6 @@
       "age": "14d",
       "url": "https://applyguy.ai/jobs?company=FiscalNote&job=6ad5ceb6-24dd-4748-826f-3dc52c15c484&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/fiscalnote/51a2e18f-1af1-416c-9544-5bede8e9537c"
-    },
-    {
-      "id": "custom:microsoft:d021de3d39fd02480f33",
-      "company": "Microsoft",
-      "title": "Software Engineering - CTJ - Poly",
-      "location": "Redmond, WA · Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-01",
-      "age": "14d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
-      "applySupported": false
     },
     {
       "id": "8a04a03f-0345-428b-b6da-e3aa237b9d47",
@@ -1313,19 +1261,6 @@
       "age": "15d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=9f37d60b-5400-438a-9922-89843c41f623&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Research-Software-Engineer-I---Onsite_01878338"
-    },
-    {
-      "id": "custom:microsoft:698bf1cfd0197fa8f311",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-29",
-      "age": "16d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "applySupported": false
     },
     {
       "id": "ff4d695b-6a47-433b-8c2e-cc351c3ef893",
@@ -2218,18 +2153,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-I---Onsite_01873475"
     },
     {
-      "id": "5ca3f5f9-3c8a-4c61-9f90-eb28562ed9da",
-      "company": "Schweitzer Engineering Laboratories",
-      "title": "Associate Software Engineer- Full Stack TypeScript/React/C#",
-      "location": "Boise, ID",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-16",
-      "age": "29d",
-      "url": "https://applyguy.ai/jobs?company=Schweitzer+Engineering+Laboratories&job=5ca3f5f9-3c8a-4c61-9f90-eb28562ed9da&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://selinc.wd1.myworkdayjobs.com/sel/job/Idaho---Boise/Associate-Software-Engineer--Full-Stack-TypeScript-React-C-_2026-23005-1"
-    },
-    {
       "id": "9bab672d-59f7-44fe-a490-a5e0235c68cf",
       "company": "Statestreet",
       "title": "Junior Software Engineer",
@@ -2408,18 +2331,6 @@
       "age": "31d",
       "url": "https://applyguy.ai/jobs?company=Rocket+Lab+Corporation&job=bcc5f260-c9f2-4988-9b9a-a21089ab9b29&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7992129003"
-    },
-    {
-      "id": "815464ef-38a1-412e-ae4c-b6d37b6e97da",
-      "company": "Schweitzer Engineering Laboratories",
-      "title": "Associate Software Engineer",
-      "location": "Pullman, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-14",
-      "age": "31d",
-      "url": "https://applyguy.ai/jobs?company=Schweitzer+Engineering+Laboratories&job=815464ef-38a1-412e-ae4c-b6d37b6e97da&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://selinc.wd1.myworkdayjobs.com/sel/job/Washington---Pullman/Associate-Software-Engineer_2026-22492-1"
     },
     {
       "id": "2d5b06d7-f12a-4488-b07a-c5c2f39193d0",
