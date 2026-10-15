@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-15T16:31:22.127Z",
+  "updatedAt": "2026-10-15T16:46:07.426Z",
   "jobs": [
     {
-      "id": "custom:microsoft:4bd409a0dbdb76f27fa1",
+      "id": "custom:microsoft:a17359d2298b5002e3a3",
       "company": "Microsoft",
       "title": "Software Engineer",
       "location": "Redmond, WA",
@@ -10,8 +10,8 @@
       "matchKind": "entry_level",
       "posted": "2026-10-15",
       "age": "Today",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557026652",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557026652",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556985572",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556985572",
       "applySupported": false
     },
     {
