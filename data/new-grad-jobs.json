@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T05:01:26.939Z",
+  "updatedAt": "2026-10-15T05:15:41.712Z",
   "jobs": [
     {
       "id": "8703eabc-5fa5-42db-9786-dfc9a33fd321",
@@ -2014,6 +2014,18 @@
       "listingUrl": "https://talentmanagementsolution.wd3.myworkdayjobs.com/perseus-careers/job/Sharon-Pennsylvania---USA/Software-Engineer-I_R54341"
     },
     {
+      "id": "9e0e6ce1-cbf1-4ab7-9e81-78075d59d419",
+      "company": "Iqvia",
+      "title": "MedTech Field Service Software Tech Entry Level - Dallas/Ft. Worth, TX",
+      "location": "Dallas, TX",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-18",
+      "age": "27d",
+      "url": "https://applyguy.ai/jobs?company=Iqvia&job=9e0e6ce1-cbf1-4ab7-9e81-78075d59d419&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://iqvia.wd1.myworkdayjobs.com/iqvia/job/Dallas-TX/MedTech-Field-Service-Software-Tech-Entry-Level---Central-Time-Zone_R1568795"
+    },
+    {
       "id": "761c8732-bf55-4248-a160-416f7bced32b",
       "company": "Iqvia",
       "title": "MedTech Field Service Software Tech Entry Level - Kansas City & St. Louis",
@@ -2048,18 +2060,6 @@
       "age": "27d",
       "url": "https://applyguy.ai/jobs?company=Iqvia&job=a779ee2c-3df4-496a-907a-b6d6c4f55ebd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://iqvia.wd1.myworkdayjobs.com/iqvia/job/Raleigh-NC/MedTech-Field-Service-Software-Tech-Entry-level---Eastern-Time-Zone_R1568794"
-    },
-    {
-      "id": "9e0e6ce1-cbf1-4ab7-9e81-78075d59d419",
-      "company": "Iqvia",
-      "title": "MedTech Field Service Software Tech Entry Level - Dallas/Ft. Worth, TX",
-      "location": "Dallas, TX",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-09-18",
-      "age": "27d",
-      "url": "https://applyguy.ai/jobs?company=Iqvia&job=9e0e6ce1-cbf1-4ab7-9e81-78075d59d419&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://iqvia.wd1.myworkdayjobs.com/iqvia/job/Dallas-TX/MedTech-Field-Service-Software-Tech-Entry-Level---Central-Time-Zone_R1568795"
     },
     {
       "id": "ea9c41fe-d045-4c41-a3e4-1bea7e6ca1cf",
