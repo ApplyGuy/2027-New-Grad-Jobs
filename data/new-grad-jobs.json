@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T21:00:58.799Z",
+  "updatedAt": "2026-10-15T21:16:01.388Z",
   "jobs": [
     {
       "id": "98b1c033-95cb-4e3f-84b3-3f25dc3bdc59",
@@ -408,6 +408,18 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=JND&job=d2dc07ab-fcb7-463f-b58e-23ff9934359c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jnd-inc.breezy.hr/p/dab2f4d1a81a-entry-level-korean-bilingual-qa-test-engineer-mobile-software-ai-5g-field-product-quality-testing-261001-2"
+    },
+    {
+      "id": "9660b2cc-d9a2-4cc0-9fc5-b3ae12b72dbd",
+      "company": "Qualtrics",
+      "title": "Software Engineer I",
+      "location": "Provo, UT",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-09",
+      "age": "6d",
+      "url": "https://applyguy.ai/jobs?company=Qualtrics&job=9660b2cc-d9a2-4cc0-9fc5-b3ae12b72dbd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://www.qualtrics.com/careers/us/en/job/8264811?gh_jid=8264811"
     },
     {
       "id": "26692fb9-c086-4ab5-9381-3014e707c425",
