@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T19:00:53.054Z",
+  "updatedAt": "2026-10-15T19:16:01.736Z",
   "jobs": [
     {
       "id": "480f9b78-725a-460c-9e9d-8769c4f065b6",
@@ -24,19 +24,6 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=SirenOpt&job=8703eabc-5fa5-42db-9786-dfc9a33fd321&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/sirenopt/jobs/4452002009"
-    },
-    {
-      "id": "custom:amazon:615fde1b7b0183d97ccb",
-      "company": "Amazon",
-      "title": "Software Engineer I",
-      "location": "San Francisco, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-14",
-      "age": "1d",
-      "url": "https://www.amazon.jobs/en/jobs/10578558/software-engineer-i",
-      "listingUrl": "https://www.amazon.jobs/en/jobs/10578558/software-engineer-i",
-      "applySupported": false
     },
     {
       "id": "265754fa-6d05-4dc2-a93c-cd599f96ed33",
@@ -541,6 +528,19 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Ace&job=d90710b5-f126-42ed-8d0b-e9cf01907209&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Associate-Data-Engineer_JR202639452"
+    },
+    {
+      "id": "custom:amazon:e8d327233a5babe10406",
+      "company": "Amazon",
+      "title": "Software Engineer I",
+      "location": "San Francisco, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-08",
+      "age": "7d",
+      "url": "https://www.amazon.jobs/en/jobs/10573768/software-engineer-i",
+      "listingUrl": "https://www.amazon.jobs/en/jobs/10573768/software-engineer-i",
+      "applySupported": false
     },
     {
       "id": "fc6e4098-70cc-4dc7-97a5-26cd7e68bafb",
