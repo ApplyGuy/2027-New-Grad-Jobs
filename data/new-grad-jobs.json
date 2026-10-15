@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T22:01:18.596Z",
+  "updatedAt": "2026-10-15T22:16:05.323Z",
   "jobs": [
     {
       "id": "98b1c033-95cb-4e3f-84b3-3f25dc3bdc59",
@@ -49,6 +49,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=SirenOpt&job=8703eabc-5fa5-42db-9786-dfc9a33fd321&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/sirenopt/jobs/4452002009"
+    },
+    {
+      "id": "286fee4b-85a6-4dd2-a8f3-d7afe06e1cef",
+      "company": "Southeast Consolidators Inc",
+      "title": "Junior Software Developer",
+      "location": "Ellenwood, GA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-15",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Southeast+Consolidators+Inc&job=286fee4b-85a6-4dd2-a8f3-d7afe06e1cef&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4575930"
     },
     {
       "id": "265754fa-6d05-4dc2-a93c-cd599f96ed33",
