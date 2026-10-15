@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T10:45:56.745Z",
+  "updatedAt": "2026-10-15T11:00:55.760Z",
   "jobs": [
     {
       "id": "custom:microsoft:4bd409a0dbdb76f27fa1",
@@ -698,6 +698,18 @@
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=Chalk&job=78e4a315-3939-4005-9b0d-23a53d1b7005&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f"
+    },
+    {
+      "id": "a71e25b8-cdc6-4595-b01a-07fe6143a0a4",
+      "company": "Handshake",
+      "title": "Software Engineer I, Build Review & Test",
+      "location": "San Francisco, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-07",
+      "age": "8d",
+      "url": "https://applyguy.ai/jobs?company=Handshake&job=a71e25b8-cdc6-4595-b01a-07fe6143a0a4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.ashbyhq.com/handshake/b434ac30-8288-417a-96b0-29fa8dac7d58"
     },
     {
       "id": "885ffffc-9d70-4f42-88f9-44bcab96ebe9",
@@ -2014,6 +2026,18 @@
       "listingUrl": "https://talentmanagementsolution.wd3.myworkdayjobs.com/perseus-careers/job/Sharon-Pennsylvania---USA/Software-Engineer-I_R54341"
     },
     {
+      "id": "a779ee2c-3df4-496a-907a-b6d6c4f55ebd",
+      "company": "Iqvia",
+      "title": "MedTech Field Service Software Tech Entry level - East Coast",
+      "location": "Raleigh, NC",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-18",
+      "age": "27d",
+      "url": "https://applyguy.ai/jobs?company=Iqvia&job=a779ee2c-3df4-496a-907a-b6d6c4f55ebd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://iqvia.wd1.myworkdayjobs.com/iqvia/job/Raleigh-NC/MedTech-Field-Service-Software-Tech-Entry-level---Eastern-Time-Zone_R1568794"
+    },
+    {
       "id": "9e0e6ce1-cbf1-4ab7-9e81-78075d59d419",
       "company": "Iqvia",
       "title": "MedTech Field Service Software Tech Entry Level - Dallas/Ft. Worth, TX",
@@ -2048,18 +2072,6 @@
       "age": "27d",
       "url": "https://applyguy.ai/jobs?company=Iqvia&job=c57b5e55-5afc-4d93-9ce3-b6341dbc010d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://iqvia.wd1.myworkdayjobs.com/iqvia/job/Phoenix-AZ/MedTech-Field-Service-Software-Tech-Entry-Level---Pacific-Time-Zone_R1568796"
-    },
-    {
-      "id": "a779ee2c-3df4-496a-907a-b6d6c4f55ebd",
-      "company": "Iqvia",
-      "title": "MedTech Field Service Software Tech Entry level - East Coast",
-      "location": "Raleigh, NC",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-09-18",
-      "age": "27d",
-      "url": "https://applyguy.ai/jobs?company=Iqvia&job=a779ee2c-3df4-496a-907a-b6d6c4f55ebd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://iqvia.wd1.myworkdayjobs.com/iqvia/job/Raleigh-NC/MedTech-Field-Service-Software-Tech-Entry-level---Eastern-Time-Zone_R1568794"
     },
     {
       "id": "ea9c41fe-d045-4c41-a3e4-1bea7e6ca1cf",
