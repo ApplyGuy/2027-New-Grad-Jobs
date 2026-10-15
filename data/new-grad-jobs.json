@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T04:00:46.752Z",
+  "updatedAt": "2026-10-15T04:15:58.084Z",
   "jobs": [
     {
       "id": "8703eabc-5fa5-42db-9786-dfc9a33fd321",
@@ -1045,6 +1045,18 @@
       "age": "13d",
       "url": "https://applyguy.ai/jobs?company=Cambiahealth&job=4f8fdeb6-b438-45fc-bd8f-80a582ea41b5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://cambiahealth.wd504.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Software-Development-Engineer-I---III_R-6738"
+    },
+    {
+      "id": "9cc7f441-8316-4482-bec6-cb0889c5df65",
+      "company": "Harvey",
+      "title": "Software Engineer, New Grad (2027)",
+      "location": "San Francisco, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-10-02",
+      "age": "13d",
+      "url": "https://applyguy.ai/jobs?company=Harvey&job=9cc7f441-8316-4482-bec6-cb0889c5df65&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5"
     },
     {
       "id": "a84cc921-ba2a-4df0-8e6f-610f0738edc5",
