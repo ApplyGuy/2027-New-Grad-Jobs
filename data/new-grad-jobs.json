@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T03:31:07.036Z",
+  "updatedAt": "2026-10-16T03:46:01.519Z",
   "jobs": [
     {
       "id": "76520ed8-44e4-4518-94dc-d3430c7fb4a7",
@@ -277,18 +277,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Silabs&job=4fe75012-df5e-4c0a-b080-fe0c374b9a98&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://silabs.wd1.myworkdayjobs.com/siliconlabscareers/job/Austin/Software-Engineer-I_21011-1"
-    },
-    {
-      "id": "64901d3c-e95f-49d4-861e-b1f5335cb637",
-      "company": "U.S. Bank",
-      "title": "Software Engineer 1- (Full Stack Developer)",
-      "location": "Atlanta, GA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-13",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=U.S.+Bank&job=64901d3c-e95f-49d4-861e-b1f5335cb637&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Atlanta-GA/Software-Engineer-1---Full-Stack-Developer-_2026-0022352"
     },
     {
       "id": "f49eeaf3-8024-4057-83fb-9bb08c35e673",
@@ -1169,18 +1157,6 @@
       "age": "15d",
       "url": "https://applyguy.ai/jobs?company=SanMar-Internal&job=cb309c81-2a12-4d6d-8c82-b68f4de68a2f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/sanmaremployeeopenings/jobs/5254348007"
-    },
-    {
-      "id": "9cc5f49d-c25f-4a80-9262-72f469846a4d",
-      "company": "U.S. Bank",
-      "title": "Software Engineer 1 - Mainframe (Cobol)",
-      "location": "Brookfield, WI",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-01",
-      "age": "15d",
-      "url": "https://applyguy.ai/jobs?company=U.S.+Bank&job=9cc5f49d-c25f-4a80-9262-72f469846a4d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Brookfield-WI/Software-Engineer-1---Mainframe--Cobol-_2026-0030686"
     },
     {
       "id": "17c47596-249e-4028-84ce-c3c52991a7fe",
