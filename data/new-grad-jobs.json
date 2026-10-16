@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T00:46:12.713Z",
+  "updatedAt": "2026-10-16T01:01:44.913Z",
   "jobs": [
     {
       "id": "98b1c033-95cb-4e3f-84b3-3f25dc3bdc59",
@@ -291,18 +291,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/woolpert/jobs/4434848009"
     },
     {
-      "id": "b683b9b7-07e8-4a4a-a843-549bedc1bc43",
-      "company": "Amat",
-      "title": "New College Grad Software Engineer I (Bachelors - Santa Clara, CA)",
-      "location": "Santa Clara, CA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-10-12",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=Amat&job=b683b9b7-07e8-4a4a-a843-549bedc1bc43&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/New-College-Grad-Software-Engineer-I--Bachelors---Santa-Clara--CA-_R2628998"
-    },
-    {
       "id": "12f64526-5f78-4434-adee-a783fd465a59",
       "company": "NVIDIA",
       "title": "Deep Learning Software Engineer, TensorRT Performance - New College Grad 2027",
@@ -459,42 +447,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01875410"
     },
     {
-      "id": "fa08828a-8438-44bf-beb5-e8b319190ecb",
-      "company": "RTX",
-      "title": "Embedded Security Software Engineer I (Onsite)",
-      "location": "Tewksbury, MA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-09",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=fa08828a-8438-44bf-beb5-e8b319190ecb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Embedded-Security-Software-Engineer-I--Onsite-_01881440"
-    },
-    {
-      "id": "a56b16eb-dee2-4198-9b95-c6be8554d57b",
-      "company": "RTX",
-      "title": "Full Stack Software Engineer I (Onsite)",
-      "location": "San Diego, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-09",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=a56b16eb-dee2-4198-9b95-c6be8554d57b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-DIEGO-SD1--8650-Balboa-Ave--SAN-ANTONIO-BLDG/Full-Stack-Software-Engineer-I--Onsite-_01881492"
-    },
-    {
-      "id": "59047d19-ab68-4974-8898-09e6f2d1c256",
-      "company": "RTX",
-      "title": "Embedded Security Software Engineer I (Onsite)",
-      "location": "Tucson, AZ",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-09",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=59047d19-ab68-4974-8898-09e6f2d1c256&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-800--1151-E-Hermans-Rd--BLDG-800/Embedded-Security-Software-Engineer-I--Onsite-_01881370"
-    },
-    {
       "id": "60d4ddc4-d190-4bb2-b40b-d5200bb62d12",
       "company": "RTX",
       "title": "Software Engineer I (Onsite)",
@@ -626,54 +578,6 @@
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=Pae&job=04c64431-8bf4-4b09-9ec1-051d01c136c8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-MD-Hanover/Software-Engineer-1_R0171606"
-    },
-    {
-      "id": "e1f5551b-e185-4532-9c40-19699d6a1bff",
-      "company": "RTX",
-      "title": "Embedded Software Engineer I (Onsite)",
-      "location": "Point Mugu, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-08",
-      "age": "8d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=e1f5551b-e185-4532-9c40-19699d6a1bff&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-POINT-MUGU-TR20--13th-St-and-S-L-St--BLDG-TR20/Embedded-Software-Engineer-I--Onsite-_01881385"
-    },
-    {
-      "id": "c831e85f-0cd5-4395-bbe7-54e30cbe14dd",
-      "company": "RTX",
-      "title": "Embedded Security Software Engineer I (Onsite)",
-      "location": "El Segundo, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-08",
-      "age": "8d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=c831e85f-0cd5-4395-bbe7-54e30cbe14dd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Security-Software-Engineer-I--Onsite-_01881355"
-    },
-    {
-      "id": "f57d3d47-9cac-4529-a2b3-179d2353f325",
-      "company": "RTX",
-      "title": "Embedded Software Engineer I (Onsite)",
-      "location": "Mckinney, TX",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-08",
-      "age": "8d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=f57d3d47-9cac-4529-a2b3-179d2353f325&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513PW--2501-W-University-Dr--PW-BLDG/Embedded-Software-Engineer-I--Onsite-_01881232"
-    },
-    {
-      "id": "d24be80e-3315-43b9-b444-9fa06c83be2e",
-      "company": "RTX",
-      "title": "Embedded Software Developer I  (Onsite)",
-      "location": "El Segundo, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-08",
-      "age": "8d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=d24be80e-3315-43b9-b444-9fa06c83be2e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Software-Developer-I---Onsite-_01880909"
     },
     {
       "id": "31e9b1d3-c472-49ba-9086-a4fac7caabd0",
@@ -1156,18 +1060,6 @@
       "age": "14d",
       "url": "https://applyguy.ai/jobs?company=OppFi&job=a84cc921-ba2a-4df0-8e6f-610f0738edc5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/opploans/jobs/8011770003"
-    },
-    {
-      "id": "fef6611c-5d0a-4eea-b620-9f628f4c1cb2",
-      "company": "Pae",
-      "title": "Junior Software Developer",
-      "location": "Dahlgren, VA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-02",
-      "age": "14d",
-      "url": "https://applyguy.ai/jobs?company=Pae&job=fef6611c-5d0a-4eea-b620-9f628f4c1cb2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Dahlgren/Junior-Software-Developer_R0172202"
     },
     {
       "id": "1828e287-44e8-43e5-b1d4-565d252cb20d",
