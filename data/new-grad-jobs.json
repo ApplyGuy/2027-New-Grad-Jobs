@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T06:00:59.444Z",
+  "updatedAt": "2026-10-16T06:15:52.673Z",
   "jobs": [
     {
       "id": "76520ed8-44e4-4518-94dc-d3430c7fb4a7",
@@ -1889,6 +1889,18 @@
       "listingUrl": "https://talentmanagementsolution.wd3.myworkdayjobs.com/perseus-careers/job/Sharon-Pennsylvania---USA/Software-Engineer-I_R54341"
     },
     {
+      "id": "c57b5e55-5afc-4d93-9ce3-b6341dbc010d",
+      "company": "Iqvia",
+      "title": "MedTech Field Service Software Tech Entry Level - Phoenix, AZ",
+      "location": "Phoenix, AZ",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-18",
+      "age": "28d",
+      "url": "https://applyguy.ai/jobs?company=Iqvia&job=c57b5e55-5afc-4d93-9ce3-b6341dbc010d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://iqvia.wd1.myworkdayjobs.com/iqvia/job/Phoenix-AZ/MedTech-Field-Service-Software-Tech-Entry-Level---Pacific-Time-Zone_R1568796"
+    },
+    {
       "id": "a779ee2c-3df4-496a-907a-b6d6c4f55ebd",
       "company": "Iqvia",
       "title": "MedTech Field Service Software Tech Entry level - East Coast",
@@ -1923,18 +1935,6 @@
       "age": "28d",
       "url": "https://applyguy.ai/jobs?company=Iqvia&job=761c8732-bf55-4248-a160-416f7bced32b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://iqvia.wd1.myworkdayjobs.com/iqvia/job/St-Louis-MO/MedTech-Field-Service-Software-Tech-Entry-Level---Kansas-City---St-Louis_R1569837"
-    },
-    {
-      "id": "c57b5e55-5afc-4d93-9ce3-b6341dbc010d",
-      "company": "Iqvia",
-      "title": "MedTech Field Service Software Tech Entry Level - Phoenix, AZ",
-      "location": "Phoenix, AZ",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-09-18",
-      "age": "28d",
-      "url": "https://applyguy.ai/jobs?company=Iqvia&job=c57b5e55-5afc-4d93-9ce3-b6341dbc010d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://iqvia.wd1.myworkdayjobs.com/iqvia/job/Phoenix-AZ/MedTech-Field-Service-Software-Tech-Entry-Level---Pacific-Time-Zone_R1568796"
     },
     {
       "id": "ea9c41fe-d045-4c41-a3e4-1bea7e6ca1cf",
