@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T19:01:36.578Z",
+  "updatedAt": "2026-10-16T19:16:14.523Z",
   "jobs": [
     {
       "id": "76520ed8-44e4-4518-94dc-d3430c7fb4a7",
@@ -3569,18 +3569,6 @@
       "age": "59d",
       "url": "https://applyguy.ai/jobs?company=Koah&job=d9007a83-d60a-4e5e-9d1e-7bbba6779db3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/koahlabs/197c931d-3cda-44b3-b26b-470976730808"
-    },
-    {
-      "id": "6dd439e6-fff0-4837-b6a4-8e017142c06b",
-      "company": "Fleetio",
-      "title": "Associate Software Engineer, Marketplace",
-      "location": "Remote, U.S.",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-17",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Fleetio&job=6dd439e6-fff0-4837-b6a4-8e017142c06b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/fleetio/jobs/5213856007"
     }
   ]
 }
