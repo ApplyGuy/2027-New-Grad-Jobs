@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T15:45:55.061Z",
+  "updatedAt": "2026-10-16T16:01:30.234Z",
   "jobs": [
     {
       "id": "76520ed8-44e4-4518-94dc-d3430c7fb4a7",
@@ -1338,19 +1338,6 @@
       "age": "17d",
       "url": "https://applyguy.ai/jobs?company=SpaceX&job=73c47ef4-7a58-4ec3-b335-f4a413e30102&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boards.greenhouse.io/spacex/jobs/8854394002?gh_jid=8854394002"
-    },
-    {
-      "id": "custom:amazon:6facd034837b0401109f",
-      "company": "Amazon",
-      "title": "Software Development Engineer I, Amazon Connect Customer Data & Insights",
-      "location": "Seattle, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-28",
-      "age": "18d",
-      "url": "https://www.amazon.jobs/en/jobs/10562297/software-development-engineer-i-amazon-connect-customer-data-insights",
-      "listingUrl": "https://www.amazon.jobs/en/jobs/10562297/software-development-engineer-i-amazon-connect-customer-data-insights",
-      "applySupported": false
     },
     {
       "id": "f808c368-e4a1-40bb-9997-1ce59f2cd35d",
