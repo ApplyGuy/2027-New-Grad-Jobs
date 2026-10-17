@@ -1,6 +1,6 @@
 # 2027 New Grad Software Engineering Jobs
 
-[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-304-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
+[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-303-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
 
 A continuously verified list of **2027 New Grad software engineering jobs**, **entry-level software engineer jobs**, and early-career developer roles in the United States. Listings come directly from employer career pages and are maintained by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs).
 
@@ -12,9 +12,9 @@ A continuously verified list of **2027 New Grad software engineering jobs**, **e
 
 🎒 **Looking for internships?** Browse [2027 SWE & Product Internships →](https://github.com/ApplyGuy/2027-Internships)
 
-- **304** active U.S. software roles posted within the last **60 days**
+- **303** active U.S. software roles posted within the last **60 days**
 - **122** explicitly labeled New Grad / university graduate / early career
-- Last refresh: **Oct 17, 2026, 9:45 AM PDT**
+- Last refresh: **Oct 17, 2026, 10:00 AM PDT**
 - Machine-readable feed: [data/new-grad-jobs.json](data/new-grad-jobs.json)
 
 Listings with the orange **Apply Guy** button support one-click apply through [Apply Guy](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs). Blue **View** buttons open the employer's career site directly.
@@ -325,7 +325,6 @@ Listings with the orange **Apply Guy** button support one-click apply through [A
 | SpaceX | New Graduate Engineer, Software (Application Software) | Hawthorne, CA | 59d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=SpaceX&job=8c12cd26-5e09-4083-a226-bca2e0a490ee&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://boards.greenhouse.io/spacex/jobs/8730567002?gh_jid=8730567002) |
 | SpaceX | New Graduate Engineer, Software Security - '26/'27 (Starlink) | Hawthorne, CA | 59d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=SpaceX&job=19fbb7b4-86a6-4e32-8d75-4e70215e9f27&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://boards.greenhouse.io/spacex/jobs/8724316002?gh_jid=8724316002) |
 | SpaceX | New Graduate Engineer, Software (Starship) | Starbase, TX | 59d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=SpaceX&job=58986cd8-3d18-4b54-803a-67e2c0b3a4a3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://boards.greenhouse.io/spacex/jobs/8729121002?gh_jid=8729121002) |
-| Dark Wolf Solutions | Junior Data Engineer | Chantilly, VA | 60d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Dark+Wolf+Solutions&job=356ea4cb-7be2-40ca-a25a-dce9b2b18789&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886212003) |
 | Johnson Health Tech Companies | Software Tester – Entry Level | Cottage Grove, WI | 60d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Johnson+Health+Tech+Companies&job=40e0d6b3-4285-4ca3-b56a-f8aeebc07253&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4431115) |
 
 ## Contributing
