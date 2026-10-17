@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T16:45:56.605Z",
+  "updatedAt": "2026-10-17T17:00:52.148Z",
   "jobs": [
     {
       "id": "2abb9b3d-e85c-43c3-bb5b-19e527d0d30e",
@@ -3633,18 +3633,6 @@
       "age": "59d",
       "url": "https://applyguy.ai/jobs?company=SpaceX&job=58986cd8-3d18-4b54-803a-67e2c0b3a4a3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boards.greenhouse.io/spacex/jobs/8729121002?gh_jid=8729121002"
-    },
-    {
-      "id": "356ea4cb-7be2-40ca-a25a-dce9b2b18789",
-      "company": "Dark Wolf Solutions",
-      "title": "Junior Data Engineer",
-      "location": "Chantilly, VA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-18",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Dark+Wolf+Solutions&job=356ea4cb-7be2-40ca-a25a-dce9b2b18789&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886212003"
     },
     {
       "id": "40e0d6b3-4285-4ca3-b56a-f8aeebc07253",
