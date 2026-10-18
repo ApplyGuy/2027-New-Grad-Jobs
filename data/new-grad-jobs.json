@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T22:46:21.189Z",
+  "updatedAt": "2026-10-18T23:01:21.630Z",
   "jobs": [
     {
       "id": "2abb9b3d-e85c-43c3-bb5b-19e527d0d30e",
@@ -3489,18 +3489,6 @@
       "age": "59d",
       "url": "https://applyguy.ai/jobs?company=DigitalOcean&job=1decb723-0eeb-4d37-ab13-a3cd3a144b41&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.digitalocean.com/careers/position/apply/?gh_jid=8101988"
-    },
-    {
-      "id": "159941a8-8b9e-471d-8f95-06bc469156b1",
-      "company": "Freeform",
-      "title": "Software Engineer (New Grad Summer 2027)",
-      "location": "Los Angeles, CA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-19",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Freeform&job=159941a8-8b9e-471d-8f95-06bc469156b1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003"
     }
   ]
 }
