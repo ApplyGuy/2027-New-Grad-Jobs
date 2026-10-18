@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T04:46:06.989Z",
+  "updatedAt": "2026-10-18T05:01:20.726Z",
   "jobs": [
     {
       "id": "2abb9b3d-e85c-43c3-bb5b-19e527d0d30e",
@@ -3561,18 +3561,6 @@
       "age": "60d",
       "url": "https://applyguy.ai/jobs?company=SpaceX&job=19fbb7b4-86a6-4e32-8d75-4e70215e9f27&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boards.greenhouse.io/spacex/jobs/8724316002?gh_jid=8724316002"
-    },
-    {
-      "id": "58986cd8-3d18-4b54-803a-67e2c0b3a4a3",
-      "company": "SpaceX",
-      "title": "New Graduate Engineer, Software (Starship)",
-      "location": "Starbase, TX",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-19",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=SpaceX&job=58986cd8-3d18-4b54-803a-67e2c0b3a4a3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://boards.greenhouse.io/spacex/jobs/8729121002?gh_jid=8729121002"
     }
   ]
 }
