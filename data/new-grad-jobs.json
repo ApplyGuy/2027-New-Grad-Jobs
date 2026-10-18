@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T01:31:16.088Z",
+  "updatedAt": "2026-10-18T01:46:29.000Z",
   "jobs": [
     {
       "id": "2abb9b3d-e85c-43c3-bb5b-19e527d0d30e",
@@ -3423,6 +3423,19 @@
       "age": "55d",
       "url": "https://www.google.com/about/careers/applications/jobs/results/84680705375642310-software-engineer-infrastructure-phd-early-career-2027-start",
       "listingUrl": "https://www.google.com/about/careers/applications/jobs/results/84680705375642310-software-engineer-infrastructure-phd-early-career-2027-start",
+      "applySupported": false
+    },
+    {
+      "id": "custom:google:123087196289671878",
+      "company": "Google",
+      "title": "Software Engineer, AI/Machine Learning,  PhD, Early Career, 2027 Start",
+      "location": "Multiple U.S. locations",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-08-24",
+      "age": "55d",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/123087196289671878-software-engineer-ai-machine-learning-phd-early-career-2027-start",
+      "listingUrl": "https://www.google.com/about/careers/applications/jobs/results/123087196289671878-software-engineer-ai-machine-learning-phd-early-career-2027-start",
       "applySupported": false
     },
     {
