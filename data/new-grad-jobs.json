@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T04:01:23.522Z",
+  "updatedAt": "2026-10-18T04:15:51.768Z",
   "jobs": [
     {
       "id": "2abb9b3d-e85c-43c3-bb5b-19e527d0d30e",
@@ -72,6 +72,19 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=98b1c033-95cb-4e3f-84b3-3f25dc3bdc59&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Tucson-AZ/Junior-Software-Engineer_R-00194640"
+    },
+    {
+      "id": "custom:microsoft:4bd409a0dbdb76f27fa1",
+      "company": "Microsoft",
+      "title": "Software Engineer",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-15",
+      "age": "3d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557026652",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557026652",
+      "applySupported": false
     },
     {
       "id": "480f9b78-725a-460c-9e9d-8769c4f065b6",
@@ -771,6 +784,19 @@
       "listingUrl": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Houston-Texas-United-States-of-America/Systems-Software-Engineer-I---Graduate_1213648"
     },
     {
+      "id": "custom:microsoft:2b898a24c4d4b7ada9a8",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Reston, VA · Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-06",
+      "age": "12d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557022487",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557022487",
+      "applySupported": false
+    },
+    {
       "id": "5853801d-d83f-43e6-9b3e-efc24489905f",
       "company": "NVIDIA",
       "title": "Systems Software Engineer,  AI and Cloud - New College Grad 2026",
@@ -1047,6 +1073,19 @@
       "listingUrl": "https://jobs.lever.co/fiscalnote/51a2e18f-1af1-416c-9544-5bede8e9537c"
     },
     {
+      "id": "custom:microsoft:d021de3d39fd02480f33",
+      "company": "Microsoft",
+      "title": "Software Engineering - CTJ - Poly",
+      "location": "Redmond, WA · Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-01",
+      "age": "17d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+      "applySupported": false
+    },
+    {
       "id": "8a04a03f-0345-428b-b6da-e3aa237b9d47",
       "company": "Pinterest",
       "title": "University Grad Software Engineer 2027 (USA)",
@@ -1213,6 +1252,19 @@
       "age": "18d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=3ab73a1f-8de1-42c7-9508-b70616da5375&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Embedded-Software-Engineer-I--Onsite-_01878013"
+    },
+    {
+      "id": "custom:microsoft:698bf1cfd0197fa8f311",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-29",
+      "age": "19d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "applySupported": false
     },
     {
       "id": "ff4d695b-6a47-433b-8c2e-cc351c3ef893",
@@ -2440,18 +2492,6 @@
       "listingUrl": "https://app.careerpuck.com/job-board/domino-data-lab/job/7992556?gh_jid=7992556"
     },
     {
-      "id": "662032b8-2d8c-42cb-9f2b-dc7cef3b1c64",
-      "company": "Esri",
-      "title": "Software Developer I - Web Components",
-      "location": "Redlands, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-09",
-      "age": "39d",
-      "url": "https://applyguy.ai/jobs?company=Esri&job=662032b8-2d8c-42cb-9f2b-dc7cef3b1c64&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://www.esri.com/careers/5227685007?gh_jid=5227685007"
-    },
-    {
       "id": "68115136-a172-4569-a36f-803b691890ca",
       "company": "Gravitate Energy LLC",
       "title": "Software Engineer - Entry Level (Summer 2027)",
@@ -2906,18 +2946,6 @@
       "age": "48d",
       "url": "https://applyguy.ai/jobs?company=DS2&job=7376b07d-6e0d-4597-b180-709d520ed22f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://ds2.breezy.hr/p/9fc9a1db41e1-junior-software-engineer-special-operations-mission-systems"
-    },
-    {
-      "id": "22d6ec8a-18c1-46ec-bf43-3e869b832319",
-      "company": "Esri",
-      "title": "Software Development Engineer I – ArcGIS Hub",
-      "location": "Vienna, VA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-31",
-      "age": "48d",
-      "url": "https://applyguy.ai/jobs?company=Esri&job=22d6ec8a-18c1-46ec-bf43-3e869b832319&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://www.esri.com/careers/5225186007?gh_jid=5225186007"
     },
     {
       "id": "4b8e4618-1876-4b59-b08f-7a990b1f3600",
@@ -3449,18 +3477,6 @@
       "age": "58d",
       "url": "https://applyguy.ai/jobs?company=Clearedge&job=8efc4f62-f3dd-46a3-b451-150d6bbe1148&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/clearedge/e72517e3-8831-46ea-8d44-41ab6ac22b4c"
-    },
-    {
-      "id": "4ba82972-5fcb-48be-9839-367c6b08e90b",
-      "company": "True Anomaly",
-      "title": "Software Engineer I, QA (New Grad)",
-      "location": "Denver, CO",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-21",
-      "age": "58d",
-      "url": "https://applyguy.ai/jobs?company=True+Anomaly&job=4ba82972-5fcb-48be-9839-367c6b08e90b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5219057007"
     },
     {
       "id": "f6470e7a-c59a-41c3-95f2-035f11bac538",
