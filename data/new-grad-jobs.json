@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T22:01:41.659Z",
+  "updatedAt": "2026-10-19T22:16:43.884Z",
   "jobs": [
     {
       "id": "59309ef8-db81-46ee-b752-a7699fbe97fe",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Dtna&job=6501b6c5-9cbe-4182-b5c0-365934f8dc23&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Detroit-MI-US/Software-Developer-I_DT-20202"
+    },
+    {
+      "id": "9a566cdb-3b27-4c4f-9c1c-c8d78075ca5d",
+      "company": "Wexinc",
+      "title": "Software Development Engineer 1",
+      "location": "Portland, ME",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-19",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Wexinc&job=9a566cdb-3b27-4c4f-9c1c-c8d78075ca5d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://wexinc.wd5.myworkdayjobs.com/wexinc/job/Portland-ME/Software-Development-Engineer-1_R23233"
     },
     {
       "id": "2abb9b3d-e85c-43c3-bb5b-19e527d0d30e",
