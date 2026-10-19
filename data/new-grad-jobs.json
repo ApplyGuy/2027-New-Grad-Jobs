@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-10-19T20:16:12.277Z",
+  "updatedAt": "2026-10-19T20:31:28.509Z",
   "jobs": [
+    {
+      "id": "59309ef8-db81-46ee-b752-a7699fbe97fe",
+      "company": "Cohere Health",
+      "title": "Software Engineer I",
+      "location": "United States",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-19",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Cohere+Health&job=59309ef8-db81-46ee-b752-a7699fbe97fe&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/coherehealth/jobs/8015082003"
+    },
+    {
+      "id": "6501b6c5-9cbe-4182-b5c0-365934f8dc23",
+      "company": "Dtna",
+      "title": "Software Developer I",
+      "location": "Detroit, MI",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-19",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Dtna&job=6501b6c5-9cbe-4182-b5c0-365934f8dc23&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Detroit-MI-US/Software-Developer-I_DT-20202"
+    },
     {
       "id": "2abb9b3d-e85c-43c3-bb5b-19e527d0d30e",
       "company": "Abnormal",
