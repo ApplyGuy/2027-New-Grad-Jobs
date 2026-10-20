@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T00:00:55.608Z",
+  "updatedAt": "2026-10-20T00:15:55.998Z",
   "jobs": [
     {
       "id": "59309ef8-db81-46ee-b752-a7699fbe97fe",
@@ -24,6 +24,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Dtna&job=6501b6c5-9cbe-4182-b5c0-365934f8dc23&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Detroit-MI-US/Software-Developer-I_DT-20202"
+    },
+    {
+      "id": "c09d79c4-a6ac-43c1-aee9-01ab920c3ee5",
+      "company": "Palantir Technologies",
+      "title": "Software Engineer, New Grad - Query Engines",
+      "location": "New York City, NY",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-10-19",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Palantir+Technologies&job=c09d79c4-a6ac-43c1-aee9-01ab920c3ee5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac"
     },
     {
       "id": "9a566cdb-3b27-4c4f-9c1c-c8d78075ca5d",
