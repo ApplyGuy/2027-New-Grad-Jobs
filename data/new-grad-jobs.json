@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T16:00:56.450Z",
+  "updatedAt": "2026-10-20T16:16:07.029Z",
   "jobs": [
     {
       "id": "custom:microsoft:f32e2fdda1f5bb47bf6d",
@@ -13,6 +13,18 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557004814",
       "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557004814",
       "applySupported": false
+    },
+    {
+      "id": "4b1b579d-49f1-49cd-ad9d-2b9eb436dcb4",
+      "company": "Mimecast",
+      "title": "Software Engineer I",
+      "location": "United States of America– Minnesota – Minneapolis",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-20",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Mimecast&job=4b1b579d-49f1-49cd-ad9d-2b9eb436dcb4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://mimecast.wd5.myworkdayjobs.com/mimecast-careers/job/United-States-of-America-Minnesota--Minneapolis/Software-Engineer-I_R6829"
     },
     {
       "id": "f68f1b9b-dbc5-4c58-b007-310815fb9140",
@@ -2421,18 +2433,6 @@
       "listingUrl": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-GA-ATL-201-STE-900/Mainframe-Software-Engineer-I--COBOL_JR0309079"
     },
     {
-      "id": "6540ec91-bbf0-4118-84be-6641c1442038",
-      "company": "Mimecast",
-      "title": "Software Engineer I",
-      "location": "United States of America– Minnesota – Minneapolis",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-14",
-      "age": "36d",
-      "url": "https://applyguy.ai/jobs?company=Mimecast&job=6540ec91-bbf0-4118-84be-6641c1442038&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://mimecast.wd5.myworkdayjobs.com/mimecast-careers/job/United-States-of-America-Minnesota--Minneapolis/Software-Engineer-I_R6708-1"
-    },
-    {
       "id": "d60923bc-6507-43d0-8a32-6d6556621e27",
       "company": "Miter",
       "title": "Software Engineer (New Grad)",
@@ -3562,18 +3562,6 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/123087196289671878-software-engineer-ai-machine-learning-phd-early-career-2027-start",
       "listingUrl": "https://www.google.com/about/careers/applications/jobs/results/123087196289671878-software-engineer-ai-machine-learning-phd-early-career-2027-start",
       "applySupported": false
-    },
-    {
-      "id": "8efc4f62-f3dd-46a3-b451-150d6bbe1148",
-      "company": "Clearedge",
-      "title": "Software Engineer I",
-      "location": "Annapolis Junction, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-21",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Clearedge&job=8efc4f62-f3dd-46a3-b451-150d6bbe1148&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.lever.co/clearedge/e72517e3-8831-46ea-8d44-41ab6ac22b4c"
     },
     {
       "id": "f6470e7a-c59a-41c3-95f2-035f11bac538",
