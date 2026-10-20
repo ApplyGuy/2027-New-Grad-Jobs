@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T20:46:08.282Z",
+  "updatedAt": "2026-10-20T21:01:06.876Z",
   "jobs": [
     {
       "id": "custom:microsoft:1580b7809f856a9bf227",
@@ -38,6 +38,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Mimecast&job=4b1b579d-49f1-49cd-ad9d-2b9eb436dcb4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://mimecast.wd5.myworkdayjobs.com/mimecast-careers/job/United-States-of-America-Minnesota--Minneapolis/Software-Engineer-I_R6829"
+    },
+    {
+      "id": "e41b41be-d53f-40ed-8678-7ee3243fe44d",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Richardson, TX",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-20",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=e41b41be-d53f-40ed-8678-7ee3243fe44d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01875410-1"
     },
     {
       "id": "f68f1b9b-dbc5-4c58-b007-310815fb9140",
