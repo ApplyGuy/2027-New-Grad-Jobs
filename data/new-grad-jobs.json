@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T03:16:07.808Z",
+  "updatedAt": "2026-10-20T03:30:59.257Z",
   "jobs": [
     {
       "id": "f99738d8-7b81-48a0-b4c4-02c81b3eab0f",
@@ -132,18 +132,6 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Costar&job=29c62f44-5fd2-4951-b2f3-b9d3e92054bf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://costar.wd1.myworkdayjobs.com/costarcareers/job/US-VA-Arlington/Software-Engineer-I--CoStar-Suite--Arlington--VA_R40122"
-    },
-    {
-      "id": "76520ed8-44e4-4518-94dc-d3430c7fb4a7",
-      "company": "Costar",
-      "title": "Software Engineer I - BizBuySell - San Francisco, CA",
-      "location": "CA San Francisco",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-15",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Costar&job=76520ed8-44e4-4518-94dc-d3430c7fb4a7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://costar.wd1.myworkdayjobs.com/costarcareers/job/US-CA-San-Francisco/Software-Engineer-I---BizBuySell---San-Francisco--CA_R40158-1"
     },
     {
       "id": "d1c24da0-056a-43dd-9778-5cc9e9b3966d",
