@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T12:31:29.057Z",
+  "updatedAt": "2026-10-20T12:46:37.074Z",
   "jobs": [
     {
       "id": "custom:microsoft:f32e2fdda1f5bb47bf6d",
@@ -49,6 +49,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Amat&job=d0b94642-d681-4f08-99d5-2f83fa740105&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Software-Engineer--Bachelors-Degree--New-College-Grad--Santa-Clara-_R2630683"
+    },
+    {
+      "id": "f209ba11-401e-46a1-b249-65599a09a397",
+      "company": "Citi",
+      "title": "Angular Developer / Frontend Engineer (Entry-Level)",
+      "location": "Irving Texas United States",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-10-19",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Citi&job=f209ba11-401e-46a1-b249-65599a09a397&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Angular-Developer---Frontend-Engineer--Entry-Level-_26999296"
     },
     {
       "id": "59309ef8-db81-46ee-b752-a7699fbe97fe",
