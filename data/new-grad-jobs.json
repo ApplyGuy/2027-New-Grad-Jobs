@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-10-20T07:01:22.068Z",
+  "updatedAt": "2026-10-20T07:16:41.802Z",
   "jobs": [
+    {
+      "id": "custom:microsoft:f32e2fdda1f5bb47bf6d",
+      "company": "Microsoft",
+      "title": "Software Engineer - Forward Deployed Engineer",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-20",
+      "age": "Today",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557004814",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557004814",
+      "applySupported": false
+    },
     {
       "id": "f99738d8-7b81-48a0-b4c4-02c81b3eab0f",
       "company": "Accenture Federal Services",
