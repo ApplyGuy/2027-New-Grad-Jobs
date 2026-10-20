@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T03:30:59.257Z",
+  "updatedAt": "2026-10-20T03:46:32.673Z",
   "jobs": [
     {
       "id": "f99738d8-7b81-48a0-b4c4-02c81b3eab0f",
@@ -132,6 +132,18 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Costar&job=29c62f44-5fd2-4951-b2f3-b9d3e92054bf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://costar.wd1.myworkdayjobs.com/costarcareers/job/US-VA-Arlington/Software-Engineer-I--CoStar-Suite--Arlington--VA_R40122"
+    },
+    {
+      "id": "62c3f3e1-6e46-4980-9127-83135354d79c",
+      "company": "Ascendanalytics",
+      "title": "Junior Software Engineer",
+      "location": "Boulder, CO",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-15",
+      "age": "5d",
+      "url": "https://applyguy.ai/jobs?company=Ascendanalytics&job=62c3f3e1-6e46-4980-9127-83135354d79c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://ascendanalytics.bamboohr.com/careers/42"
     },
     {
       "id": "d1c24da0-056a-43dd-9778-5cc9e9b3966d",
