@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T17:01:00.454Z",
+  "updatedAt": "2026-10-21T17:16:40.468Z",
   "jobs": [
     {
       "id": "custom:amazon:48eac83574c7bb118340",
@@ -13,6 +13,30 @@
       "url": "https://www.amazon.jobs/en/jobs/10584797/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
       "listingUrl": "https://www.amazon.jobs/en/jobs/10584797/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
       "applySupported": false
+    },
+    {
+      "id": "42c222fd-6821-4224-88de-081e1bf78188",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Tewksbury, MA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-21",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=42c222fd-6821-4224-88de-081e1bf78188&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01873222"
+    },
+    {
+      "id": "d8d8356c-c84d-4186-8dcf-0b0b63e20fe6",
+      "company": "RTX",
+      "title": "HWIL Software Engineer I",
+      "location": "Tucson, AZ",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-21",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=d8d8356c-c84d-4186-8dcf-0b0b63e20fe6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/HWIL-Software-Engineer-I_01874565"
     },
     {
       "id": "f70f735f-ce15-45e9-8f19-6fb78a5c0e07",
