@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T03:45:53.912Z",
+  "updatedAt": "2026-10-21T04:01:09.359Z",
   "jobs": [
     {
       "id": "custom:amazon:48eac83574c7bb118340",
@@ -64,6 +64,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Mimecast&job=4b1b579d-49f1-49cd-ad9d-2b9eb436dcb4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://mimecast.wd5.myworkdayjobs.com/mimecast-careers/job/United-States-of-America-Minnesota--Minneapolis/Software-Engineer-I_R6829"
+    },
+    {
+      "id": "f8dd0156-5e8d-4827-85a0-c09b023dbb85",
+      "company": "NVIDIA",
+      "title": "Software Engineer, Agent Performance Modeling - New College Grad 2026",
+      "location": "Santa Clara, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-10-20",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=f8dd0156-5e8d-4827-85a0-c09b023dbb85&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Agent-Performance-Modeling---New-College-Grad-2026_JR2028350"
     },
     {
       "id": "e41b41be-d53f-40ed-8678-7ee3243fe44d",
