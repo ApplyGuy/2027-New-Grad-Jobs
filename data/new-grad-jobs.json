@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T21:45:37.464Z",
+  "updatedAt": "2026-10-28T22:00:40.685Z",
   "jobs": [
     {
       "id": "bc47f456-a0b4-4b0b-af66-12765bb58a49",
@@ -24,6 +24,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Lnw&job=a48f3d4d-a52f-4c2c-aa2d-8f283bd6d9f5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Las-Vegas-NV/Associate-Software-Engineer_R322981"
+    },
+    {
+      "id": "e84023a0-6f72-4ec0-a30c-64202725294b",
+      "company": "Northrop Grumman",
+      "title": "2027 Associate Software Engineer / Software Engineer - Huntsville AL",
+      "location": "Huntsville, AL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=e84023a0-6f72-4ec0-a30c-64202725294b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Huntsville-AL_R10257986"
+    },
+    {
+      "id": "9e55f3c4-34e9-456c-b624-6eefbaba51d0",
+      "company": "Northrop Grumman",
+      "title": "Associate Software Engineer - Pathways Program - Aurora CO",
+      "location": "Aurora, CO",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=9e55f3c4-34e9-456c-b624-6eefbaba51d0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Aurora/Associate-Software-Engineer---Pathways-Program---Aurora-CO_R10258160"
     },
     {
       "id": "8834b582-df81-4778-995c-d3a57c063bf9",
@@ -120,6 +144,66 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=JND&job=ccea9774-5d18-4c98-90aa-84bb6b84c3bf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jnd-inc.breezy.hr/p/5b8c79658b3a-entry-level-software-tester-2605-3"
+    },
+    {
+      "id": "edd4dca9-1438-4680-8795-09995356c04e",
+      "company": "Northrop Grumman",
+      "title": "2027 Associate Software Engineer - Azusa CA",
+      "location": "Azusa, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-27",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=edd4dca9-1438-4680-8795-09995356c04e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-California-Azusa/XMLNAME-2027-Associate-Software-Engineer---Azusa-CA_R10257890"
+    },
+    {
+      "id": "cc131225-849e-4ea5-8d28-c3c484478db6",
+      "company": "Northrop Grumman",
+      "title": "Associate Software Engineer - Colorado Springs",
+      "location": "Colorado Springs, CO",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-27",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=cc131225-849e-4ea5-8d28-c3c484478db6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Colorado-Springs/Associate-Software-Engineer---Colorado-Springs_R10257912"
+    },
+    {
+      "id": "6866da89-e53a-4126-ba1e-19e5954873b9",
+      "company": "Northrop Grumman",
+      "title": "2027 Associate Software Engineer - Boulder CO",
+      "location": "Boulder, CO",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-27",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=6866da89-e53a-4126-ba1e-19e5954873b9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Boulder-CO_R10257908"
+    },
+    {
+      "id": "20bec8f7-10f7-4796-a478-9cb0df43f197",
+      "company": "Northrop Grumman",
+      "title": "Associate Software Engineer (BM/SRM) (26-464)",
+      "location": "Huntsville, AL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-27",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=20bec8f7-10f7-4796-a478-9cb0df43f197&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/Associate-Software-Engineer--BM-SRM---26-464-_R10257823"
+    },
+    {
+      "id": "1c557449-3d19-4a27-9c24-7a6a7263f36d",
+      "company": "Northrop Grumman",
+      "title": "2027 Associate Software Engineer / Software Engineer - Colorado Springs CO",
+      "location": "Colorado Springs, CO",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-27",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=1c557449-3d19-4a27-9c24-7a6a7263f36d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Colorado-Springs-CO_R10257768"
     },
     {
       "id": "d5405938-62c4-4d24-bac7-cce4c18a6686",
@@ -266,6 +350,18 @@
       "listingUrl": "https://job-boards.greenhouse.io/mlbevents/jobs/8300925"
     },
     {
+      "id": "fb4e9401-b053-4be2-8830-97b2fadcec96",
+      "company": "Northrop Grumman",
+      "title": "Associate Software Engineer / Software Engineer",
+      "location": "Huntsville, AL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-26",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=fb4e9401-b053-4be2-8830-97b2fadcec96&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/Associate-Software-Engineer---Software-Engineer_R10257599"
+    },
+    {
       "id": "e7a30f29-61b1-4bf1-a568-42eef4bda7fa",
       "company": "Pae",
       "title": "Entry Level Software Engineer - SECRET",
@@ -384,6 +480,19 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=958cc132-f5ac-4b38-9672-9d252e2e6cdc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/St-Louis-MO/Junior-Software-Developer_R-00195126"
+    },
+    {
+      "id": "custom:microsoft:49f781fd6996b68342cf",
+      "company": "Microsoft",
+      "title": "Software Engineering IC2",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-23",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044842",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557044842",
+      "applySupported": false
     },
     {
       "id": "8dbab289-7cde-4345-babd-47d7f4b403c6",
@@ -708,6 +817,19 @@
       "age": "12d",
       "url": "https://applyguy.ai/jobs?company=Costar&job=29c62f44-5fd2-4951-b2f3-b9d3e92054bf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://costar.wd1.myworkdayjobs.com/costarcareers/job/US-VA-Arlington/Software-Engineer-I--CoStar-Suite--Arlington--VA_R40122"
+    },
+    {
+      "id": "custom:microsoft:0f630ecfe069c97628d5",
+      "company": "Microsoft",
+      "title": "Software Engineer",
+      "location": "Cambridge, MA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-16",
+      "age": "12d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557038974",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557038974",
+      "applySupported": false
     },
     {
       "id": "f7ebb508-0882-4155-97d4-7fb2c364b3bc",
@@ -1455,6 +1577,19 @@
       "listingUrl": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Houston-Texas-United-States-of-America/Systems-Software-Engineer-I---Graduate_1213648"
     },
     {
+      "id": "custom:microsoft:2b898a24c4d4b7ada9a8",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Reston, VA · Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-06",
+      "age": "22d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557022487",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557022487",
+      "applySupported": false
+    },
+    {
       "id": "5853801d-d83f-43e6-9b3e-efc24489905f",
       "company": "NVIDIA",
       "title": "Systems Software Engineer,  AI and Cloud - New College Grad 2026",
@@ -1899,6 +2034,19 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Embedded-Software-Engineer-I--Onsite-_01878013"
     },
     {
+      "id": "custom:microsoft:698bf1cfd0197fa8f311",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-29",
+      "age": "29d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "applySupported": false
+    },
+    {
       "id": "ff4d695b-6a47-433b-8c2e-cc351c3ef893",
       "company": "NVIDIA",
       "title": "Applied Machine Learning Engineer, AI for VLSI Design - New College Grad 2026",
@@ -2005,18 +2153,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Momentum+Engineering%2C+Inc.&job=bf7f22f9-6a8e-4806-8c2f-f1b337b6bbfd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://ats.rippling.com/momentumcareers/jobs/4814716a-3d10-4dbf-9d13-b1d3e46b18de"
-    },
-    {
-      "id": "fe46e18c-6cf4-450c-ac9f-05641c8e825a",
-      "company": "Northrop Grumman",
-      "title": "Associate Software Engineer / Software Engineer",
-      "location": "Huntsville, AL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-28",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=fe46e18c-6cf4-450c-ac9f-05641c8e825a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/Associate-Software-Engineer---Software-Engineer_R10249088"
     },
     {
       "id": "56b69d96-0568-41e7-9db3-e9037f87b632",
