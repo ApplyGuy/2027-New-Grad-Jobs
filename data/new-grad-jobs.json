@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T17:31:06.725Z",
+  "updatedAt": "2026-10-28T17:45:34.104Z",
   "jobs": [
     {
       "id": "7dcb23f4-eb42-49bd-9cef-46fec5bff969",
@@ -1263,19 +1263,6 @@
       "age": "20d",
       "url": "https://applyguy.ai/jobs?company=Truist&job=31e9b1d3-c472-49ba-9086-a4fac7caabd0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://truist.wd1.myworkdayjobs.com/careers/job/Richmond-VA/Associate-Software-Engineer--Python---Data-Analytics_R0119972"
-    },
-    {
-      "id": "custom:amazon:b0c9151f72199fb4c351",
-      "company": "Amazon",
-      "title": "Software Development Engineer I, AWS IoT Fleet Management",
-      "location": "Seattle, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-07",
-      "age": "21d",
-      "url": "https://www.amazon.jobs/en/jobs/10571756/software-development-engineer-i-aws-iot-fleet-management",
-      "listingUrl": "https://www.amazon.jobs/en/jobs/10571756/software-development-engineer-i-aws-iot-fleet-management",
-      "applySupported": false
     },
     {
       "id": "6d99854b-652d-4be1-96b3-4e87c927ece5",
