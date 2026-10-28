@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T21:00:57.990Z",
+  "updatedAt": "2026-10-28T21:15:36.197Z",
   "jobs": [
     {
       "id": "bc47f456-a0b4-4b0b-af66-12765bb58a49",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=GRVTY&job=bc47f456-a0b4-4b0b-af66-12765bb58a49&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/grvty/jobs/4470580009"
+    },
+    {
+      "id": "a48f3d4d-a52f-4c2c-aa2d-8f283bd6d9f5",
+      "company": "Lnw",
+      "title": "Associate Software Engineer",
+      "location": "Las Vegas, NV",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Lnw&job=a48f3d4d-a52f-4c2c-aa2d-8f283bd6d9f5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Las-Vegas-NV/Associate-Software-Engineer_R322981"
     },
     {
       "id": "8834b582-df81-4778-995c-d3a57c063bf9",
