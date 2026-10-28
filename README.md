@@ -4,11 +4,14 @@
 
 A continuously verified list of **2027 New Grad software engineering jobs**, **entry-level software engineer jobs**, and early-career developer roles in the United States. Listings come directly from employer career pages and are maintained by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs).
 
+> [!TIP]
+> **Bring new-grad jobs to your Discord.** [Connect your channel →](https://applyguy.ai/community-feeds?feed=new-grad&utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
+>
+> Create a Discord channel webhook, sign in to Apply Guy, and paste its URL. Choose internships, new-grad jobs, or both. Free, with new listings only. Pause anytime.
+
 > 🚨 **Apply early.** New Grad roles fill quickly. [Get alerts and one-click apply with Apply Guy →](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
 
 ⭐ **Star this repo** to keep the list one click away.
-
-**Run a Discord community?** [Send new listings to your channel →](https://applyguy.ai/community-feeds?feed=new-grad&utm_source=github&utm_medium=repository). Connect a webhook and get new openings automatically.
 
 🎒 **Looking for internships?** Browse [2027 SWE & Product Internships →](https://github.com/ApplyGuy/2027-Internships)
 
