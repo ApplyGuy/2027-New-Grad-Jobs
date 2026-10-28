@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T22:30:38.306Z",
+  "updatedAt": "2026-10-28T22:45:14.500Z",
   "jobs": [
     {
       "id": "bc47f456-a0b4-4b0b-af66-12765bb58a49",
@@ -48,6 +48,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=9e55f3c4-34e9-456c-b624-6eefbaba51d0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Aurora/Associate-Software-Engineer---Pathways-Program---Aurora-CO_R10258160"
+    },
+    {
+      "id": "651fb924-4d6a-4682-9e60-2f53295c7e3c",
+      "company": "Priceline",
+      "title": "Junior Software Engineer",
+      "location": "New York",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-28",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Priceline&job=651fb924-4d6a-4682-9e60-2f53295c7e3c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://priceline.wd1.myworkdayjobs.com/priceline/job/New-York/Junior-Software-Engineer_R5885"
     },
     {
       "id": "8834b582-df81-4778-995c-d3a57c063bf9",
