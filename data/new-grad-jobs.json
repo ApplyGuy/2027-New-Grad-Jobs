@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T07:00:31.972Z",
+  "updatedAt": "2026-10-29T07:15:19.187Z",
   "jobs": [
     {
       "id": "de42505e-b669-448f-9062-bb95865207d1",
@@ -877,19 +877,6 @@
       "age": "13d",
       "url": "https://applyguy.ai/jobs?company=Costar&job=29c62f44-5fd2-4951-b2f3-b9d3e92054bf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://costar.wd1.myworkdayjobs.com/costarcareers/job/US-VA-Arlington/Software-Engineer-I--CoStar-Suite--Arlington--VA_R40122"
-    },
-    {
-      "id": "custom:microsoft:0f630ecfe069c97628d5",
-      "company": "Microsoft",
-      "title": "Software Engineer",
-      "location": "Cambridge, MA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-16",
-      "age": "13d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557038974",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557038974",
-      "applySupported": false
     },
     {
       "id": "f7ebb508-0882-4155-97d4-7fb2c364b3bc",
