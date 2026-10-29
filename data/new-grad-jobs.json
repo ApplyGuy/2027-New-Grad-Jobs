@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T04:00:44.666Z",
+  "updatedAt": "2026-10-29T04:15:47.164Z",
   "jobs": [
     {
       "id": "de42505e-b669-448f-9062-bb95865207d1",
@@ -2468,18 +2468,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/striveworks/jobs/8002825003"
     },
     {
-      "id": "7ddef0be-8f34-476d-9a69-e6328b92ad58",
-      "company": "Toshiba Global Commerce Solutions - External",
-      "title": "Associate Software Engineer",
-      "location": "Durham, NC",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-23",
-      "age": "36d",
-      "url": "https://applyguy.ai/jobs?company=Toshiba+Global+Commerce+Solutions+-+External&job=7ddef0be-8f34-476d-9a69-e6328b92ad58&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5247010007"
-    },
-    {
       "id": "45eeb54f-4059-4a3f-8724-17e49f574eae",
       "company": "Abnormal",
       "title": "Software Engineer 1 - Data Platforms",
@@ -3570,18 +3558,6 @@
       "age": "59d",
       "url": "https://applyguy.ai/jobs?company=Informaticon&job=271858e1-8a25-41ee-8f3c-6b1d382d0d55&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://informaticon.breezy.hr/p/25946aa0d5b1-junior-software-engineer-neu-ulm-m-w-d"
-    },
-    {
-      "id": "f5c0cedc-d923-4b0a-a20a-45b0d8d5b435",
-      "company": "INFORMATION SYSTEMS SOLUTIONS, INC",
-      "title": "Software Engineer I",
-      "location": "San Diego, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-31",
-      "age": "59d",
-      "url": "https://applyguy.ai/jobs?company=INFORMATION+SYSTEMS+SOLUTIONS%2C+INC&job=f5c0cedc-d923-4b0a-a20a-45b0d8d5b435&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4462746"
     },
     {
       "id": "84bd0668-da3f-4999-8757-7eb308dba16f",
