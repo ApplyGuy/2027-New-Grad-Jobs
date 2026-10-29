@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T09:45:27.610Z",
+  "updatedAt": "2026-10-29T10:00:14.635Z",
   "jobs": [
     {
       "id": "de42505e-b669-448f-9062-bb95865207d1",
@@ -276,6 +276,18 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=d5405938-62c4-4d24-bac7-cce4c18a6686&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I----Onsite-_01884645"
+    },
+    {
+      "id": "20b41755-8545-4e05-81e7-8a55684adb3a",
+      "company": "RTX",
+      "title": "Flight Control Software Engineer I (Onsite)",
+      "location": "Cedar Rapids, IA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-27",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=20b41755-8545-4e05-81e7-8a55684adb3a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineer-I--Onsite-_01870923"
     },
     {
       "id": "f57d3d47-9cac-4529-a2b3-179d2353f325",
@@ -744,18 +756,6 @@
       "age": "9d",
       "url": "https://applyguy.ai/jobs?company=Iqvia&job=8d17349b-ff79-4ee8-bb3b-e8bf897e90a0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://iqvia.wd1.myworkdayjobs.com/iqvia/job/Orlando-FL/MedTech-Field-Service-Software-Tech-Entry-level---Southeast-US_R1575309"
-    },
-    {
-      "id": "f68f1b9b-dbc5-4c58-b007-310815fb9140",
-      "company": "RTX",
-      "title": "Flight Control Software Engineer I (Onsite)",
-      "location": "Cedar Rapids, IA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-20",
-      "age": "9d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=f68f1b9b-dbc5-4c58-b007-310815fb9140&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineer-I--Onsite-_01871083"
     },
     {
       "id": "f99738d8-7b81-48a0-b4c4-02c81b3eab0f",
