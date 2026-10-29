@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T02:30:16.618Z",
+  "updatedAt": "2026-10-29T02:45:17.627Z",
   "jobs": [
     {
       "id": "de42505e-b669-448f-9062-bb95865207d1",
@@ -36,6 +36,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=GRVTY&job=bc47f456-a0b4-4b0b-af66-12765bb58a49&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/grvty/jobs/4470580009"
+    },
+    {
+      "id": "aa20b970-8500-41da-8adb-c82f01e1b0a2",
+      "company": "Leidos",
+      "title": "Jr. Software Engineer",
+      "location": "Bethesda, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-28",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Leidos&job=aa20b970-8500-41da-8adb-c82f01e1b0a2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Bethesda-MD/Jr-Software-Engineer_R-00195656"
     },
     {
       "id": "a48f3d4d-a52f-4c2c-aa2d-8f283bd6d9f5",
@@ -2298,18 +2310,6 @@
       "age": "35d",
       "url": "https://applyguy.ai/jobs?company=Endictus+Corp&job=1b09b691-d5fb-49ee-a263-78f2980a667e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4534532"
-    },
-    {
-      "id": "fd732419-b13b-42fa-9282-da5f1b875e17",
-      "company": "Leidos",
-      "title": "Jr. Software Engineer",
-      "location": "Bethesda, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-24",
-      "age": "35d",
-      "url": "https://applyguy.ai/jobs?company=Leidos&job=fd732419-b13b-42fa-9282-da5f1b875e17&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Bethesda-MD/Jr-Software-Engineer_R-00175979"
     },
     {
       "id": "545f8366-264d-4976-b69d-63c0310071f3",
