@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-29T00:45:19.117Z",
+  "updatedAt": "2026-10-29T01:00:18.782Z",
   "jobs": [
+    {
+      "id": "de42505e-b669-448f-9062-bb95865207d1",
+      "company": "Boeing",
+      "title": "Entry-Level F-15 Flight Test Data Engineer",
+      "location": "Eglin AFB, FL",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-10-28",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Boeing&job=de42505e-b669-448f-9062-bb95865207d1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_recall/job/USA---Eglin-AFB-FL/Entry-Level-F-15-Flight-Test-Data-Engineer_JR2026506850-3"
+    },
     {
       "id": "bc47f456-a0b4-4b0b-af66-12765bb58a49",
       "company": "GRVTY",
