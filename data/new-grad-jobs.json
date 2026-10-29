@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-29T13:45:12.528Z",
+  "updatedAt": "2026-10-29T14:00:48.102Z",
   "jobs": [
+    {
+      "id": "97f132d8-53ef-4f98-895a-7e06c9cde589",
+      "company": "Tsc",
+      "title": "Software Engineer I",
+      "location": "Plymouth, MA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-29",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Tsc&job=97f132d8-53ef-4f98-895a-7e06c9cde589&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Plymouth-MA/Software-Engineer-I_JR2890"
+    },
     {
       "id": "de42505e-b669-448f-9062-bb95865207d1",
       "company": "Boeing",
