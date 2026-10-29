@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T13:00:39.632Z",
+  "updatedAt": "2026-10-29T13:15:17.856Z",
   "jobs": [
     {
       "id": "de42505e-b669-448f-9062-bb95865207d1",
@@ -552,6 +552,19 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=958cc132-f5ac-4b38-9672-9d252e2e6cdc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/St-Louis-MO/Junior-Software-Developer_R-00195126"
+    },
+    {
+      "id": "custom:microsoft:49f781fd6996b68342cf",
+      "company": "Microsoft",
+      "title": "Software Engineering IC2",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-23",
+      "age": "6d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044842",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557044842",
+      "applySupported": false
     },
     {
       "id": "8dbab289-7cde-4345-babd-47d7f4b403c6",
@@ -1611,6 +1624,19 @@
       "listingUrl": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Houston-Texas-United-States-of-America/Systems-Software-Engineer-I---Graduate_1213648"
     },
     {
+      "id": "custom:microsoft:2b898a24c4d4b7ada9a8",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Reston, VA · Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-06",
+      "age": "23d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557022487",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557022487",
+      "applySupported": false
+    },
+    {
       "id": "5853801d-d83f-43e6-9b3e-efc24489905f",
       "company": "NVIDIA",
       "title": "Systems Software Engineer,  AI and Cloud - New College Grad 2026",
@@ -2053,6 +2079,19 @@
       "age": "29d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=3ab73a1f-8de1-42c7-9508-b70616da5375&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Embedded-Software-Engineer-I--Onsite-_01878013"
+    },
+    {
+      "id": "custom:microsoft:698bf1cfd0197fa8f311",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-29",
+      "age": "30d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "applySupported": false
     },
     {
       "id": "ff4d695b-6a47-433b-8c2e-cc351c3ef893",
