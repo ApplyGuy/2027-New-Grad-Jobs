@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T13:00:47.683Z",
+  "updatedAt": "2026-10-30T13:15:34.704Z",
   "jobs": [
     {
       "id": "2560aa9d-5687-4c22-829a-3f4e84f73392",
@@ -3494,18 +3494,6 @@
       "age": "60d",
       "url": "https://applyguy.ai/jobs?company=Palantir+Technologies&job=ad4842ed-8bfb-4627-950f-d82445e46845&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/palantir/701a9307-0619-45d3-b077-cabe9897cd12"
-    },
-    {
-      "id": "775db71d-a3fb-446d-a7c9-ac080567114c",
-      "company": "Precisely US Jobs",
-      "title": "Associate software Engineer (Python AI)",
-      "location": "United States",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-31",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Precisely+US+Jobs&job=775db71d-a3fb-446d-a7c9-ac080567114c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://www.precisely.com/careers-and-culture/us-jobs/job/4722721005?gh_jid=4722721005"
     },
     {
       "id": "13c8afc0-3a16-47c3-848e-4a953b43c278",
