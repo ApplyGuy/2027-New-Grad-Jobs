@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-30T05:00:39.489Z",
+  "updatedAt": "2026-10-30T05:15:33.032Z",
   "jobs": [
+    {
+      "id": "02420761-44db-4978-b66e-199bc07555c2",
+      "company": "Captivation Software",
+      "title": "Radio Frequency Software Engineer 1 - C++/Linux/Python/DSP",
+      "location": "Annapolis Junction, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-29",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Captivation+Software&job=02420761-44db-4978-b66e-199bc07555c2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/captivation/jobs/5467652008"
+    },
     {
       "id": "2a78b327-42f7-4beb-ba26-016e94fc0f99",
       "company": "Costar",
