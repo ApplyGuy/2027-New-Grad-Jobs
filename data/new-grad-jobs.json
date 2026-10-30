@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T16:15:32.930Z",
+  "updatedAt": "2026-10-30T16:30:35.413Z",
   "jobs": [
     {
       "id": "2560aa9d-5687-4c22-829a-3f4e84f73392",
@@ -3482,18 +3482,6 @@
       "age": "60d",
       "url": "https://applyguy.ai/jobs?company=Katalyst+Space+Technologies&job=84bd0668-da3f-4999-8757-7eb308dba16f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/katalyst/jobs/6176710004"
-    },
-    {
-      "id": "ad4842ed-8bfb-4627-950f-d82445e46845",
-      "company": "Palantir Technologies",
-      "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
-      "location": "Honolulu, HI",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-31",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Palantir+Technologies&job=ad4842ed-8bfb-4627-950f-d82445e46845&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.lever.co/palantir/701a9307-0619-45d3-b077-cabe9897cd12"
     },
     {
       "id": "13c8afc0-3a16-47c3-848e-4a953b43c278",
