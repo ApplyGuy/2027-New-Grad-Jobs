@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T19:00:47.156Z",
+  "updatedAt": "2026-10-30T19:15:49.072Z",
   "jobs": [
     {
       "id": "2560aa9d-5687-4c22-829a-3f4e84f73392",
@@ -3482,18 +3482,6 @@
       "age": "60d",
       "url": "https://applyguy.ai/jobs?company=DS2&job=7376b07d-6e0d-4597-b180-709d520ed22f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://ds2.breezy.hr/p/9fc9a1db41e1-junior-software-engineer-special-operations-mission-systems"
-    },
-    {
-      "id": "4b8e4618-1876-4b59-b08f-7a990b1f3600",
-      "company": "Everlaw",
-      "title": "Software Engineer I",
-      "location": "Oakland, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-08-31",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Everlaw&job=4b8e4618-1876-4b59-b08f-7a990b1f3600&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/everlaw/jobs/4705236006"
     },
     {
       "id": "84bd0668-da3f-4999-8757-7eb308dba16f",
