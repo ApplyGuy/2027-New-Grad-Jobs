@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-30T09:00:37.842Z",
+  "updatedAt": "2026-10-30T09:15:34.015Z",
   "jobs": [
+    {
+      "id": "2560aa9d-5687-4c22-829a-3f4e84f73392",
+      "company": "Saabusa",
+      "title": "Associate Software Engineer",
+      "location": "East Syracuse, NY (Collamer)",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-30",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Saabusa&job=2560aa9d-5687-4c22-829a-3f4e84f73392&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Associate-Software-Engineer_R-03377-1"
+    },
     {
       "id": "02420761-44db-4978-b66e-199bc07555c2",
       "company": "Captivation Software",
