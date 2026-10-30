@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T22:15:44.164Z",
+  "updatedAt": "2026-10-30T22:31:14.858Z",
   "jobs": [
     {
       "id": "d2ae74e3-21ac-4447-8fce-e94faf6dd843",
@@ -3494,18 +3494,6 @@
       "age": "60d",
       "url": "https://applyguy.ai/jobs?company=Katalyst+Space+Technologies&job=84bd0668-da3f-4999-8757-7eb308dba16f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/katalyst/jobs/6176710004"
-    },
-    {
-      "id": "13c8afc0-3a16-47c3-848e-4a953b43c278",
-      "company": "Stripe",
-      "title": "Software Engineer, New Grad",
-      "location": "San Francisco, CA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-08-31",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Stripe&job=13c8afc0-3a16-47c3-848e-4a953b43c278&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://stripe.com/jobs/search?gh_jid=8128744"
     }
   ]
 }
