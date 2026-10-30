@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T03:45:36.817Z",
+  "updatedAt": "2026-10-30T04:00:33.605Z",
   "jobs": [
     {
       "id": "2a78b327-42f7-4beb-ba26-016e94fc0f99",
@@ -48,6 +48,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=f9966cbf-e8df-472d-a375-ee3df7b99f04&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineer-I--Onsite-_01885857"
+    },
+    {
+      "id": "27486e1a-f062-44c7-aa01-41299db69665",
+      "company": "Tsc",
+      "title": "Junior Software Engineer (UAS)",
+      "location": "Arlington, VA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-29",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Tsc&job=27486e1a-f062-44c7-aa01-41299db69665&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Arlington-VA/Junior-Software-Engineer--UAS-_JR2896"
     },
     {
       "id": "97f132d8-53ef-4f98-895a-7e06c9cde589",
