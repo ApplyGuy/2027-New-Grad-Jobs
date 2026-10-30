@@ -1,6 +1,6 @@
 # 2027 New Grad Software Engineering Jobs
 
-[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-291-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
+[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-292-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
 
 A continuously verified list of **2027 New Grad software engineering jobs**, **entry-level software engineer jobs**, and early-career developer roles in the United States. Listings come directly from employer career pages and are maintained by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs).
 
@@ -15,9 +15,9 @@ A continuously verified list of **2027 New Grad software engineering jobs**, **e
 
 🎒 **Looking for internships?** Browse [2027 SWE & Product Internships →](https://github.com/ApplyGuy/2027-Internships)
 
-- **291** active U.S. software roles posted within the last **60 days**
-- **127** explicitly labeled New Grad / university graduate / early career
-- Last refresh: **Oct 29, 2026, 5:01 PM PDT**
+- **292** active U.S. software roles posted within the last **60 days**
+- **128** explicitly labeled New Grad / university graduate / early career
+- Last refresh: **Oct 29, 2026, 5:15 PM PDT**
 - Machine-readable feed: [data/new-grad-jobs.json](data/new-grad-jobs.json)
 
 Listings with the orange **Apply Guy** button support one-click apply through [Apply Guy](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs). Blue **View** buttons open the employer's career site directly.
@@ -27,6 +27,7 @@ Listings with the orange **Apply Guy** button support one-click apply through [A
 | Company | Role | Location | Posted | Actions |
 |---|---|---|---:|---|
 | Costar | Software Engineer I (C#/.NET) | VA Arlington | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Costar&job=2a78b327-42f7-4beb-ba26-016e94fc0f99&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://costar.wd1.myworkdayjobs.com/costarcareers/job/US-VA-Arlington/Software-Engineer-I--C--NET-_R40234) |
+| Northwood Space | Software Engineer, Platform (Early Career) | Torrance, CA | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Northwood+Space&job=bdc1aa6e-8d9f-4307-b947-4b701492c2a2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/northwoodspace/f7b9e8d5-7368-4a54-b445-ff647f12b1b6) |
 | RTX | Software Engineer I (Onsite) | San Jose, CA | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=f9966cbf-e8df-472d-a375-ee3df7b99f04&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineer-I--Onsite-_01885857) |
 | Tsc | Software Engineer I | Plymouth, MA | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Tsc&job=97f132d8-53ef-4f98-895a-7e06c9cde589&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Plymouth-MA/Software-Engineer-I_JR2890) |
 | Boeing | Entry-Level F-15 Flight Test Data Engineer | Eglin AFB, FL | 2d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Boeing&job=de42505e-b669-448f-9062-bb95865207d1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://boeing.wd1.myworkdayjobs.com/external_recall/job/USA---Eglin-AFB-FL/Entry-Level-F-15-Flight-Test-Data-Engineer_JR2026506850-3) |
