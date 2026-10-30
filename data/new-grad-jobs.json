@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T04:00:33.605Z",
+  "updatedAt": "2026-10-30T04:15:32.301Z",
   "jobs": [
     {
       "id": "2a78b327-42f7-4beb-ba26-016e94fc0f99",
@@ -2115,18 +2115,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/evolutioniq/jobs/6210230004"
     },
     {
-      "id": "ad53d16e-b774-42df-ada3-0197b04014ac",
-      "company": "Lhw",
-      "title": "Associate Data Engineer",
-      "location": "New York City, NY",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-28",
-      "age": "32d",
-      "url": "https://applyguy.ai/jobs?company=Lhw&job=ad53d16e-b774-42df-ada3-0197b04014ac&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://lhw.bamboohr.com/careers/99"
-    },
-    {
       "id": "eb1a30c8-9a96-4179-bb2a-a1ba6071287e",
       "company": "Momentum Engineering, Inc.",
       "title": "ME00682-Software Engineer 1",
@@ -2173,18 +2161,6 @@
       "age": "32d",
       "url": "https://applyguy.ai/jobs?company=Wattswater&job=36338c1a-01ee-4c02-aa12-0f8c3bb22c14&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://wattswater.wd5.myworkdayjobs.com/external/job/Blauvelt-NY/Software-Engineer-I_10017656"
-    },
-    {
-      "id": "f9217c8e-cb5b-49c2-8a24-ffd1e2e08c75",
-      "company": "steampunk",
-      "title": "Associate Software Developer",
-      "location": "McLean, VA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-25",
-      "age": "35d",
-      "url": "https://applyguy.ai/jobs?company=steampunk&job=f9217c8e-cb5b-49c2-8a24-ffd1e2e08c75&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://careers-steampunk.icims.com/jobs/8238/associate-software-developer/job"
     },
     {
       "id": "d50f22cc-897e-41c5-b984-00cbee7cdc86",
@@ -3184,18 +3160,6 @@
       "listingUrl": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b"
     },
     {
-      "id": "dc89dc59-9cd2-451e-8660-b420d6eb9fe4",
-      "company": "Awetomaton",
-      "title": "Junior Software Engineer (Full Stack)",
-      "location": "Beavercreek, OH",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-04",
-      "age": "56d",
-      "url": "https://applyguy.ai/jobs?company=Awetomaton&job=dc89dc59-9cd2-451e-8660-b420d6eb9fe4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/awetomaton/jobs/5416716008"
-    },
-    {
       "id": "7ac80e94-f732-4452-b67f-afb803d11ec3",
       "company": "DoorDash USA",
       "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US",
@@ -3422,18 +3386,6 @@
       "age": "59d",
       "url": "https://applyguy.ai/jobs?company=MyFunded+Futures&job=1858378d-a59e-4b85-9ad1-37eb6f378282&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/myfundedfutures/jobs/4390595009"
-    },
-    {
-      "id": "428ae29f-b0bd-456c-af7a-83a47fc0fd89",
-      "company": "Tebra",
-      "title": "Software Engineer I",
-      "location": "Remote, U.S.",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-01",
-      "age": "59d",
-      "url": "https://applyguy.ai/jobs?company=Tebra&job=428ae29f-b0bd-456c-af7a-83a47fc0fd89&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/tebra/jobs/4726985005"
     },
     {
       "id": "fe97f5fa-ffc5-492e-84df-e6e60be926a9",
