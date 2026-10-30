@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T00:01:12.333Z",
+  "updatedAt": "2026-10-30T00:15:38.583Z",
   "jobs": [
     {
       "id": "2a78b327-42f7-4beb-ba26-016e94fc0f99",
@@ -12,6 +12,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Costar&job=2a78b327-42f7-4beb-ba26-016e94fc0f99&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://costar.wd1.myworkdayjobs.com/costarcareers/job/US-VA-Arlington/Software-Engineer-I--C--NET-_R40234"
+    },
+    {
+      "id": "bdc1aa6e-8d9f-4307-b947-4b701492c2a2",
+      "company": "Northwood Space",
+      "title": "Software Engineer, Platform (Early Career)",
+      "location": "Torrance, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-10-29",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Northwood+Space&job=bdc1aa6e-8d9f-4307-b947-4b701492c2a2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.ashbyhq.com/northwoodspace/f7b9e8d5-7368-4a54-b445-ff647f12b1b6"
     },
     {
       "id": "f9966cbf-e8df-472d-a375-ee3df7b99f04",
