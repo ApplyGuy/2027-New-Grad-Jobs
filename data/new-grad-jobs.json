@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-31T04:15:50.352Z",
+  "updatedAt": "2026-10-31T04:31:00.095Z",
   "jobs": [
+    {
+      "id": "7cf86fbd-f042-4209-b194-7435ab3e738b",
+      "company": "Northrop Grumman",
+      "title": "Associate Software Engineer - Hollywood (MD)",
+      "location": "Hollywood, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-31",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=7cf86fbd-f042-4209-b194-7435ab3e738b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Maryland-Hollywood/Associate-Software-Engineer---Hollywood--MD-_R10258018"
+    },
     {
       "id": "d2ae74e3-21ac-4447-8fce-e94faf6dd843",
       "company": "Built Technologies",
