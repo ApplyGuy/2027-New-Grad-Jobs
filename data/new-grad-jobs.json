@@ -1,18 +1,6 @@
 {
-  "updatedAt": "2026-10-31T06:16:06.288Z",
+  "updatedAt": "2026-10-31T06:30:15.690Z",
   "jobs": [
-    {
-      "id": "7cf86fbd-f042-4209-b194-7435ab3e738b",
-      "company": "Northrop Grumman",
-      "title": "Associate Software Engineer - Hollywood (MD)",
-      "location": "Hollywood, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-31",
-      "age": "Today",
-      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=7cf86fbd-f042-4209-b194-7435ab3e738b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Maryland-Hollywood/Associate-Software-Engineer---Hollywood--MD-_R10258018"
-    },
     {
       "id": "d2ae74e3-21ac-4447-8fce-e94faf6dd843",
       "company": "Built Technologies",
@@ -49,30 +37,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Pae&job=e7a30f29-61b1-4bf1-a568-42eef4bda7fa&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer---SECRET_R0173771"
-    },
-    {
-      "id": "790d4bd1-b32a-4dad-b91b-a08df16819a7",
-      "company": "RTX",
-      "title": "Entry-Level Software Developer - Application Support & Sustainment (Remote)",
-      "location": "Cedar Rapids, IA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-10-30",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=790d4bd1-b32a-4dad-b91b-a08df16819a7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Entry-Level-Software-Developer---Application-Support---Sustainment--Remote-_01885356"
-    },
-    {
-      "id": "2560aa9d-5687-4c22-829a-3f4e84f73392",
-      "company": "Saabusa",
-      "title": "Associate Software Engineer",
-      "location": "East Syracuse, NY (Collamer)",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-30",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Saabusa&job=2560aa9d-5687-4c22-829a-3f4e84f73392&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Associate-Software-Engineer_R-03377-1"
     },
     {
       "id": "9804d1b2-22d0-4787-a373-cc9e29e0dd3b",
@@ -123,30 +87,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/captivation/jobs/5467652008"
     },
     {
-      "id": "2a78b327-42f7-4beb-ba26-016e94fc0f99",
-      "company": "Costar",
-      "title": "Software Engineer I (C#/.NET)",
-      "location": "VA Arlington",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-29",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=Costar&job=2a78b327-42f7-4beb-ba26-016e94fc0f99&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://costar.wd1.myworkdayjobs.com/costarcareers/job/US-VA-Arlington/Software-Engineer-I--C--NET-_R40234"
-    },
-    {
-      "id": "7ddd10b7-3603-4402-8faf-660128e31f77",
-      "company": "Moog",
-      "title": "Associate Software Engineer",
-      "location": "Santa Barbara, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-29",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=Moog&job=7ddd10b7-3603-4402-8faf-660128e31f77&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Santa-Barbara-CA/Embedded-Software-Engineer_R-26-17229"
-    },
-    {
       "id": "bdc1aa6e-8d9f-4307-b947-4b701492c2a2",
       "company": "Northwood Space",
       "title": "Software Engineer, Platform (Early Career)",
@@ -157,18 +97,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Northwood+Space&job=bdc1aa6e-8d9f-4307-b947-4b701492c2a2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/northwoodspace/f7b9e8d5-7368-4a54-b445-ff647f12b1b6"
-    },
-    {
-      "id": "f9966cbf-e8df-472d-a375-ee3df7b99f04",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "San Jose, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-29",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=f9966cbf-e8df-472d-a375-ee3df7b99f04&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineer-I--Onsite-_01885857"
     },
     {
       "id": "27486e1a-f062-44c7-aa01-41299db69665",
