@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T06:00:40.531Z",
+  "updatedAt": "2026-10-31T06:16:06.288Z",
   "jobs": [
     {
       "id": "7cf86fbd-f042-4209-b194-7435ab3e738b",
@@ -133,18 +133,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Costar&job=2a78b327-42f7-4beb-ba26-016e94fc0f99&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://costar.wd1.myworkdayjobs.com/costarcareers/job/US-VA-Arlington/Software-Engineer-I--C--NET-_R40234"
-    },
-    {
-      "id": "38193204-f09a-45a1-b354-694cc9fe2b4e",
-      "company": "Leidos",
-      "title": "Jr Software Developer",
-      "location": "Eagan, MN",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-29",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=Leidos&job=38193204-f09a-45a1-b354-694cc9fe2b4e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Eagan-MN/Jr-Software-Developer_R-00195855"
     },
     {
       "id": "7ddd10b7-3603-4402-8faf-660128e31f77",
