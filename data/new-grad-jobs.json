@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T12:45:26.669Z",
+  "updatedAt": "2026-11-01T13:00:48.518Z",
   "jobs": [
     {
       "id": "e22e3647-5d38-46e1-aeb7-903d1674af64",
@@ -3422,18 +3422,6 @@
       "age": "60d",
       "url": "https://applyguy.ai/jobs?company=Minitab&job=39fb6639-86f2-4fe1-b854-9500e2cc1c1c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/minitab/jobs/7984770003"
-    },
-    {
-      "id": "31f14e57-85df-4a99-98b6-c66c8c902675",
-      "company": "SMX",
-      "title": "Junior Data Engineer (5566)",
-      "location": "United States",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-02",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=SMX&job=31f14e57-85df-4a99-98b6-c66c8c902675&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://www.smxtech.com/careers/?gh_jid=7982420003"
     }
   ]
 }
