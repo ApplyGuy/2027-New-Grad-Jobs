@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T19:30:22.251Z",
+  "updatedAt": "2026-11-01T19:45:24.023Z",
   "jobs": [
     {
       "id": "e22e3647-5d38-46e1-aeb7-903d1674af64",
@@ -3425,18 +3425,6 @@
       "age": "59d",
       "url": "https://applyguy.ai/jobs?company=Self+Financial&job=acdb4a13-5c0b-4db3-a175-04d356c4a4b6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/selffinancial/jobs/6181750004"
-    },
-    {
-      "id": "cc18b3e6-a92a-4b00-82ea-d0e058dc6d9d",
-      "company": "Anduril Industries",
-      "title": "2027 Early Career Flight Software Engineer",
-      "location": "Costa Mesa, CA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-09-02",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Anduril+Industries&job=cc18b3e6-a92a-4b00-82ea-d0e058dc6d9d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007"
     },
     {
       "id": "735ad0ed-8b75-4417-8c17-dc907c17bcde",
