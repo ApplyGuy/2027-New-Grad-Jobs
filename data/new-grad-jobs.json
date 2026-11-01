@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T08:00:24.740Z",
+  "updatedAt": "2026-11-01T08:15:15.053Z",
   "jobs": [
     {
       "id": "7cf86fbd-f042-4209-b194-7435ab3e738b",
@@ -60,6 +60,18 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Handshake&job=ffce5aa9-cea7-4425-8f9d-124d271670e0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/handshake/c2cea12b-4dba-4782-ac2d-279c6865a4b7"
+    },
+    {
+      "id": "aa52da8b-17fe-4d79-b0c1-df51183432f3",
+      "company": "NVIDIA",
+      "title": "Software Engineer, Hardware Tools and Methodology - New College Grad 2026",
+      "location": "Santa Clara, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-10-30",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=aa52da8b-17fe-4d79-b0c1-df51183432f3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659"
     },
     {
       "id": "e7a30f29-61b1-4bf1-a568-42eef4bda7fa",
