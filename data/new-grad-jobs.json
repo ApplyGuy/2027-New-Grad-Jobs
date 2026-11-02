@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T22:15:18.706Z",
+  "updatedAt": "2026-11-02T22:30:50.778Z",
   "jobs": [
     {
       "id": "custom:google:109116638069957318",
@@ -3411,18 +3411,6 @@
       "age": "59d",
       "url": "https://applyguy.ai/jobs?company=Scale+AI&job=75355fb4-c0cd-403e-87d8-a60e28a09e4b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005"
-    },
-    {
-      "id": "359854ab-f2d8-4723-9cee-4be6b6cdbd10",
-      "company": "Accenture Federal Services",
-      "title": "Associate Software Engineer-Hire-to-Train Program (Pega)",
-      "location": "Washington, DC",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-03",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Accenture+Federal+Services&job=359854ab-f2d8-4723-9cee-4be6b6cdbd10&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://boards.greenhouse.io/accenturefederalservices/jobs/4711147006?gh_jid=4711147006"
     }
   ]
 }
