@@ -17,7 +17,7 @@ A continuously verified list of **2027 New Grad software engineering jobs**, **e
 
 - **286** active U.S. software roles posted within the last **60 days**
 - **118** explicitly labeled New Grad / university graduate / early career
-- Last refresh: **Nov 3, 2026, 9:00 AM PST**
+- Last refresh: **Nov 3, 2026, 9:15 AM PST**
 - Machine-readable feed: [data/new-grad-jobs.json](data/new-grad-jobs.json)
 
 Listings with the orange **Apply Guy** button support one-click apply through [Apply Guy](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs). Blue **View** buttons open the employer's career site directly.
@@ -26,7 +26,7 @@ Listings with the orange **Apply Guy** button support one-click apply through [A
 
 | Company | Role | Location | Posted | Actions |
 |---|---|---|---:|---|
-| Maxar | Junior Data Engineer (TS/SCI) | Herndon, VA | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Maxar&job=4b316edb-0033-4605-9dfd-6f7c6bbf51e5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://maxar.wd1.myworkdayjobs.com/cleared_opportunities/job/Herndon-VA/Junior-Data-Engineer--TS-SCI-_R24862) |
+| Maxar | Junior Data Engineer (TS/SCI) | Herndon, VA | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Maxar&job=f52a01c7-4e0d-408c-9109-5e63c36068bf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://maxar.wd1.myworkdayjobs.com/vantor/job/Herndon-VA/Junior-Data-Engineer--TS-SCI-_R24862-3) |
 | Peraton | Junior Software Engineer (AWS Cloud Services) | Lanham, MD | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Peraton&job=ac389b57-e514-46b7-9378-572965380367&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://careers-peraton.icims.com/jobs/173024/junior-software-engineer-%28aws-cloud-services%29/job) |
 | RTX | Embedded Security Software Engineer I (Onsite) | El Segundo, CA | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=c831e85f-0cd5-4395-bbe7-54e30cbe14dd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Security-Software-Engineer-I--Onsite-_01881355) |
 | Google | Software Engineer II, Early Career | Multiple U.S. locations | 1d | [![View original listing](assets/view-listing.svg)](https://www.google.com/about/careers/applications/jobs/results/109116638069957318-software-engineer-ii-early-career) |
