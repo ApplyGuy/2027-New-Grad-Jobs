@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T19:00:40.023Z",
+  "updatedAt": "2026-11-03T19:15:43.094Z",
   "jobs": [
     {
       "id": "f52a01c7-4e0d-408c-9109-5e63c36068bf",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Peraton&job=ac389b57-e514-46b7-9378-572965380367&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://careers-peraton.icims.com/jobs/173024/junior-software-engineer-%28aws-cloud-services%29/job"
+    },
+    {
+      "id": "662fb1bd-24e6-4ea5-b116-afc48f80a575",
+      "company": "Quickenloans",
+      "title": "Software Engineer I",
+      "location": "Detroit, MI",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-03",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Quickenloans&job=662fb1bd-24e6-4ea5-b116-afc48f80a575&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Software-Engineer-I_R-083895"
     },
     {
       "id": "c831e85f-0cd5-4395-bbe7-54e30cbe14dd",
