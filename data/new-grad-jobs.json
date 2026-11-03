@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-03T12:15:11.842Z",
+  "updatedAt": "2026-11-03T12:30:14.543Z",
   "jobs": [
+    {
+      "id": "c831e85f-0cd5-4395-bbe7-54e30cbe14dd",
+      "company": "RTX",
+      "title": "Embedded Security Software Engineer I (Onsite)",
+      "location": "El Segundo, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-03",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=c831e85f-0cd5-4395-bbe7-54e30cbe14dd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Security-Software-Engineer-I--Onsite-_01881355"
+    },
     {
       "id": "custom:google:109116638069957318",
       "company": "Google",
