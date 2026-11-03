@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T22:30:41.458Z",
+  "updatedAt": "2026-11-03T22:45:36.109Z",
   "jobs": [
     {
       "id": "514ebcd1-5e20-4df8-8c0c-f6095e5b2d88",
@@ -14,6 +14,18 @@
       "listingUrl": "https://job-boards.greenhouse.io/captivation/jobs/5471546008"
     },
     {
+      "id": "def02be2-d588-41ba-b12d-84bc5504bf9e",
+      "company": "Leidos",
+      "title": "Junior Software Engineer",
+      "location": "Tucson, AZ",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-03",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Leidos&job=def02be2-d588-41ba-b12d-84bc5504bf9e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Tucson-AZ/Junior-Software-Engineer_R-00196157"
+    },
+    {
       "id": "f52a01c7-4e0d-408c-9109-5e63c36068bf",
       "company": "Maxar",
       "title": "Junior Data Engineer (TS/SCI)",
@@ -24,19 +36,6 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Maxar&job=f52a01c7-4e0d-408c-9109-5e63c36068bf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://maxar.wd1.myworkdayjobs.com/vantor/job/Herndon-VA/Junior-Data-Engineer--TS-SCI-_R24862-3"
-    },
-    {
-      "id": "custom:microsoft:a32b9fa39bae3a9cc93c",
-      "company": "Microsoft",
-      "title": "Software Engineering",
-      "location": "US",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-03",
-      "age": "Today",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557023035",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557023035",
-      "applySupported": false
     },
     {
       "id": "ac389b57-e514-46b7-9378-572965380367",
@@ -97,32 +96,6 @@
       "age": "1d",
       "url": "https://www.google.com/about/careers/applications/jobs/results/109116638069957318-software-engineer-ii-early-career",
       "listingUrl": "https://www.google.com/about/careers/applications/jobs/results/109116638069957318-software-engineer-ii-early-career",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:57febd61d4625e28ee2b",
-      "company": "Microsoft",
-      "title": "Software Engineering IC2",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-02",
-      "age": "1d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557050639",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557050639",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:a7e272998be8b44d73e3",
-      "company": "Microsoft",
-      "title": "Software Engineer- CoreAI",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-02",
-      "age": "1d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556989020",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556989020",
       "applySupported": false
     },
     {
@@ -1242,18 +1215,6 @@
       "listingUrl": "https://ascendanalytics.bamboohr.com/careers/42"
     },
     {
-      "id": "98b1c033-95cb-4e3f-84b3-3f25dc3bdc59",
-      "company": "Leidos",
-      "title": "Junior Software Engineer",
-      "location": "Tucson, AZ",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-15",
-      "age": "19d",
-      "url": "https://applyguy.ai/jobs?company=Leidos&job=98b1c033-95cb-4e3f-84b3-3f25dc3bdc59&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Tucson-AZ/Junior-Software-Engineer_R-00194640"
-    },
-    {
       "id": "480f9b78-725a-460c-9e9d-8769c4f065b6",
       "company": "RTX",
       "title": "Software Engineer I - Test",
@@ -1951,19 +1912,6 @@
       "listingUrl": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Houston-Texas-United-States-of-America/Systems-Software-Engineer-I---Graduate_1213648"
     },
     {
-      "id": "custom:microsoft:2b898a24c4d4b7ada9a8",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Reston, VA · Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-06",
-      "age": "28d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557022487",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557022487",
-      "applySupported": false
-    },
-    {
       "id": "5853801d-d83f-43e6-9b3e-efc24489905f",
       "company": "NVIDIA",
       "title": "Systems Software Engineer,  AI and Cloud - New College Grad 2026",
@@ -2394,19 +2342,6 @@
       "age": "34d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=3ab73a1f-8de1-42c7-9508-b70616da5375&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Embedded-Software-Engineer-I--Onsite-_01878013"
-    },
-    {
-      "id": "custom:microsoft:698bf1cfd0197fa8f311",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-29",
-      "age": "35d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "applySupported": false
     },
     {
       "id": "ff4d695b-6a47-433b-8c2e-cc351c3ef893",
