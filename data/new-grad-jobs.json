@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T20:00:40.984Z",
+  "updatedAt": "2026-11-03T20:15:15.957Z",
   "jobs": [
     {
       "id": "f52a01c7-4e0d-408c-9109-5e63c36068bf",
@@ -3488,18 +3488,6 @@
       "age": "60d",
       "url": "https://applyguy.ai/jobs?company=Garner+Health&job=a05b7c24-b1ed-4769-b62c-4fa27c1f4f84&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/garnerhealth/jobs/6174210004"
-    },
-    {
-      "id": "668f9b14-c6f6-4307-bce7-7057313bfbc9",
-      "company": "ID.me University Recruiting",
-      "title": "Summer 2027- Software Development Engineer - New Grad",
-      "location": "Mountain View, CA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-09-04",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=ID.me+University+Recruiting&job=668f9b14-c6f6-4307-bce7-7057313bfbc9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003"
     }
   ]
 }
