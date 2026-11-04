@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T17:00:31.973Z",
+  "updatedAt": "2026-11-04T17:15:34.451Z",
   "jobs": [
     {
       "id": "5462bcd6-bd51-46b5-98f1-20c232e123ec",
@@ -110,6 +110,18 @@
       "listingUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/8182050003"
     },
     {
+      "id": "fa08828a-8438-44bf-beb5-e8b319190ecb",
+      "company": "RTX",
+      "title": "Embedded Security Software Engineer I (Onsite)",
+      "location": "Tewksbury, MA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-03",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=fa08828a-8438-44bf-beb5-e8b319190ecb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Embedded-Security-Software-Engineer-I--Onsite-_01881440"
+    },
+    {
       "id": "c831e85f-0cd5-4395-bbe7-54e30cbe14dd",
       "company": "RTX",
       "title": "Embedded Security Software Engineer I (Onsite)",
@@ -169,30 +181,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Qualtrics&job=99ec9f91-8f2b-4e88-846b-398f2e09f9e1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.qualtrics.com/careers/us/en/job/8325652?gh_jid=8325652"
-    },
-    {
-      "id": "fa08828a-8438-44bf-beb5-e8b319190ecb",
-      "company": "RTX",
-      "title": "Embedded Security Software Engineer I (Onsite)",
-      "location": "Tewksbury, MA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-02",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=fa08828a-8438-44bf-beb5-e8b319190ecb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Embedded-Security-Software-Engineer-I--Onsite-_01881440"
-    },
-    {
-      "id": "b4830c3d-7914-4be2-a497-6bef73ef0e67",
-      "company": "RTX",
-      "title": "Software Engineer I (Hybrid)",
-      "location": "Aguadilla, PR",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-02",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=b4830c3d-7914-4be2-a497-6bef73ef0e67&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--Hybrid-_01877905"
     },
     {
       "id": "00b0fcb0-c058-4958-a0e5-cef1794061ea",
