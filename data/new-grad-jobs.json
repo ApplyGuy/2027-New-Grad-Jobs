@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T01:45:15.354Z",
+  "updatedAt": "2026-11-05T02:00:36.860Z",
   "jobs": [
     {
       "id": "449976de-4007-4dd9-8353-42bfd1fd8916",
@@ -48,6 +48,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Empower+Pharmacy&job=49527dd4-7b69-4be4-9cb8-05c7f33e7a16&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://careers.empowerpharmacy.com/jobs/?gh_jid=4479712009"
+    },
+    {
+      "id": "5347590b-bf50-4212-8888-93deff87bd11",
+      "company": "Extraspace",
+      "title": "Associate Software Engineer",
+      "location": "Salt Lake City, UT",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-04",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Extraspace&job=5347590b-bf50-4212-8888-93deff87bd11&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://extraspace.wd5.myworkdayjobs.com/ess_external/job/Salt-Lake-City-UT-United-States/Associate-Software-Engineer_R-82836"
     },
     {
       "id": "5462bcd6-bd51-46b5-98f1-20c232e123ec",
