@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T15:30:19.250Z",
+  "updatedAt": "2026-11-06T15:45:20.794Z",
   "jobs": [
     {
       "id": "b970822f-2621-46ac-9ad6-6b97dc729477",
@@ -2203,19 +2203,6 @@
       "age": "31d",
       "url": "https://applyguy.ai/jobs?company=Hpe&job=cfc1b6f0-a1be-467f-86b8-c2d33ce2e038&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Houston-Texas-United-States-of-America/Systems-Software-Engineer-I---Graduate_1213648"
-    },
-    {
-      "id": "custom:microsoft:2b898a24c4d4b7ada9a8",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Reston, VA · Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-06",
-      "age": "31d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557022487",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557022487",
-      "applySupported": false
     },
     {
       "id": "5853801d-d83f-43e6-9b3e-efc24489905f",
