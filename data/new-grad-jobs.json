@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T06:00:20.299Z",
+  "updatedAt": "2026-11-06T06:15:31.961Z",
   "jobs": [
     {
       "id": "b970822f-2621-46ac-9ad6-6b97dc729477",
@@ -37,6 +37,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Priceline&job=add09e27-0922-4568-bc6b-8e50969633fb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://priceline.wd1.myworkdayjobs.com/priceline/job/New-York/Associate-Software-Engineer_R5911"
+    },
+    {
+      "id": "02ecb29b-9992-42f0-993d-f69e908403e5",
+      "company": "RTX",
+      "title": "Embedded Software Engineer I (Hybrid - Aguadilla, PR)",
+      "location": "Aguadilla, PR",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-05",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=02ecb29b-9992-42f0-993d-f69e908403e5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--Hybrid---Aguadilla--PR-_01887705"
     },
     {
       "id": "59b88b37-788a-4279-a252-1fbe5e72d747",
