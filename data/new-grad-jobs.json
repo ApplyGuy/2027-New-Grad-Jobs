@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T04:00:15.669Z",
+  "updatedAt": "2026-11-06T04:15:20.191Z",
   "jobs": [
     {
       "id": "b970822f-2621-46ac-9ad6-6b97dc729477",
@@ -2558,18 +2558,6 @@
       "age": "38d",
       "url": "https://applyguy.ai/jobs?company=OneImaging&job=47991204-3712-402d-9d5d-ea85ea111f15&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/oneimaging/jobs/4423640009"
-    },
-    {
-      "id": "e0c5cac8-ec3f-4b40-aab4-664b87268b38",
-      "company": "Pmat",
-      "title": "Junior Software Engineer (SSDS)",
-      "location": "San Diego, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-29",
-      "age": "38d",
-      "url": "https://applyguy.ai/jobs?company=Pmat&job=e0c5cac8-ec3f-4b40-aab4-664b87268b38&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://pmat.bamboohr.com/careers/324"
     },
     {
       "id": "73c47ef4-7a58-4ec3-b335-f4a413e30102",
