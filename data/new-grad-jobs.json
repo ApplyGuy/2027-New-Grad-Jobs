@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T21:45:44.171Z",
+  "updatedAt": "2026-11-06T22:00:20.051Z",
   "jobs": [
     {
       "id": "1268a5e8-04d3-491c-b50c-0f105c79b9dd",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=ASM&job=1268a5e8-04d3-491c-b50c-0f105c79b9dd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.asm.com/open-vacancies/?gh_jid=5019821101"
+    },
+    {
+      "id": "8264e543-ec03-49bd-988b-67975ac0f851",
+      "company": "Moog",
+      "title": "Associate Software Engineer",
+      "location": "Buffalo, NY",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-06",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Moog&job=8264e543-ec03-49bd-988b-67975ac0f851&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-Software-Engineer_R-26-21135"
     },
     {
       "id": "e7b63787-0f72-4f8f-afeb-6de16d9e18da",
