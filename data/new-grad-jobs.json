@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T20:00:35.976Z",
+  "updatedAt": "2026-11-06T20:15:32.846Z",
   "jobs": [
     {
       "id": "1268a5e8-04d3-491c-b50c-0f105c79b9dd",
@@ -84,18 +84,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=The+Hartford&job=3bcfa991-f4ab-4e6a-baf2-dd8471549654&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_restricted/job/Hartford-CT/Associate-Software-Engineer---Tech-Catalyst-Program--All-Locations-_R2627074"
-    },
-    {
-      "id": "085f516b-fcf1-4276-83f6-1f272d493bf2",
-      "company": "Tsc",
-      "title": "Software Engineer I",
-      "location": "Plymouth, MA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-05",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Tsc&job=085f516b-fcf1-4276-83f6-1f272d493bf2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Plymouth-MA/Software-Engineer-I_JR2915"
     },
     {
       "id": "9a2848fb-e888-4e36-88fa-194be5f4c7ca",
@@ -613,6 +601,18 @@
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=f9966cbf-e8df-472d-a375-ee3df7b99f04&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineer-I--Onsite-_01885857"
+    },
+    {
+      "id": "97f132d8-53ef-4f98-895a-7e06c9cde589",
+      "company": "Tsc",
+      "title": "Software Engineer I",
+      "location": "Plymouth, MA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-29",
+      "age": "8d",
+      "url": "https://applyguy.ai/jobs?company=Tsc&job=97f132d8-53ef-4f98-895a-7e06c9cde589&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Plymouth-MA/Software-Engineer-I_JR2890"
     },
     {
       "id": "27486e1a-f062-44c7-aa01-41299db69665",
