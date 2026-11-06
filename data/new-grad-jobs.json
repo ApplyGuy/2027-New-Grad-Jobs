@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T19:45:32.085Z",
+  "updatedAt": "2026-11-06T20:00:35.976Z",
   "jobs": [
     {
       "id": "1268a5e8-04d3-491c-b50c-0f105c79b9dd",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=ASM&job=1268a5e8-04d3-491c-b50c-0f105c79b9dd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.asm.com/open-vacancies/?gh_jid=5019821101"
+    },
+    {
+      "id": "e7b63787-0f72-4f8f-afeb-6de16d9e18da",
+      "company": "Peraton",
+      "title": "Junior Software Engineer (AWS Cloud Services)",
+      "location": "Lanham, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-06",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Peraton&job=e7b63787-0f72-4f8f-afeb-6de16d9e18da&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://careers-peraton.icims.com/jobs/173152/junior-software-engineer-%28aws-cloud-services%29/job"
     },
     {
       "id": "b970822f-2621-46ac-9ad6-6b97dc729477",
@@ -240,18 +252,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Pae&job=5dea96b2-b474-4b49-b6f0-d975b41d70f9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-AL-Huntsville/Software-Tools-Developer--Entry-Level_R0174727"
-    },
-    {
-      "id": "ac389b57-e514-46b7-9378-572965380367",
-      "company": "Peraton",
-      "title": "Junior Software Engineer (AWS Cloud Services)",
-      "location": "Lanham, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-03",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=Peraton&job=ac389b57-e514-46b7-9378-572965380367&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://careers-peraton.icims.com/jobs/173024/junior-software-engineer-%28aws-cloud-services%29/job"
     },
     {
       "id": "65b8499e-c905-407a-bdb0-8d92e49fc328",
