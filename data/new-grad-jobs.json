@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T08:00:20.915Z",
+  "updatedAt": "2026-11-07T08:15:15.899Z",
   "jobs": [
     {
       "id": "1268a5e8-04d3-491c-b50c-0f105c79b9dd",
@@ -48,19 +48,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=b970822f-2621-46ac-9ad6-6b97dc729477&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Huntsville-AL/Entry-Level-Software-Tester_R-00196288"
-    },
-    {
-      "id": "custom:microsoft:03d65b2b10e701c197e7",
-      "company": "Microsoft",
-      "title": "Software Engineering - Commercial Engineering & AI (CEAI)",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-05",
-      "age": "2d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
-      "applySupported": false
     },
     {
       "id": "add09e27-0922-4568-bc6b-8e50969633fb",
@@ -351,19 +338,6 @@
       "age": "5d",
       "url": "https://www.google.com/about/careers/applications/jobs/results/109116638069957318-software-engineer-ii-early-career",
       "listingUrl": "https://www.google.com/about/careers/applications/jobs/results/109116638069957318-software-engineer-ii-early-career",
-      "applySupported": false
-    },
-    {
-      "id": "custom:microsoft:57febd61d4625e28ee2b",
-      "company": "Microsoft",
-      "title": "Software Engineering IC2",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-02",
-      "age": "5d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557050639",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557050639",
       "applySupported": false
     },
     {
