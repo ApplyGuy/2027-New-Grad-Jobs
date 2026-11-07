@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T04:30:15.379Z",
+  "updatedAt": "2026-11-07T04:45:17.361Z",
   "jobs": [
     {
       "id": "1268a5e8-04d3-491c-b50c-0f105c79b9dd",
@@ -24,6 +24,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Isu&job=73167053-bd22-4bb0-a1a5-4ce5b3d716ae&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://isu.wd1.myworkdayjobs.com/iowastatejobs/job/Ames-IA/Software-Developer-I_R20057"
+    },
+    {
+      "id": "40396c90-a414-4446-9894-392b0778e087",
+      "company": "Keyfactor, Inc.",
+      "title": "Associate Software Engineer",
+      "location": "Remote, U.S.",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-06",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Keyfactor%2C+Inc.&job=40396c90-a414-4446-9894-392b0778e087&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/keyfactorinc/jobs/6242660004"
     },
     {
       "id": "8264e543-ec03-49bd-988b-67975ac0f851",
