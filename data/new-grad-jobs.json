@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T07:00:31.915Z",
+  "updatedAt": "2026-11-07T07:15:33.946Z",
   "jobs": [
     {
       "id": "1268a5e8-04d3-491c-b50c-0f105c79b9dd",
@@ -14,18 +14,6 @@
       "listingUrl": "https://www.asm.com/open-vacancies/?gh_jid=5019821101"
     },
     {
-      "id": "73167053-bd22-4bb0-a1a5-4ce5b3d716ae",
-      "company": "Isu",
-      "title": "Software Developer I",
-      "location": "Ames, IA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-06",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Isu&job=73167053-bd22-4bb0-a1a5-4ce5b3d716ae&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://isu.wd1.myworkdayjobs.com/iowastatejobs/job/Ames-IA/Software-Developer-I_R20057"
-    },
-    {
       "id": "40396c90-a414-4446-9894-392b0778e087",
       "company": "Keyfactor, Inc.",
       "title": "Associate Software Engineer",
@@ -36,18 +24,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Keyfactor%2C+Inc.&job=40396c90-a414-4446-9894-392b0778e087&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/keyfactorinc/jobs/6242660004"
-    },
-    {
-      "id": "8264e543-ec03-49bd-988b-67975ac0f851",
-      "company": "Moog",
-      "title": "Associate Software Engineer",
-      "location": "Buffalo, NY",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-06",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Moog&job=8264e543-ec03-49bd-988b-67975ac0f851&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-Software-Engineer_R-26-21135"
     },
     {
       "id": "e7b63787-0f72-4f8f-afeb-6de16d9e18da",
@@ -72,6 +48,19 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=b970822f-2621-46ac-9ad6-6b97dc729477&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Huntsville-AL/Entry-Level-Software-Tester_R-00196288"
+    },
+    {
+      "id": "custom:microsoft:03d65b2b10e701c197e7",
+      "company": "Microsoft",
+      "title": "Software Engineering - Commercial Engineering & AI (CEAI)",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-05",
+      "age": "2d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
+      "applySupported": false
     },
     {
       "id": "add09e27-0922-4568-bc6b-8e50969633fb",
@@ -194,6 +183,19 @@
       "listingUrl": "https://extraspace.wd5.myworkdayjobs.com/ess_external/job/Salt-Lake-City-UT-United-States/Associate-Software-Engineer_R-82836"
     },
     {
+      "id": "custom:microsoft:d0179f02cc191e90a6df",
+      "company": "Microsoft",
+      "title": "Software Engineer",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-04",
+      "age": "3d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556982635",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556982635",
+      "applySupported": false
+    },
+    {
       "id": "5462bcd6-bd51-46b5-98f1-20c232e123ec",
       "company": "Parsons",
       "title": "Software Engineer I - Top Secret",
@@ -266,6 +268,19 @@
       "listingUrl": "https://maxar.wd1.myworkdayjobs.com/vantor/job/Herndon-VA/Junior-Data-Engineer--TS-SCI-_R24862-3"
     },
     {
+      "id": "custom:microsoft:a32b9fa39bae3a9cc93c",
+      "company": "Microsoft",
+      "title": "Software Engineering",
+      "location": "US",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-03",
+      "age": "4d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557023035",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557023035",
+      "applySupported": false
+    },
+    {
       "id": "5dea96b2-b474-4b49-b6f0-d975b41d70f9",
       "company": "Pae",
       "title": "Software Tools Developer, Entry Level",
@@ -288,18 +303,6 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Precisely+US+Jobs&job=65b8499e-c905-407a-bdb0-8d92e49fc328&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.precisely.com/careers-and-culture/us-jobs/job/4750854005?gh_jid=4750854005"
-    },
-    {
-      "id": "662fb1bd-24e6-4ea5-b116-afc48f80a575",
-      "company": "Quickenloans",
-      "title": "Software Engineer I",
-      "location": "Detroit, MI",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-03",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=Quickenloans&job=662fb1bd-24e6-4ea5-b116-afc48f80a575&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Software-Engineer-I_R-083895"
     },
     {
       "id": "263f6559-0f1d-4420-a14a-678d4a84ed07",
@@ -326,18 +329,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Security-Software-Engineer-I--Onsite-_01881355"
     },
     {
-      "id": "fa08828a-8438-44bf-beb5-e8b319190ecb",
-      "company": "RTX",
-      "title": "Embedded Security Software Engineer I (Onsite)",
-      "location": "Tewksbury, MA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-03",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=fa08828a-8438-44bf-beb5-e8b319190ecb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Embedded-Security-Software-Engineer-I--Onsite-_01881440"
-    },
-    {
       "id": "c6c15d25-c05d-4aca-b999-c84e2492df48",
       "company": "SambaNova Systems",
       "title": "Machine Learning Engineer - New Grad",
@@ -360,6 +351,32 @@
       "age": "5d",
       "url": "https://www.google.com/about/careers/applications/jobs/results/109116638069957318-software-engineer-ii-early-career",
       "listingUrl": "https://www.google.com/about/careers/applications/jobs/results/109116638069957318-software-engineer-ii-early-career",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:57febd61d4625e28ee2b",
+      "company": "Microsoft",
+      "title": "Software Engineering IC2",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-02",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557050639",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557050639",
+      "applySupported": false
+    },
+    {
+      "id": "custom:microsoft:a7e272998be8b44d73e3",
+      "company": "Microsoft",
+      "title": "Software Engineer- CoreAI",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-02",
+      "age": "5d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556989020",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556989020",
       "applySupported": false
     },
     {
@@ -2606,6 +2623,19 @@
       "age": "38d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=3ab73a1f-8de1-42c7-9508-b70616da5375&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Embedded-Software-Engineer-I--Onsite-_01878013"
+    },
+    {
+      "id": "custom:microsoft:698bf1cfd0197fa8f311",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-29",
+      "age": "39d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "applySupported": false
     },
     {
       "id": "ff4d695b-6a47-433b-8c2e-cc351c3ef893",
