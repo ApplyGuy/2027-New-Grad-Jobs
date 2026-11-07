@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T04:00:18.684Z",
+  "updatedAt": "2026-11-07T04:15:23.784Z",
   "jobs": [
     {
       "id": "1268a5e8-04d3-491c-b50c-0f105c79b9dd",
@@ -329,18 +329,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/8182050003"
     },
     {
-      "id": "fa08828a-8438-44bf-beb5-e8b319190ecb",
-      "company": "RTX",
-      "title": "Embedded Security Software Engineer I (Onsite)",
-      "location": "Tewksbury, MA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-03",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=fa08828a-8438-44bf-beb5-e8b319190ecb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Embedded-Security-Software-Engineer-I--Onsite-_01881440"
-    },
-    {
       "id": "c831e85f-0cd5-4395-bbe7-54e30cbe14dd",
       "company": "RTX",
       "title": "Embedded Security Software Engineer I (Onsite)",
@@ -351,6 +339,18 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=c831e85f-0cd5-4395-bbe7-54e30cbe14dd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Security-Software-Engineer-I--Onsite-_01881355"
+    },
+    {
+      "id": "fa08828a-8438-44bf-beb5-e8b319190ecb",
+      "company": "RTX",
+      "title": "Embedded Security Software Engineer I (Onsite)",
+      "location": "Tewksbury, MA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-03",
+      "age": "4d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=fa08828a-8438-44bf-beb5-e8b319190ecb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Embedded-Security-Software-Engineer-I--Onsite-_01881440"
     },
     {
       "id": "c6c15d25-c05d-4aca-b999-c84e2492df48",
@@ -2205,18 +2205,6 @@
       "listingUrl": "https://embraer.breezy.hr/p/02564bcdcf94-software-development-engineer-i-mlb"
     },
     {
-      "id": "d9386fad-de6d-484a-9c9a-d0005c21b2b1",
-      "company": "EquipmentShare",
-      "title": "Software Engineer I",
-      "location": "Columbia, MO (Headquarters)",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-06",
-      "age": "32d",
-      "url": "https://applyguy.ai/jobs?company=EquipmentShare&job=d9386fad-de6d-484a-9c9a-d0005c21b2b1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://www.equipmentshare.com/careers/openings/?gh_jid=8071715"
-    },
-    {
       "id": "cfc1b6f0-a1be-467f-86b8-c2d33ce2e038",
       "company": "Hpe",
       "title": "Systems/Software Engineer I - Graduate",
@@ -3455,18 +3443,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4713126006"
     },
     {
-      "id": "54b45402-6f4c-4314-9b32-ae9fb868819f",
-      "company": "OneImaging",
-      "title": "Associate Data Engineer (Georgia Tech Only)",
-      "location": "Miami, FL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-14",
-      "age": "54d",
-      "url": "https://applyguy.ai/jobs?company=OneImaging&job=54b45402-6f4c-4314-9b32-ae9fb868819f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/oneimaging/jobs/4405032009"
-    },
-    {
       "id": "2d5b06d7-f12a-4488-b07a-c5c2f39193d0",
       "company": "OneImaging",
       "title": "Associate Data Engineer (UF Only)",
@@ -3501,18 +3477,6 @@
       "age": "57d",
       "url": "https://applyguy.ai/jobs?company=OneImaging&job=ebaff14f-f526-49e2-a9b0-07da01eb6175&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/oneimaging/jobs/4403125009"
-    },
-    {
-      "id": "749df070-2e63-4fb6-82d2-3c8206a474e6",
-      "company": "OneImaging",
-      "title": "Full Stack Associate Software Engineer (Georgia Tech Only)",
-      "location": "Miami, FL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-11",
-      "age": "57d",
-      "url": "https://applyguy.ai/jobs?company=OneImaging&job=749df070-2e63-4fb6-82d2-3c8206a474e6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/oneimaging/jobs/4403115009"
     },
     {
       "id": "cfd344fc-5811-4ba4-b7ba-09a4e643930a",
