@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T20:00:36.690Z",
+  "updatedAt": "2026-11-08T20:15:33.844Z",
   "jobs": [
     {
       "id": "1268a5e8-04d3-491c-b50c-0f105c79b9dd",
@@ -3507,18 +3507,6 @@
       "age": "59d",
       "url": "https://applyguy.ai/jobs?company=SEP&job=b0bd1779-565a-4338-98b2-00e7e779591d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/sep/f7ad9ffb-03dc-4fb2-9a92-e5f04a85ba08"
-    },
-    {
-      "id": "68115136-a172-4569-a36f-803b691890ca",
-      "company": "Gravitate Energy LLC",
-      "title": "Software Engineer - Entry Level (Summer 2027)",
-      "location": "Dallas, TX",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-09-09",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Gravitate+Energy+LLC&job=68115136-a172-4569-a36f-803b691890ca&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4491069"
     }
   ]
 }
