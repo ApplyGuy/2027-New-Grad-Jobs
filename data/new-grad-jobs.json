@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T17:45:36.672Z",
+  "updatedAt": "2026-11-08T18:00:34.815Z",
   "jobs": [
     {
       "id": "1268a5e8-04d3-491c-b50c-0f105c79b9dd",
@@ -925,6 +925,42 @@
       "age": "12d",
       "url": "https://applyguy.ai/jobs?company=SambaNova+Systems&job=a49412ce-f15c-458f-9a50-bbf1b7521e43&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6224938004"
+    },
+    {
+      "id": "924b31eb-a4ff-4d6d-8e30-56fdfc3003fd",
+      "company": "Shield AI",
+      "title": "Engineer I, Software - Perception - New Grad - 6135",
+      "location": "Washington, D.C.",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-10-27",
+      "age": "12d",
+      "url": "https://applyguy.ai/jobs?company=Shield+AI&job=924b31eb-a4ff-4d6d-8e30-56fdfc3003fd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.lever.co/shieldai/cd641bcb-f613-44dd-b66d-2df360067319"
+    },
+    {
+      "id": "95a0a978-4903-4d56-a4eb-5b2a44b01281",
+      "company": "Shield AI",
+      "title": "Engineer I, Software - Autonomy Capabilities - New Grad - 6129",
+      "location": "United States",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-10-27",
+      "age": "12d",
+      "url": "https://applyguy.ai/jobs?company=Shield+AI&job=95a0a978-4903-4d56-a4eb-5b2a44b01281&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896"
+    },
+    {
+      "id": "d6f21728-8e77-4895-81b9-393902268e5c",
+      "company": "Shield AI",
+      "title": "Engineer I, Software - Autonomous Pilot Integration - New Grad - 6125",
+      "location": "Washington, D.C.",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-10-27",
+      "age": "12d",
+      "url": "https://applyguy.ai/jobs?company=Shield+AI&job=d6f21728-8e77-4895-81b9-393902268e5c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.lever.co/shieldai/af183d8c-51d0-40df-9c04-fbddae0d83aa"
     },
     {
       "id": "8d0ba6c2-b3cf-41c8-afce-2636283022dd",
