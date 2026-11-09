@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T13:45:23.763Z",
+  "updatedAt": "2026-11-09T14:00:20.849Z",
   "jobs": [
     {
       "id": "1268a5e8-04d3-491c-b50c-0f105c79b9dd",
@@ -3534,18 +3534,6 @@
       "age": "60d",
       "url": "https://applyguy.ai/jobs?company=Rover.com&job=b310c759-af3b-4ee9-abcc-2ad90dc2a16c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/rover/303b3b2f-9679-4a77-8908-456e29240486"
-    },
-    {
-      "id": "b0bd1779-565a-4338-98b2-00e7e779591d",
-      "company": "SEP",
-      "title": "Software Engineer (2027 start dates, in person)",
-      "location": "Westfield, IN",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-09-10",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=SEP&job=b0bd1779-565a-4338-98b2-00e7e779591d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.lever.co/sep/f7ad9ffb-03dc-4fb2-9a92-e5f04a85ba08"
     }
   ]
 }
