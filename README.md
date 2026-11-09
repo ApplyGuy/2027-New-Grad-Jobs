@@ -1,6 +1,6 @@
 # 2027 New Grad Software Engineering Jobs
 
-[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-292-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
+[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-293-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
 
 A continuously verified list of **2027 New Grad software engineering jobs**, **entry-level software engineer jobs**, and early-career developer roles in the United States. Listings come directly from employer career pages and are maintained by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs).
 
@@ -15,9 +15,9 @@ A continuously verified list of **2027 New Grad software engineering jobs**, **e
 
 🎒 **Looking for internships?** Browse [2027 SWE & Product Internships →](https://github.com/ApplyGuy/2027-Internships)
 
-- **292** active U.S. software roles posted within the last **60 days**
-- **116** explicitly labeled New Grad / university graduate / early career
-- Last refresh: **Nov 8, 2026, 4:45 PM PST**
+- **293** active U.S. software roles posted within the last **60 days**
+- **117** explicitly labeled New Grad / university graduate / early career
+- Last refresh: **Nov 8, 2026, 5:00 PM PST**
 - Machine-readable feed: [data/new-grad-jobs.json](data/new-grad-jobs.json)
 
 Listings with the orange **Apply Guy** button support one-click apply through [Apply Guy](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs). Blue **View** buttons open the employer's career site directly.
@@ -103,6 +103,7 @@ Listings with the orange **Apply Guy** button support one-click apply through [A
 | RTX | Flight Control Software Engineer I (Onsite) | Cedar Rapids, IA | 13d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=20b41755-8545-4e05-81e7-8a55684adb3a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineer-I--Onsite-_01870923) |
 | SambaNova Systems | Cloud Platform Engineer - New Grad | Austin, TX | 13d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=SambaNova+Systems&job=45e417db-aea0-4a87-81d0-3e7c7a7c99ad&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224940004) |
 | SambaNova Systems | ML Infrastructure Engineer - New Grad | Austin, TX | 13d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=SambaNova+Systems&job=a49412ce-f15c-458f-9a50-bbf1b7521e43&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224938004) |
+| Shield AI | Engineer II, Software - Ground Control Station - Full Stack - New Grad - 6140 | Washington, D.C. | 13d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Shield+AI&job=abd04d69-b6dc-40fd-bf0c-e5ff80018204&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://jobs.lever.co/shieldai/88f7b66e-3412-40c8-b74d-aafc462405ff) |
 | Shield AI | Engineer I, Software - Perception - New Grad - 6135 | Washington, D.C. | 13d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Shield+AI&job=924b31eb-a4ff-4d6d-8e30-56fdfc3003fd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://jobs.lever.co/shieldai/cd641bcb-f613-44dd-b66d-2df360067319) |
 | Shield AI | Engineer I, Software - Autonomy Capabilities - New Grad - 6129 | United States | 13d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Shield+AI&job=95a0a978-4903-4d56-a4eb-5b2a44b01281&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896) |
 | Shield AI | Engineer I, Software - Autonomous Pilot Integration - New Grad - 6125 | Washington, D.C. | 13d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Shield+AI&job=d6f21728-8e77-4895-81b9-393902268e5c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://jobs.lever.co/shieldai/af183d8c-51d0-40df-9c04-fbddae0d83aa) |
