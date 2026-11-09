@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T21:45:20.656Z",
+  "updatedAt": "2026-11-09T22:00:42.843Z",
   "jobs": [
     {
       "id": "custom:microsoft:03d65b2b10e701c197e7",
@@ -38,6 +38,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=59047d19-ab68-4974-8898-09e6f2d1c256&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-800--1151-E-Hermans-Rd--BLDG-800/Embedded-Security-Software-Engineer-I--Onsite-_01881370"
+    },
+    {
+      "id": "d9beae8a-db21-41e4-9573-ea489acd3759",
+      "company": "Visa",
+      "title": "Associate Data Engineer",
+      "location": "Foster City, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Visa&job=d9beae8a-db21-41e4-9573-ea489acd3759&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://visa.wd5.myworkdayjobs.com/visa/job/US---Foster-City-CA/Associate-Data-Engineer_REF089618W"
     },
     {
       "id": "1268a5e8-04d3-491c-b50c-0f105c79b9dd",
