@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-09T19:30:21.992Z",
+  "updatedAt": "2026-11-09T19:45:22.726Z",
   "jobs": [
+    {
+      "id": "59047d19-ab68-4974-8898-09e6f2d1c256",
+      "company": "RTX",
+      "title": "Embedded Security Software Engineer I (Onsite)",
+      "location": "Tucson, AZ",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-09",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=59047d19-ab68-4974-8898-09e6f2d1c256&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-800--1151-E-Hermans-Rd--BLDG-800/Embedded-Security-Software-Engineer-I--Onsite-_01881370"
+    },
     {
       "id": "1268a5e8-04d3-491c-b50c-0f105c79b9dd",
       "company": "ASM",
