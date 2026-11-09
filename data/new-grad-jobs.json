@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T22:30:22.017Z",
+  "updatedAt": "2026-11-09T22:45:22.282Z",
   "jobs": [
     {
       "id": "2903a765-3514-4ec1-9fca-be6d752e037d",
@@ -368,7 +368,7 @@
     {
       "id": "65b8499e-c905-407a-bdb0-8d92e49fc328",
       "company": "Precisely US Jobs",
-      "title": "Associate Software Engineer (Python AI)",
+      "title": "Associate Software Developer (AI)",
       "location": "United States",
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
