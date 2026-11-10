@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T22:00:42.448Z",
+  "updatedAt": "2026-11-10T22:15:19.607Z",
   "jobs": [
     {
       "id": "f734144f-fd20-4d90-9624-e04e62a0ac3e",
@@ -2226,18 +2226,6 @@
       "age": "34d",
       "url": "https://applyguy.ai/jobs?company=CACI&job=13211a10-d21e-4d33-9c80-cf62ea808102&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Virginia-Beach-VA-US/Entry-Level-C--Software-Engineer_333249"
-    },
-    {
-      "id": "78e4a315-3939-4005-9b0d-23a53d1b7005",
-      "company": "Chalk",
-      "title": "Software Engineer - New Grad",
-      "location": "San Francisco, CA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-10-07",
-      "age": "34d",
-      "url": "https://applyguy.ai/jobs?company=Chalk&job=78e4a315-3939-4005-9b0d-23a53d1b7005&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f"
     },
     {
       "id": "a71e25b8-cdc6-4595-b01a-07fe6143a0a4",
