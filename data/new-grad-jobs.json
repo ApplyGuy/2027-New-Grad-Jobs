@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T15:00:15.745Z",
+  "updatedAt": "2026-11-10T15:15:33.625Z",
   "jobs": [
     {
       "id": "6d9e977f-1b6c-41fc-8fe2-3fab8ef7631b",
@@ -3495,18 +3495,6 @@
       "age": "60d",
       "url": "https://applyguy.ai/jobs?company=OneImaging&job=ebaff14f-f526-49e2-a9b0-07da01eb6175&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/oneimaging/jobs/4403125009"
-    },
-    {
-      "id": "cfd344fc-5811-4ba4-b7ba-09a4e643930a",
-      "company": "Roku",
-      "title": "Software Engineer, Early Careers focused on AI and UI",
-      "location": "San Jose, CA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-09-11",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Roku&job=cfd344fc-5811-4ba4-b7ba-09a4e643930a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://www.weareroku.com/jobs/8188714?gh_jid=8188714"
     },
     {
       "id": "656b41fc-f9a5-4de5-bc6f-82733b95d4f9",
