@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T00:00:36.727Z",
+  "updatedAt": "2026-11-10T00:15:55.179Z",
   "jobs": [
     {
       "id": "2903a765-3514-4ec1-9fca-be6d752e037d",
@@ -12,6 +12,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Adobe&job=2903a765-3514-4ec1-9fca-be6d752e037d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Engineer_R173455"
+    },
+    {
+      "id": "b40b14be-d79c-4e72-b696-56f4d494dcbf",
+      "company": "Peraton",
+      "title": "Junior Software Engineer (AWS Cloud Services)",
+      "location": "Lanham, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-09",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Peraton&job=b40b14be-d79c-4e72-b696-56f4d494dcbf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://careers-peraton.icims.com/jobs/173227/junior-software-engineer-%28aws-cloud-services%29/job"
     },
     {
       "id": "59047d19-ab68-4974-8898-09e6f2d1c256",
@@ -84,18 +96,6 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Moog&job=8264e543-ec03-49bd-988b-67975ac0f851&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-Software-Engineer_R-26-21135"
-    },
-    {
-      "id": "e7b63787-0f72-4f8f-afeb-6de16d9e18da",
-      "company": "Peraton",
-      "title": "Junior Software Engineer (AWS Cloud Services)",
-      "location": "Lanham, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-06",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=Peraton&job=e7b63787-0f72-4f8f-afeb-6de16d9e18da&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://careers-peraton.icims.com/jobs/173152/junior-software-engineer-%28aws-cloud-services%29/job"
     },
     {
       "id": "b970822f-2621-46ac-9ad6-6b97dc729477",
