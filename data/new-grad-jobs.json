@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-10T12:00:45.786Z",
+  "updatedAt": "2026-11-10T12:15:19.038Z",
   "jobs": [
+    {
+      "id": "6d9e977f-1b6c-41fc-8fe2-3fab8ef7631b",
+      "company": "x.ai",
+      "title": "Software Engineer, New Grad 2027",
+      "location": "San Francisco, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-11-10",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=x.ai&job=6d9e977f-1b6c-41fc-8fe2-3fab8ef7631b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6"
+    },
     {
       "id": "2903a765-3514-4ec1-9fca-be6d752e037d",
       "company": "Adobe",
