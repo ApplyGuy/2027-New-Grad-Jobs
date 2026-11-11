@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T23:30:37.165Z",
+  "updatedAt": "2026-11-11T23:45:59.903Z",
   "jobs": [
     {
       "id": "custom:amazon:a3207ea071dd1e98d26a",
@@ -13,6 +13,18 @@
       "url": "https://www.amazon.jobs/en/jobs/10599912/software-engineer-i-commerce",
       "listingUrl": "https://www.amazon.jobs/en/jobs/10599912/software-engineer-i-commerce",
       "applySupported": false
+    },
+    {
+      "id": "388a45fc-6d91-4804-8675-6c0f3850a0fc",
+      "company": "Cdk",
+      "title": "Associate Software Engineer",
+      "location": "Austin, TX",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-11",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Cdk&job=388a45fc-6d91-4804-8675-6c0f3850a0fc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://cdk.wd1.myworkdayjobs.com/cdk/job/Austin-TX-USA/Associate-Software-Engineer_JR9345-1"
     },
     {
       "id": "adb98f83-7fdf-4c42-b51c-4a81beb67e51",
@@ -61,6 +73,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=The+Hartford&job=bf39db57-06da-43aa-a97c-3587146037ee&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://thehartford.wd5.myworkdayjobs.com/careers_restricted/job/Hartford-CT/Associate-Software-Engineer_R2627800"
+    },
+    {
+      "id": "d5bac415-a69a-41dd-abc5-a83cf87e47b0",
+      "company": "Twitch",
+      "title": "Software Engineer I, Commerce",
+      "location": "San Francisco, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-11",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Twitch&job=d5bac415-a69a-41dd-abc5-a83cf87e47b0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/twitch/jobs/8934067002"
     },
     {
       "id": "d9beae8a-db21-41e4-9573-ea489acd3759",
@@ -1432,18 +1456,6 @@
       "age": "20d",
       "url": "https://applyguy.ai/jobs?company=Cambiahealth&job=f210e27a-25ea-4d76-be27-86acda19d32f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://cambiahealth.wd504.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Software-Development-Engineer-I-or-II--Customer-Acquisition-_R-6689"
-    },
-    {
-      "id": "e1d50e34-1d85-4f93-bed3-00ab63700e35",
-      "company": "Cdk",
-      "title": "Associate Software Engineer",
-      "location": "Austin, TX",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-22",
-      "age": "20d",
-      "url": "https://applyguy.ai/jobs?company=Cdk&job=e1d50e34-1d85-4f93-bed3-00ab63700e35&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://cdk.wd1.myworkdayjobs.com/cdk/job/Austin-TX-USA/Associate-Software-Engineer_JR9204"
     },
     {
       "id": "da8cb5f0-b6c8-40fa-b7c9-95c6a9526cc9",
