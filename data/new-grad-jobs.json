@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T01:30:16.307Z",
+  "updatedAt": "2026-11-11T01:45:46.308Z",
   "jobs": [
     {
       "id": "f734144f-fd20-4d90-9624-e04e62a0ac3e",
@@ -49,6 +49,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Coke&job=d2821a7a-1917-4985-a575-ccbe00631d40&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Software-Engineer-I_R-148843"
+    },
+    {
+      "id": "b2c845fe-8902-4e7c-809d-00c119e521df",
+      "company": "Vizient",
+      "title": "Associate Software Engineer (Hybrid)",
+      "location": "Irving, TX 75062 Vizient Corporate HQ",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-10",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Vizient&job=b2c845fe-8902-4e7c-809d-00c119e521df&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://vizient.wd1.myworkdayjobs.com/vizient_careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer--Hybrid-_35388R"
     },
     {
       "id": "6d9e977f-1b6c-41fc-8fe2-3fab8ef7631b",
@@ -349,18 +361,6 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=The+Bison+Group&job=878e25b7-d32b-4ac3-afd0-b70b9e2722c4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4640828"
-    },
-    {
-      "id": "21099638-8951-467e-9497-a44dba92293f",
-      "company": "Vizient",
-      "title": "Associate Software Engineer (Hybrid)",
-      "location": "Irving, TX 75062 Vizient Corporate HQ",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-04",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=Vizient&job=21099638-8951-467e-9497-a44dba92293f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://vizient.wd1.myworkdayjobs.com/vizient_careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer--Hybrid-_35731R-1"
     },
     {
       "id": "514ebcd1-5e20-4df8-8c0c-f6095e5b2d88",
