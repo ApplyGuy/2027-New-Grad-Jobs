@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T04:00:27.062Z",
+  "updatedAt": "2026-11-11T04:15:28.833Z",
   "jobs": [
     {
       "id": "custom:amazon:a3207ea071dd1e98d26a",
@@ -88,6 +88,19 @@
       "listingUrl": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-GA-CMH-ONE-RIVERFRONT/Mainframe-Software-Engineer-I_JR0310604-1"
     },
     {
+      "id": "custom:microsoft:52a5d01cb5f359f5b098",
+      "company": "Microsoft",
+      "title": "Software Engineering",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-10",
+      "age": "1d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556999878",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556999878",
+      "applySupported": false
+    },
+    {
       "id": "b2c845fe-8902-4e7c-809d-00c119e521df",
       "company": "Vizient",
       "title": "Associate Software Engineer (Hybrid)",
@@ -110,6 +123,19 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=x.ai&job=6d9e977f-1b6c-41fc-8fe2-3fab8ef7631b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6"
+    },
+    {
+      "id": "custom:microsoft:03d65b2b10e701c197e7",
+      "company": "Microsoft",
+      "title": "Software Engineering - Commercial Engineering & AI (CEAI)",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-09",
+      "age": "2d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
+      "applySupported": false
     },
     {
       "id": "b40b14be-d79c-4e72-b696-56f4d494dcbf",
@@ -352,6 +378,19 @@
       "listingUrl": "https://extraspace.wd5.myworkdayjobs.com/ess_external/job/Salt-Lake-City-UT-United-States/Associate-Software-Engineer_R-82836"
     },
     {
+      "id": "custom:microsoft:d0179f02cc191e90a6df",
+      "company": "Microsoft",
+      "title": "Software Engineer",
+      "location": "Redmond, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-04",
+      "age": "7d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556982635",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556982635",
+      "applySupported": false
+    },
+    {
       "id": "5462bcd6-bd51-46b5-98f1-20c232e123ec",
       "company": "Parsons",
       "title": "Software Engineer I - Top Secret",
@@ -410,6 +449,19 @@
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=Maxar&job=f52a01c7-4e0d-408c-9109-5e63c36068bf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://maxar.wd1.myworkdayjobs.com/vantor/job/Herndon-VA/Junior-Data-Engineer--TS-SCI-_R24862-3"
+    },
+    {
+      "id": "custom:microsoft:a32b9fa39bae3a9cc93c",
+      "company": "Microsoft",
+      "title": "Software Engineering",
+      "location": "US",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-03",
+      "age": "8d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557023035",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557023035",
+      "applySupported": false
     },
     {
       "id": "5dea96b2-b474-4b49-b6f0-d975b41d70f9",
@@ -2033,18 +2085,6 @@
       "listingUrl": "https://radiancetech.wd12.myworkdayjobs.com/radiance_external/job/Dayton-Office/Junior-Software-Engineer_HR102399"
     },
     {
-      "id": "60d4ddc4-d190-4bb2-b40b-d5200bb62d12",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Cedar Rapids, IA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-09",
-      "age": "33d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=60d4ddc4-d190-4bb2-b40b-d5200bb62d12&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2026-Collins-Full-Time---System-Integration-Software-Engineer-I---Cedar-Rapids--IA--Onsite-_01850421"
-    },
-    {
       "id": "3dc2c8ba-cc33-4ae5-b710-4264e44d0b98",
       "company": "Shield AI",
       "title": "Engineer I, Software Integration - New Grad - 6214",
@@ -2490,18 +2530,6 @@
       "listingUrl": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Associate-Software-Engineer_R-059573"
     },
     {
-      "id": "1dc213a4-6154-44e4-9744-9dfa62b87d58",
-      "company": "RTX",
-      "title": "2026 Raytheon Full Time - Receiver, Exciter, & Processing Architecture Software Engineer I - Marlborough, MA (Onsite)",
-      "location": "Marlborough, MA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-05",
-      "age": "37d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=1dc213a4-6154-44e4-9744-9dfa62b87d58&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/XMLNAME-2026-Raytheon-Full-Time---Receiver--Exciter----Processing-Architecture-Software-Engineer-I---Marlborough--MA--Onsite-_01848076"
-    },
-    {
       "id": "c2b97ad3-cc62-4e60-9be7-815959e2abb8",
       "company": "Unimelb",
       "title": "AURIN Associate Software Engineer",
@@ -2730,6 +2758,19 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Embedded-Software-Engineer-I--Onsite-_01878013"
     },
     {
+      "id": "custom:microsoft:698bf1cfd0197fa8f311",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-29",
+      "age": "43d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "applySupported": false
+    },
+    {
       "id": "ff4d695b-6a47-433b-8c2e-cc351c3ef893",
       "company": "NVIDIA",
       "title": "Applied Machine Learning Engineer, AI for VLSI Design - New College Grad 2026",
@@ -2764,6 +2805,18 @@
       "age": "43d",
       "url": "https://applyguy.ai/jobs?company=OneImaging&job=47991204-3712-402d-9d5d-ea85ea111f15&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/oneimaging/jobs/4423640009"
+    },
+    {
+      "id": "a3edf6a4-8f13-4996-af94-d6b45aa75691",
+      "company": "RTX",
+      "title": "Software Engineer I, Onsite",
+      "location": "Cedar Rapids, IA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-29",
+      "age": "43d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=a3edf6a4-8f13-4996-af94-d6b45aa75691&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I--Onsite_01878662"
     },
     {
       "id": "73c47ef4-7a58-4ec3-b335-f4a413e30102",
@@ -2897,18 +2950,6 @@
       "age": "48d",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=545f8366-264d-4976-b69d-63c0310071f3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Huntsville-AL/Junior-Software-Developer_R-00193099"
-    },
-    {
-      "id": "c00c7914-5889-4730-99a0-2e52a0b028eb",
-      "company": "RTX",
-      "title": "Software Engineer I, CDS (Onsite - Security Clearance)",
-      "location": "Aguadilla, PR",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-24",
-      "age": "48d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=c00c7914-5889-4730-99a0-2e52a0b028eb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--CDS--Onsite---Security-Clearance-_01877720"
     },
     {
       "id": "86ae0bd0-17e3-415d-8383-39ebd410b431",
