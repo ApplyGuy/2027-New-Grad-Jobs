@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T23:00:35.786Z",
+  "updatedAt": "2026-11-11T23:15:31.732Z",
   "jobs": [
     {
       "id": "custom:amazon:a3207ea071dd1e98d26a",
@@ -25,6 +25,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=adb98f83-7fdf-4c42-b51c-4a81beb67e51&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01885824"
+    },
+    {
+      "id": "cfa01228-4121-42f0-b992-bf3e66010f38",
+      "company": "Self Financial",
+      "title": "Associate Software Engineer",
+      "location": "Austin, TX",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-11",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Self+Financial&job=cfa01228-4121-42f0-b992-bf3e66010f38&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/selffinancial/jobs/6255478004"
     },
     {
       "id": "32399a2d-68be-4ed0-b803-a61afa4eeac1",
