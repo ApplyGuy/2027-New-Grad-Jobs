@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T15:00:36.404Z",
+  "updatedAt": "2026-11-11T15:16:09.729Z",
   "jobs": [
     {
       "id": "custom:amazon:a3207ea071dd1e98d26a",
@@ -13,6 +13,18 @@
       "url": "https://www.amazon.jobs/en/jobs/10599912/software-engineer-i-commerce",
       "listingUrl": "https://www.amazon.jobs/en/jobs/10599912/software-engineer-i-commerce",
       "applySupported": false
+    },
+    {
+      "id": "d9beae8a-db21-41e4-9573-ea489acd3759",
+      "company": "Visa",
+      "title": "Associate Data Engineer",
+      "location": "Foster City, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-11",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Visa&job=d9beae8a-db21-41e4-9573-ea489acd3759&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://visa.wd5.myworkdayjobs.com/visa/job/US---Foster-City-CA/Associate-Data-Engineer_REF089618W"
     },
     {
       "id": "f734144f-fd20-4d90-9624-e04e62a0ac3e",
