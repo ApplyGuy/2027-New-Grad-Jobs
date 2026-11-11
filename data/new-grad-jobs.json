@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T03:15:35.356Z",
+  "updatedAt": "2026-11-11T03:31:00.737Z",
   "jobs": [
     {
       "id": "custom:amazon:a3207ea071dd1e98d26a",
@@ -74,6 +74,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Cox&job=ff715c9f-5b19-4cfa-9dac-4814b088eb5a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Atlanta-GA/Software-Engineer-I---19025_R202684623"
+    },
+    {
+      "id": "e60edf6d-5581-48a1-83ae-00503c65cdc2",
+      "company": "FIS",
+      "title": "Mainframe Software Engineer I",
+      "location": "Cmh One Riverfront, GA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-10",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=FIS&job=e60edf6d-5581-48a1-83ae-00503c65cdc2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-GA-CMH-ONE-RIVERFRONT/Mainframe-Software-Engineer-I_JR0310604-1"
     },
     {
       "id": "b2c845fe-8902-4e7c-809d-00c119e521df",
