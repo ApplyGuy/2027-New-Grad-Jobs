@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T17:00:31.815Z",
+  "updatedAt": "2026-11-11T17:16:07.283Z",
   "jobs": [
     {
       "id": "custom:amazon:a3207ea071dd1e98d26a",
@@ -13,6 +13,18 @@
       "url": "https://www.amazon.jobs/en/jobs/10599912/software-engineer-i-commerce",
       "listingUrl": "https://www.amazon.jobs/en/jobs/10599912/software-engineer-i-commerce",
       "applySupported": false
+    },
+    {
+      "id": "adb98f83-7fdf-4c42-b51c-4a81beb67e51",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Richardson, TX",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-11",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=adb98f83-7fdf-4c42-b51c-4a81beb67e51&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01885824"
     },
     {
       "id": "d9beae8a-db21-41e4-9573-ea489acd3759",
@@ -196,18 +208,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Rocket+Lab+Corporation&job=a341c869-7d4c-433b-82f0-5f05ef46f800&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/8057246003"
-    },
-    {
-      "id": "e7a10dce-fd7c-44ab-8f75-b094df2641f6",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Richardson, TX",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-09",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=e7a10dce-fd7c-44ab-8f75-b094df2641f6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01884131"
     },
     {
       "id": "12ead01c-4a84-461f-a90e-7bd5eb464a20",
