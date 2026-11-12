@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T03:45:37.263Z",
+  "updatedAt": "2026-11-12T04:00:42.167Z",
   "jobs": [
     {
       "id": "custom:amazon:a3207ea071dd1e98d26a",
@@ -1290,6 +1290,18 @@
       "listingUrl": "https://jobs.lever.co/shieldai/88f7b66e-3412-40c8-b74d-aafc462405ff"
     },
     {
+      "id": "56cd0723-31b3-4531-9aa6-18e1b1d05bc3",
+      "company": "Shield AI",
+      "title": "Engineer II, Software - Perception (SD/DC/Bos) - New Grad - 6139",
+      "location": "United States",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-10-27",
+      "age": "16d",
+      "url": "https://applyguy.ai/jobs?company=Shield+AI&job=56cd0723-31b3-4531-9aa6-18e1b1d05bc3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.lever.co/shieldai/9017c8c2-2668-45d6-aff5-a7e348107c12"
+    },
+    {
       "id": "924b31eb-a4ff-4d6d-8e30-56fdfc3003fd",
       "company": "Shield AI",
       "title": "Engineer I, Software - Perception - New Grad - 6135",
@@ -1302,6 +1314,18 @@
       "listingUrl": "https://jobs.lever.co/shieldai/cd641bcb-f613-44dd-b66d-2df360067319"
     },
     {
+      "id": "f40eb236-2d79-46ff-b735-9b0353c15d79",
+      "company": "Shield AI",
+      "title": "Engineer II, Software - Autonomy Capabilities - New Grad - 6131",
+      "location": "United States",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-10-27",
+      "age": "16d",
+      "url": "https://applyguy.ai/jobs?company=Shield+AI&job=f40eb236-2d79-46ff-b735-9b0353c15d79&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.lever.co/shieldai/d2050861-fd48-4ac6-9606-e1e502a817af"
+    },
+    {
       "id": "95a0a978-4903-4d56-a4eb-5b2a44b01281",
       "company": "Shield AI",
       "title": "Engineer I, Software - Autonomy Capabilities - New Grad - 6129",
@@ -1312,6 +1336,18 @@
       "age": "16d",
       "url": "https://applyguy.ai/jobs?company=Shield+AI&job=95a0a978-4903-4d56-a4eb-5b2a44b01281&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896"
+    },
+    {
+      "id": "b443e787-4ce9-4c14-a0c9-c550257c7347",
+      "company": "Shield AI",
+      "title": "Engineer II, Software - Autonomous Pilot Integration - New Grad - 6127",
+      "location": "Washington, D.C.",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-10-27",
+      "age": "16d",
+      "url": "https://applyguy.ai/jobs?company=Shield+AI&job=b443e787-4ce9-4c14-a0c9-c550257c7347&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.lever.co/shieldai/d2beda9f-f7f1-46ca-86d6-5bbbd52fbe50"
     },
     {
       "id": "d6f21728-8e77-4895-81b9-393902268e5c",
