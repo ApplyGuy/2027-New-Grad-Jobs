@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T01:45:37.621Z",
+  "updatedAt": "2026-11-12T02:00:26.488Z",
   "jobs": [
     {
       "id": "custom:amazon:a3207ea071dd1e98d26a",
@@ -25,6 +25,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Cdk&job=388a45fc-6d91-4804-8675-6c0f3850a0fc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://cdk.wd1.myworkdayjobs.com/cdk/job/Austin-TX-USA/Associate-Software-Engineer_JR9345-1"
+    },
+    {
+      "id": "356a5167-757c-4549-812e-6f56540b519e",
+      "company": "Edmentum",
+      "title": "Software Engineer I",
+      "location": "Bloomington, MN",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-11",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Edmentum&job=356a5167-757c-4549-812e-6f56540b519e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/edmentum/jobs/6255572004"
     },
     {
       "id": "fa7cf8a7-0c81-4471-9b15-62f504d417a3",
