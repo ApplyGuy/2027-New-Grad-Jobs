@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T19:00:13.324Z",
+  "updatedAt": "2026-11-12T19:15:49.249Z",
   "jobs": [
     {
       "id": "3bee0401-1060-4488-a935-e049b0ad5712",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=RTX&job=3dee01ff-36d9-429d-a3c9-62cb9f058c6e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Embedded-Software-Engineer-I--Hybrid---Aguadilla--PR-_01887705"
+    },
+    {
+      "id": "205b6cd2-8609-4f15-bb6e-7245eaae9fa0",
+      "company": "Sierraspace",
+      "title": "Software Engineer I - DevOps / DevSecOps",
+      "location": "Louisville, CO",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-12",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Sierraspace&job=205b6cd2-8609-4f15-bb6e-7245eaae9fa0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://sierraspace.wd1.myworkdayjobs.com/sierra_space_external_career_site/job/Louisville-CO/REQ-SWAP-Software-Engineer-I---DevOps---DevSecOps_R26535"
     },
     {
       "id": "custom:amazon:a3207ea071dd1e98d26a",
@@ -2489,18 +2501,6 @@
       "age": "36d",
       "url": "https://applyguy.ai/jobs?company=Otter.ai&job=283b6fee-6f74-4849-949e-380b74f0e4ef&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://otter.ai/careers?gh_jid=8016078003"
-    },
-    {
-      "id": "716df31b-cc9c-4ab7-af08-3443be7ccc4d",
-      "company": "Sierraspace",
-      "title": "Software Engineer I - DevOps / DevSecOps",
-      "location": "Louisville, CO",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-07",
-      "age": "36d",
-      "url": "https://applyguy.ai/jobs?company=Sierraspace&job=716df31b-cc9c-4ab7-af08-3443be7ccc4d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://sierraspace.wd1.myworkdayjobs.com/sierra_space_external_career_site/job/Louisville-CO/Software-Engineer-I---DevOps---DevSecOps_R26394-1"
     },
     {
       "id": "5a2efece-b4de-4e41-a9ae-feab00c2a91f",
