@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T00:15:27.463Z",
+  "updatedAt": "2026-11-12T00:30:27.670Z",
   "jobs": [
     {
       "id": "custom:amazon:a3207ea071dd1e98d26a",
@@ -25,6 +25,30 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Cdk&job=388a45fc-6d91-4804-8675-6c0f3850a0fc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://cdk.wd1.myworkdayjobs.com/cdk/job/Austin-TX-USA/Associate-Software-Engineer_JR9345-1"
+    },
+    {
+      "id": "fa7cf8a7-0c81-4471-9b15-62f504d417a3",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Cedar Rapids, IA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-11",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=fa7cf8a7-0c81-4471-9b15-62f504d417a3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Software-Engineer-I--Onsite-_01888058"
+    },
+    {
+      "id": "2b2538e4-9996-4a79-a84e-c93bf27918fd",
+      "company": "RTX",
+      "title": "Software Engineer I (CMA-P1-1)",
+      "location": "Ft Wayne, IN",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-11",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=2b2538e4-9996-4a79-a84e-c93bf27918fd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I--CMA-P1-1-_01888038"
     },
     {
       "id": "adb98f83-7fdf-4c42-b51c-4a81beb67e51",
@@ -209,6 +233,18 @@
       "listingUrl": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Springfield/Jr-Data-Engineer_R0175096"
     },
     {
+      "id": "7672d102-6c71-49eb-b9aa-f280984fc3f9",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "St Petersburg, FL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-10",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=7672d102-6c71-49eb-b9aa-f280984fc3f9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineer-I--Onsite-_01887812"
+    },
+    {
       "id": "b2c845fe-8902-4e7c-809d-00c119e521df",
       "company": "Vizient",
       "title": "Associate Software Engineer (Hybrid)",
@@ -255,6 +291,30 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Rocket+Lab+Corporation&job=a341c869-7d4c-433b-82f0-5f05ef46f800&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/8057246003"
+    },
+    {
+      "id": "8ace7525-fbd9-46bb-94af-fafb57ff01ec",
+      "company": "RTX",
+      "title": "Embedded Software Engineer I (Onsite)",
+      "location": "Goleta, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-09",
+      "age": "3d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=8ace7525-fbd9-46bb-94af-fafb57ff01ec&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Embedded-Software-Engineer-I--Onsite-_01888147"
+    },
+    {
+      "id": "451abc42-efb5-4c23-81ae-0a1fc22d4212",
+      "company": "RTX",
+      "title": "Embedded Security Software Engineer I (Onsite)",
+      "location": "Goleta, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-09",
+      "age": "3d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=451abc42-efb5-4c23-81ae-0a1fc22d4212&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Embedded-Security-Software-Engineer-I--Onsite-_01888154"
     },
     {
       "id": "12ead01c-4a84-461f-a90e-7bd5eb464a20",
@@ -2837,18 +2897,6 @@
       "age": "44d",
       "url": "https://applyguy.ai/jobs?company=OneImaging&job=47991204-3712-402d-9d5d-ea85ea111f15&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/oneimaging/jobs/4423640009"
-    },
-    {
-      "id": "a3edf6a4-8f13-4996-af94-d6b45aa75691",
-      "company": "RTX",
-      "title": "Software Engineer I, Onsite",
-      "location": "Cedar Rapids, IA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-29",
-      "age": "44d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=a3edf6a4-8f13-4996-af94-d6b45aa75691&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I--Onsite_01878662"
     },
     {
       "id": "73c47ef4-7a58-4ec3-b335-f4a413e30102",
