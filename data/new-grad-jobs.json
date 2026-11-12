@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-12T13:30:24.656Z",
+  "updatedAt": "2026-11-12T13:45:26.560Z",
   "jobs": [
+    {
+      "id": "3dee01ff-36d9-429d-a3c9-62cb9f058c6e",
+      "company": "RTX",
+      "title": "Embedded Software Engineer I (Hybrid - Aguadilla, PR)",
+      "location": "Aguadilla, PR",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-12",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=3dee01ff-36d9-429d-a3c9-62cb9f058c6e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Embedded-Software-Engineer-I--Hybrid---Aguadilla--PR-_01887705"
+    },
     {
       "id": "custom:amazon:a3207ea071dd1e98d26a",
       "company": "Amazon",
@@ -471,18 +483,6 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Priceline&job=add09e27-0922-4568-bc6b-8e50969633fb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://priceline.wd1.myworkdayjobs.com/priceline/job/New-York/Associate-Software-Engineer_R5911"
-    },
-    {
-      "id": "02ecb29b-9992-42f0-993d-f69e908403e5",
-      "company": "RTX",
-      "title": "Embedded Software Engineer I (Hybrid - Aguadilla, PR)",
-      "location": "Aguadilla, PR",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-05",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=02ecb29b-9992-42f0-993d-f69e908403e5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--Hybrid---Aguadilla--PR-_01887705"
     },
     {
       "id": "59b88b37-788a-4279-a252-1fbe5e72d747",
