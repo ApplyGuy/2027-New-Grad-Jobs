@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T22:45:16.502Z",
+  "updatedAt": "2026-11-12T23:00:17.012Z",
   "jobs": [
     {
       "id": "04c16d54-ea66-4e26-a508-653be3da5713",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Hpe&job=04c16d54-ea66-4e26-a508-653be3da5713&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-I_1215821"
+    },
+    {
+      "id": "de072ba6-7947-4a9e-a15f-da4b6627a754",
+      "company": "Leidos",
+      "title": "Jr Software Engineer",
+      "location": "Gaithersburg, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-12",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Leidos&job=de072ba6-7947-4a9e-a15f-da4b6627a754&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Gaithersburg-MD/Jr-Software-Engineer_R-00196853"
     },
     {
       "id": "3bee0401-1060-4488-a935-e049b0ad5712",
