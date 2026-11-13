@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-13T00:15:13.748Z",
+  "updatedAt": "2026-11-13T00:30:46.896Z",
   "jobs": [
+    {
+      "id": "3ebdac12-a1bb-4cfc-b061-33e87a6d3cc8",
+      "company": "CCR",
+      "title": "Associate Software Developer",
+      "location": "Cedar Rapids, IA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-12",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=CCR&job=3ebdac12-a1bb-4cfc-b061-33e87a6d3cc8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4662681"
+    },
     {
       "id": "67030b73-92a5-48e0-a272-a0a01ca33cff",
       "company": "Hpe",
