@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T18:15:18.519Z",
+  "updatedAt": "2026-11-13T18:30:16.349Z",
   "jobs": [
     {
       "id": "7952ac65-8a28-44c0-b1ba-f30b6266c1c6",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Abnormal&job=7952ac65-8a28-44c0-b1ba-f30b6266c1c6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://abnormal.ai/careers/jobs/8196352003?gh_jid=8196352003"
+    },
+    {
+      "id": "eae12d76-4048-4074-9183-f35831361606",
+      "company": "CMTelematics",
+      "title": "Software Engineer I, Cloud",
+      "location": "Cambridge, MA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=CMTelematics&job=eae12d76-4048-4074-9183-f35831361606&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/cmt/jobs/8385978"
     },
     {
       "id": "91ef76a4-9dc5-46ff-bfcf-1c06f77b44f8",
