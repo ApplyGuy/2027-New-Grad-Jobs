@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-13T03:45:48.932Z",
+  "updatedAt": "2026-11-13T04:00:43.973Z",
   "jobs": [
+    {
+      "id": "7952ac65-8a28-44c0-b1ba-f30b6266c1c6",
+      "company": "Abnormal",
+      "title": "Software Engineer I, Data Platforms",
+      "location": "Remote, U.S.",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Abnormal&job=7952ac65-8a28-44c0-b1ba-f30b6266c1c6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://abnormal.ai/careers/jobs/8196352003?gh_jid=8196352003"
+    },
     {
       "id": "3ebdac12-a1bb-4cfc-b061-33e87a6d3cc8",
       "company": "CCR",
