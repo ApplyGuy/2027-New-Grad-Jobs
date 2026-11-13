@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T19:45:45.484Z",
+  "updatedAt": "2026-11-13T20:00:15.818Z",
   "jobs": [
     {
       "id": "7952ac65-8a28-44c0-b1ba-f30b6266c1c6",
@@ -3654,18 +3654,6 @@
       "age": "59d",
       "url": "https://applyguy.ai/jobs?company=Wyetech&job=39d7d21c-7804-44f4-8cc0-2036b0541364&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/wyetechllc/b49f02db-cdd4-41f3-9036-50cf9c2ad86f"
-    },
-    {
-      "id": "cd4a62d9-c4c5-4416-ade7-81769d1a5c60",
-      "company": "mthree Recruiting Portal",
-      "title": "Junior Software Engineer",
-      "location": "USA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-14",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=mthree+Recruiting+Portal&job=cd4a62d9-c4c5-4416-ade7-81769d1a5c60&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4713126006"
     }
   ]
 }
