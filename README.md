@@ -17,7 +17,7 @@ A continuously verified list of **2027 New Grad software engineering jobs**, **e
 
 - **304** active U.S. software roles posted within the last **60 days**
 - **111** explicitly labeled New Grad / university graduate / early career
-- Last refresh: **Nov 12, 2026, 7:30 PM PST**
+- Last refresh: **Nov 12, 2026, 7:45 PM PST**
 - Machine-readable feed: [data/new-grad-jobs.json](data/new-grad-jobs.json)
 
 Listings with the orange **Apply Guy** button support one-click apply through [Apply Guy](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs). Blue **View** buttons open the employer's career site directly.
@@ -27,7 +27,7 @@ Listings with the orange **Apply Guy** button support one-click apply through [A
 | Company | Role | Location | Posted | Actions |
 |---|---|---|---:|---|
 | CCR | Associate Software Developer | Cedar Rapids, IA | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=CCR&job=3ebdac12-a1bb-4cfc-b061-33e87a6d3cc8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4662681) |
-| Hpe | Systems/Software Engineer I | Sunnyvale, CA | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Hpe&job=67030b73-92a5-48e0-a272-a0a01ca33cff&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-I_1215821-2) |
+| Hpe | Systems/Software Engineer I | Sunnyvale, CA | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Hpe&job=a8c18903-a992-45c4-9d2d-e0959562faf2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://hpe.wd5.myworkdayjobs.com/wfmathpe/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-I_1215821-1) |
 | Leidos | Jr Software Engineer | Gaithersburg, MD | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Leidos&job=de072ba6-7947-4a9e-a15f-da4b6627a754&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://leidos.wd5.myworkdayjobs.com/external/job/Gaithersburg-MD/Jr-Software-Engineer_R-00196853) |
 | Rlicorp | Associate Software Engineer (.Net) - Peoria, IL or Tempe, AZ | Peoria, IL | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Rlicorp&job=3bee0401-1060-4488-a935-e049b0ad5712&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://rlicorp.wd1.myworkdayjobs.com/rli_corp_careers/job/Peoria-IL/Associate-Software-Engineer--Net----Peoria--IL-or-Tempe--AZ_R1864) |
 | RTX | Embedded Software Engineer I (Hybrid - Aguadilla, PR) | Aguadilla, PR | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=3dee01ff-36d9-429d-a3c9-62cb9f058c6e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Embedded-Software-Engineer-I--Hybrid---Aguadilla--PR-_01887705) |
