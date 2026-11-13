@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T16:45:44.412Z",
+  "updatedAt": "2026-11-13T17:00:18.672Z",
   "jobs": [
     {
       "id": "7952ac65-8a28-44c0-b1ba-f30b6266c1c6",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Shield+AI&job=91ef76a4-9dc5-46ff-bfcf-1c06f77b44f8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/shieldai/c33ab680-2625-4da1-a96c-41bea441b98b"
+    },
+    {
+      "id": "d9beae8a-db21-41e4-9573-ea489acd3759",
+      "company": "Visa",
+      "title": "Associate Data Engineer",
+      "location": "Foster City, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-13",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Visa&job=d9beae8a-db21-41e4-9573-ea489acd3759&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://visa.wd5.myworkdayjobs.com/visa/job/US---Foster-City-CA/Associate-Data-Engineer_REF089618W"
     },
     {
       "id": "3ebdac12-a1bb-4cfc-b061-33e87a6d3cc8",
@@ -84,18 +96,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Rlicorp&job=3bee0401-1060-4488-a935-e049b0ad5712&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://rlicorp.wd1.myworkdayjobs.com/rli_corp_careers/job/Peoria-IL/Associate-Software-Engineer--Net----Peoria--IL-or-Tempe--AZ_R1864"
-    },
-    {
-      "id": "3dee01ff-36d9-429d-a3c9-62cb9f058c6e",
-      "company": "RTX",
-      "title": "Embedded Software Engineer I (Hybrid - Aguadilla, PR)",
-      "location": "Aguadilla, PR",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-12",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=3dee01ff-36d9-429d-a3c9-62cb9f058c6e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Embedded-Software-Engineer-I--Hybrid---Aguadilla--PR-_01887705"
     },
     {
       "id": "205b6cd2-8609-4f15-bb6e-7245eaae9fa0",
@@ -290,18 +290,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Twitch&job=d5bac415-a69a-41dd-abc5-a83cf87e47b0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/twitch/jobs/8934067002"
-    },
-    {
-      "id": "d9beae8a-db21-41e4-9573-ea489acd3759",
-      "company": "Visa",
-      "title": "Associate Data Engineer",
-      "location": "Foster City, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-11",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=Visa&job=d9beae8a-db21-41e4-9573-ea489acd3759&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://visa.wd5.myworkdayjobs.com/visa/job/US---Foster-City-CA/Associate-Data-Engineer_REF089618W"
     },
     {
       "id": "f734144f-fd20-4d90-9624-e04e62a0ac3e",
@@ -617,6 +605,18 @@
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=Priceline&job=add09e27-0922-4568-bc6b-8e50969633fb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://priceline.wd1.myworkdayjobs.com/priceline/job/New-York/Associate-Software-Engineer_R5911"
+    },
+    {
+      "id": "02ecb29b-9992-42f0-993d-f69e908403e5",
+      "company": "RTX",
+      "title": "Embedded Software Engineer I (Hybrid - Aguadilla, PR)",
+      "location": "Aguadilla, PR",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-05",
+      "age": "8d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=02ecb29b-9992-42f0-993d-f69e908403e5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--Hybrid---Aguadilla--PR-_01887705"
     },
     {
       "id": "59b88b37-788a-4279-a252-1fbe5e72d747",
