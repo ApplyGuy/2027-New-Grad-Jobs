@@ -1,19 +1,6 @@
 {
-  "updatedAt": "2026-11-14T02:15:41.217Z",
+  "updatedAt": "2026-11-14T02:30:11.827Z",
   "jobs": [
-    {
-      "id": "custom:microsoft:6d62715838cf2a85c6d5",
-      "company": "Microsoft",
-      "title": "Software Engineer - MBO",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-14",
-      "age": "Today",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557073410",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557073410",
-      "applySupported": false
-    },
     {
       "id": "7952ac65-8a28-44c0-b1ba-f30b6266c1c6",
       "company": "Abnormal",
@@ -232,19 +219,6 @@
       "listingUrl": "https://www.jamf.com/about/careers/jobs/?gh_jid=6253670004&gh_jid=6253670004"
     },
     {
-      "id": "custom:microsoft:03d65b2b10e701c197e7",
-      "company": "Microsoft",
-      "title": "Software Engineering - Commercial Engineering & AI (CEAI)",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-11",
-      "age": "3d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
-      "applySupported": false
-    },
-    {
       "id": "b22543e4-4070-42b6-bd80-663762b230cb",
       "company": "Northrop Grumman",
       "title": "2027 Associate Software Engineer - Pathways - Boulder CO",
@@ -413,19 +387,6 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=FIS&job=e60edf6d-5581-48a1-83ae-00503c65cdc2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-GA-CMH-ONE-RIVERFRONT/Mainframe-Software-Engineer-I_JR0310604-1"
-    },
-    {
-      "id": "custom:microsoft:52a5d01cb5f359f5b098",
-      "company": "Microsoft",
-      "title": "Software Engineering",
-      "location": "Redmond, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-10",
-      "age": "4d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556999878",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556999878",
-      "applySupported": false
     },
     {
       "id": "f335954a-2b7d-4d4c-a001-0d74b314e3e6",
@@ -810,19 +771,6 @@
       "age": "11d",
       "url": "https://applyguy.ai/jobs?company=Maxar&job=f52a01c7-4e0d-408c-9109-5e63c36068bf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://maxar.wd1.myworkdayjobs.com/vantor/job/Herndon-VA/Junior-Data-Engineer--TS-SCI-_R24862-3"
-    },
-    {
-      "id": "custom:microsoft:a32b9fa39bae3a9cc93c",
-      "company": "Microsoft",
-      "title": "Software Engineering",
-      "location": "US",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-03",
-      "age": "11d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393557023035",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393557023035",
-      "applySupported": false
     },
     {
       "id": "5dea96b2-b474-4b49-b6f0-d975b41d70f9",
@@ -3081,19 +3029,6 @@
       "age": "45d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=3ab73a1f-8de1-42c7-9508-b70616da5375&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Embedded-Software-Engineer-I--Onsite-_01878013"
-    },
-    {
-      "id": "custom:microsoft:698bf1cfd0197fa8f311",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-29",
-      "age": "46d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "applySupported": false
     },
     {
       "id": "ff4d695b-6a47-433b-8c2e-cc351c3ef893",
