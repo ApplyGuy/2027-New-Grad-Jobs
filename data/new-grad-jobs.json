@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T00:00:21.673Z",
+  "updatedAt": "2026-11-14T00:15:22.214Z",
   "jobs": [
     {
       "id": "7952ac65-8a28-44c0-b1ba-f30b6266c1c6",
@@ -36,6 +36,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Shield+AI&job=91ef76a4-9dc5-46ff-bfcf-1c06f77b44f8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/shieldai/c33ab680-2625-4da1-a96c-41bea441b98b"
+    },
+    {
+      "id": "7734e441-8ff0-49e1-93aa-5bcd73f6de6a",
+      "company": "Twitch",
+      "title": "Software Engineer I, Payments",
+      "location": "San Francisco, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-13",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Twitch&job=7734e441-8ff0-49e1-93aa-5bcd73f6de6a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/twitch/jobs/8943553002"
     },
     {
       "id": "d9beae8a-db21-41e4-9573-ea489acd3759",
