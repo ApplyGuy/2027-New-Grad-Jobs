@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T04:00:19.936Z",
+  "updatedAt": "2026-11-14T04:16:07.783Z",
   "jobs": [
     {
       "id": "custom:microsoft:6d62715838cf2a85c6d5",
@@ -63,18 +63,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/twitch/jobs/8943553002"
     },
     {
-      "id": "d9beae8a-db21-41e4-9573-ea489acd3759",
-      "company": "Visa",
-      "title": "Associate Data Engineer",
-      "location": "Foster City, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-13",
-      "age": "1d",
-      "url": "https://applyguy.ai/jobs?company=Visa&job=d9beae8a-db21-41e4-9573-ea489acd3759&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://visa.wd5.myworkdayjobs.com/visa/job/US---Foster-City-CA/Associate-Data-Engineer_REF089618W"
-    },
-    {
       "id": "3ebdac12-a1bb-4cfc-b061-33e87a6d3cc8",
       "company": "CCR",
       "title": "Associate Software Developer",
@@ -109,18 +97,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=de072ba6-7947-4a9e-a15f-da4b6627a754&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Gaithersburg-MD/Jr-Software-Engineer_R-00196853"
-    },
-    {
-      "id": "a78ef690-f55f-4271-9e91-9142c9fe70c1",
-      "company": "Northrop Grumman",
-      "title": "2027 Associate Software Engineer / Software Engineer",
-      "location": "Melbourne, FL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-12",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=a78ef690-f55f-4271-9e91-9142c9fe70c1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027--Associate-Software-Engineer---Software-Engineer_R10243060"
     },
     {
       "id": "3bee0401-1060-4488-a935-e049b0ad5712",
@@ -365,18 +341,6 @@
       "url": "https://www.amazon.jobs/en/jobs/10601956/software-development-engineer-amazon-dedicated-cloud-early-career-2027-amazon-dedicated-cloud-adc",
       "listingUrl": "https://www.amazon.jobs/en/jobs/10601956/software-development-engineer-amazon-dedicated-cloud-early-career-2027-amazon-dedicated-cloud-adc",
       "applySupported": false
-    },
-    {
-      "id": "ee29415c-63ca-4210-9f31-ee4e29c9e596",
-      "company": "Bakertilly",
-      "title": "Associate Data Engineer",
-      "location": "Madison, WI",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-10",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=Bakertilly&job=ee29415c-63ca-4210-9f31-ee4e29c9e596&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/Madison-WI/Associate-Data-Engineer_JR108679"
     },
     {
       "id": "d2821a7a-1917-4985-a575-ccbe00631d40",
@@ -847,18 +811,6 @@
       "age": "11d",
       "url": "https://applyguy.ai/jobs?company=Precisely+US+Jobs&job=65b8499e-c905-407a-bdb0-8d92e49fc328&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.precisely.com/careers-and-culture/us-jobs/job/4750854005?gh_jid=4750854005"
-    },
-    {
-      "id": "662fb1bd-24e6-4ea5-b116-afc48f80a575",
-      "company": "Quickenloans",
-      "title": "Software Engineer I",
-      "location": "Detroit, MI",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-03",
-      "age": "11d",
-      "url": "https://applyguy.ai/jobs?company=Quickenloans&job=662fb1bd-24e6-4ea5-b116-afc48f80a575&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Software-Engineer-I_R-083895"
     },
     {
       "id": "263f6559-0f1d-4420-a14a-678d4a84ed07",
@@ -2771,18 +2723,6 @@
       "listingUrl": "https://jobs.lever.co/shieldai/79c3b65f-ce0c-4868-bedf-4ddcc4cfe583"
     },
     {
-      "id": "9cdcbd1e-0f70-494e-af52-bab9f4f96b7f",
-      "company": "TaxRise",
-      "title": "Junior Software Developer",
-      "location": "Irvine, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-06",
-      "age": "39d",
-      "url": "https://applyguy.ai/jobs?company=TaxRise&job=9cdcbd1e-0f70-494e-af52-bab9f4f96b7f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/taxrise/jobs/4434618009"
-    },
-    {
       "id": "c918ad25-e02e-470e-bd60-a96a9bed2ff3",
       "company": "True Anomaly",
       "title": "Software Engineer I to III, Digital Engineering",
@@ -2985,30 +2925,6 @@
       "age": "44d",
       "url": "https://applyguy.ai/jobs?company=Switchboard&job=e694a737-d397-4f58-b38e-1a512a5926b6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/switchboard/1699538e-eca3-4626-89a6-0eaa88130dcd"
-    },
-    {
-      "id": "17c47596-249e-4028-84ce-c3c52991a7fe",
-      "company": "Btisolutions",
-      "title": "Jr. Front-End Developer",
-      "location": "Remote, U.S.",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-30",
-      "age": "45d",
-      "url": "https://applyguy.ai/jobs?company=Btisolutions&job=17c47596-249e-4028-84ce-c3c52991a7fe&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://btisolutions.wd12.myworkdayjobs.com/external/job/Remote-TX/Jr-Front-End-Developer_JR102080-1"
-    },
-    {
-      "id": "df6e30cc-2db4-49df-a8b1-ecc2996a1ab4",
-      "company": "CleanSlate Technology Group",
-      "title": "Cloud Full-Stack Developer- Associate (New Grad) 2027",
-      "location": "USA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-09-30",
-      "age": "45d",
-      "url": "https://applyguy.ai/jobs?company=CleanSlate+Technology+Group&job=df6e30cc-2db4-49df-a8b1-ecc2996a1ab4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4534868"
     },
     {
       "id": "3846eea5-c801-46d0-b74d-644d645524a9",
@@ -3215,18 +3131,6 @@
       "url": "https://www.amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027",
       "listingUrl": "https://www.amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027",
       "applySupported": false
-    },
-    {
-      "id": "24f9ff9e-8630-4cbe-bba5-5493ce6180fe",
-      "company": "Btisolutions",
-      "title": "Junior Full Stack Developer",
-      "location": "Plano, TX",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-24",
-      "age": "51d",
-      "url": "https://applyguy.ai/jobs?company=Btisolutions&job=24f9ff9e-8630-4cbe-bba5-5493ce6180fe&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://btisolutions.wd12.myworkdayjobs.com/external/job/Plano-TX/Junior-Full-Stack-Developer_JR102071-1"
     },
     {
       "id": "1b09b691-d5fb-49ee-a263-78f2980a667e",
@@ -3491,18 +3395,6 @@
       "age": "54d",
       "url": "https://applyguy.ai/jobs?company=TeleTracking+Technologies%2C+Inc.&job=fb9a5616-f511-4e88-9065-45611a851b29&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/5425154008"
-    },
-    {
-      "id": "27fed047-6781-4b11-947e-797be6e283a9",
-      "company": "Usaa",
-      "title": "Software Engineer I - Claims",
-      "location": "Phoenix, AZ",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-21",
-      "age": "54d",
-      "url": "https://applyguy.ai/jobs?company=Usaa&job=27fed047-6781-4b11-947e-797be6e283a9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://usaa.wd1.myworkdayjobs.com/usaajobswd/job/Phoenix-Campus-Main/Software-Engineer-I_R0120181"
     },
     {
       "id": "322c6af9-9684-4b81-82cf-7573433ad52f",
