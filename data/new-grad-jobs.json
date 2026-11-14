@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T21:30:14.770Z",
+  "updatedAt": "2026-11-14T21:45:15.003Z",
   "jobs": [
     {
       "id": "7952ac65-8a28-44c0-b1ba-f30b6266c1c6",
@@ -3546,42 +3546,6 @@
       "age": "59d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=8e0f2dfd-4351-4521-9fb0-f517ed65d970&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Receiver--Exciter----Processing-Architecture-Software-Engineer-I---Onsite_01873475"
-    },
-    {
-      "id": "34544929-bbc2-4a51-a1f2-b6b1cb4fd5c5",
-      "company": "Millennial Software Solutions Inc",
-      "title": "Entry Level Full Stack Developer- $65K-$116K + 15% 401k",
-      "location": "Chantilly, VA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-09-15",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Millennial+Software+Solutions+Inc&job=34544929-bbc2-4a51-a1f2-b6b1cb4fd5c5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4507528"
-    },
-    {
-      "id": "e9642ed3-0d44-4443-9e87-16694e86283a",
-      "company": "SingleStore",
-      "title": "Software Engineer-Engine-New Grad 2027",
-      "location": "United States",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-09-15",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=SingleStore&job=e9642ed3-0d44-4443-9e87-16694e86283a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/singlestore/jobs/8205427"
-    },
-    {
-      "id": "c574ad07-d233-496e-9dfe-b4905b2df017",
-      "company": "SingleStore",
-      "title": "Software Engineer-Helios-New Grad 2027",
-      "location": "United States",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-09-15",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=SingleStore&job=c574ad07-d233-496e-9dfe-b4905b2df017&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/singlestore/jobs/8205389"
     }
   ]
 }
