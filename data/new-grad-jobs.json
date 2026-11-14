@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T15:15:34.322Z",
+  "updatedAt": "2026-11-14T15:30:35.525Z",
   "jobs": [
     {
       "id": "7952ac65-8a28-44c0-b1ba-f30b6266c1c6",
@@ -48,6 +48,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Twitch&job=7734e441-8ff0-49e1-93aa-5bcd73f6de6a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/twitch/jobs/8943553002"
+    },
+    {
+      "id": "d9beae8a-db21-41e4-9573-ea489acd3759",
+      "company": "Visa",
+      "title": "Associate Data Engineer",
+      "location": "Foster City, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-13",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Visa&job=d9beae8a-db21-41e4-9573-ea489acd3759&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://visa.wd5.myworkdayjobs.com/visa/job/US---Foster-City-CA/Associate-Data-Engineer_REF089618W"
     },
     {
       "id": "3ebdac12-a1bb-4cfc-b061-33e87a6d3cc8",
@@ -315,6 +327,18 @@
       "url": "https://www.amazon.jobs/en/jobs/10601956/software-development-engineer-amazon-dedicated-cloud-early-career-2027-amazon-dedicated-cloud-adc",
       "listingUrl": "https://www.amazon.jobs/en/jobs/10601956/software-development-engineer-amazon-dedicated-cloud-early-career-2027-amazon-dedicated-cloud-adc",
       "applySupported": false
+    },
+    {
+      "id": "ee29415c-63ca-4210-9f31-ee4e29c9e596",
+      "company": "Bakertilly",
+      "title": "Associate Data Engineer",
+      "location": "Madison, WI",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-10",
+      "age": "4d",
+      "url": "https://applyguy.ai/jobs?company=Bakertilly&job=ee29415c-63ca-4210-9f31-ee4e29c9e596&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/Madison-WI/Associate-Data-Engineer_JR108679"
     },
     {
       "id": "d2821a7a-1917-4985-a575-ccbe00631d40",
