@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T10:15:19.757Z",
+  "updatedAt": "2026-11-16T10:30:21.747Z",
   "jobs": [
     {
       "id": "custom:microsoft:6d62715838cf2a85c6d5",
@@ -3430,18 +3430,6 @@
       "age": "60d",
       "url": "https://applyguy.ai/jobs?company=MAP&job=f5e749dc-519e-447e-a8d3-4169d85cfd64&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/map/jobs/8816124002"
-    },
-    {
-      "id": "0c2e6120-e7a8-4f2e-9e07-2c79f871e7eb",
-      "company": "Peraton",
-      "title": "Junior Data Engineer / Active Secret",
-      "location": "Beltsville, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-17",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Peraton&job=0c2e6120-e7a8-4f2e-9e07-2c79f871e7eb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://careers-peraton.icims.com/jobs/170925/junior-data-engineer---active-secret/job"
     },
     {
       "id": "502b9b76-2f7a-4b9e-9c76-4554198118c7",
