@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T23:15:35.835Z",
+  "updatedAt": "2026-11-16T23:30:50.631Z",
   "jobs": [
     {
       "id": "aadd820a-b444-4aef-a1e0-f549b64c7472",
@@ -3342,18 +3342,6 @@
       "age": "59d",
       "url": "https://applyguy.ai/jobs?company=Study.com&job=a5745ce0-75a7-44a0-aed8-0c1fa46bd445&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://study.com/pages/jobApplication.html/?gh_jid=5429313008"
-    },
-    {
-      "id": "502b9b76-2f7a-4b9e-9c76-4554198118c7",
-      "company": "Stripe",
-      "title": "Software Engineer, Early Career — Immediate Start",
-      "location": "San Francisco, CA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-09-17",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Stripe&job=502b9b76-2f7a-4b9e-9c76-4554198118c7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://stripe.com/jobs/search?gh_jid=8212508"
     }
   ]
 }
