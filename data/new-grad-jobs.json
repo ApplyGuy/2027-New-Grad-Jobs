@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-11-18T23:00:42.024Z",
+  "updatedAt": "2026-11-18T23:15:54.711Z",
   "jobs": [
+    {
+      "id": "custom:amazon:7fa8c5c978dbc33b20fc",
+      "company": "Amazon",
+      "title": "Software Engineer I",
+      "location": "San Francisco, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-18",
+      "age": "Today",
+      "url": "https://www.amazon.jobs/en/jobs/10608848/software-engineer-i",
+      "listingUrl": "https://www.amazon.jobs/en/jobs/10608848/software-engineer-i",
+      "applySupported": false
+    },
     {
       "id": "a35acf4e-7070-40d8-b770-773404dcb6bc",
       "company": "Twitch",
@@ -2440,19 +2453,6 @@
       "age": "41d",
       "url": "https://applyguy.ai/jobs?company=66+Degrees&job=4400cfe1-3101-48d4-a073-8ef3340f6504&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/66degrees/jobs/6220280004"
-    },
-    {
-      "id": "custom:amazon:e8d327233a5babe10406",
-      "company": "Amazon",
-      "title": "Software Engineer I",
-      "location": "San Francisco, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-08",
-      "age": "41d",
-      "url": "https://www.amazon.jobs/en/jobs/10573768/software-engineer-i",
-      "listingUrl": "https://www.amazon.jobs/en/jobs/10573768/software-engineer-i",
-      "applySupported": false
     },
     {
       "id": "fc6e4098-70cc-4dc7-97a5-26cd7e68bafb",
