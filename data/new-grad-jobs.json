@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T04:00:37.120Z",
+  "updatedAt": "2026-11-19T04:15:39.597Z",
   "jobs": [
     {
       "id": "custom:amazon:ced77304f4a2b03ab408",
@@ -2012,18 +2012,6 @@
       "listingUrl": "https://abnormal.ai/careers/jobs/8015179003?gh_jid=8015179003"
     },
     {
-      "id": "3a779a3a-a014-4a78-824b-65b42f79987d",
-      "company": "Axon",
-      "title": "Software Engineer I",
-      "location": "Seattle, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-16",
-      "age": "34d",
-      "url": "https://applyguy.ai/jobs?company=Axon&job=3a779a3a-a014-4a78-824b-65b42f79987d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/axon/jobs/7703668003"
-    },
-    {
       "id": "29c62f44-5fd2-4951-b2f3-b9d3e92054bf",
       "company": "Costar",
       "title": "Software Engineer I- CoStar Suite- Arlington, VA",
@@ -2610,18 +2598,6 @@
       "age": "43d",
       "url": "https://applyguy.ai/jobs?company=Sierraspace&job=5a2efece-b4de-4e41-a9ae-feab00c2a91f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://sierraspace.wd1.myworkdayjobs.com/sierra_space_external_career_site/job/Centennial-CO/Software-Engineer-I---Flight-Software_R26391-1"
-    },
-    {
-      "id": "5486d342-2bb7-4050-85d9-5e11f3e264ff",
-      "company": "Sierraspace",
-      "title": "Software Engineer I - Ground Software",
-      "location": "Centennial, CO",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-07",
-      "age": "43d",
-      "url": "https://applyguy.ai/jobs?company=Sierraspace&job=5486d342-2bb7-4050-85d9-5e11f3e264ff&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://sierraspace.wd1.myworkdayjobs.com/sierra_space_external_career_site/job/Centennial-CO/Software-Engineer-I---Ground-Software_R26393-1"
     },
     {
       "id": "c1492256-395b-45e3-b22e-6977cbc8ae04",
