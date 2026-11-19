@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T22:30:38.104Z",
+  "updatedAt": "2026-11-19T22:45:42.684Z",
   "jobs": [
     {
       "id": "custom:amazon:ced77304f4a2b03ab408",
@@ -25,6 +25,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Formlabs&job=ac523264-70e7-47ec-81e1-10910e61986a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://careers.formlabs.com/job/8402093/apply/?gh_jid=8402093"
+    },
+    {
+      "id": "a76d77c4-61f4-4f47-928f-830c1e5e4935",
+      "company": "Themis Insight",
+      "title": "Software Engineer 1-3 (Data)",
+      "location": "Fort Meade vicinity, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-19",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Themis+Insight&job=a76d77c4-61f4-4f47-928f-830c1e5e4935&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://themis-insight.breezy.hr/p/95e32cca797f-software-engineer-1-3-data"
     },
     {
       "id": "custom:amazon:7fa8c5c978dbc33b20fc",
