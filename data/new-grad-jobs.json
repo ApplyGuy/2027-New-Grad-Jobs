@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-11-19T01:30:14.690Z",
+  "updatedAt": "2026-11-19T01:45:33.990Z",
   "jobs": [
+    {
+      "id": "custom:amazon:ced77304f4a2b03ab408",
+      "company": "Amazon",
+      "title": "Software Engineer I, Commerce",
+      "location": "Seattle, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-19",
+      "age": "Today",
+      "url": "https://www.amazon.jobs/en/jobs/10607758/software-engineer-i-commerce",
+      "listingUrl": "https://www.amazon.jobs/en/jobs/10607758/software-engineer-i-commerce",
+      "applySupported": false
+    },
     {
       "id": "custom:amazon:7fa8c5c978dbc33b20fc",
       "company": "Amazon",
