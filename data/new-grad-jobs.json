@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T17:30:36.515Z",
+  "updatedAt": "2026-11-20T17:45:36.602Z",
   "jobs": [
     {
       "id": "custom:amazon:ced77304f4a2b03ab408",
@@ -3211,30 +3211,6 @@
       "age": "59d",
       "url": "https://applyguy.ai/jobs?company=Striveworks&job=1e2fe4fc-9e30-48df-b4ce-7b059e095ff1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/striveworks/jobs/8002515003"
-    },
-    {
-      "id": "25a7a488-0842-4c69-9c77-f093eb04b582",
-      "company": "SingleStore",
-      "title": "MIT-Software Engineer-New Grad |Helios|",
-      "location": "United States",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-09-21",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=SingleStore&job=25a7a488-0842-4c69-9c77-f093eb04b582&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/singlestore/jobs/8220882"
-    },
-    {
-      "id": "92ce7904-a7c4-41d3-8fbf-087e34f65cb5",
-      "company": "SingleStore",
-      "title": "MIT-Software Engineer-New Grad |Engine|",
-      "location": "United States",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-09-21",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=SingleStore&job=92ce7904-a7c4-41d3-8fbf-087e34f65cb5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/singlestore/jobs/8220863"
     }
   ]
 }
