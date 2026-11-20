@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T23:15:49.525Z",
+  "updatedAt": "2026-11-20T23:30:41.067Z",
   "jobs": [
     {
       "id": "custom:amazon:ced77304f4a2b03ab408",
@@ -2864,6 +2864,18 @@
       "listingUrl": "https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Machine-Learning-Software-Engineer-1_R-71006"
     },
     {
+      "id": "b32b9962-2af2-4d08-a4d6-d274971b76a6",
+      "company": "EvenUp",
+      "title": "Software Engineer (New Grad), AI Entities",
+      "location": "San Francisco, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-09-30",
+      "age": "51d",
+      "url": "https://applyguy.ai/jobs?company=EvenUp&job=b32b9962-2af2-4d08-a4d6-d274971b76a6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.ashbyhq.com/evenup/19eb22cd-9540-49ed-840b-6422714413b5"
+    },
+    {
       "id": "cd3b1d14-71f4-4fe4-b7b0-1510cb00918b",
       "company": "IMC",
       "title": "Software Engineer, Early Career",
@@ -2910,6 +2922,19 @@
       "age": "51d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=3ab73a1f-8de1-42c7-9508-b70616da5375&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Embedded-Software-Engineer-I--Onsite-_01878013"
+    },
+    {
+      "id": "custom:microsoft:698bf1cfd0197fa8f311",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-29",
+      "age": "52d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "applySupported": false
     },
     {
       "id": "ff4d695b-6a47-433b-8c2e-cc351c3ef893",
