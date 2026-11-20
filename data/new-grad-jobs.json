@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T15:00:17.682Z",
+  "updatedAt": "2026-11-20T15:15:44.261Z",
   "jobs": [
     {
       "id": "custom:amazon:ced77304f4a2b03ab408",
@@ -158,18 +158,6 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Shield+AI&job=91ef76a4-9dc5-46ff-bfcf-1c06f77b44f8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/shieldai/c33ab680-2625-4da1-a96c-41bea441b98b"
-    },
-    {
-      "id": "cd7cbcd1-dc23-4b8f-98fe-d9ebbb951c7a",
-      "company": "Travelers",
-      "title": "Software Engineer I (TypeScript, React, AWS, AI-Assisted Development)",
-      "location": "Hartford, CT",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-13",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=Travelers&job=cd7cbcd1-dc23-4b8f-98fe-d9ebbb951c7a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://travelers.wd5.myworkdayjobs.com/external/job/CT---Hartford/Software-Engineer-I--TypeScript--React--AWS--AI-Assisted-Development-_R-53687"
     },
     {
       "id": "7734e441-8ff0-49e1-93aa-5bcd73f6de6a",
