@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T21:15:16.232Z",
+  "updatedAt": "2026-11-21T21:30:19.062Z",
   "jobs": [
     {
       "id": "b32b9962-2af2-4d08-a4d6-d274971b76a6",
@@ -3140,18 +3140,6 @@
       "age": "59d",
       "url": "https://applyguy.ai/jobs?company=Striveworks&job=7af2ab8d-e81e-4527-9111-4c51f0f14adb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/striveworks/jobs/8002825003"
-    },
-    {
-      "id": "45eeb54f-4059-4a3f-8724-17e49f574eae",
-      "company": "Abnormal",
-      "title": "Software Engineer 1 - Data Platforms",
-      "location": "Remote, U.S.",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-22",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Abnormal&job=45eeb54f-4059-4a3f-8724-17e49f574eae&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://abnormal.ai/careers/jobs/8001641003?gh_jid=8001641003"
     }
   ]
 }
