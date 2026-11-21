@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T04:00:38.031Z",
+  "updatedAt": "2026-11-21T04:15:39.131Z",
   "jobs": [
     {
       "id": "b32b9962-2af2-4d08-a4d6-d274971b76a6",
@@ -2168,18 +2168,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Software-Engineer-I---Next-Gen-Systems---Onsite_01881673"
     },
     {
-      "id": "a2ec046c-b595-4a95-a906-33c989c548be",
-      "company": "TRISTAR",
-      "title": "Software Developer I",
-      "location": "Bloomington, IN",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-14",
-      "age": "38d",
-      "url": "https://applyguy.ai/jobs?company=TRISTAR&job=a2ec046c-b595-4a95-a906-33c989c548be&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4586392"
-    },
-    {
       "id": "350abd2c-2631-4050-bed6-4d4c612a7571",
       "company": "Advantage Design Group",
       "title": "Software Developer I",
@@ -2202,18 +2190,6 @@
       "age": "39d",
       "url": "https://applyguy.ai/jobs?company=Gruve&job=2866902e-a3cb-41c7-9c42-48b6a2f13d5e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://gruve.ai/careers/?gh_jid=5434249008"
-    },
-    {
-      "id": "4ef319ce-d4bc-498d-ab73-891c92a46425",
-      "company": "Justworks",
-      "title": "Associate Software Engineer, Frontend",
-      "location": "New York City, NY",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-13",
-      "age": "39d",
-      "url": "https://applyguy.ai/jobs?company=Justworks&job=4ef319ce-d4bc-498d-ab73-891c92a46425&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://boards.greenhouse.io/justworks/jobs/8236815?gh_jid=8236815"
     },
     {
       "id": "8642f9b5-d069-42f9-b8ec-a3ef41276156",
@@ -2384,18 +2360,6 @@
       "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Sarasota-FL-US/Junior-Software-Engineer_333295"
     },
     {
-      "id": "f280c94d-1164-484c-8d20-f417d381b38b",
-      "company": "Freedom Technology Solutions Group",
-      "title": "Junior Software Engineer 780",
-      "location": "Annapolis Junction, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-09",
-      "age": "43d",
-      "url": "https://applyguy.ai/jobs?company=Freedom+Technology+Solutions+Group&job=f280c94d-1164-484c-8d20-f417d381b38b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5248064007"
-    },
-    {
       "id": "e9edebe5-2561-46b1-9cb7-6a8782674724",
       "company": "Galatea Associates",
       "title": "Entry-Level Financial Software Consultant",
@@ -2466,18 +2430,6 @@
       "age": "44d",
       "url": "https://applyguy.ai/jobs?company=66+Degrees&job=4400cfe1-3101-48d4-a073-8ef3340f6504&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/66degrees/jobs/6220280004"
-    },
-    {
-      "id": "fc6e4098-70cc-4dc7-97a5-26cd7e68bafb",
-      "company": "Bmo",
-      "title": "Software Developer ( Early Career )-15",
-      "location": "Irving, TX",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-10-08",
-      "age": "44d",
-      "url": "https://applyguy.ai/jobs?company=Bmo&job=fc6e4098-70cc-4dc7-97a5-26cd7e68bafb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://bmo.wd3.myworkdayjobs.com/external/job/Irving-TX-USA/Software-Developer---Early-Career---15_R260021450"
     },
     {
       "id": "aed08cf6-d982-485a-850b-438a873f2045",
@@ -2598,18 +2550,6 @@
       "age": "45d",
       "url": "https://applyguy.ai/jobs?company=Otter.ai&job=283b6fee-6f74-4849-949e-380b74f0e4ef&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://otter.ai/careers?gh_jid=8016078003"
-    },
-    {
-      "id": "5a2efece-b4de-4e41-a9ae-feab00c2a91f",
-      "company": "Sierraspace",
-      "title": "Software Engineer I - Flight Software",
-      "location": "Centennial, CO",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-07",
-      "age": "45d",
-      "url": "https://applyguy.ai/jobs?company=Sierraspace&job=5a2efece-b4de-4e41-a9ae-feab00c2a91f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://sierraspace.wd1.myworkdayjobs.com/sierra_space_external_career_site/job/Centennial-CO/Software-Engineer-I---Flight-Software_R26391-1"
     },
     {
       "id": "c1492256-395b-45e3-b22e-6977cbc8ae04",
@@ -2754,18 +2694,6 @@
       "age": "47d",
       "url": "https://applyguy.ai/jobs?company=Iqvia&job=7fc3183c-8ff4-4580-8a18-5aec9228e429&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://iqvia.wd1.myworkdayjobs.com/iqvia/job/Batesville-Indiana-United-States/MedTech-Field-Service-Software-Tech-Entry-level---Batesville--IN_R1572568"
-    },
-    {
-      "id": "6bf118c5-00d1-4664-8553-3651c78c8bb9",
-      "company": "Nuro",
-      "title": "New Grad Software Engineer, Product Engineering",
-      "location": "Mountain View, California (HQ)",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-10-05",
-      "age": "47d",
-      "url": "https://applyguy.ai/jobs?company=Nuro&job=6bf118c5-00d1-4664-8553-3651c78c8bb9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://nuro.ai/careersitem?gh_jid=8248317"
     },
     {
       "id": "04e0cdaa-a376-49db-96a2-2d371eef15f5",
@@ -3091,18 +3019,6 @@
       "age": "59d",
       "url": "https://applyguy.ai/jobs?company=Analogdevices&job=f4a6457d-2462-4240-9729-4ef3606fde3b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://analogdevices.wd1.myworkdayjobs.com/external/job/US-MA-Boston/Associate-Machine-Learning-Engineer_R266607-1"
-    },
-    {
-      "id": "14ecbeb1-0c02-411d-8ec6-163c3357f3f3",
-      "company": "Nuro",
-      "title": "Software Engineer, Performance Tooling and Infrastructure New Grad",
-      "location": "Mountain View, California (HQ)",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-09-23",
-      "age": "59d",
-      "url": "https://applyguy.ai/jobs?company=Nuro&job=14ecbeb1-0c02-411d-8ec6-163c3357f3f3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://nuro.ai/careersitem?gh_jid=8227399"
     },
     {
       "id": "117b8a6e-43fd-4c8c-a266-73dc1118689d",
