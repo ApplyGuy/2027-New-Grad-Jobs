@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T11:15:43.970Z",
+  "updatedAt": "2026-11-21T11:30:53.853Z",
   "jobs": [
     {
       "id": "b32b9962-2af2-4d08-a4d6-d274971b76a6",
@@ -25,6 +25,18 @@
       "url": "https://www.amazon.jobs/en/jobs/10607758/software-engineer-i-commerce",
       "listingUrl": "https://www.amazon.jobs/en/jobs/10607758/software-engineer-i-commerce",
       "applySupported": false
+    },
+    {
+      "id": "97a148c2-cafd-4e2a-9d15-6c4acd0bdc08",
+      "company": "Cadence",
+      "title": "Software Engineering, Verification IP Team (Recent Grad 2026)",
+      "location": "San Jose, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-11-19",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=Cadence&job=97a148c2-cafd-4e2a-9d15-6c4acd0bdc08&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://cadence.wd1.myworkdayjobs.com/university_talent_ncg/job/SAN-JOSE/Software-Engineering--Verification-IP-Team--Recent-Grad-2026-_R55884"
     },
     {
       "id": "ac523264-70e7-47ec-81e1-10910e61986a",
