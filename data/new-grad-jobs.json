@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T06:30:38.318Z",
+  "updatedAt": "2026-11-21T06:46:13.502Z",
   "jobs": [
     {
       "id": "b32b9962-2af2-4d08-a4d6-d274971b76a6",
@@ -158,6 +158,18 @@
       "age": "8d",
       "url": "https://applyguy.ai/jobs?company=Shield+AI&job=91ef76a4-9dc5-46ff-bfcf-1c06f77b44f8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/shieldai/c33ab680-2625-4da1-a96c-41bea441b98b"
+    },
+    {
+      "id": "cd7cbcd1-dc23-4b8f-98fe-d9ebbb951c7a",
+      "company": "Travelers",
+      "title": "Software Engineer I (TypeScript, React, AWS, AI-Assisted Development)",
+      "location": "Hartford, CT",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-13",
+      "age": "8d",
+      "url": "https://applyguy.ai/jobs?company=Travelers&job=cd7cbcd1-dc23-4b8f-98fe-d9ebbb951c7a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://travelers.wd5.myworkdayjobs.com/external/job/CT---Hartford/Software-Engineer-I--TypeScript--React--AWS--AI-Assisted-Development-_R-53687"
     },
     {
       "id": "7734e441-8ff0-49e1-93aa-5bcd73f6de6a",
@@ -893,6 +905,18 @@
       "age": "18d",
       "url": "https://applyguy.ai/jobs?company=Precisely+US+Jobs&job=65b8499e-c905-407a-bdb0-8d92e49fc328&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.precisely.com/careers-and-culture/us-jobs/job/4750854005?gh_jid=4750854005"
+    },
+    {
+      "id": "662fb1bd-24e6-4ea5-b116-afc48f80a575",
+      "company": "Quickenloans",
+      "title": "Software Engineer I",
+      "location": "Detroit, MI",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-03",
+      "age": "18d",
+      "url": "https://applyguy.ai/jobs?company=Quickenloans&job=662fb1bd-24e6-4ea5-b116-afc48f80a575&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Software-Engineer-I_R-083895"
     },
     {
       "id": "263f6559-0f1d-4420-a14a-678d4a84ed07",
