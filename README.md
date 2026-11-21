@@ -1,6 +1,6 @@
 # 2027 New Grad Software Engineering Jobs
 
-[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-263-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
+[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-264-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
 
 A continuously verified list of **2027 New Grad software engineering jobs**, **entry-level software engineer jobs**, and early-career developer roles in the United States. Listings come directly from employer career pages and are maintained by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs).
 
@@ -15,9 +15,9 @@ A continuously verified list of **2027 New Grad software engineering jobs**, **e
 
 🎒 **Looking for internships?** Browse [2027 SWE & Product Internships →](https://github.com/ApplyGuy/2027-Internships)
 
-- **263** active U.S. software roles posted within the last **60 days**
-- **95** explicitly labeled New Grad / university graduate / early career
-- Last refresh: **Nov 21, 2026, 3:15 AM PST**
+- **264** active U.S. software roles posted within the last **60 days**
+- **96** explicitly labeled New Grad / university graduate / early career
+- Last refresh: **Nov 21, 2026, 3:30 AM PST**
 - Machine-readable feed: [data/new-grad-jobs.json](data/new-grad-jobs.json)
 
 Listings with the orange **Apply Guy** button support one-click apply through [Apply Guy](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs). Blue **View** buttons open the employer's career site directly.
@@ -28,6 +28,7 @@ Listings with the orange **Apply Guy** button support one-click apply through [A
 |---|---|---|---:|---|
 | EvenUp | Software Engineer (New Grad), AI Entities | San Francisco, CA | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=EvenUp&job=b32b9962-2af2-4d08-a4d6-d274971b76a6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/evenup/19eb22cd-9540-49ed-840b-6422714413b5) |
 | Amazon | Software Engineer I, Commerce | Seattle, WA | 2d | [![View original listing](assets/view-listing.svg)](https://www.amazon.jobs/en/jobs/10607758/software-engineer-i-commerce) |
+| Cadence | Software Engineering, Verification IP Team (Recent Grad 2026) | San Jose, CA | 2d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Cadence&job=97a148c2-cafd-4e2a-9d15-6c4acd0bdc08&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://cadence.wd1.myworkdayjobs.com/university_talent_ncg/job/SAN-JOSE/Software-Engineering--Verification-IP-Team--Recent-Grad-2026-_R55884) |
 | Formlabs | Embedded Software Engineer - Entry Level | Boston, MA | 2d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Formlabs&job=ac523264-70e7-47ec-81e1-10910e61986a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://careers.formlabs.com/job/8402093/apply/?gh_jid=8402093) |
 | Themis Insight | Software Engineer 1-3 (Data) | Fort Meade vicinity, MD | 2d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Themis+Insight&job=a76d77c4-61f4-4f47-928f-830c1e5e4935&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://themis-insight.breezy.hr/p/95e32cca797f-software-engineer-1-3-data) |
 | Amazon | Software Engineer I | San Francisco, CA | 3d | [![View original listing](assets/view-listing.svg)](https://www.amazon.jobs/en/jobs/10608848/software-engineer-i) |
