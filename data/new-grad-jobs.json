@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T16:00:48.024Z",
+  "updatedAt": "2026-11-21T16:15:34.756Z",
   "jobs": [
     {
       "id": "b32b9962-2af2-4d08-a4d6-d274971b76a6",
@@ -3163,18 +3163,6 @@
       "age": "60d",
       "url": "https://applyguy.ai/jobs?company=Hartz+Mountain+Corp&job=389aa5b0-5541-4f35-9485-19bf22a50bce&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4525589"
-    },
-    {
-      "id": "1e2fe4fc-9e30-48df-b4ce-7b059e095ff1",
-      "company": "Striveworks",
-      "title": "Junior Machine Learning Engineer",
-      "location": "Austin, TX",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-22",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Striveworks&job=1e2fe4fc-9e30-48df-b4ce-7b059e095ff1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/striveworks/jobs/8002515003"
     }
   ]
 }
