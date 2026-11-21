@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T10:15:19.663Z",
+  "updatedAt": "2026-11-21T10:30:40.809Z",
   "jobs": [
     {
       "id": "b32b9962-2af2-4d08-a4d6-d274971b76a6",
@@ -110,6 +110,18 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Relativity+Space&job=fe846b19-54fa-445b-90af-9fbdad78f706&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boards.greenhouse.io/relativity/jobs/8949325002?gh_jid=8949325002"
+    },
+    {
+      "id": "68131fde-0cd7-490e-b441-80844f3cd5e1",
+      "company": "Tandemdiabetes",
+      "title": "Embedded Software Engineer I",
+      "location": "Remote San Diego, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-17",
+      "age": "4d",
+      "url": "https://applyguy.ai/jobs?company=Tandemdiabetes&job=68131fde-0cd7-490e-b441-80844f3cd5e1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://tandemdiabetes.wd12.myworkdayjobs.com/tandemdiabetes/job/Remote---San-Diego-CA/Embedded-Software-Engineer-I_JR101708-1"
     },
     {
       "id": "aadd820a-b444-4aef-a1e0-f549b64c7472",
