@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T11:30:49.589Z",
+  "updatedAt": "2026-11-22T11:45:20.738Z",
   "jobs": [
     {
       "id": "b32b9962-2af2-4d08-a4d6-d274971b76a6",
@@ -25,18 +25,6 @@
       "url": "https://www.amazon.jobs/en/jobs/10607758/software-engineer-i-commerce",
       "listingUrl": "https://www.amazon.jobs/en/jobs/10607758/software-engineer-i-commerce",
       "applySupported": false
-    },
-    {
-      "id": "97a148c2-cafd-4e2a-9d15-6c4acd0bdc08",
-      "company": "Cadence",
-      "title": "Software Engineering, Verification IP Team (Recent Grad 2026)",
-      "location": "San Jose, CA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-11-19",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=Cadence&job=97a148c2-cafd-4e2a-9d15-6c4acd0bdc08&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://cadence.wd1.myworkdayjobs.com/university_talent_ncg/job/SAN-JOSE/Software-Engineering--Verification-IP-Team--Recent-Grad-2026-_R55884"
     },
     {
       "id": "ac523264-70e7-47ec-81e1-10910e61986a",
@@ -2862,6 +2850,19 @@
       "age": "53d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=3ab73a1f-8de1-42c7-9508-b70616da5375&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Embedded-Software-Engineer-I--Onsite-_01878013"
+    },
+    {
+      "id": "custom:microsoft:698bf1cfd0197fa8f311",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-29",
+      "age": "54d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "applySupported": false
     },
     {
       "id": "ff4d695b-6a47-433b-8c2e-cc351c3ef893",
