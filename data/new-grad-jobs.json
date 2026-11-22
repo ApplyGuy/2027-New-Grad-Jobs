@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T17:45:36.845Z",
+  "updatedAt": "2026-11-22T18:00:43.576Z",
   "jobs": [
     {
       "id": "b32b9962-2af2-4d08-a4d6-d274971b76a6",
@@ -3031,18 +3031,6 @@
       "age": "60d",
       "url": "https://applyguy.ai/jobs?company=Parallel+Systems&job=117b8a6e-43fd-4c8c-a266-73dc1118689d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boards.greenhouse.io/parallel/jobs/5247800007?gh_jid=5247800007"
-    },
-    {
-      "id": "54eddbd4-55ec-4465-a650-636c0cb97e8e",
-      "company": "Scale AI",
-      "title": "Software Engineer, Public Sector - New Grad",
-      "location": "San Francisco, CA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-09-23",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Scale+AI&job=54eddbd4-55ec-4465-a650-636c0cb97e8e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005"
     },
     {
       "id": "22ab5aa8-a4cd-4af4-94d3-594ad873bacf",
