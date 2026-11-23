@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T22:15:20.367Z",
+  "updatedAt": "2026-11-23T22:30:16.874Z",
   "jobs": [
     {
       "id": "17b31348-1608-498c-958a-7c0716e29690",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Koddi&job=17b31348-1608-498c-958a-7c0716e29690&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/koddi/jobs/8944769002"
+    },
+    {
+      "id": "65a80b58-8c9a-4f2e-82c1-473783fb1bf0",
+      "company": "M1 Technology",
+      "title": "Junior Software Engineer",
+      "location": "Chantilly, VA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-23",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=M1+Technology&job=65a80b58-8c9a-4f2e-82c1-473783fb1bf0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://m1technology.com/careers?gh_jid=4510473009"
     },
     {
       "id": "b32b9962-2af2-4d08-a4d6-d274971b76a6",
