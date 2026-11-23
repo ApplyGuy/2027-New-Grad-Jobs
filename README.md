@@ -1,6 +1,6 @@
 # 2027 New Grad Software Engineering Jobs
 
-[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-248-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
+[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-247-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
 
 A continuously verified list of **2027 New Grad software engineering jobs**, **entry-level software engineer jobs**, and early-career developer roles in the United States. Listings come directly from employer career pages and are maintained by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs).
 
@@ -15,9 +15,9 @@ A continuously verified list of **2027 New Grad software engineering jobs**, **e
 
 🎒 **Looking for internships?** Browse [2027 SWE & Product Internships →](https://github.com/ApplyGuy/2027-Internships)
 
-- **248** active U.S. software roles posted within the last **60 days**
+- **247** active U.S. software roles posted within the last **60 days**
 - **88** explicitly labeled New Grad / university graduate / early career
-- Last refresh: **Nov 23, 2026, 1:00 PM PST**
+- Last refresh: **Nov 23, 2026, 1:15 PM PST**
 - Machine-readable feed: [data/new-grad-jobs.json](data/new-grad-jobs.json)
 
 Listings with the orange **Apply Guy** button support one-click apply through [Apply Guy](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs). Blue **View** buttons open the employer's career site directly.
@@ -273,7 +273,6 @@ Listings with the orange **Apply Guy** button support one-click apply through [A
 | Momentum Engineering, Inc. | ME00682-Software Engineer 1 | Annapolis Junction, MD | 56d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Momentum+Engineering%2C+Inc.&job=eb1a30c8-9a96-4179-bb2a-a1ba6071287e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://ats.rippling.com/momentumcareers/jobs/bca6bef8-620f-4d9f-bca8-a4503f8d5658) |
 | Swarm Aero | Software Engineer, Real-Time Systems (Early Career) | San Francisco, CA | 56d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Swarm+Aero&job=56b69d96-0568-41e7-9db3-e9037f87b632&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/swarmaero/7d3783c5-f98c-4def-8c33-6de907aab30e) |
 | Wattswater | Software Engineer I | Blauvelt, NY | 56d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Wattswater&job=36338c1a-01ee-4c02-aa12-0f8c3bb22c14&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://wattswater.wd5.myworkdayjobs.com/external/job/Blauvelt-NY/Software-Engineer-I_10017656) |
-| Endictus Corp | Jr Software Engineer / Software Developer I - Evergreen | Washington, DC | 60d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Endictus+Corp&job=1b09b691-d5fb-49ee-a263-78f2980a667e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4534532) |
 
 ## Contributing
 
