@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T16:15:20.994Z",
+  "updatedAt": "2026-11-23T16:30:38.652Z",
   "jobs": [
     {
       "id": "b32b9962-2af2-4d08-a4d6-d274971b76a6",
@@ -2876,19 +2876,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Embedded-Software-Engineer-I--Onsite-_01878013"
     },
     {
-      "id": "custom:microsoft:698bf1cfd0197fa8f311",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-29",
-      "age": "55d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "applySupported": false
-    },
-    {
       "id": "ff4d695b-6a47-433b-8c2e-cc351c3ef893",
       "company": "NVIDIA",
       "title": "Applied Machine Learning Engineer, AI for VLSI Design - New College Grad 2026",
@@ -2983,18 +2970,6 @@
       "age": "60d",
       "url": "https://applyguy.ai/jobs?company=Endictus+Corp&job=1b09b691-d5fb-49ee-a263-78f2980a667e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4534532"
-    },
-    {
-      "id": "ae2a6dd2-02a0-41ea-9a2a-be0b06a2e678",
-      "company": "ZipRecruiter",
-      "title": "Software Engineer - New Grad",
-      "location": "Santa Monica, CA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-09-24",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=ZipRecruiter&job=ae2a6dd2-02a0-41ea-9a2a-be0b06a2e678&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/ziprecruiter/jobs/8127108"
     }
   ]
 }
