@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T01:45:53.844Z",
+  "updatedAt": "2026-11-23T02:00:34.587Z",
   "jobs": [
     {
       "id": "b32b9962-2af2-4d08-a4d6-d274971b76a6",
@@ -110,6 +110,18 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Relativity+Space&job=fe846b19-54fa-445b-90af-9fbdad78f706&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boards.greenhouse.io/relativity/jobs/8949325002?gh_jid=8949325002"
+    },
+    {
+      "id": "2100752a-abcd-42d9-86d2-3b65410727cf",
+      "company": "Starfish",
+      "title": "Entry-Level Modeling & Simulation Software Engineer",
+      "location": "Huntsville, AL",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-11-17",
+      "age": "6d",
+      "url": "https://applyguy.ai/jobs?company=Starfish&job=2100752a-abcd-42d9-86d2-3b65410727cf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://starfish.wd501.myworkdayjobs.com/careers/job/Huntsville-AL/Entry-Level-Modeling---Simulation-Software-Engineer_R2206-1"
     },
     {
       "id": "68131fde-0cd7-490e-b441-80844f3cd5e1",
