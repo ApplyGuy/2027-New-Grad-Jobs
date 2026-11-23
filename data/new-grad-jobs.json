@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T21:00:24.467Z",
+  "updatedAt": "2026-11-23T21:15:21.246Z",
   "jobs": [
     {
       "id": "17b31348-1608-498c-958a-7c0716e29690",
@@ -2971,18 +2971,6 @@
       "age": "56d",
       "url": "https://applyguy.ai/jobs?company=Wattswater&job=36338c1a-01ee-4c02-aa12-0f8c3bb22c14&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://wattswater.wd5.myworkdayjobs.com/external/job/Blauvelt-NY/Software-Engineer-I_10017656"
-    },
-    {
-      "id": "1b09b691-d5fb-49ee-a263-78f2980a667e",
-      "company": "Endictus Corp",
-      "title": "Jr Software Engineer / Software Developer I - Evergreen",
-      "location": "Washington, DC",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-24",
-      "age": "60d",
-      "url": "https://applyguy.ai/jobs?company=Endictus+Corp&job=1b09b691-d5fb-49ee-a263-78f2980a667e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4534532"
     }
   ]
 }
