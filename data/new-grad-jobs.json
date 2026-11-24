@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T07:46:09.167Z",
+  "updatedAt": "2026-11-24T08:00:39.423Z",
   "jobs": [
     {
       "id": "17b31348-1608-498c-958a-7c0716e29690",
@@ -36,6 +36,18 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=EvenUp&job=b32b9962-2af2-4d08-a4d6-d274971b76a6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/evenup/19eb22cd-9540-49ed-840b-6422714413b5"
+    },
+    {
+      "id": "95e1d753-5602-4b34-9860-b104a50fc741",
+      "company": "Further Early Career Opportunities",
+      "title": "Graduate Program: Entry-Level AI/Data Engineer 2027",
+      "location": "Cleveland, OH",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-11-20",
+      "age": "4d",
+      "url": "https://applyguy.ai/jobs?company=Further+Early+Career+Opportunities&job=95e1d753-5602-4b34-9860-b104a50fc741&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/furtherearlycareer/jobs/8932674002"
     },
     {
       "id": "custom:amazon:ced77304f4a2b03ab408",
@@ -182,6 +194,18 @@
       "age": "11d",
       "url": "https://applyguy.ai/jobs?company=Shield+AI&job=91ef76a4-9dc5-46ff-bfcf-1c06f77b44f8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/shieldai/c33ab680-2625-4da1-a96c-41bea441b98b"
+    },
+    {
+      "id": "cd7cbcd1-dc23-4b8f-98fe-d9ebbb951c7a",
+      "company": "Travelers",
+      "title": "Software Engineer I (TypeScript, React, AWS, AI-Assisted Development)",
+      "location": "Hartford, CT",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-13",
+      "age": "11d",
+      "url": "https://applyguy.ai/jobs?company=Travelers&job=cd7cbcd1-dc23-4b8f-98fe-d9ebbb951c7a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://travelers.wd5.myworkdayjobs.com/external/job/CT---Hartford/Software-Engineer-I--TypeScript--React--AWS--AI-Assisted-Development-_R-53687"
     },
     {
       "id": "7734e441-8ff0-49e1-93aa-5bcd73f6de6a",
@@ -679,18 +703,6 @@
       "listingUrl": "https://isu.wd1.myworkdayjobs.com/iowastatejobs/job/Ames-IA/Software-Developer-I_R20057"
     },
     {
-      "id": "40396c90-a414-4446-9894-392b0778e087",
-      "company": "Keyfactor, Inc.",
-      "title": "Associate Software Engineer",
-      "location": "Remote, U.S.",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-06",
-      "age": "18d",
-      "url": "https://applyguy.ai/jobs?company=Keyfactor%2C+Inc.&job=40396c90-a414-4446-9894-392b0778e087&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/keyfactorinc/jobs/6242660004"
-    },
-    {
       "id": "8264e543-ec03-49bd-988b-67975ac0f851",
       "company": "Moog",
       "title": "Associate Software Engineer",
@@ -919,18 +931,6 @@
       "listingUrl": "https://www.precisely.com/careers-and-culture/us-jobs/job/4750854005?gh_jid=4750854005"
     },
     {
-      "id": "263f6559-0f1d-4420-a14a-678d4a84ed07",
-      "company": "Rocket Lab Corporation",
-      "title": "AI Software Engineer I",
-      "location": "Long Beach, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-03",
-      "age": "21d",
-      "url": "https://applyguy.ai/jobs?company=Rocket+Lab+Corporation&job=263f6559-0f1d-4420-a14a-678d4a84ed07&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/8182050003"
-    },
-    {
       "id": "fa08828a-8438-44bf-beb5-e8b319190ecb",
       "company": "RTX",
       "title": "Embedded Security Software Engineer I (Onsite)",
@@ -978,18 +978,6 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/109116638069957318-software-engineer-ii-early-career",
       "listingUrl": "https://www.google.com/about/careers/applications/jobs/results/109116638069957318-software-engineer-ii-early-career",
       "applySupported": false
-    },
-    {
-      "id": "0fc1f2d7-96d4-4eca-b4ef-f7060c152f94",
-      "company": "Qualtrics",
-      "title": "Software Development Engineer I - Data Platform",
-      "location": "Seattle, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-02",
-      "age": "22d",
-      "url": "https://applyguy.ai/jobs?company=Qualtrics&job=0fc1f2d7-96d4-4eca-b4ef-f7060c152f94&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://www.qualtrics.com/careers/us/en/job/8334245?gh_jid=8334245"
     },
     {
       "id": "99ec9f91-8f2b-4e88-846b-398f2e09f9e1",
@@ -1290,18 +1278,6 @@
       "age": "27d",
       "url": "https://applyguy.ai/jobs?company=Boeing&job=de42505e-b669-448f-9062-bb95865207d1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_recall/job/USA---Eglin-AFB-FL/Entry-Level-F-15-Flight-Test-Data-Engineer_JR2026506850-3"
-    },
-    {
-      "id": "2b0d997c-f9c6-40c7-80e8-ac6618e8bf21",
-      "company": "Glean",
-      "title": "Software Engineer, University Grad",
-      "location": "Mountain View, CA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-10-28",
-      "age": "27d",
-      "url": "https://applyguy.ai/jobs?company=Glean&job=2b0d997c-f9c6-40c7-80e8-ac6618e8bf21&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/gleanwork/jobs/4748567005"
     },
     {
       "id": "bc47f456-a0b4-4b0b-af66-12765bb58a49",
@@ -1916,18 +1892,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Software-Developer-I---Onsite-_01880909"
     },
     {
-      "id": "15540e66-1d09-4861-8a28-e7e43da7169c",
-      "company": "True Anomaly",
-      "title": "Software Engineer I, QA (New Grad)",
-      "location": "Denver, CO",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-10-22",
-      "age": "33d",
-      "url": "https://applyguy.ai/jobs?company=True+Anomaly&job=15540e66-1d09-4861-8a28-e7e43da7169c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5273017007"
-    },
-    {
       "id": "7a1a97b2-b267-4974-a4f2-1bac171187b7",
       "company": "Collier Aerospace",
       "title": "Software Engineer (Entry Level)",
@@ -2058,18 +2022,6 @@
       "age": "36d",
       "url": "https://applyguy.ai/jobs?company=Palantir+Technologies&job=c09d79c4-a6ac-43c1-aee9-01ab920c3ee5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac"
-    },
-    {
-      "id": "2c9560cd-35b3-4d52-8e77-73b5d75b9965",
-      "company": "Rocket Lab Corporation",
-      "title": "Flight Software Engineer I",
-      "location": "Littleton, CO",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-19",
-      "age": "36d",
-      "url": "https://applyguy.ai/jobs?company=Rocket+Lab+Corporation&job=2c9560cd-35b3-4d52-8e77-73b5d75b9965&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/8038139003"
     },
     {
       "id": "2abb9b3d-e85c-43c3-bb5b-19e527d0d30e",
@@ -2204,18 +2156,6 @@
       "listingUrl": "https://advantage-design-group.breezy.hr/p/b321c457c48f-software-developer-i"
     },
     {
-      "id": "2866902e-a3cb-41c7-9c42-48b6a2f13d5e",
-      "company": "Gruve",
-      "title": "Junior Full Stack Developer",
-      "location": "Remote, U.S.",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-13",
-      "age": "42d",
-      "url": "https://applyguy.ai/jobs?company=Gruve&job=2866902e-a3cb-41c7-9c42-48b6a2f13d5e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://gruve.ai/careers/?gh_jid=5434249008"
-    },
-    {
       "id": "8642f9b5-d069-42f9-b8ec-a3ef41276156",
       "company": "NVIDIA",
       "title": "SoC Software Engineer – New College Graduate 2026",
@@ -2336,18 +2276,6 @@
       "listingUrl": "https://jobs.lever.co/shieldai/d80f9bad-a014-475a-a018-a676eb6fbad7"
     },
     {
-      "id": "2727c9ca-9c5e-4910-951a-ab4799e22886",
-      "company": "ALTEN Technology USA",
-      "title": "SAP ABAP & BTP Full Stack Developer (Entry-Level)",
-      "location": "Foster City, CA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-10-09",
-      "age": "46d",
-      "url": "https://applyguy.ai/jobs?company=ALTEN+Technology+USA&job=2727c9ca-9c5e-4910-951a-ab4799e22886&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/altentechnologyusa/jobs/5262456007"
-    },
-    {
       "id": "12a8a431-02af-4b8b-836d-aacc375d9216",
       "company": "Aurelian",
       "title": "Software Engineer (New Grad)",
@@ -2442,18 +2370,6 @@
       "age": "47d",
       "url": "https://applyguy.ai/jobs?company=66+Degrees&job=bc61125a-af95-4fe7-a179-ce414b3fa24f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/66degrees/jobs/6220274004"
-    },
-    {
-      "id": "4400cfe1-3101-48d4-a073-8ef3340f6504",
-      "company": "66 Degrees",
-      "title": "Associate Data Engineer, Gradient Specialist",
-      "location": "Chicago, IL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-08",
-      "age": "47d",
-      "url": "https://applyguy.ai/jobs?company=66+Degrees&job=4400cfe1-3101-48d4-a073-8ef3340f6504&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/66degrees/jobs/6220280004"
     },
     {
       "id": "aed08cf6-d982-485a-850b-438a873f2045",
@@ -2610,18 +2526,6 @@
       "age": "49d",
       "url": "https://applyguy.ai/jobs?company=Hpe&job=cfc1b6f0-a1be-467f-86b8-c2d33ce2e038&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Houston-Texas-United-States-of-America/Systems-Software-Engineer-I---Graduate_1213648"
-    },
-    {
-      "id": "0fab392e-dc04-4007-8aa3-5fe995518163",
-      "company": "Perpay - Career's Page",
-      "title": "Super Day - Software Engineer, New Grad",
-      "location": "Philadelphia, PA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-10-06",
-      "age": "49d",
-      "url": "https://applyguy.ai/jobs?company=Perpay+-+Career%27s+Page&job=0fab392e-dc04-4007-8aa3-5fe995518163&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/perpay/jobs/5252881007"
     },
     {
       "id": "258431bc-591c-4eb0-8ba5-3715d737a3d7",
@@ -2876,19 +2780,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Embedded-Software-Engineer-I--Onsite-_01878013"
     },
     {
-      "id": "custom:microsoft:698bf1cfd0197fa8f311",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-29",
-      "age": "56d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "applySupported": false
-    },
-    {
       "id": "ff4d695b-6a47-433b-8c2e-cc351c3ef893",
       "company": "NVIDIA",
       "title": "Applied Machine Learning Engineer, AI for VLSI Design - New College Grad 2026",
@@ -2911,18 +2802,6 @@
       "age": "56d",
       "url": "https://applyguy.ai/jobs?company=OneImaging&job=a6aca4d0-0773-4c65-b805-d3316d745f93&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/oneimaging/jobs/4423646009"
-    },
-    {
-      "id": "47991204-3712-402d-9d5d-ea85ea111f15",
-      "company": "OneImaging",
-      "title": "Full Stack Associate Software Engineer (UMiami Only)",
-      "location": "Miami, FL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-29",
-      "age": "56d",
-      "url": "https://applyguy.ai/jobs?company=OneImaging&job=47991204-3712-402d-9d5d-ea85ea111f15&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/oneimaging/jobs/4423640009"
     },
     {
       "id": "73c47ef4-7a58-4ec3-b335-f4a413e30102",
