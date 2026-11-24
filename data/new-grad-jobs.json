@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T11:30:39.402Z",
+  "updatedAt": "2026-11-24T11:45:40.971Z",
   "jobs": [
     {
       "id": "21c8941c-b85b-4cde-9f65-5c4d3041779f",
@@ -123,6 +123,18 @@
       "listingUrl": "https://careers.formlabs.com/job/8402093/apply/?gh_jid=8402093"
     },
     {
+      "id": "9150b6a1-f3a7-467b-91dd-57d9b2d28538",
+      "company": "Specialized",
+      "title": "Early Career Data Engineer",
+      "location": "United States",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-11-19",
+      "age": "5d",
+      "url": "https://applyguy.ai/jobs?company=Specialized&job=9150b6a1-f3a7-467b-91dd-57d9b2d28538&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://specialized.wd5.myworkdayjobs.com/specialized_external_career_site/job/United-States-CA-Morgan-Hill-Office/Early-Career-Data-Engineer_R0012117"
+    },
+    {
       "id": "a76d77c4-61f4-4f47-928f-830c1e5e4935",
       "company": "Themis Insight",
       "title": "Software Engineer 1-3 (Data)",
@@ -170,6 +182,18 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Northwesternmutual&job=a0cbcbe8-2319-4853-80cf-f3724cde0f68&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Software-Engineer-I_JR-46395-1"
+    },
+    {
+      "id": "7da3e9ab-204b-45e9-8873-1fb2d959bab6",
+      "company": "Quickenloans",
+      "title": "Software Engineer I",
+      "location": "Detroit, MI",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-18",
+      "age": "6d",
+      "url": "https://applyguy.ai/jobs?company=Quickenloans&job=7da3e9ab-204b-45e9-8873-1fb2d959bab6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Software-Engineer-I_R-083877"
     },
     {
       "id": "a35acf4e-7070-40d8-b770-773404dcb6bc",
@@ -917,18 +941,6 @@
       "age": "21d",
       "url": "https://applyguy.ai/jobs?company=Pae&job=5dea96b2-b474-4b49-b6f0-d975b41d70f9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-AL-Huntsville/Software-Tools-Developer--Entry-Level_R0174727"
-    },
-    {
-      "id": "662fb1bd-24e6-4ea5-b116-afc48f80a575",
-      "company": "Quickenloans",
-      "title": "Software Engineer I",
-      "location": "Detroit, MI",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-03",
-      "age": "21d",
-      "url": "https://applyguy.ai/jobs?company=Quickenloans&job=662fb1bd-24e6-4ea5-b116-afc48f80a575&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Software-Engineer-I_R-083895"
     },
     {
       "id": "fa08828a-8438-44bf-beb5-e8b319190ecb",
@@ -2348,6 +2360,30 @@
       "listingUrl": "https://otter.ai/careers?gh_jid=8016078003"
     },
     {
+      "id": "5a2efece-b4de-4e41-a9ae-feab00c2a91f",
+      "company": "Sierraspace",
+      "title": "Software Engineer I - Flight Software",
+      "location": "Centennial, CO",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-07",
+      "age": "48d",
+      "url": "https://applyguy.ai/jobs?company=Sierraspace&job=5a2efece-b4de-4e41-a9ae-feab00c2a91f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://sierraspace.wd1.myworkdayjobs.com/sierra_space_external_career_site/job/Centennial-CO/Software-Engineer-I---Flight-Software_R26391-1"
+    },
+    {
+      "id": "5486d342-2bb7-4050-85d9-5e11f3e264ff",
+      "company": "Sierraspace",
+      "title": "Software Engineer I - Ground Software",
+      "location": "Centennial, CO",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-07",
+      "age": "48d",
+      "url": "https://applyguy.ai/jobs?company=Sierraspace&job=5486d342-2bb7-4050-85d9-5e11f3e264ff&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://sierraspace.wd1.myworkdayjobs.com/sierra_space_external_career_site/job/Centennial-CO/Software-Engineer-I---Ground-Software_R26393-1"
+    },
+    {
       "id": "cfc1b6f0-a1be-467f-86b8-c2d33ce2e038",
       "company": "Hpe",
       "title": "Systems/Software Engineer I - Graduate",
@@ -2598,6 +2634,19 @@
       "age": "55d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=3ab73a1f-8de1-42c7-9508-b70616da5375&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Embedded-Software-Engineer-I--Onsite-_01878013"
+    },
+    {
+      "id": "custom:microsoft:698bf1cfd0197fa8f311",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-29",
+      "age": "56d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "applySupported": false
     },
     {
       "id": "ff4d695b-6a47-433b-8c2e-cc351c3ef893",
