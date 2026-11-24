@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T12:30:40.050Z",
+  "updatedAt": "2026-11-24T12:45:42.605Z",
   "jobs": [
     {
       "id": "21c8941c-b85b-4cde-9f65-5c4d3041779f",
@@ -84,6 +84,18 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Further+Early+Career+Opportunities&job=95e1d753-5602-4b34-9860-b104a50fc741&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/furtherearlycareer/jobs/8932674002"
+    },
+    {
+      "id": "55ccd9f2-d95f-4a44-b9fb-be8e84254b42",
+      "company": "Medtronic",
+      "title": "Software Engineer I - CRM",
+      "location": "Minneapolis, MN",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-20",
+      "age": "4d",
+      "url": "https://applyguy.ai/jobs?company=Medtronic&job=55ccd9f2-d95f-4a44-b9fb-be8e84254b42&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Software-Engineer-I---CRM_R82448-2"
     },
     {
       "id": "custom:amazon:ced77304f4a2b03ab408",
@@ -206,6 +218,18 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Twitch&job=a35acf4e-7070-40d8-b770-773404dcb6bc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/twitch/jobs/8949388002"
+    },
+    {
+      "id": "aee689f0-2b2e-47a8-b11d-e6dab7bd4523",
+      "company": "Bmo",
+      "title": "Software Developer (New or Recent Graduate)",
+      "location": "Berkeley Heights, NJ",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-11-17",
+      "age": "7d",
+      "url": "https://applyguy.ai/jobs?company=Bmo&job=aee689f0-2b2e-47a8-b11d-e6dab7bd4523&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://bmo.wd3.myworkdayjobs.com/external/job/Berkeley-Heights-NJ-USA/Software-Developer_R260023733"
     },
     {
       "id": "c1059658-3f02-4f07-a877-5489ea1cd3ec",
