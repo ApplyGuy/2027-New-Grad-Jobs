@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T10:15:40.124Z",
+  "updatedAt": "2026-11-24T10:30:41.507Z",
   "jobs": [
     {
       "id": "21c8941c-b85b-4cde-9f65-5c4d3041779f",
@@ -146,6 +146,18 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Kira&job=10d9e5b3-78ca-4963-a9e9-0f988e62e888&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/kira/d92f1ac9-1abb-448c-b039-22643d9bb8a7"
+    },
+    {
+      "id": "a0cbcbe8-2319-4853-80cf-f3724cde0f68",
+      "company": "Northwesternmutual",
+      "title": "Software Engineer I",
+      "location": "Milwaukee, WI Corporate",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-18",
+      "age": "6d",
+      "url": "https://applyguy.ai/jobs?company=Northwesternmutual&job=a0cbcbe8-2319-4853-80cf-f3724cde0f68&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Software-Engineer-I_JR-46395-1"
     },
     {
       "id": "a35acf4e-7070-40d8-b770-773404dcb6bc",
