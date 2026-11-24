@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T20:15:38.708Z",
+  "updatedAt": "2026-11-24T20:30:42.245Z",
   "jobs": [
     {
       "id": "3606080c-a67c-46a7-b805-23bbc0414d76",
@@ -72,6 +72,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Serko+Ltd&job=21c8941c-b85b-4cde-9f65-5c4d3041779f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://apply.workable.com/serko-ltd/j/2BD3D4F4DE/"
+    },
+    {
+      "id": "6583d55c-0868-4d69-88ea-3435d2d4d5b2",
+      "company": "U.S. Bank",
+      "title": "Software Engineer 1 - Infrastructure",
+      "location": "Hopkins, MN",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=U.S.+Bank&job=6583d55c-0868-4d69-88ea-3435d2d4d5b2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Hopkins-MN/Software-Engineer-1---Infrastructure_2026-0036514"
     },
     {
       "id": "80f18c80-5930-4037-96bf-f5f576cc327a",
@@ -2958,6 +2970,19 @@
       "age": "56d",
       "url": "https://applyguy.ai/jobs?company=Globusmedical&job=e3c2b5bb-642f-40d5-a7cd-b985b85ea9fe&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/Audubon-PA/Associate-Software-Engineer_JR107947-1"
+    },
+    {
+      "id": "custom:microsoft:698bf1cfd0197fa8f311",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-29",
+      "age": "56d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "applySupported": false
     },
     {
       "id": "ff4d695b-6a47-433b-8c2e-cc351c3ef893",
