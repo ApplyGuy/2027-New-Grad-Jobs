@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T08:30:39.167Z",
+  "updatedAt": "2026-11-24T08:45:39.944Z",
   "jobs": [
     {
       "id": "17b31348-1608-498c-958a-7c0716e29690",
@@ -2072,6 +2072,18 @@
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4579798"
     },
     {
+      "id": "30ed0ebe-11ec-4db4-88f8-67c0b0212512",
+      "company": "NVIDIA",
+      "title": "Software Engineer, DL Kernel Libraries - New College Grad 2027",
+      "location": "Santa Clara, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-10-11",
+      "age": "44d",
+      "url": "https://applyguy.ai/jobs?company=NVIDIA&job=30ed0ebe-11ec-4db4-88f8-67c0b0212512&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337"
+    },
+    {
       "id": "96d44614-7cbf-4b43-adc4-05468f895efd",
       "company": "Shield AI",
       "title": "Engineer I, Software - Factory Team - New Grad - 6235",
@@ -2550,6 +2562,19 @@
       "age": "55d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=3ab73a1f-8de1-42c7-9508-b70616da5375&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Embedded-Software-Engineer-I--Onsite-_01878013"
+    },
+    {
+      "id": "custom:microsoft:698bf1cfd0197fa8f311",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-29",
+      "age": "56d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "applySupported": false
     },
     {
       "id": "ff4d695b-6a47-433b-8c2e-cc351c3ef893",
