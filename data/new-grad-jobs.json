@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T09:15:36.873Z",
+  "updatedAt": "2026-11-24T09:31:07.199Z",
   "jobs": [
     {
       "id": "17b31348-1608-498c-958a-7c0716e29690",
@@ -12,6 +12,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Koddi&job=17b31348-1608-498c-958a-7c0716e29690&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/koddi/jobs/8944769002"
+    },
+    {
+      "id": "268d62cf-681b-4285-b8b9-f62d547fd05c",
+      "company": "Lnw",
+      "title": "Associate Software Engineer",
+      "location": "Reno, NV",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-23",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Lnw&job=268d62cf-681b-4285-b8b9-f62d547fd05c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Associate-Software-Engineer_R322882-1"
     },
     {
       "id": "65a80b58-8c9a-4f2e-82c1-473783fb1bf0",
