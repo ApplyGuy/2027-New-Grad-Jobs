@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T19:30:38.384Z",
+  "updatedAt": "2026-11-24T19:45:41.883Z",
   "jobs": [
     {
       "id": "7b5496fd-3148-481f-b596-8f0b5e74db4e",
@@ -12,6 +12,42 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Cox&job=7b5496fd-3148-481f-b596-8f0b5e74db4e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Atlanta-GA/Software-Engineer-I----13851_R202684592-1"
+    },
+    {
+      "id": "49188e27-3425-452d-84ad-f043df816d74",
+      "company": "RTX",
+      "title": "Software Engineer I (Hybrid - Aguadilla, PR)",
+      "location": "Aguadilla, PR",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=49188e27-3425-452d-84ad-f043df816d74&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--Hybrid---Aguadilla--PR-_01890334"
+    },
+    {
+      "id": "411ce7f4-5c0c-4e52-b528-4ac08f73e564",
+      "company": "RTX",
+      "title": "Software Engineer I (E2DVA-P1-1)",
+      "location": "Sterling, VA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=411ce7f4-5c0c-4e52-b528-4ac08f73e564&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineer-I--E2DVA-P1-1-_01888039"
+    },
+    {
+      "id": "1a4db7c9-7132-44af-a7f8-fbd6ad9acd36",
+      "company": "RTX",
+      "title": "Software Engineer I (E2DNY-P1-1)",
+      "location": "Binghamton, NY",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=1a4db7c9-7132-44af-a7f8-fbd6ad9acd36&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NY-BINGHAMTON-288--31-Lewis-Rd--LEWIS/Software-Engineer-I--E2DNY-P1-1-_01888023"
     },
     {
       "id": "21c8941c-b85b-4cde-9f65-5c4d3041779f",
@@ -340,6 +376,30 @@
       "listingUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Software-Engineer-I_R-083877"
     },
     {
+      "id": "810774ac-d24d-4ef5-a001-c3071c4f77b7",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "Cedar Rapids, IA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-18",
+      "age": "6d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=810774ac-d24d-4ef5-a001-c3071c4f77b7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineer-I--Onsite-_01889952"
+    },
+    {
+      "id": "5b64be3d-1b6c-467c-9b72-7cc4a0b40b3e",
+      "company": "RTX",
+      "title": "Software Engineer I (Onsite)",
+      "location": "St Petersburg, FL",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-18",
+      "age": "6d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=5b64be3d-1b6c-467c-9b72-7cc4a0b40b3e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineer-I--Onsite-_01887810"
+    },
+    {
       "id": "a35acf4e-7070-40d8-b770-773404dcb6bc",
       "company": "Twitch",
       "title": "Software Engineer I, Commerce",
@@ -653,18 +713,6 @@
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Pathways---Colorado-Springs_R10260174"
     },
     {
-      "id": "fa7cf8a7-0c81-4471-9b15-62f504d417a3",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Cedar Rapids, IA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-11",
-      "age": "13d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=fa7cf8a7-0c81-4471-9b15-62f504d417a3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Software-Engineer-I--Onsite-_01888058"
-    },
-    {
       "id": "2b2538e4-9996-4a79-a84e-c93bf27918fd",
       "company": "RTX",
       "title": "Software Engineer I (CMA-P1-1)",
@@ -821,18 +869,6 @@
       "age": "14d",
       "url": "https://applyguy.ai/jobs?company=Pae&job=c18bb249-f588-4f7a-a8a4-e03d1675ac85&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Springfield/Jr-Data-Engineer_R0175096"
-    },
-    {
-      "id": "7672d102-6c71-49eb-b9aa-f280984fc3f9",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "St Petersburg, FL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-10",
-      "age": "14d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=7672d102-6c71-49eb-b9aa-f280984fc3f9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineer-I--Onsite-_01887812"
     },
     {
       "id": "4dc34ad7-180f-4eba-9266-1e9cc60c4340",
