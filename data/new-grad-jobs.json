@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T21:45:45.354Z",
+  "updatedAt": "2026-11-24T22:00:16.752Z",
   "jobs": [
     {
       "id": "3606080c-a67c-46a7-b805-23bbc0414d76",
@@ -1650,6 +1650,18 @@
       "age": "27d",
       "url": "https://applyguy.ai/jobs?company=The+Cadmus+Group&job=0d575bca-7d9f-4c1b-88c5-588c60b89719&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://careers-cadmusgroup.icims.com/jobs/3255/jr.-full-stack-developer/job"
+    },
+    {
+      "id": "3d1f7bf1-3d8d-4976-bca0-3f47e8149ad4",
+      "company": "Trane Technologies",
+      "title": "Associate Software Engineer - TRACE",
+      "location": "La Crosse, WI",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-28",
+      "age": "27d",
+      "url": "https://applyguy.ai/jobs?company=Trane+Technologies&job=3d1f7bf1-3d8d-4976-bca0-3f47e8149ad4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/La-Crosse-Wisconsin/Associate-Engineer_JR-4074-1"
     },
     {
       "id": "4757e6f8-ad29-4676-8aad-7192ae611dea",
