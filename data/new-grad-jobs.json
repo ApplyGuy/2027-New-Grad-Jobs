@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T20:45:19.389Z",
+  "updatedAt": "2026-11-24T21:00:45.389Z",
   "jobs": [
     {
       "id": "3606080c-a67c-46a7-b805-23bbc0414d76",
@@ -24,6 +24,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Cox&job=7b5496fd-3148-481f-b596-8f0b5e74db4e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Atlanta-GA/Software-Engineer-I----13851_R202684592-1"
+    },
+    {
+      "id": "3669db57-a8c1-4e28-94db-7b1590b188f9",
+      "company": "Freedom Technology Solutions Group",
+      "title": "Junior Software Engineer 817",
+      "location": "Annapolis Junction, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-24",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Freedom+Technology+Solutions+Group&job=3669db57-a8c1-4e28-94db-7b1590b188f9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5308625007"
     },
     {
       "id": "49188e27-3425-452d-84ad-f043df816d74",
