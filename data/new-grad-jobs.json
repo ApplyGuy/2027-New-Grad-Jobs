@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T13:00:40.478Z",
+  "updatedAt": "2026-11-24T13:16:06.273Z",
   "jobs": [
     {
       "id": "21c8941c-b85b-4cde-9f65-5c4d3041779f",
@@ -109,6 +109,18 @@
       "url": "https://www.amazon.jobs/en/jobs/10607758/software-engineer-i-commerce",
       "listingUrl": "https://www.amazon.jobs/en/jobs/10607758/software-engineer-i-commerce",
       "applySupported": false
+    },
+    {
+      "id": "49db9bbe-df50-4c72-87d9-0486e6601b64",
+      "company": "Bracco",
+      "title": "Software Engineer I - Bracco Medical Technologies",
+      "location": "Minnesota, 55344, Eden Prairie",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-19",
+      "age": "5d",
+      "url": "https://applyguy.ai/jobs?company=Bracco&job=49db9bbe-df50-4c72-87d9-0486e6601b64&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineer-I---Bracco-Medical-Technologies_JR100481"
     },
     {
       "id": "97a148c2-cafd-4e2a-9d15-6c4acd0bdc08",
@@ -266,6 +278,18 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Tandemdiabetes&job=68131fde-0cd7-490e-b441-80844f3cd5e1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://tandemdiabetes.wd12.myworkdayjobs.com/tandemdiabetes/job/Remote---San-Diego-CA/Embedded-Software-Engineer-I_JR101708-1"
+    },
+    {
+      "id": "d2facbaf-a198-409f-9a95-b1180f2b9f46",
+      "company": "Cox",
+      "title": "Entry Level Software Engineer - Atlanta, GA",
+      "location": "Atlanta, GA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-11-16",
+      "age": "8d",
+      "url": "https://applyguy.ai/jobs?company=Cox&job=d2facbaf-a198-409f-9a95-b1180f2b9f46&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Atlanta-GA/Entry-Level-Software-Engineer---Atlanta--GA_R202680858-1"
     },
     {
       "id": "aadd820a-b444-4aef-a1e0-f549b64c7472",
