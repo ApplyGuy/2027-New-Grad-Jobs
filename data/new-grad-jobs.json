@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T14:00:52.748Z",
+  "updatedAt": "2026-11-24T14:15:42.791Z",
   "jobs": [
     {
       "id": "21c8941c-b85b-4cde-9f65-5c4d3041779f",
@@ -12,6 +12,30 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=Serko+Ltd&job=21c8941c-b85b-4cde-9f65-5c4d3041779f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://apply.workable.com/serko-ltd/j/2BD3D4F4DE/"
+    },
+    {
+      "id": "80f18c80-5930-4037-96bf-f5f576cc327a",
+      "company": "Boeing",
+      "title": "Associate Software Engineer–Embedded",
+      "location": "Kent, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-23",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Boeing&job=80f18c80-5930-4037-96bf-f5f576cc327a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kent-WA/Associate-Software-Engineer-Embedded_JR2026519147-2"
+    },
+    {
+      "id": "34e62682-5eac-41c7-829a-bd9d362ac784",
+      "company": "Boeing",
+      "title": "Associate Software Engineer",
+      "location": "Maryland Heights, MO",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-23",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Boeing&job=34e62682-5eac-41c7-829a-bd9d362ac784&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Associate-Software-Engineer_JR2026526419"
     },
     {
       "id": "17b31348-1608-498c-958a-7c0716e29690",
@@ -60,6 +84,66 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Northrop+Grumman&job=c14438da-0045-425e-b26c-e9df740a1893&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Colorado-Springs-CO_R10261637"
+    },
+    {
+      "id": "127d149e-6448-4af7-93b3-f314d51c1724",
+      "company": "Snc",
+      "title": "Software Engineer I",
+      "location": "Lone Tree, CO",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-23",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Snc&job=127d149e-6448-4af7-93b3-f314d51c1724&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0031455"
+    },
+    {
+      "id": "01f8827e-d31e-4134-8359-2dc9724d7f67",
+      "company": "Snc",
+      "title": "Software Engineer I (Current Military Fellows Only)",
+      "location": "Southern Pines, NC",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-23",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Snc&job=01f8827e-d31e-4134-8359-2dc9724d7f67&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineer-I--Current-Military-Fellows-Only-_R0031452-1"
+    },
+    {
+      "id": "6df94d00-1750-4239-a87b-a1b23206da47",
+      "company": "Boeing",
+      "title": "Entry-Level Software Engineer–Test & Verification",
+      "location": "Tinker AFB, OK",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-11-20",
+      "age": "4d",
+      "url": "https://applyguy.ai/jobs?company=Boeing&job=6df94d00-1750-4239-a87b-a1b23206da47&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Test---Verification_JR2026523081"
+    },
+    {
+      "id": "61eb97de-f22a-4b2c-a427-e76d48b4042a",
+      "company": "Boeing",
+      "title": "Entry-Level Software Engineer–Developer",
+      "location": "Richardson, TX",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-11-20",
+      "age": "4d",
+      "url": "https://applyguy.ai/jobs?company=Boeing&job=61eb97de-f22a-4b2c-a427-e76d48b4042a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026523382-1"
+    },
+    {
+      "id": "30dad360-de8a-42b2-bf23-1b2b8bde1aba",
+      "company": "Boeing",
+      "title": "Embedded Software Engineer - Entry-Level",
+      "location": "Multiple U.S. locations",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-11-20",
+      "age": "4d",
+      "url": "https://applyguy.ai/jobs?company=Boeing&job=30dad360-de8a-42b2-bf23-1b2b8bde1aba&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Embedded-Software-Engineer---Entry-Level_JR2026522089-1"
     },
     {
       "id": "b32b9962-2af2-4d08-a4d6-d274971b76a6",
@@ -183,6 +267,18 @@
       "listingUrl": "https://themis-insight.breezy.hr/p/95e32cca797f-software-engineer-1-3-data"
     },
     {
+      "id": "27c79d44-4a84-4815-b8fb-b0b5d787f1f0",
+      "company": "U.S. Bank",
+      "title": "Software Engineer 1 – Full-stack, Generative AI, Cloud",
+      "location": "Hopkins, MN",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-19",
+      "age": "5d",
+      "url": "https://applyguy.ai/jobs?company=U.S.+Bank&job=27c79d44-4a84-4815-b8fb-b0b5d787f1f0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Hopkins-MN/Software-Engineer-1---Full-stack--Generative-AI--Cloud_2026-0032031"
+    },
+    {
       "id": "custom:amazon:7fa8c5c978dbc33b20fc",
       "company": "Amazon",
       "title": "Software Engineer I",
@@ -256,6 +352,18 @@
       "listingUrl": "https://bmo.wd3.myworkdayjobs.com/external/job/Berkeley-Heights-NJ-USA/Software-Developer_R260023733"
     },
     {
+      "id": "3c91eee2-1738-4063-9b14-d9acf5699d9d",
+      "company": "Boeing",
+      "title": "Associate Software Engineer - Developer",
+      "location": "Tukwila, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-17",
+      "age": "7d",
+      "url": "https://applyguy.ai/jobs?company=Boeing&job=3c91eee2-1738-4063-9b14-d9acf5699d9d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Associate-Software-Engineer---Developer_JR2026529495-1"
+    },
+    {
       "id": "c1059658-3f02-4f07-a877-5489ea1cd3ec",
       "company": "Coughlan Companies LLC",
       "title": "Software Engineer 1",
@@ -266,6 +374,18 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Coughlan+Companies+LLC&job=c1059658-3f02-4f07-a877-5489ea1cd3ec&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4673458"
+    },
+    {
+      "id": "dad6d3c2-bb9e-4b1f-ba09-dabf2b6dbf07",
+      "company": "Micron",
+      "title": "New College Grad - Software Engineer",
+      "location": "Boise, ID",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-11-17",
+      "age": "7d",
+      "url": "https://applyguy.ai/jobs?company=Micron&job=dad6d3c2-bb9e-4b1f-ba09-dabf2b6dbf07&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/New-College-Grad---Software-Engineer_JR109692"
     },
     {
       "id": "fe846b19-54fa-445b-90af-9fbdad78f706",
@@ -290,6 +410,18 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Tandemdiabetes&job=68131fde-0cd7-490e-b441-80844f3cd5e1&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://tandemdiabetes.wd12.myworkdayjobs.com/tandemdiabetes/job/Remote---San-Diego-CA/Embedded-Software-Engineer-I_JR101708-1"
+    },
+    {
+      "id": "65669682-ee1e-473b-ac55-ea198f7637ef",
+      "company": "AeroVironment",
+      "title": "Associate Software Engineer",
+      "location": "Moorpark, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-16",
+      "age": "8d",
+      "url": "https://applyguy.ai/jobs?company=AeroVironment&job=65669682-ee1e-473b-ac55-ea198f7637ef&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://avav.wd1.myworkdayjobs.com/avav/job/Moorpark-CA/Associate-Software-Engineer_9016"
     },
     {
       "id": "d2facbaf-a198-409f-9a95-b1180f2b9f46",
@@ -447,6 +579,18 @@
       "url": "https://www.amazon.jobs/en/jobs/10599912/software-engineer-i-commerce",
       "listingUrl": "https://www.amazon.jobs/en/jobs/10599912/software-engineer-i-commerce",
       "applySupported": false
+    },
+    {
+      "id": "060c39e0-192b-4a20-a294-799016f0966d",
+      "company": "Boeing",
+      "title": "Associate Software Engineer",
+      "location": "Multiple U.S. locations",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-11",
+      "age": "13d",
+      "url": "https://applyguy.ai/jobs?company=Boeing&job=060c39e0-192b-4a20-a294-799016f0966d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Albuquerque-NM/Associate-Software-Engineer_JR2026528420-1"
     },
     {
       "id": "388a45fc-6d91-4804-8675-6c0f3850a0fc",
@@ -617,6 +761,18 @@
       "age": "14d",
       "url": "https://applyguy.ai/jobs?company=Cox&job=ff715c9f-5b19-4cfa-9dac-4814b088eb5a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Atlanta-GA/Software-Engineer-I---19025_R202684623"
+    },
+    {
+      "id": "2484e81e-7343-4644-b571-77faa77a037c",
+      "company": "Csiweb",
+      "title": "Software Engineer I – C#/.NET | Hybrid – Paducah, KY",
+      "location": "Paducah, KY",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-10",
+      "age": "14d",
+      "url": "https://applyguy.ai/jobs?company=Csiweb&job=2484e81e-7343-4644-b571-77faa77a037c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://csiweb.wd1.myworkdayjobs.com/csi_careers/job/Paducah-KY-Corporate/Software-Engineer-I---C--NET---Hybrid---Paducah--KY_R-100739"
     },
     {
       "id": "e60edf6d-5581-48a1-83ae-00503c65cdc2",
@@ -1001,6 +1157,18 @@
       "age": "21d",
       "url": "https://applyguy.ai/jobs?company=Pae&job=5dea96b2-b474-4b49-b6f0-d975b41d70f9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-AL-Huntsville/Software-Tools-Developer--Entry-Level_R0174727"
+    },
+    {
+      "id": "93a9b971-43bb-4614-98a5-f36531806b93",
+      "company": "Relx",
+      "title": "Tech Accelerate Graduate Program - Software Engineer I",
+      "location": "Alpharetta, GA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-11-03",
+      "age": "21d",
+      "url": "https://applyguy.ai/jobs?company=Relx&job=93a9b971-43bb-4614-98a5-f36531806b93&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://relx.wd3.myworkdayjobs.com/risksolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program_R120836"
     },
     {
       "id": "fa08828a-8438-44bf-beb5-e8b319190ecb",
@@ -1398,6 +1566,18 @@
       "age": "27d",
       "url": "https://applyguy.ai/jobs?company=The+Cadmus+Group&job=0d575bca-7d9f-4c1b-88c5-588c60b89719&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://careers-cadmusgroup.icims.com/jobs/3255/jr.-full-stack-developer/job"
+    },
+    {
+      "id": "4757e6f8-ad29-4676-8aad-7192ae611dea",
+      "company": "AeroVironment",
+      "title": "Jr. Software Engineer",
+      "location": "Jessup, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-27",
+      "age": "28d",
+      "url": "https://applyguy.ai/jobs?company=AeroVironment&job=4757e6f8-ad29-4676-8aad-7192ae611dea&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://avav.wd1.myworkdayjobs.com/avav/job/Jessup-MD/Jr-Software-Engineer_9123-1"
     },
     {
       "id": "36d3cf3d-93c5-455f-a6d4-e8c87f7ef910",
@@ -2636,6 +2816,18 @@
       "listingUrl": "https://jobs.ashbyhq.com/switchboard/1699538e-eca3-4626-89a6-0eaa88130dcd"
     },
     {
+      "id": "9cc5f49d-c25f-4a80-9262-72f469846a4d",
+      "company": "U.S. Bank",
+      "title": "Software Engineer 1 - Mainframe (Cobol)",
+      "location": "Brookfield, WI",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-01",
+      "age": "54d",
+      "url": "https://applyguy.ai/jobs?company=U.S.+Bank&job=9cc5f49d-c25f-4a80-9262-72f469846a4d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Brookfield-WI/Software-Engineer-1---Mainframe--Cobol-_2026-0030686"
+    },
+    {
       "id": "3846eea5-c801-46d0-b74d-644d645524a9",
       "company": "Crowe",
       "title": "Machine Learning Software Engineer 1",
@@ -2706,19 +2898,6 @@
       "age": "56d",
       "url": "https://applyguy.ai/jobs?company=Globusmedical&job=e3c2b5bb-642f-40d5-a7cd-b985b85ea9fe&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/Audubon-PA/Associate-Software-Engineer_JR107947-1"
-    },
-    {
-      "id": "custom:microsoft:698bf1cfd0197fa8f311",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-29",
-      "age": "56d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "applySupported": false
     },
     {
       "id": "ff4d695b-6a47-433b-8c2e-cc351c3ef893",
