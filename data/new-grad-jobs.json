@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T03:30:30.052Z",
+  "updatedAt": "2026-11-25T03:45:33.451Z",
   "jobs": [
     {
       "id": "e3c2ca61-411c-4ecd-80c2-ccdd67b5cf4a",
@@ -2420,18 +2420,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Software-Engineer-I---Next-Gen-Systems---Onsite_01881673"
     },
     {
-      "id": "350abd2c-2631-4050-bed6-4d4c612a7571",
-      "company": "Advantage Design Group",
-      "title": "Software Developer I",
-      "location": "Jacksonville, FL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-13",
-      "age": "43d",
-      "url": "https://applyguy.ai/jobs?company=Advantage+Design+Group&job=350abd2c-2631-4050-bed6-4d4c612a7571&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://advantage-design-group.breezy.hr/p/b321c457c48f-software-developer-i"
-    },
-    {
       "id": "8642f9b5-d069-42f9-b8ec-a3ef41276156",
       "company": "NVIDIA",
       "title": "SoC Software Engineer – New College Graduate 2026",
@@ -2694,18 +2682,6 @@
       "age": "49d",
       "url": "https://applyguy.ai/jobs?company=CACI&job=13211a10-d21e-4d33-9c80-cf62ea808102&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Virginia-Beach-VA-US/Entry-Level-C--Software-Engineer_333249"
-    },
-    {
-      "id": "a71e25b8-cdc6-4595-b01a-07fe6143a0a4",
-      "company": "Handshake",
-      "title": "Software Engineer I, Build Review & Test",
-      "location": "San Francisco, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-07",
-      "age": "49d",
-      "url": "https://applyguy.ai/jobs?company=Handshake&job=a71e25b8-cdc6-4595-b01a-07fe6143a0a4&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.ashbyhq.com/handshake/b434ac30-8288-417a-96b0-29fa8dac7d58"
     },
     {
       "id": "84b7df16-971b-42f1-99ad-213d84852015",
@@ -2996,18 +2972,6 @@
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4548662"
     },
     {
-      "id": "dacc5288-ad54-40f2-b112-5294c61aa4c9",
-      "company": "Momentum Engineering, Inc.",
-      "title": "ME00692-Software Engineer 1",
-      "location": "Annapolis Junction, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-30",
-      "age": "56d",
-      "url": "https://applyguy.ai/jobs?company=Momentum+Engineering%2C+Inc.&job=dacc5288-ad54-40f2-b112-5294c61aa4c9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://ats.rippling.com/momentumcareers/jobs/dd4281b8-fa2a-4833-8370-b1859933b612"
-    },
-    {
       "id": "3ab73a1f-8de1-42c7-9508-b70616da5375",
       "company": "RTX",
       "title": "Embedded Software Engineer I (Onsite)",
@@ -3030,19 +2994,6 @@
       "age": "57d",
       "url": "https://applyguy.ai/jobs?company=Globusmedical&job=e3c2b5bb-642f-40d5-a7cd-b985b85ea9fe&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/Audubon-PA/Associate-Software-Engineer_JR107947-1"
-    },
-    {
-      "id": "custom:microsoft:698bf1cfd0197fa8f311",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-29",
-      "age": "57d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "applySupported": false
     },
     {
       "id": "ff4d695b-6a47-433b-8c2e-cc351c3ef893",
