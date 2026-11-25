@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T09:00:41.997Z",
+  "updatedAt": "2026-11-25T09:15:38.277Z",
   "jobs": [
     {
       "id": "e3c2ca61-411c-4ecd-80c2-ccdd67b5cf4a",
@@ -1241,18 +1241,6 @@
       "age": "21d",
       "url": "https://applyguy.ai/jobs?company=Captivation+Software&job=82b5ff1a-1291-4ca5-90ae-3a0257e90909&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/captivation/jobs/5473266008"
-    },
-    {
-      "id": "49527dd4-7b69-4be4-9cb8-05c7f33e7a16",
-      "company": "Empower Pharmacy",
-      "title": "Associate Software Engineer – Full Stack",
-      "location": "Houston, TX",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-04",
-      "age": "21d",
-      "url": "https://applyguy.ai/jobs?company=Empower+Pharmacy&job=49527dd4-7b69-4be4-9cb8-05c7f33e7a16&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://careers.empowerpharmacy.com/jobs/?gh_jid=4479712009"
     },
     {
       "id": "5347590b-bf50-4212-8888-93deff87bd11",
@@ -2874,19 +2862,6 @@
       "age": "57d",
       "url": "https://applyguy.ai/jobs?company=Globusmedical&job=e3c2b5bb-642f-40d5-a7cd-b985b85ea9fe&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/Audubon-PA/Associate-Software-Engineer_JR107947-1"
-    },
-    {
-      "id": "custom:microsoft:698bf1cfd0197fa8f311",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-29",
-      "age": "57d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "applySupported": false
     },
     {
       "id": "ff4d695b-6a47-433b-8c2e-cc351c3ef893",
