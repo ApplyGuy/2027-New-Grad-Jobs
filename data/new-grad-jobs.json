@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T07:45:41.417Z",
+  "updatedAt": "2026-11-25T08:00:40.072Z",
   "jobs": [
     {
       "id": "e3c2ca61-411c-4ecd-80c2-ccdd67b5cf4a",
@@ -339,6 +339,18 @@
       "listingUrl": "https://cadence.wd1.myworkdayjobs.com/university_talent_ncg/job/SAN-JOSE/Software-Engineering--Verification-IP-Team--Recent-Grad-2026-_R55884"
     },
     {
+      "id": "8b5a3868-1d57-4cce-bd1d-704c52afc648",
+      "company": "Chewy",
+      "title": "Software Engineer I",
+      "location": "Bellevue, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-19",
+      "age": "6d",
+      "url": "https://applyguy.ai/jobs?company=Chewy&job=8b5a3868-1d57-4cce-bd1d-704c52afc648&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://chewy.wd5.myworkdayjobs.com/external/job/Bellevue-WA/Software-Engineer-I_R30985-1"
+    },
+    {
       "id": "ac523264-70e7-47ec-81e1-10910e61986a",
       "company": "Formlabs",
       "title": "Embedded Software Engineer - Entry Level",
@@ -496,18 +508,6 @@
       "listingUrl": "https://bmo.wd3.myworkdayjobs.com/external/job/Berkeley-Heights-NJ-USA/Software-Developer_R260023733"
     },
     {
-      "id": "3c91eee2-1738-4063-9b14-d9acf5699d9d",
-      "company": "Boeing",
-      "title": "Associate Software Engineer - Developer",
-      "location": "Tukwila, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-17",
-      "age": "8d",
-      "url": "https://applyguy.ai/jobs?company=Boeing&job=3c91eee2-1738-4063-9b14-d9acf5699d9d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Associate-Software-Engineer---Developer_JR2026529495-1"
-    },
-    {
       "id": "c1059658-3f02-4f07-a877-5489ea1cd3ec",
       "company": "Coughlan Companies LLC",
       "title": "Software Engineer 1",
@@ -650,6 +650,18 @@
       "age": "13d",
       "url": "https://applyguy.ai/jobs?company=CCR+Media&job=e9c240b7-1bda-413a-8d4f-2c71d80d2787&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4662681"
+    },
+    {
+      "id": "f93f1454-e457-4749-8eed-a92582723b8b",
+      "company": "DMC Engineering - Campus Recruiting",
+      "title": "Entry Level Software Engineer",
+      "location": "Chicago, IL",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-11-12",
+      "age": "13d",
+      "url": "https://applyguy.ai/jobs?company=DMC+Engineering+-+Campus+Recruiting&job=f93f1454-e457-4749-8eed-a92582723b8b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/dmcengineering_campus/jobs/5397642008"
     },
     {
       "id": "a8c18903-a992-45c4-9d2d-e0959562faf2",
@@ -1049,6 +1061,30 @@
       "age": "19d",
       "url": "https://applyguy.ai/jobs?company=ASM&job=1268a5e8-04d3-491c-b50c-0f105c79b9dd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.asm.com/open-vacancies/?gh_jid=5019821101"
+    },
+    {
+      "id": "718ce13f-44de-48db-b7cb-423d40095cbb",
+      "company": "Chewy",
+      "title": "Software Engineer I, Full Stack, Promotions",
+      "location": "Boston, MA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-06",
+      "age": "19d",
+      "url": "https://applyguy.ai/jobs?company=Chewy&job=718ce13f-44de-48db-b7cb-423d40095cbb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://chewy.wd5.myworkdayjobs.com/external/job/Boston-MA/Software-Engineer-I--Full-Stack--Promotions_R31442"
+    },
+    {
+      "id": "196db239-3368-4576-9f5f-781ab8647f08",
+      "company": "Chewy",
+      "title": "Software Engineer I",
+      "location": "Boston, MA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-06",
+      "age": "19d",
+      "url": "https://applyguy.ai/jobs?company=Chewy&job=196db239-3368-4576-9f5f-781ab8647f08&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://chewy.wd5.myworkdayjobs.com/external/job/Boston-MA/Software-Engineer-I_R31431"
     },
     {
       "id": "73167053-bd22-4bb0-a1a5-4ce5b3d716ae",
