@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T03:45:33.451Z",
+  "updatedAt": "2026-11-25T04:00:50.536Z",
   "jobs": [
     {
       "id": "e3c2ca61-411c-4ecd-80c2-ccdd67b5cf4a",
@@ -60,6 +60,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Freedom+Technology+Solutions+Group&job=3669db57-a8c1-4e28-94db-7b1590b188f9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5308625007"
+    },
+    {
+      "id": "667abf65-f4b3-4812-a2f6-d194e55cad46",
+      "company": "Pae",
+      "title": "Software Engineer 1",
+      "location": "Hanover, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-24",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Pae&job=667abf65-f4b3-4812-a2f6-d194e55cad46&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-MD-Hanover/Software-Engineer-1_R0176224"
     },
     {
       "id": "49188e27-3425-452d-84ad-f043df816d74",
@@ -2072,18 +2084,6 @@
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/St-Louis-MO/Junior-Software-Developer_R-00195126"
     },
     {
-      "id": "8dbab289-7cde-4345-babd-47d7f4b403c6",
-      "company": "Pae",
-      "title": "Software Engineer 1",
-      "location": "Hanover, MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-23",
-      "age": "33d",
-      "url": "https://applyguy.ai/jobs?company=Pae&job=8dbab289-7cde-4345-babd-47d7f4b403c6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-MD-Hanover/Software-Engineer-1_R0173916"
-    },
-    {
       "id": "0e710fc8-9891-43e0-9288-e1c5f6231ca6",
       "company": "RTX",
       "title": "Software Engineer I",
@@ -2850,30 +2850,6 @@
       "age": "51d",
       "url": "https://applyguy.ai/jobs?company=Unimelb&job=c2b97ad3-cc62-4e60-9be7-815959e2abb8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://unimelb.wd105.myworkdayjobs.com/broadbean_external/job/Parkville-Victoria/AURIN-Associate-Software-Engineer_JR-018050-1"
-    },
-    {
-      "id": "cc54ef68-6cc8-4442-a84e-c24cef3966c6",
-      "company": "Harvey",
-      "title": "Software Engineer, New Grad (2027)",
-      "location": "New York",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-10-02",
-      "age": "54d",
-      "url": "https://applyguy.ai/jobs?company=Harvey&job=cc54ef68-6cc8-4442-a84e-c24cef3966c6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc"
-    },
-    {
-      "id": "9cc7f441-8316-4482-bec6-cb0889c5df65",
-      "company": "Harvey",
-      "title": "Software Engineer, New Grad (2027)",
-      "location": "San Francisco, CA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-10-02",
-      "age": "54d",
-      "url": "https://applyguy.ai/jobs?company=Harvey&job=9cc7f441-8316-4482-bec6-cb0889c5df65&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5"
     },
     {
       "id": "8a04a03f-0345-428b-b6da-e3aa237b9d47",
