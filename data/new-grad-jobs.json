@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T01:00:45.319Z",
+  "updatedAt": "2026-11-25T01:15:41.164Z",
   "jobs": [
     {
       "id": "e3c2ca61-411c-4ecd-80c2-ccdd67b5cf4a",
@@ -108,6 +108,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=U.S.+Bank&job=6583d55c-0868-4d69-88ea-3435d2d4d5b2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Hopkins-MN/Software-Engineer-1---Infrastructure_2026-0036514"
+    },
+    {
+      "id": "e36e2e83-f495-4b38-896f-a2d1412844b9",
+      "company": "Wurl",
+      "title": "Software Engineer I - Remote",
+      "location": "Remote, U.S.",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-24",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Wurl&job=e36e2e83-f495-4b38-896f-a2d1412844b9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/wurljobs/jobs/4731759006"
     },
     {
       "id": "80f18c80-5930-4037-96bf-f5f576cc327a",
@@ -3018,6 +3030,19 @@
       "age": "57d",
       "url": "https://applyguy.ai/jobs?company=Globusmedical&job=e3c2b5bb-642f-40d5-a7cd-b985b85ea9fe&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/Audubon-PA/Associate-Software-Engineer_JR107947-1"
+    },
+    {
+      "id": "custom:microsoft:698bf1cfd0197fa8f311",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-29",
+      "age": "57d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "applySupported": false
     },
     {
       "id": "ff4d695b-6a47-433b-8c2e-cc351c3ef893",
