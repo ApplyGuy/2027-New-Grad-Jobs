@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T21:45:51.544Z",
+  "updatedAt": "2026-11-25T22:00:22.090Z",
   "jobs": [
     {
       "id": "21b80d3b-cb50-4e7a-b705-0e76c2dfd88c",
@@ -955,18 +955,6 @@
       "listingUrl": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-GA-CMH-ONE-RIVERFRONT/Mainframe-Software-Engineer-I_JR0310604-1"
     },
     {
-      "id": "f335954a-2b7d-4d4c-a001-0d74b314e3e6",
-      "company": "Pae",
-      "title": "Junior Software Developer",
-      "location": "Dahlgren, VA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-10",
-      "age": "15d",
-      "url": "https://applyguy.ai/jobs?company=Pae&job=f335954a-2b7d-4d4c-a001-0d74b314e3e6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Dahlgren/Junior-Software-Developer_R0175040"
-    },
-    {
       "id": "c18bb249-f588-4f7a-a8a4-e03d1675ac85",
       "company": "Pae",
       "title": "Jr. Data Engineer",
@@ -1482,18 +1470,6 @@
       "age": "26d",
       "url": "https://applyguy.ai/jobs?company=NVIDIA&job=aa52da8b-17fe-4d79-b0c1-df51183432f3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659"
-    },
-    {
-      "id": "e7a30f29-61b1-4bf1-a568-42eef4bda7fa",
-      "company": "Pae",
-      "title": "Entry Level Software Engineer - SECRET",
-      "location": "Dahlgren, VA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-10-30",
-      "age": "26d",
-      "url": "https://applyguy.ai/jobs?company=Pae&job=e7a30f29-61b1-4bf1-a568-42eef4bda7fa&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer---SECRET_R0173771"
     },
     {
       "id": "790d4bd1-b32a-4dad-b91b-a08df16819a7",
