@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T07:00:43.474Z",
+  "updatedAt": "2026-11-25T07:15:45.330Z",
   "jobs": [
     {
       "id": "e3c2ca61-411c-4ecd-80c2-ccdd67b5cf4a",
@@ -148,7 +148,7 @@
     {
       "id": "e36e2e83-f495-4b38-896f-a2d1412844b9",
       "company": "Wurl",
-      "title": "Software Engineer I - Remote",
+      "title": "Software Engineer I",
       "location": "Remote, U.S.",
       "eligibility": "Entry Level",
       "matchKind": "entry_level",
