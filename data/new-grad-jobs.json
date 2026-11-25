@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T15:15:38.930Z",
+  "updatedAt": "2026-11-25T15:30:40.965Z",
   "jobs": [
     {
       "id": "ab1ca117-d1a9-44ee-9198-6842ab8bb097",
@@ -240,6 +240,18 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Snc&job=127d149e-6448-4af7-93b3-f314d51c1724&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0031455"
+    },
+    {
+      "id": "50ae72e2-5241-47b4-9731-174150cf6658",
+      "company": "webAI",
+      "title": "Jr Software Developer",
+      "location": "Austin, TX",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-23",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=webAI&job=50ae72e2-5241-47b4-9731-174150cf6658&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.ashbyhq.com/webai/571ff25a-c3ad-44f5-8f35-f4a7944899df"
     },
     {
       "id": "6df94d00-1750-4239-a87b-a1b23206da47",
@@ -2862,6 +2874,19 @@
       "age": "57d",
       "url": "https://applyguy.ai/jobs?company=Globusmedical&job=e3c2b5bb-642f-40d5-a7cd-b985b85ea9fe&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/Audubon-PA/Associate-Software-Engineer_JR107947-1"
+    },
+    {
+      "id": "custom:microsoft:698bf1cfd0197fa8f311",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-29",
+      "age": "57d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "applySupported": false
     },
     {
       "id": "ff4d695b-6a47-433b-8c2e-cc351c3ef893",
