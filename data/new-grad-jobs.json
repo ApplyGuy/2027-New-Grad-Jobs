@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T18:45:47.147Z",
+  "updatedAt": "2026-11-25T19:00:37.773Z",
   "jobs": [
     {
       "id": "21b80d3b-cb50-4e7a-b705-0e76c2dfd88c",
@@ -650,18 +650,6 @@
       "age": "12d",
       "url": "https://applyguy.ai/jobs?company=Travelers&job=cd7cbcd1-dc23-4b8f-98fe-d9ebbb951c7a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://travelers.wd5.myworkdayjobs.com/external/job/CT---Hartford/Software-Engineer-I--TypeScript--React--AWS--AI-Assisted-Development-_R-53687"
-    },
-    {
-      "id": "7734e441-8ff0-49e1-93aa-5bcd73f6de6a",
-      "company": "Twitch",
-      "title": "Software Engineer I, Payments",
-      "location": "San Francisco, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-13",
-      "age": "12d",
-      "url": "https://applyguy.ai/jobs?company=Twitch&job=7734e441-8ff0-49e1-93aa-5bcd73f6de6a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/twitch/jobs/8943553002"
     },
     {
       "id": "3ebdac12-a1bb-4cfc-b061-33e87a6d3cc8",
