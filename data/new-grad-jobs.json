@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T22:30:25.317Z",
+  "updatedAt": "2026-11-25T22:45:44.812Z",
   "jobs": [
     {
       "id": "21b80d3b-cb50-4e7a-b705-0e76c2dfd88c",
@@ -1075,18 +1075,6 @@
       "listingUrl": "https://isu.wd1.myworkdayjobs.com/iowastatejobs/job/Ames-IA/Software-Developer-I_R20057"
     },
     {
-      "id": "8264e543-ec03-49bd-988b-67975ac0f851",
-      "company": "Moog",
-      "title": "Associate Software Engineer",
-      "location": "Buffalo, NY",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-06",
-      "age": "19d",
-      "url": "https://applyguy.ai/jobs?company=Moog&job=8264e543-ec03-49bd-988b-67975ac0f851&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-Software-Engineer_R-26-21135"
-    },
-    {
       "id": "eb52706c-00ef-48bd-9611-6ee568f4fcc3",
       "company": "Cisive",
       "title": "Associate Software Developer",
@@ -1554,18 +1542,6 @@
       "age": "27d",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=38193204-f09a-45a1-b354-694cc9fe2b4e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/Eagan-MN/Jr-Software-Developer_R-00195855"
-    },
-    {
-      "id": "7ddd10b7-3603-4402-8faf-660128e31f77",
-      "company": "Moog",
-      "title": "Associate Software Engineer",
-      "location": "Santa Barbara, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-29",
-      "age": "27d",
-      "url": "https://applyguy.ai/jobs?company=Moog&job=7ddd10b7-3603-4402-8faf-660128e31f77&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Santa-Barbara-CA/Embedded-Software-Engineer_R-26-17229"
     },
     {
       "id": "bdc1aa6e-8d9f-4307-b947-4b701492c2a2",
