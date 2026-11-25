@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T04:30:37.772Z",
+  "updatedAt": "2026-11-25T04:45:38.129Z",
   "jobs": [
     {
       "id": "e3c2ca61-411c-4ecd-80c2-ccdd67b5cf4a",
@@ -1063,6 +1063,30 @@
       "listingUrl": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-Software-Engineer_R-26-21135"
     },
     {
+      "id": "eb52706c-00ef-48bd-9611-6ee568f4fcc3",
+      "company": "Cisive",
+      "title": "Associate Software Developer",
+      "location": "Headquarters, MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-05",
+      "age": "20d",
+      "url": "https://applyguy.ai/jobs?company=Cisive&job=eb52706c-00ef-48bd-9611-6ee568f4fcc3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://cisive.wd108.myworkdayjobs.com/Cisive/job/Headquarters-MD/Associate-Software-Developer_JR100449-1"
+    },
+    {
+      "id": "e9349f85-f5bc-4da3-912c-12f82f7dd381",
+      "company": "Cmu",
+      "title": "Associate Software Engineer",
+      "location": "Pittsburgh, PA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-05",
+      "age": "20d",
+      "url": "https://applyguy.ai/jobs?company=Cmu&job=e9349f85-f5bc-4da3-912c-12f82f7dd381&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://cmu.wd115.myworkdayjobs.com/CMU/job/Pittsburgh-PA/Associate-Software-Engineer_2025315"
+    },
+    {
       "id": "b970822f-2621-46ac-9ad6-6b97dc729477",
       "company": "Leidos",
       "title": "Entry Level Software Tester",
@@ -1712,30 +1736,6 @@
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4618996"
     },
     {
-      "id": "3568fa3e-7aa1-4c02-a982-e64c5bcc9aed",
-      "company": "CrossCountry Consulting",
-      "title": "Forward Deployed Software Engineer (Recent Graduate) - DC Metro",
-      "location": "McLean, VA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-10-27",
-      "age": "29d",
-      "url": "https://applyguy.ai/jobs?company=CrossCountry+Consulting&job=3568fa3e-7aa1-4c02-a982-e64c5bcc9aed&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.lever.co/crosscountry-consulting/eb6ab6cf-6f93-486f-b4bf-6137bc67feb7"
-    },
-    {
-      "id": "238fda37-c8f2-48ee-b4e0-f98d0dce56e3",
-      "company": "CrossCountry Consulting",
-      "title": "Forward Deployed Software Engineer (Recent Graduate) - Chicago",
-      "location": "Chicago, IL",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-10-27",
-      "age": "29d",
-      "url": "https://applyguy.ai/jobs?company=CrossCountry+Consulting&job=238fda37-c8f2-48ee-b4e0-f98d0dce56e3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.lever.co/crosscountry-consulting/10ecb553-0393-4e7b-af5a-88a1947a0769"
-    },
-    {
       "id": "17f6c0de-8d65-40be-8f8a-75bb215ff41f",
       "company": "JND",
       "title": "[Entry Level] Software Tester / Field Tester (2605-3)",
@@ -1962,18 +1962,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Bond+Pro+Inc&job=1021456e-fdbc-40a1-a95a-056a97102db3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://bond-pro-inc.breezy.hr/p/b64fa7c7d5a4-junior-software-engineer-0-4-years"
-    },
-    {
-      "id": "7e8b44b9-c484-40cc-b631-956925ed935e",
-      "company": "CrossCountry Consulting",
-      "title": "Forward Deployed Software Engineer (Recent Graduate) - New York",
-      "location": "New York City, NY",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-10-26",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=CrossCountry+Consulting&job=7e8b44b9-c484-40cc-b631-956925ed935e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.lever.co/crosscountry-consulting/f294b6dd-b2dc-46c5-9139-9ba93163ba5c"
     },
     {
       "id": "eabc1542-d688-4816-9d9e-06ec8cfadd26",
