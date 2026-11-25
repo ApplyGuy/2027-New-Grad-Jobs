@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T20:15:40.498Z",
+  "updatedAt": "2026-11-25T20:30:36.902Z",
   "jobs": [
     {
       "id": "21b80d3b-cb50-4e7a-b705-0e76c2dfd88c",
@@ -12,6 +12,18 @@
       "age": "Today",
       "url": "https://applyguy.ai/jobs?company=GreatWater+360+Auto+Care&job=21b80d3b-cb50-4e7a-b705-0e76c2dfd88c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4693401"
+    },
+    {
+      "id": "268d62cf-681b-4285-b8b9-f62d547fd05c",
+      "company": "Lnw",
+      "title": "Associate Software Engineer",
+      "location": "Reno, NV",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Lnw&job=268d62cf-681b-4285-b8b9-f62d547fd05c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Associate-Software-Engineer_R322882-1"
     },
     {
       "id": "ab1ca117-d1a9-44ee-9198-6842ab8bb097",
