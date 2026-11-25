@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-25T00:30:38.382Z",
+  "updatedAt": "2026-11-25T00:45:23.141Z",
   "jobs": [
+    {
+      "id": "e3c2ca61-411c-4ecd-80c2-ccdd67b5cf4a",
+      "company": "Amat",
+      "title": "Software Engineer II New College Grad- Master's (Chandler, AZ)",
+      "location": "Chandler, AZ",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-11-24",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Amat&job=e3c2ca61-411c-4ecd-80c2-ccdd67b5cf4a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://amat.wd1.myworkdayjobs.com/external/job/ChandlerAZ/Software-Engineer-II-New-College-Grad--Master-s--Chandler--AZ-_R2627909"
+    },
     {
       "id": "3606080c-a67c-46a7-b805-23bbc0414d76",
       "company": "Boeing",
@@ -2154,6 +2166,18 @@
       "age": "34d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=d24be80e-3315-43b9-b444-9fa06c83be2e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Software-Developer-I---Onsite-_01880909"
+    },
+    {
+      "id": "1a8be1f5-9113-4cb8-ab21-8ccfd76363d6",
+      "company": "Amat",
+      "title": "Global Software Support Engineer II New College Grad- Master's (Phoenix, AZ)",
+      "location": "Phoenix, AZ",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-10-21",
+      "age": "35d",
+      "url": "https://applyguy.ai/jobs?company=Amat&job=1a8be1f5-9113-4cb8-ab21-8ccfd76363d6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://amat.wd1.myworkdayjobs.com/external/job/PhoenixAZ/Global-Software-Support-Engineer-III----E3-_R2631569"
     },
     {
       "id": "7a1a97b2-b267-4974-a4f2-1bac171187b7",
