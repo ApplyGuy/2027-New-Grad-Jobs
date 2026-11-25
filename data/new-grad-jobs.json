@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T13:15:32.130Z",
+  "updatedAt": "2026-11-25T13:30:38.812Z",
   "jobs": [
     {
       "id": "ab1ca117-d1a9-44ee-9198-6842ab8bb097",
@@ -1037,18 +1037,6 @@
       "age": "16d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=451abc42-efb5-4c23-81ae-0a1fc22d4212&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Embedded-Security-Software-Engineer-I--Onsite-_01888154"
-    },
-    {
-      "id": "12ead01c-4a84-461f-a90e-7bd5eb464a20",
-      "company": "RTX",
-      "title": "Research Software Engineer I (Onsite)",
-      "location": "Cambridge, MA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-09",
-      "age": "16d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=12ead01c-4a84-461f-a90e-7bd5eb464a20&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Research-Software-Engineer-I--Onsite-_01887516"
     },
     {
       "id": "1268a5e8-04d3-491c-b50c-0f105c79b9dd",
@@ -2360,18 +2348,6 @@
       "listingUrl": "https://reagroup.wd3.myworkdayjobs.com/reacareers/job/Richmond-Melbourne-VIC/Associate-Machine-Learning-Engineer_R0015805-1"
     },
     {
-      "id": "35a53b38-22e1-4e19-bb03-65db6034ed0c",
-      "company": "RTX",
-      "title": "Software Engineer I - Next Gen Systems - Onsite",
-      "location": "Cedar Rapids, IA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-14",
-      "age": "42d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=35a53b38-22e1-4e19-bb03-65db6034ed0c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Software-Engineer-I---Next-Gen-Systems---Onsite_01881673"
-    },
-    {
       "id": "8642f9b5-d069-42f9-b8ec-a3ef41276156",
       "company": "NVIDIA",
       "title": "SoC Software Engineer – New College Graduate 2026",
@@ -2850,6 +2826,18 @@
       "age": "56d",
       "url": "https://applyguy.ai/jobs?company=JSL+Technologies+Inc.&job=506c80da-f642-499e-98c2-e4bd2ca84251&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4548662"
+    },
+    {
+      "id": "9f37d60b-5400-438a-9922-89843c41f623",
+      "company": "RTX",
+      "title": "Research Software Engineer I - Onsite",
+      "location": "Cambridge, MA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-30",
+      "age": "56d",
+      "url": "https://applyguy.ai/jobs?company=RTX&job=9f37d60b-5400-438a-9922-89843c41f623&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Research-Software-Engineer-I---Onsite_01878338"
     },
     {
       "id": "3ab73a1f-8de1-42c7-9508-b70616da5375",
