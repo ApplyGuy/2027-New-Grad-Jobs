@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T21:35:50.485Z",
+  "updatedAt": "2026-11-25T21:45:51.544Z",
   "jobs": [
     {
       "id": "21b80d3b-cb50-4e7a-b705-0e76c2dfd88c",
@@ -640,18 +640,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/cmt/jobs/8385978"
     },
     {
-      "id": "91ef76a4-9dc5-46ff-bfcf-1c06f77b44f8",
-      "company": "Shield AI",
-      "title": "Engineer I, Software - New Grad - 6531",
-      "location": "Washington, D.C.",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-11-13",
-      "age": "12d",
-      "url": "https://applyguy.ai/jobs?company=Shield+AI&job=91ef76a4-9dc5-46ff-bfcf-1c06f77b44f8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.lever.co/shieldai/c33ab680-2625-4da1-a96c-41bea441b98b"
-    },
-    {
       "id": "cd7cbcd1-dc23-4b8f-98fe-d9ebbb951c7a",
       "company": "Travelers",
       "title": "Software Engineer I (TypeScript, React, AWS, AI-Assisted Development)",
@@ -1013,18 +1001,6 @@
       "age": "15d",
       "url": "https://applyguy.ai/jobs?company=Vizient&job=b2c845fe-8902-4e7c-809d-00c119e521df&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://vizient.wd1.myworkdayjobs.com/vizient_careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer--Hybrid-_35388R"
-    },
-    {
-      "id": "6d9e977f-1b6c-41fc-8fe2-3fab8ef7631b",
-      "company": "x.ai",
-      "title": "Software Engineer, New Grad 2027",
-      "location": "San Francisco, CA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-11-10",
-      "age": "15d",
-      "url": "https://applyguy.ai/jobs?company=x.ai&job=6d9e977f-1b6c-41fc-8fe2-3fab8ef7631b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6"
     },
     {
       "id": "b40b14be-d79c-4e72-b696-56f4d494dcbf",
@@ -1868,90 +1844,6 @@
       "listingUrl": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6224938004"
     },
     {
-      "id": "abd04d69-b6dc-40fd-bf0c-e5ff80018204",
-      "company": "Shield AI",
-      "title": "Engineer II, Software - Ground Control Station - Full Stack - New Grad - 6140",
-      "location": "Washington, D.C.",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-10-27",
-      "age": "29d",
-      "url": "https://applyguy.ai/jobs?company=Shield+AI&job=abd04d69-b6dc-40fd-bf0c-e5ff80018204&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.lever.co/shieldai/88f7b66e-3412-40c8-b74d-aafc462405ff"
-    },
-    {
-      "id": "56cd0723-31b3-4531-9aa6-18e1b1d05bc3",
-      "company": "Shield AI",
-      "title": "Engineer II, Software - Perception (SD/DC/Bos) - New Grad - 6139",
-      "location": "United States",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-10-27",
-      "age": "29d",
-      "url": "https://applyguy.ai/jobs?company=Shield+AI&job=56cd0723-31b3-4531-9aa6-18e1b1d05bc3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.lever.co/shieldai/9017c8c2-2668-45d6-aff5-a7e348107c12"
-    },
-    {
-      "id": "924b31eb-a4ff-4d6d-8e30-56fdfc3003fd",
-      "company": "Shield AI",
-      "title": "Engineer I, Software - Perception - New Grad - 6135",
-      "location": "Washington, D.C.",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-10-27",
-      "age": "29d",
-      "url": "https://applyguy.ai/jobs?company=Shield+AI&job=924b31eb-a4ff-4d6d-8e30-56fdfc3003fd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.lever.co/shieldai/cd641bcb-f613-44dd-b66d-2df360067319"
-    },
-    {
-      "id": "f40eb236-2d79-46ff-b735-9b0353c15d79",
-      "company": "Shield AI",
-      "title": "Engineer II, Software - Autonomy Capabilities - New Grad - 6131",
-      "location": "United States",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-10-27",
-      "age": "29d",
-      "url": "https://applyguy.ai/jobs?company=Shield+AI&job=f40eb236-2d79-46ff-b735-9b0353c15d79&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.lever.co/shieldai/d2050861-fd48-4ac6-9606-e1e502a817af"
-    },
-    {
-      "id": "95a0a978-4903-4d56-a4eb-5b2a44b01281",
-      "company": "Shield AI",
-      "title": "Engineer I, Software - Autonomy Capabilities - New Grad - 6129",
-      "location": "United States",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-10-27",
-      "age": "29d",
-      "url": "https://applyguy.ai/jobs?company=Shield+AI&job=95a0a978-4903-4d56-a4eb-5b2a44b01281&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896"
-    },
-    {
-      "id": "b443e787-4ce9-4c14-a0c9-c550257c7347",
-      "company": "Shield AI",
-      "title": "Engineer II, Software - Autonomous Pilot Integration - New Grad - 6127",
-      "location": "Washington, D.C.",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-10-27",
-      "age": "29d",
-      "url": "https://applyguy.ai/jobs?company=Shield+AI&job=b443e787-4ce9-4c14-a0c9-c550257c7347&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.lever.co/shieldai/d2beda9f-f7f1-46ca-86d6-5bbbd52fbe50"
-    },
-    {
-      "id": "d6f21728-8e77-4895-81b9-393902268e5c",
-      "company": "Shield AI",
-      "title": "Engineer I, Software - Autonomous Pilot Integration - New Grad - 6125",
-      "location": "Washington, D.C.",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-10-27",
-      "age": "29d",
-      "url": "https://applyguy.ai/jobs?company=Shield+AI&job=d6f21728-8e77-4895-81b9-393902268e5c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.lever.co/shieldai/af183d8c-51d0-40df-9c04-fbddae0d83aa"
-    },
-    {
       "id": "8d0ba6c2-b3cf-41c8-afce-2636283022dd",
       "company": "Steely Design",
       "title": "Software Engineer -Entry-Level (Network Focus)",
@@ -1974,18 +1866,6 @@
       "age": "30d",
       "url": "https://applyguy.ai/jobs?company=Amat&job=db3da592-31d1-463e-aa52-470d3ef7388e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Algorithm-Developer-II---New-College-Grad--Masters---Santa-Clara--CA-_R2631924"
-    },
-    {
-      "id": "1021456e-fdbc-40a1-a95a-056a97102db3",
-      "company": "Bond Pro Inc",
-      "title": "Junior Software Engineer (0-4 years)",
-      "location": "Remote, U.S.",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-26",
-      "age": "30d",
-      "url": "https://applyguy.ai/jobs?company=Bond+Pro+Inc&job=1021456e-fdbc-40a1-a95a-056a97102db3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://bond-pro-inc.breezy.hr/p/b64fa7c7d5a4-junior-software-engineer-0-4-years"
     },
     {
       "id": "eabc1542-d688-4816-9d9e-06ec8cfadd26",
@@ -2324,18 +2204,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/sirenopt/jobs/4452002009"
     },
     {
-      "id": "286fee4b-85a6-4dd2-a8f3-d7afe06e1cef",
-      "company": "Southeast Consolidators Inc",
-      "title": "Junior Software Developer",
-      "location": "Ellenwood, GA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-15",
-      "age": "41d",
-      "url": "https://applyguy.ai/jobs?company=Southeast+Consolidators+Inc&job=286fee4b-85a6-4dd2-a8f3-d7afe06e1cef&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4575930"
-    },
-    {
       "id": "265754fa-6d05-4dc2-a93c-cd599f96ed33",
       "company": "CLEAR - Corporate",
       "title": "Software Development Engineer I",
@@ -2444,54 +2312,6 @@
       "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337"
     },
     {
-      "id": "96d44614-7cbf-4b43-adc4-05468f895efd",
-      "company": "Shield AI",
-      "title": "Engineer I, Software - Factory Team - New Grad - 6235",
-      "location": "Washington, D.C.",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-10-10",
-      "age": "46d",
-      "url": "https://applyguy.ai/jobs?company=Shield+AI&job=96d44614-7cbf-4b43-adc4-05468f895efd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.lever.co/shieldai/59e0cf9b-04d7-43c0-8a65-9d411fe56c68"
-    },
-    {
-      "id": "55fb0e7a-eb0e-4430-9bf4-595ba0979ead",
-      "company": "Shield AI",
-      "title": "Engineer II, Software Test and Automation - New Grad - 6221",
-      "location": "Washington, D.C.",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-10-10",
-      "age": "46d",
-      "url": "https://applyguy.ai/jobs?company=Shield+AI&job=55fb0e7a-eb0e-4430-9bf4-595ba0979ead&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.lever.co/shieldai/ebf49595-032b-493d-a80e-3ac00eb4d0ab"
-    },
-    {
-      "id": "75cbedd9-172d-45a2-9274-128edcf55154",
-      "company": "Shield AI",
-      "title": "Engineer II, Software - Factory - New Grad - 6217",
-      "location": "Washington, D.C.",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-10-10",
-      "age": "46d",
-      "url": "https://applyguy.ai/jobs?company=Shield+AI&job=75cbedd9-172d-45a2-9274-128edcf55154&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.lever.co/shieldai/681efe7f-2c2a-4830-8976-9a6f77d9d3e5"
-    },
-    {
-      "id": "0b94c9e5-a23d-4d88-abac-c1282e531d23",
-      "company": "Shield AI",
-      "title": "Engineer I, Software Test and Automation (R6216) - New Grad",
-      "location": "Washington, D.C.",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-10-10",
-      "age": "46d",
-      "url": "https://applyguy.ai/jobs?company=Shield+AI&job=0b94c9e5-a23d-4d88-abac-c1282e531d23&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.lever.co/shieldai/d80f9bad-a014-475a-a018-a676eb6fbad7"
-    },
-    {
       "id": "12a8a431-02af-4b8b-836d-aacc375d9216",
       "company": "Aurelian",
       "title": "Software Engineer (New Grad)",
@@ -2550,18 +2370,6 @@
       "age": "47d",
       "url": "https://applyguy.ai/jobs?company=JND&job=d2dc07ab-fcb7-463f-b58e-23ff9934359c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jnd-inc.breezy.hr/p/dab2f4d1a81a-entry-level-korean-bilingual-qa-test-engineer-mobile-software-ai-5g-field-product-quality-testing-261001-2"
-    },
-    {
-      "id": "3dc2c8ba-cc33-4ae5-b710-4264e44d0b98",
-      "company": "Shield AI",
-      "title": "Engineer I, Software Integration - New Grad - 6214",
-      "location": "Washington, D.C.",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-10-09",
-      "age": "47d",
-      "url": "https://applyguy.ai/jobs?company=Shield+AI&job=3dc2c8ba-cc33-4ae5-b710-4264e44d0b98&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.lever.co/shieldai/7c8aaf63-ab92-4c0f-8a54-9cf1ce07ca69"
     },
     {
       "id": "0b458acb-e2a2-4e83-b23c-e78e5e156a22",
@@ -2694,18 +2502,6 @@
       "age": "50d",
       "url": "https://applyguy.ai/jobs?company=Roku&job=258431bc-591c-4eb0-8ba5-3715d737a3d7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://www.weareroku.com/jobs/8188704?gh_jid=8188704"
-    },
-    {
-      "id": "52cc1616-8b63-4aa5-8088-07e8d23bb3e2",
-      "company": "Shield AI",
-      "title": "Software Development Engineer - New Graduate",
-      "location": "San Diego, CA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-10-06",
-      "age": "50d",
-      "url": "https://applyguy.ai/jobs?company=Shield+AI&job=52cc1616-8b63-4aa5-8088-07e8d23bb3e2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.lever.co/shieldai/79c3b65f-ce0c-4868-bedf-4ddcc4cfe583"
     },
     {
       "id": "10e15e75-aefd-45e7-addb-5283630a889c",
