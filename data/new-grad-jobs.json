@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T05:15:44.370Z",
+  "updatedAt": "2026-11-25T05:30:41.900Z",
   "jobs": [
     {
       "id": "e3c2ca61-411c-4ecd-80c2-ccdd67b5cf4a",
@@ -637,6 +637,18 @@
       "posted": "2026-11-12",
       "age": "13d",
       "url": "https://applyguy.ai/jobs?company=CCR&job=3ebdac12-a1bb-4cfc-b061-33e87a6d3cc8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4662681"
+    },
+    {
+      "id": "e9c240b7-1bda-413a-8d4f-2c71d80d2787",
+      "company": "CCR Media",
+      "title": "Associate Software Developer",
+      "location": "Cedar Rapids, IA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-12",
+      "age": "13d",
+      "url": "https://applyguy.ai/jobs?company=CCR+Media&job=e9c240b7-1bda-413a-8d4f-2c71d80d2787&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4662681"
     },
     {
