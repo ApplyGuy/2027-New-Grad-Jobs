@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T08:30:25.647Z",
+  "updatedAt": "2026-11-25T08:45:35.123Z",
   "jobs": [
     {
       "id": "e3c2ca61-411c-4ecd-80c2-ccdd67b5cf4a",
@@ -1039,18 +1039,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Research-Software-Engineer-I--Onsite-_01887516"
     },
     {
-      "id": "e8a45e7f-1b03-4a39-9d85-9516ae08a428",
-      "company": "Whoop",
-      "title": "Software Engineer I (Backend, Growth)",
-      "location": "Boston, MA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-09",
-      "age": "16d",
-      "url": "https://applyguy.ai/jobs?company=Whoop&job=e8a45e7f-1b03-4a39-9d85-9516ae08a428&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.ashbyhq.com/whoop/d31312c2-236a-45f1-8da7-61a7ca8d1622"
-    },
-    {
       "id": "1268a5e8-04d3-491c-b50c-0f105c79b9dd",
       "company": "ASM",
       "title": "Software Engineer - Early Career",
@@ -1736,18 +1724,6 @@
       "listingUrl": "https://priceline.wd1.myworkdayjobs.com/priceline/job/New-York/Junior-Software-Engineer_R5885"
     },
     {
-      "id": "0d575bca-7d9f-4c1b-88c5-588c60b89719",
-      "company": "The Cadmus Group",
-      "title": "Jr. Full Stack Developer",
-      "location": "US",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-28",
-      "age": "28d",
-      "url": "https://applyguy.ai/jobs?company=The+Cadmus+Group&job=0d575bca-7d9f-4c1b-88c5-588c60b89719&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://careers-cadmusgroup.icims.com/jobs/3255/jr.-full-stack-developer/job"
-    },
-    {
       "id": "3d1f7bf1-3d8d-4976-bca0-3f47e8149ad4",
       "company": "Trane Technologies",
       "title": "Associate Software Engineer - TRACE",
@@ -2190,18 +2166,6 @@
       "age": "35d",
       "url": "https://applyguy.ai/jobs?company=Amat&job=1a8be1f5-9113-4cb8-ab21-8ccfd76363d6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://amat.wd1.myworkdayjobs.com/external/job/PhoenixAZ/Global-Software-Support-Engineer-III----E3-_R2631569"
-    },
-    {
-      "id": "7a1a97b2-b267-4974-a4f2-1bac171187b7",
-      "company": "Collier Aerospace",
-      "title": "Software Engineer (Entry Level)",
-      "location": "Newport News, VA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-10-21",
-      "age": "35d",
-      "url": "https://applyguy.ai/jobs?company=Collier+Aerospace&job=7a1a97b2-b267-4974-a4f2-1bac171187b7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://ats.rippling.com/collieraerospace/jobs/a3ae57de-5925-4f55-a106-812b5069cd19"
     },
     {
       "id": "40aa3264-3910-4214-b500-e8708387d313",
@@ -2660,18 +2624,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/twitch/jobs/8879673002"
     },
     {
-      "id": "6d99854b-652d-4be1-96b3-4e87c927ece5",
-      "company": "Amplitude",
-      "title": "Software Engineer I",
-      "location": "San Francisco, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-07",
-      "age": "49d",
-      "url": "https://applyguy.ai/jobs?company=Amplitude&job=6d99854b-652d-4be1-96b3-4e87c927ece5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.ashbyhq.com/amplitude/9c43576b-d16f-4192-a366-7c9eb689c4be"
-    },
-    {
       "id": "13211a10-d21e-4d33-9c80-cf62ea808102",
       "company": "CACI",
       "title": "Entry Level C# Software Engineer",
@@ -2766,18 +2718,6 @@
       "age": "50d",
       "url": "https://applyguy.ai/jobs?company=Shield+AI&job=52cc1616-8b63-4aa5-8088-07e8d23bb3e2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/shieldai/79c3b65f-ce0c-4868-bedf-4ddcc4cfe583"
-    },
-    {
-      "id": "06324a70-82fc-415b-af8d-a2fbcaeae1e7",
-      "company": "Whoop",
-      "title": "Software Engineer I (Frontend, AI Platform)",
-      "location": "Boston, MA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-06",
-      "age": "50d",
-      "url": "https://applyguy.ai/jobs?company=Whoop&job=06324a70-82fc-415b-af8d-a2fbcaeae1e7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.ashbyhq.com/whoop/ae351985-e5cf-4bd8-b8a1-6f8c2d5b5de3"
     },
     {
       "id": "10e15e75-aefd-45e7-addb-5283630a889c",
