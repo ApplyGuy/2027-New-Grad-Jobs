@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-25T12:31:06.873Z",
+  "updatedAt": "2026-11-25T12:46:21.103Z",
   "jobs": [
+    {
+      "id": "ab1ca117-d1a9-44ee-9198-6842ab8bb097",
+      "company": "Visa",
+      "title": "Associate Data Engineer, AI Studio",
+      "location": "Austin, TX",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Visa&job=ab1ca117-d1a9-44ee-9198-6842ab8bb097&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/Associate-Data-Engineer--AI-Studio_REF090692W"
+    },
     {
       "id": "e3c2ca61-411c-4ecd-80c2-ccdd67b5cf4a",
       "company": "Amat",
