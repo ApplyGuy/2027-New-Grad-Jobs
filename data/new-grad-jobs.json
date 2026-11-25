@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T06:45:51.484Z",
+  "updatedAt": "2026-11-25T07:00:43.474Z",
   "jobs": [
     {
       "id": "e3c2ca61-411c-4ecd-80c2-ccdd67b5cf4a",
@@ -2144,30 +2144,6 @@
       "listingUrl": "https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7"
     },
     {
-      "id": "c9fc35c9-8c8a-4601-b079-c3f37ce58af3",
-      "company": "Peraton",
-      "title": "Junior Data Engineer (ETL/GIS)",
-      "location": "US",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-22",
-      "age": "34d",
-      "url": "https://applyguy.ai/jobs?company=Peraton&job=c9fc35c9-8c8a-4601-b079-c3f37ce58af3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://careers-peraton.icims.com/jobs/172571/junior-data-engineer-%28etl-gis%29/job"
-    },
-    {
-      "id": "6b92d1bd-9858-4a04-9b3d-867420d47d4b",
-      "company": "Peraton",
-      "title": "Junior Data Engineer (ETL/Data Quality)",
-      "location": "US",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-22",
-      "age": "34d",
-      "url": "https://applyguy.ai/jobs?company=Peraton&job=6b92d1bd-9858-4a04-9b3d-867420d47d4b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://careers-peraton.icims.com/jobs/172702/junior-data-engineer-%28etl-data-quality%29/job"
-    },
-    {
       "id": "d24be80e-3315-43b9-b444-9fa06c83be2e",
       "company": "RTX",
       "title": "Embedded Software Developer I  (Onsite)",
@@ -2766,18 +2742,6 @@
       "age": "50d",
       "url": "https://applyguy.ai/jobs?company=Shield+AI&job=52cc1616-8b63-4aa5-8088-07e8d23bb3e2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.lever.co/shieldai/79c3b65f-ce0c-4868-bedf-4ddcc4cfe583"
-    },
-    {
-      "id": "c918ad25-e02e-470e-bd60-a96a9bed2ff3",
-      "company": "True Anomaly",
-      "title": "Software Engineer I to III, Digital Engineering",
-      "location": "Denver, CO",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-06",
-      "age": "50d",
-      "url": "https://applyguy.ai/jobs?company=True+Anomaly&job=c918ad25-e02e-470e-bd60-a96a9bed2ff3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5257769007"
     },
     {
       "id": "06324a70-82fc-415b-af8d-a2fbcaeae1e7",
