@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-25T18:30:37.776Z",
+  "updatedAt": "2026-11-25T18:45:47.147Z",
   "jobs": [
+    {
+      "id": "21b80d3b-cb50-4e7a-b705-0e76c2dfd88c",
+      "company": "GreatWater 360 Auto Care",
+      "title": "Junior Data Engineer",
+      "location": "Kentwood, MI",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-25",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=GreatWater+360+Auto+Care&job=21b80d3b-cb50-4e7a-b705-0e76c2dfd88c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4693401"
+    },
     {
       "id": "ab1ca117-d1a9-44ee-9198-6842ab8bb097",
       "company": "Visa",
@@ -266,18 +278,6 @@
       "listingUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Test---Verification_JR2026523081"
     },
     {
-      "id": "61eb97de-f22a-4b2c-a427-e76d48b4042a",
-      "company": "Boeing",
-      "title": "Entry-Level Software Engineer–Developer",
-      "location": "Richardson, TX",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-11-20",
-      "age": "5d",
-      "url": "https://applyguy.ai/jobs?company=Boeing&job=61eb97de-f22a-4b2c-a427-e76d48b4042a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026523382-1"
-    },
-    {
       "id": "aec63289-6a36-451e-8d83-fc5a78480252",
       "company": "Boeing",
       "title": "Embedded Software Engineer - Entry-Level",
@@ -288,6 +288,18 @@
       "age": "5d",
       "url": "https://applyguy.ai/jobs?company=Boeing&job=aec63289-6a36-451e-8d83-fc5a78480252&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Hazelwood-MO/Embedded-Software-Engineer---Entry-Level_JR2026522089-1"
+    },
+    {
+      "id": "87b5a6fb-9ac5-43de-a2cb-ee2f0a2c150d",
+      "company": "Boeing",
+      "title": "Entry-Level Software Engineer–Developer",
+      "location": "Richardson, TX",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-11-20",
+      "age": "5d",
+      "url": "https://applyguy.ai/jobs?company=Boeing&job=87b5a6fb-9ac5-43de-a2cb-ee2f0a2c150d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026523382-1"
     },
     {
       "id": "b32b9962-2af2-4d08-a4d6-d274971b76a6",
