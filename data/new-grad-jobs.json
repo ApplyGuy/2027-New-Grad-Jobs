@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T00:30:45.528Z",
+  "updatedAt": "2026-11-26T00:45:38.049Z",
   "jobs": [
     {
       "id": "f89169ea-5ad1-49cf-a578-d2df8f4519bc",
@@ -955,18 +955,6 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01888052"
     },
     {
-      "id": "b2c845fe-8902-4e7c-809d-00c119e521df",
-      "company": "Vizient",
-      "title": "Associate Software Engineer (Hybrid)",
-      "location": "Irving, TX 75062 Vizient Corporate HQ",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-10",
-      "age": "16d",
-      "url": "https://applyguy.ai/jobs?company=Vizient&job=b2c845fe-8902-4e7c-809d-00c119e521df&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://vizient.wd1.myworkdayjobs.com/vizient_careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer--Hybrid-_35388R"
-    },
-    {
       "id": "b40b14be-d79c-4e72-b696-56f4d494dcbf",
       "company": "Peraton",
       "title": "Junior Software Engineer (AWS Cloud Services)",
@@ -1868,18 +1856,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/twitch/jobs/8906750002"
     },
     {
-      "id": "064ebfe3-c0ec-4784-a1ba-46c070a0af4c",
-      "company": "Vizient",
-      "title": "Associate Software Engineer",
-      "location": "Irving, TX 75062 Vizient Corporate HQ",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-21",
-      "age": "36d",
-      "url": "https://applyguy.ai/jobs?company=Vizient&job=064ebfe3-c0ec-4784-a1ba-46c070a0af4c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://vizient.wd1.myworkdayjobs.com/vizient_careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer_35366R"
-    },
-    {
       "id": "f70f735f-ce15-45e9-8f19-6fb78a5c0e07",
       "company": "Amat",
       "title": "Algorithm Developer, Masters Degree, New College Grad (Santa Clara)",
@@ -2442,6 +2418,19 @@
       "age": "58d",
       "url": "https://applyguy.ai/jobs?company=Globusmedical&job=e3c2b5bb-642f-40d5-a7cd-b985b85ea9fe&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/Audubon-PA/Associate-Software-Engineer_JR107947-1"
+    },
+    {
+      "id": "custom:microsoft:698bf1cfd0197fa8f311",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-29",
+      "age": "58d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "applySupported": false
     },
     {
       "id": "ff4d695b-6a47-433b-8c2e-cc351c3ef893",
