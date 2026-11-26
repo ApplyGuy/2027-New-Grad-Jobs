@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T06:30:34.890Z",
+  "updatedAt": "2026-11-26T06:45:31.618Z",
   "jobs": [
     {
       "id": "98f1ca91-f9f6-4eb7-b077-335908258422",
@@ -194,7 +194,31 @@
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NY-BINGHAMTON-288--31-Lewis-Rd--LEWIS/Software-Engineer-I--E2DNY-P1-1-_01888023"
     },
     {
-      "id": "21c8941c-b85b-4cde-9f65-5c4d3041779f",
+      "id": "a1c78da4-fce8-4725-b191-652df36558e3",
+      "company": "Serko Ltd",
+      "title": "Software Engineer 1",
+      "location": "California City, CA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-24",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=Serko+Ltd&job=a1c78da4-fce8-4725-b191-652df36558e3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.workable.com/view/vTJBwWgUWVRMoip8Avio3v/hybrid-software-engineer-1-in-california-city-at-serko-ltd"
+    },
+    {
+      "id": "c7889160-d9c9-4604-8175-ced1693f4814",
+      "company": "Serko Ltd",
+      "title": "Software Engineer 1",
+      "location": "Washington",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-24",
+      "age": "2d",
+      "url": "https://applyguy.ai/jobs?company=Serko+Ltd&job=c7889160-d9c9-4604-8175-ced1693f4814&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.workable.com/view/2vqUVCvZEt5bwe5x6ZMPiA/hybrid-software-engineer-1-in-washington-at-serko-ltd"
+    },
+    {
+      "id": "ec3a9a13-e7d9-4409-b9e5-1ac7971a7d7e",
       "company": "Serko Ltd",
       "title": "Software Engineer 1",
       "location": "Seattle, WA",
@@ -202,8 +226,8 @@
       "matchKind": "entry_level",
       "posted": "2026-11-24",
       "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=Serko+Ltd&job=21c8941c-b85b-4cde-9f65-5c4d3041779f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://apply.workable.com/serko-ltd/j/2BD3D4F4DE/"
+      "url": "https://applyguy.ai/jobs?company=Serko+Ltd&job=ec3a9a13-e7d9-4409-b9e5-1ac7971a7d7e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.workable.com/view/tja2RLmDxi4fs9WjwRwRRa/hybrid-software-engineer-1-in-seattle-at-serko-ltd"
     },
     {
       "id": "4b8e85b0-30c8-4b65-9b30-864c1c0f2351",
@@ -2022,6 +2046,19 @@
       "age": "58d",
       "url": "https://applyguy.ai/jobs?company=Globusmedical&job=e3c2b5bb-642f-40d5-a7cd-b985b85ea9fe&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/Audubon-PA/Associate-Software-Engineer_JR107947-1"
+    },
+    {
+      "id": "custom:microsoft:698bf1cfd0197fa8f311",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-29",
+      "age": "58d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "applySupported": false
     },
     {
       "id": "ff4d695b-6a47-433b-8c2e-cc351c3ef893",
