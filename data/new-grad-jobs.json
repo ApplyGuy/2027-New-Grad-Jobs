@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T06:15:34.458Z",
+  "updatedAt": "2026-11-26T06:30:34.890Z",
   "jobs": [
     {
       "id": "98f1ca91-f9f6-4eb7-b077-335908258422",
@@ -314,18 +314,6 @@
       "listingUrl": "https://jobs.ashbyhq.com/webai/571ff25a-c3ad-44f5-8f35-f4a7944899df"
     },
     {
-      "id": "aec63289-6a36-451e-8d83-fc5a78480252",
-      "company": "Boeing",
-      "title": "Embedded Software Engineer - Entry-Level",
-      "location": "Multiple U.S. locations",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-11-20",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=Boeing&job=aec63289-6a36-451e-8d83-fc5a78480252&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Hazelwood-MO/Embedded-Software-Engineer---Entry-Level_JR2026522089-1"
-    },
-    {
       "id": "9a49fa61-c579-4425-82b1-5b071f8e010d",
       "company": "Boeing",
       "title": "Entry-Level Software Engineer–Developer",
@@ -336,6 +324,18 @@
       "age": "6d",
       "url": "https://applyguy.ai/jobs?company=Boeing&job=9a49fa61-c579-4425-82b1-5b071f8e010d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026523382"
+    },
+    {
+      "id": "88b4ed30-b185-4e6c-80d1-332f65bc9431",
+      "company": "Boeing",
+      "title": "Embedded Software Engineer - Entry-Level",
+      "location": "Multiple U.S. locations",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-11-20",
+      "age": "6d",
+      "url": "https://applyguy.ai/jobs?company=Boeing&job=88b4ed30-b185-4e6c-80d1-332f65bc9431&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Hazelwood-MO/Embedded-Software-Engineer---Entry-Level_JR2026522089"
     },
     {
       "id": "6df94d00-1750-4239-a87b-a1b23206da47",
@@ -1770,6 +1770,18 @@
       "age": "49d",
       "url": "https://applyguy.ai/jobs?company=Forge+Nano&job=543cf392-8039-4399-b215-2f4f4e67e53a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://forge-nano.breezy.hr/p/66630c61f7e4-software-engineer-i"
+    },
+    {
+      "id": "65677bd8-3c4e-4d05-a0ce-6cb89aa6667b",
+      "company": "Ivyhill Technologies LLC",
+      "title": "Software Engineer I",
+      "location": "Remote, U.S.",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-10-08",
+      "age": "49d",
+      "url": "https://applyguy.ai/jobs?company=Ivyhill+Technologies+LLC&job=65677bd8-3c4e-4d05-a0ce-6cb89aa6667b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.workable.com/view/s69mifCNJFsHaS4vSyFF27/remote-software-engineer-i-in-hyattsville-at-ivyhill-technologies-llc"
     },
     {
       "id": "14140795-1b30-4b71-a47c-e00b2883f4fd",
