@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T04:00:46.957Z",
+  "updatedAt": "2026-11-26T04:15:49.097Z",
   "jobs": [
     {
       "id": "f89169ea-5ad1-49cf-a578-d2df8f4519bc",
@@ -859,18 +859,6 @@
       "applySupported": false
     },
     {
-      "id": "d2821a7a-1917-4985-a575-ccbe00631d40",
-      "company": "Coke",
-      "title": "Software Engineer I",
-      "location": "Atlanta, GA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-10",
-      "age": "16d",
-      "url": "https://applyguy.ai/jobs?company=Coke&job=d2821a7a-1917-4985-a575-ccbe00631d40&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Software-Engineer-I_R-148843"
-    },
-    {
       "id": "2484e81e-7343-4644-b571-77faa77a037c",
       "company": "Csiweb",
       "title": "Software Engineer I – C#/.NET | Hybrid – Paducah, KY",
@@ -1003,18 +991,6 @@
       "listingUrl": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/5027626101"
     },
     {
-      "id": "9a2848fb-e888-4e36-88fa-194be5f4c7ca",
-      "company": "Wgu",
-      "title": "Associate Software Engineer",
-      "location": "Salt Lake City, UT",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-05",
-      "age": "21d",
-      "url": "https://applyguy.ai/jobs?company=Wgu&job=9a2848fb-e888-4e36-88fa-194be5f4c7ca&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Associate-Software-Engineer_JR-026548"
-    },
-    {
       "id": "449976de-4007-4dd9-8353-42bfd1fd8916",
       "company": "Captivation Software",
       "title": "Software Engineer 1 - Python/PySpark/AWS",
@@ -1049,18 +1025,6 @@
       "age": "22d",
       "url": "https://applyguy.ai/jobs?company=Captivation+Software&job=82b5ff1a-1291-4ca5-90ae-3a0257e90909&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/captivation/jobs/5473266008"
-    },
-    {
-      "id": "5347590b-bf50-4212-8888-93deff87bd11",
-      "company": "Extraspace",
-      "title": "Associate Software Engineer",
-      "location": "Salt Lake City, UT",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-04",
-      "age": "22d",
-      "url": "https://applyguy.ai/jobs?company=Extraspace&job=5347590b-bf50-4212-8888-93deff87bd11&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://extraspace.wd5.myworkdayjobs.com/ess_external/job/Salt-Lake-City-UT-United-States/Associate-Software-Engineer_R-82836"
     },
     {
       "id": "5462bcd6-bd51-46b5-98f1-20c232e123ec",
@@ -1676,18 +1640,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5265949007"
     },
     {
-      "id": "1452b40d-9604-40c6-bc3b-dad6309a421e",
-      "company": "Reagroup",
-      "title": "Associate Machine Learning Engineer",
-      "location": "Richmond, Melbourne VIC",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-14",
-      "age": "43d",
-      "url": "https://applyguy.ai/jobs?company=Reagroup&job=1452b40d-9604-40c6-bc3b-dad6309a421e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://reagroup.wd3.myworkdayjobs.com/reacareers/job/Richmond-Melbourne-VIC/Associate-Machine-Learning-Engineer_R0015805-1"
-    },
-    {
       "id": "d9fef355-f54b-482a-951b-23c806964f97",
       "company": "Silabs",
       "title": "Software Engineer I",
@@ -1902,18 +1854,6 @@
       "age": "52d",
       "url": "https://applyguy.ai/jobs?company=Iqvia&job=7fc3183c-8ff4-4580-8a18-5aec9228e429&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://iqvia.wd1.myworkdayjobs.com/iqvia/job/Batesville-Indiana-United-States/MedTech-Field-Service-Software-Tech-Entry-level---Batesville--IN_R1572568"
-    },
-    {
-      "id": "c2b97ad3-cc62-4e60-9be7-815959e2abb8",
-      "company": "Unimelb",
-      "title": "AURIN Associate Software Engineer",
-      "location": "Parkville, Victoria",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-05",
-      "age": "52d",
-      "url": "https://applyguy.ai/jobs?company=Unimelb&job=c2b97ad3-cc62-4e60-9be7-815959e2abb8&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://unimelb.wd105.myworkdayjobs.com/broadbean_external/job/Parkville-Victoria/AURIN-Associate-Software-Engineer_JR-018050-1"
     },
     {
       "id": "8a04a03f-0345-428b-b6da-e3aa237b9d47",
