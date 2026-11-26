@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T01:45:28.304Z",
+  "updatedAt": "2026-11-26T02:00:25.171Z",
   "jobs": [
     {
       "id": "f89169ea-5ad1-49cf-a578-d2df8f4519bc",
@@ -326,7 +326,7 @@
       "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Hazelwood-MO/Embedded-Software-Engineer---Entry-Level_JR2026522089-1"
     },
     {
-      "id": "87b5a6fb-9ac5-43de-a2cb-ee2f0a2c150d",
+      "id": "9a49fa61-c579-4425-82b1-5b071f8e010d",
       "company": "Boeing",
       "title": "Entry-Level Software Engineer–Developer",
       "location": "Richardson, TX",
@@ -334,8 +334,8 @@
       "matchKind": "explicit",
       "posted": "2026-11-20",
       "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=Boeing&job=87b5a6fb-9ac5-43de-a2cb-ee2f0a2c150d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026523382-1"
+      "url": "https://applyguy.ai/jobs?company=Boeing&job=9a49fa61-c579-4425-82b1-5b071f8e010d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026523382"
     },
     {
       "id": "6df94d00-1750-4239-a87b-a1b23206da47",
@@ -821,18 +821,6 @@
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Pathways---Boulder-CO_R10260171"
     },
     {
-      "id": "2b2538e4-9996-4a79-a84e-c93bf27918fd",
-      "company": "RTX",
-      "title": "Software Engineer I (CMA-P1-1)",
-      "location": "Ft Wayne, IN",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-11",
-      "age": "15d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=2b2538e4-9996-4a79-a84e-c93bf27918fd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I--CMA-P1-1-_01888038"
-    },
-    {
       "id": "cfa01228-4121-42f0-b992-bf3e66010f38",
       "company": "Self Financial",
       "title": "Associate Software Engineer",
@@ -907,18 +895,6 @@
       "listingUrl": "https://csiweb.wd1.myworkdayjobs.com/csi_careers/job/Paducah-KY-Corporate/Software-Engineer-I---C--NET---Hybrid---Paducah--KY_R-100739"
     },
     {
-      "id": "e60edf6d-5581-48a1-83ae-00503c65cdc2",
-      "company": "FIS",
-      "title": "Mainframe Software Engineer I",
-      "location": "Cmh One Riverfront, GA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-10",
-      "age": "16d",
-      "url": "https://applyguy.ai/jobs?company=FIS&job=e60edf6d-5581-48a1-83ae-00503c65cdc2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-GA-CMH-ONE-RIVERFRONT/Mainframe-Software-Engineer-I_JR0310604-1"
-    },
-    {
       "id": "c18bb249-f588-4f7a-a8a4-e03d1675ac85",
       "company": "Pae",
       "title": "Jr. Data Engineer",
@@ -931,18 +907,6 @@
       "listingUrl": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Springfield/Jr-Data-Engineer_R0175096"
     },
     {
-      "id": "4dc34ad7-180f-4eba-9266-1e9cc60c4340",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Richardson, TX",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-10",
-      "age": "16d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=4dc34ad7-180f-4eba-9266-1e9cc60c4340&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01888052"
-    },
-    {
       "id": "b40b14be-d79c-4e72-b696-56f4d494dcbf",
       "company": "Peraton",
       "title": "Junior Software Engineer (AWS Cloud Services)",
@@ -953,30 +917,6 @@
       "age": "17d",
       "url": "https://applyguy.ai/jobs?company=Peraton&job=b40b14be-d79c-4e72-b696-56f4d494dcbf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://careers-peraton.icims.com/jobs/173227/junior-software-engineer-%28aws-cloud-services%29/job"
-    },
-    {
-      "id": "8ace7525-fbd9-46bb-94af-fafb57ff01ec",
-      "company": "RTX",
-      "title": "Embedded Software Engineer I (Onsite)",
-      "location": "Goleta, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-09",
-      "age": "17d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=8ace7525-fbd9-46bb-94af-fafb57ff01ec&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Embedded-Software-Engineer-I--Onsite-_01888147"
-    },
-    {
-      "id": "451abc42-efb5-4c23-81ae-0a1fc22d4212",
-      "company": "RTX",
-      "title": "Embedded Security Software Engineer I (Onsite)",
-      "location": "Goleta, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-09",
-      "age": "17d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=451abc42-efb5-4c23-81ae-0a1fc22d4212&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Embedded-Security-Software-Engineer-I--Onsite-_01888154"
     },
     {
       "id": "1268a5e8-04d3-491c-b50c-0f105c79b9dd",
@@ -1085,18 +1025,6 @@
       "age": "21d",
       "url": "https://applyguy.ai/jobs?company=Priceline&job=add09e27-0922-4568-bc6b-8e50969633fb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://priceline.wd1.myworkdayjobs.com/priceline/job/New-York/Associate-Software-Engineer_R5911"
-    },
-    {
-      "id": "02ecb29b-9992-42f0-993d-f69e908403e5",
-      "company": "RTX",
-      "title": "Embedded Software Engineer I (Hybrid - Aguadilla, PR)",
-      "location": "Aguadilla, PR",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-05",
-      "age": "21d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=02ecb29b-9992-42f0-993d-f69e908403e5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--Hybrid---Aguadilla--PR-_01887705"
     },
     {
       "id": "59b88b37-788a-4279-a252-1fbe5e72d747",
@@ -1255,30 +1183,6 @@
       "listingUrl": "https://relx.wd3.myworkdayjobs.com/risksolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program_R120836"
     },
     {
-      "id": "fa08828a-8438-44bf-beb5-e8b319190ecb",
-      "company": "RTX",
-      "title": "Embedded Security Software Engineer I (Onsite)",
-      "location": "Tewksbury, MA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-03",
-      "age": "23d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=fa08828a-8438-44bf-beb5-e8b319190ecb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Embedded-Security-Software-Engineer-I--Onsite-_01881440"
-    },
-    {
-      "id": "c831e85f-0cd5-4395-bbe7-54e30cbe14dd",
-      "company": "RTX",
-      "title": "Embedded Security Software Engineer I (Onsite)",
-      "location": "El Segundo, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-03",
-      "age": "23d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=c831e85f-0cd5-4395-bbe7-54e30cbe14dd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Security-Software-Engineer-I--Onsite-_01881355"
-    },
-    {
       "id": "c6c15d25-c05d-4aca-b999-c84e2492df48",
       "company": "SambaNova Systems",
       "title": "Machine Learning Engineer - New Grad",
@@ -1376,18 +1280,6 @@
       "listingUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Hardware-Tools-and-Methodology---New-College-Grad-2026_JR2018659"
     },
     {
-      "id": "790d4bd1-b32a-4dad-b91b-a08df16819a7",
-      "company": "RTX",
-      "title": "Entry-Level Software Developer - Application Support & Sustainment (Remote)",
-      "location": "Cedar Rapids, IA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-10-30",
-      "age": "27d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=790d4bd1-b32a-4dad-b91b-a08df16819a7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Entry-Level-Software-Developer---Application-Support---Sustainment--Remote-_01885356"
-    },
-    {
       "id": "2560aa9d-5687-4c22-829a-3f4e84f73392",
       "company": "Saabusa",
       "title": "Associate Software Engineer",
@@ -1470,18 +1362,6 @@
       "age": "28d",
       "url": "https://applyguy.ai/jobs?company=Northwood+Space&job=bdc1aa6e-8d9f-4307-b947-4b701492c2a2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/northwoodspace/f7b9e8d5-7368-4a54-b445-ff647f12b1b6"
-    },
-    {
-      "id": "f9966cbf-e8df-472d-a375-ee3df7b99f04",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "San Jose, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-29",
-      "age": "28d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=f9966cbf-e8df-472d-a375-ee3df7b99f04&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineer-I--Onsite-_01885857"
     },
     {
       "id": "27486e1a-f062-44c7-aa01-41299db69665",
@@ -1676,30 +1556,6 @@
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/Associate-Software-Engineer---Software-Engineer_R10257599"
     },
     {
-      "id": "ae1102c3-934a-46c4-8b81-4bd1ae7628a6",
-      "company": "RTX",
-      "title": "Software Engineer I, Gen4 Airborne Radar",
-      "location": "El Segundo, CA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-26",
-      "age": "31d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=ae1102c3-934a-46c4-8b81-4bd1ae7628a6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineer-I--Gen4-Airborne-Radar_01877039"
-    },
-    {
-      "id": "27a366c1-9aa7-4a71-9ccd-12aca664ea15",
-      "company": "RTX",
-      "title": "Software Engineer I (Onsite)",
-      "location": "Indianapolis, IN",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-26",
-      "age": "31d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=27a366c1-9aa7-4a71-9ccd-12aca664ea15&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineer-I--Onsite-_01883492"
-    },
-    {
       "id": "2d2e3717-6fe4-479e-bdc6-93e9eaf272d5",
       "company": "Twitch",
       "title": "Software Engineer I - Engagement Growth",
@@ -1734,18 +1590,6 @@
       "age": "34d",
       "url": "https://applyguy.ai/jobs?company=Leidos&job=958cc132-f5ac-4b38-9672-9d252e2e6cdc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/St-Louis-MO/Junior-Software-Developer_R-00195126"
-    },
-    {
-      "id": "0e710fc8-9891-43e0-9288-e1c5f6231ca6",
-      "company": "RTX",
-      "title": "Software Engineer I",
-      "location": "Tucson, AZ",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-23",
-      "age": "34d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=0e710fc8-9891-43e0-9288-e1c5f6231ca6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I_01861317-1"
     },
     {
       "id": "da8cb5f0-b6c8-40fa-b7c9-95c6a9526cc9",
@@ -1820,18 +1664,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/twitch/jobs/8906750002"
     },
     {
-      "id": "8d17349b-ff79-4ee8-bb3b-e8bf897e90a0",
-      "company": "Iqvia",
-      "title": "MedTech Field Service Software Tech Entry level - Southeast US",
-      "location": "Orlando, FL",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-10-20",
-      "age": "37d",
-      "url": "https://applyguy.ai/jobs?company=Iqvia&job=8d17349b-ff79-4ee8-bb3b-e8bf897e90a0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://iqvia.wd1.myworkdayjobs.com/iqvia/job/Orlando-FL/MedTech-Field-Service-Software-Tech-Entry-level---Southeast-US_R1575309"
-    },
-    {
       "id": "9456111d-c672-4086-a5a6-5f4c39c13c68",
       "company": "Leidos",
       "title": "Junior Software Engineer",
@@ -1890,18 +1722,6 @@
       "age": "42d",
       "url": "https://applyguy.ai/jobs?company=Ascendanalytics&job=62c3f3e1-6e46-4980-9127-83135354d79c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://ascendanalytics.bamboohr.com/careers/42"
-    },
-    {
-      "id": "480f9b78-725a-460c-9e9d-8769c4f065b6",
-      "company": "RTX",
-      "title": "Software Engineer I - Test",
-      "location": "Tucson, AZ",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-15",
-      "age": "42d",
-      "url": "https://applyguy.ai/jobs?company=RTX&job=480f9b78-725a-460c-9e9d-8769c4f065b6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I---Test_01873961"
     },
     {
       "id": "8703eabc-5fa5-42db-9786-dfc9a33fd321",
@@ -2322,19 +2142,6 @@
       "age": "58d",
       "url": "https://applyguy.ai/jobs?company=Globusmedical&job=e3c2b5bb-642f-40d5-a7cd-b985b85ea9fe&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/Audubon-PA/Associate-Software-Engineer_JR107947-1"
-    },
-    {
-      "id": "custom:microsoft:698bf1cfd0197fa8f311",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-29",
-      "age": "58d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "applySupported": false
     },
     {
       "id": "ff4d695b-6a47-433b-8c2e-cc351c3ef893",
