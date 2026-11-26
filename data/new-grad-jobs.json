@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T03:45:43.114Z",
+  "updatedAt": "2026-11-26T04:00:46.957Z",
   "jobs": [
     {
       "id": "f89169ea-5ad1-49cf-a578-d2df8f4519bc",
@@ -941,18 +941,6 @@
       "age": "20d",
       "url": "https://applyguy.ai/jobs?company=Chewy&job=196db239-3368-4576-9f5f-781ab8647f08&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://chewy.wd5.myworkdayjobs.com/external/job/Boston-MA/Software-Engineer-I_R31431"
-    },
-    {
-      "id": "73167053-bd22-4bb0-a1a5-4ce5b3d716ae",
-      "company": "Isu",
-      "title": "Software Developer I",
-      "location": "Ames, IA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-06",
-      "age": "20d",
-      "url": "https://applyguy.ai/jobs?company=Isu&job=73167053-bd22-4bb0-a1a5-4ce5b3d716ae&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://isu.wd1.myworkdayjobs.com/iowastatejobs/job/Ames-IA/Software-Developer-I_R20057"
     },
     {
       "id": "eb52706c-00ef-48bd-9611-6ee568f4fcc3",
@@ -2046,19 +2034,6 @@
       "age": "58d",
       "url": "https://applyguy.ai/jobs?company=Globusmedical&job=e3c2b5bb-642f-40d5-a7cd-b985b85ea9fe&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/Audubon-PA/Associate-Software-Engineer_JR107947-1"
-    },
-    {
-      "id": "custom:microsoft:698bf1cfd0197fa8f311",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-29",
-      "age": "58d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "applySupported": false
     },
     {
       "id": "ff4d695b-6a47-433b-8c2e-cc351c3ef893",
