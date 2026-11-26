@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T02:45:46.125Z",
+  "updatedAt": "2026-11-26T03:00:39.818Z",
   "jobs": [
     {
       "id": "f89169ea-5ad1-49cf-a578-d2df8f4519bc",
@@ -192,18 +192,6 @@
       "age": "2d",
       "url": "https://applyguy.ai/jobs?company=Serko+Ltd&job=21c8941c-b85b-4cde-9f65-5c4d3041779f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://apply.workable.com/serko-ltd/j/2BD3D4F4DE/"
-    },
-    {
-      "id": "6583d55c-0868-4d69-88ea-3435d2d4d5b2",
-      "company": "U.S. Bank",
-      "title": "Software Engineer 1 - Infrastructure",
-      "location": "Hopkins, MN",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-24",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=U.S.+Bank&job=6583d55c-0868-4d69-88ea-3435d2d4d5b2&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Hopkins-MN/Software-Engineer-1---Infrastructure_2026-0036514"
     },
     {
       "id": "4b8e85b0-30c8-4b65-9b30-864c1c0f2351",
