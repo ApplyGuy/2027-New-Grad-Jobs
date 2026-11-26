@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T00:15:46.391Z",
+  "updatedAt": "2026-11-26T00:30:45.528Z",
   "jobs": [
     {
       "id": "f89169ea-5ad1-49cf-a578-d2df8f4519bc",
@@ -218,18 +218,6 @@
       "listingUrl": "https://job-boards.greenhouse.io/wurljobs/jobs/4731759006"
     },
     {
-      "id": "80f18c80-5930-4037-96bf-f5f576cc327a",
-      "company": "Boeing",
-      "title": "Associate Software Engineer–Embedded",
-      "location": "Kent, WA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-23",
-      "age": "3d",
-      "url": "https://applyguy.ai/jobs?company=Boeing&job=80f18c80-5930-4037-96bf-f5f576cc327a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kent-WA/Associate-Software-Engineer-Embedded_JR2026519147-2"
-    },
-    {
       "id": "fad5276e-1032-46a9-8837-194a67bf1dba",
       "company": "Boeing",
       "title": "Associate Software Engineer",
@@ -240,6 +228,18 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=Boeing&job=fad5276e-1032-46a9-8837-194a67bf1dba&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Maryland-Heights-MO/Associate-Software-Engineer_JR2026526419"
+    },
+    {
+      "id": "80f18c80-5930-4037-96bf-f5f576cc327a",
+      "company": "Boeing",
+      "title": "Associate Software Engineer–Embedded",
+      "location": "Kent, WA",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-23",
+      "age": "3d",
+      "url": "https://applyguy.ai/jobs?company=Boeing&job=80f18c80-5930-4037-96bf-f5f576cc327a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kent-WA/Associate-Software-Engineer-Embedded_JR2026519147-2"
     },
     {
       "id": "65a80b58-8c9a-4f2e-82c1-473783fb1bf0",
