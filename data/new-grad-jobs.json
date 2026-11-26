@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-26T00:00:19.233Z",
+  "updatedAt": "2026-11-26T00:15:46.391Z",
   "jobs": [
+    {
+      "id": "f89169ea-5ad1-49cf-a578-d2df8f4519bc",
+      "company": "CodeRabbit",
+      "title": "Software Engineer - New Grad",
+      "location": "San Francisco, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-11-25",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=CodeRabbit&job=f89169ea-5ad1-49cf-a578-d2df8f4519bc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.ashbyhq.com/coderabbit/50e51501-4421-496f-95ea-c793aed3bd51"
+    },
     {
       "id": "21b80d3b-cb50-4e7a-b705-0e76c2dfd88c",
       "company": "GreatWater 360 Auto Care",
@@ -24,6 +36,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Lnw&job=268d62cf-681b-4285-b8b9-f62d547fd05c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Associate-Software-Engineer_R322882-1"
+    },
+    {
+      "id": "1a7cd59b-e91e-4aec-9e5e-08742896d5fc",
+      "company": "Parallel Web Systems",
+      "title": "Early Career Software Engineer, Developer Experience",
+      "location": "San Francisco, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-11-25",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Parallel+Web+Systems&job=1a7cd59b-e91e-4aec-9e5e-08742896d5fc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.ashbyhq.com/parallel/8b4ff118-444c-425a-b33b-f38d8338d87c"
     },
     {
       "id": "ab1ca117-d1a9-44ee-9198-6842ab8bb097",
