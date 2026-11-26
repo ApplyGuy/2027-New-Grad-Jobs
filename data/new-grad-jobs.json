@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T08:15:13.772Z",
+  "updatedAt": "2026-11-26T08:30:10.189Z",
   "jobs": [
     {
       "id": "98f1ca91-f9f6-4eb7-b077-335908258422",
@@ -1532,7 +1532,7 @@
       "listingUrl": "https://leidos.wd5.myworkdayjobs.com/external/job/St-Louis-MO/Junior-Software-Developer_R-00195126"
     },
     {
-      "id": "da8cb5f0-b6c8-40fa-b7c9-95c6a9526cc9",
+      "id": "37702e10-fba2-4bec-aad9-e2a64bd87a9c",
       "company": "Jda",
       "title": "Software Engineer I (Java Required)",
       "location": "Dallas, TX",
@@ -1540,8 +1540,8 @@
       "matchKind": "entry_level",
       "posted": "2026-10-22",
       "age": "35d",
-      "url": "https://applyguy.ai/jobs?company=Jda&job=da8cb5f0-b6c8-40fa-b7c9-95c6a9526cc9&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jda.wd5.myworkdayjobs.com/jda_careers/job/Dallas/Software-Engineer-I--Java-Required-_263368-1"
+      "url": "https://applyguy.ai/jobs?company=Jda&job=37702e10-fba2-4bec-aad9-e2a64bd87a9c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jda.wd5.myworkdayjobs.com/university/job/Dallas/Software-Engineer-I--Java-Required-_263368"
     },
     {
       "id": "349ddc0b-5eb8-4daa-80c4-676d4ed3657b",
@@ -2046,19 +2046,6 @@
       "age": "58d",
       "url": "https://applyguy.ai/jobs?company=Globusmedical&job=e3c2b5bb-642f-40d5-a7cd-b985b85ea9fe&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/Audubon-PA/Associate-Software-Engineer_JR107947-1"
-    },
-    {
-      "id": "custom:microsoft:698bf1cfd0197fa8f311",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-29",
-      "age": "58d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "applySupported": false
     },
     {
       "id": "ff4d695b-6a47-433b-8c2e-cc351c3ef893",
