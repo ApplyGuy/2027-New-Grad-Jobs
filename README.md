@@ -1,6 +1,6 @@
 # 2027 New Grad Software Engineering Jobs
 
-[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-170-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
+[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-172-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
 
 A continuously verified list of **2027 New Grad software engineering jobs**, **entry-level software engineer jobs**, and early-career developer roles in the United States. Listings come directly from employer career pages and are maintained by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs).
 
@@ -15,9 +15,9 @@ A continuously verified list of **2027 New Grad software engineering jobs**, **e
 
 🎒 **Looking for internships?** Browse [2027 SWE & Product Internships →](https://github.com/ApplyGuy/2027-Internships)
 
-- **170** active U.S. software roles posted within the last **60 days**
-- **63** explicitly labeled New Grad / university graduate / early career
-- Last refresh: **Nov 25, 2026, 10:00 PM PST**
+- **172** active U.S. software roles posted within the last **60 days**
+- **65** explicitly labeled New Grad / university graduate / early career
+- Last refresh: **Nov 25, 2026, 10:15 PM PST**
 - Machine-readable feed: [data/new-grad-jobs.json](data/new-grad-jobs.json)
 
 Listings with the orange **Apply Guy** button support one-click apply through [Apply Guy](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs). Blue **View** buttons open the employer's career site directly.
@@ -26,6 +26,7 @@ Listings with the orange **Apply Guy** button support one-click apply through [A
 
 | Company | Role | Location | Posted | Actions |
 |---|---|---|---:|---|
+| Scout AI | Software Engineer, Core Systems (New Grad, 2027) | Sunnyvale, CA | Today | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Scout+AI&job=98f1ca91-f9f6-4eb7-b077-335908258422&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/scout-ai/7da1991b-f264-4465-8747-8cc5421a9897) |
 | CodeRabbit | Software Engineer - New Grad | San Francisco, CA | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=CodeRabbit&job=f89169ea-5ad1-49cf-a578-d2df8f4519bc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/coderabbit/50e51501-4421-496f-95ea-c793aed3bd51) |
 | GreatWater 360 Auto Care | Junior Data Engineer | Kentwood, MI | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=GreatWater+360+Auto+Care&job=21b80d3b-cb50-4e7a-b705-0e76c2dfd88c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4693401) |
 | Lnw | Associate Software Engineer | Reno, NV | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Lnw&job=268d62cf-681b-4285-b8b9-f62d547fd05c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Associate-Software-Engineer_R322882-1) |
@@ -156,6 +157,7 @@ Listings with the orange **Apply Guy** button support one-click apply through [A
 | Amat | Global Software Support Engineer II New College Grad- Master's (Phoenix, AZ) | Phoenix, AZ | 36d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Amat&job=1a8be1f5-9113-4cb8-ab21-8ccfd76363d6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://amat.wd1.myworkdayjobs.com/external/job/PhoenixAZ/Global-Software-Support-Engineer-III----E3-_R2631569) |
 | Galatea Associates | Entry-Level Financial Software Consultant | Somerville, MA | 36d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Galatea+Associates&job=40aa3264-3910-4214-b500-e8708387d313&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://jobs.lever.co/galatea-associates/6f2672b3-5b7e-4950-9866-c6ab1b871b33) |
 | Twitch | Software Engineer I - Engagement Growth | Seattle, WA | 36d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Twitch&job=9eac2dfb-758c-4612-b619-544bd45cea9a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/twitch/jobs/8906750002) |
+| Credence | Cloud Platform Engineer- Entry Level | McLean, VA | 38d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Credence&job=3b7a54bb-30a8-4d59-84fb-2a487d7ab0b7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://jobs.workable.com/view/kFgHbYSvPSPPF6S8YP2oJZ/hybrid-cloud-platform-engineer--entry-level-in-mclean-at-credence) |
 | Palantir Technologies | Software Engineer, New Grad - Query Engines | New York City, NY | 38d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Palantir+Technologies&job=c09d79c4-a6ac-43c1-aee9-01ab920c3ee5&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac) |
 | Abnormal | Software Engineer 1 - Cloud Infrastructure | Remote, U.S. | 40d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Abnormal&job=2abb9b3d-e85c-43c3-bb5b-19e527d0d30e&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://abnormal.ai/careers/jobs/8015179003?gh_jid=8015179003) |
 | Philadelphia Corporation for Aging | Junior Software Developer | Philadelphia, PA | 41d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Philadelphia+Corporation+for+Aging&job=f7ebb508-0882-4155-97d4-7fb2c364b3bc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4594019) |
