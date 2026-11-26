@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T08:45:14.223Z",
+  "updatedAt": "2026-11-26T09:00:13.162Z",
   "jobs": [
     {
       "id": "98f1ca91-f9f6-4eb7-b077-335908258422",
@@ -336,30 +336,6 @@
       "age": "3d",
       "url": "https://applyguy.ai/jobs?company=webAI&job=50ae72e2-5241-47b4-9731-174150cf6658&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/webai/571ff25a-c3ad-44f5-8f35-f4a7944899df"
-    },
-    {
-      "id": "9a49fa61-c579-4425-82b1-5b071f8e010d",
-      "company": "Boeing",
-      "title": "Entry-Level Software Engineer–Developer",
-      "location": "Richardson, TX",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-11-20",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=Boeing&job=9a49fa61-c579-4425-82b1-5b071f8e010d&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026523382"
-    },
-    {
-      "id": "88b4ed30-b185-4e6c-80d1-332f65bc9431",
-      "company": "Boeing",
-      "title": "Embedded Software Engineer - Entry-Level",
-      "location": "Multiple U.S. locations",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-11-20",
-      "age": "6d",
-      "url": "https://applyguy.ai/jobs?company=Boeing&job=88b4ed30-b185-4e6c-80d1-332f65bc9431&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Hazelwood-MO/Embedded-Software-Engineer---Entry-Level_JR2026522089"
     },
     {
       "id": "6df94d00-1750-4239-a87b-a1b23206da47",
@@ -2046,19 +2022,6 @@
       "age": "58d",
       "url": "https://applyguy.ai/jobs?company=Globusmedical&job=e3c2b5bb-642f-40d5-a7cd-b985b85ea9fe&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/Audubon-PA/Associate-Software-Engineer_JR107947-1"
-    },
-    {
-      "id": "custom:microsoft:698bf1cfd0197fa8f311",
-      "company": "Microsoft",
-      "title": "Software Engineer - CTJ - Poly",
-      "location": "Reston, VA · MD",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-09-29",
-      "age": "58d",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-      "applySupported": false
     },
     {
       "id": "ff4d695b-6a47-433b-8c2e-cc351c3ef893",
