@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-26T06:00:22.994Z",
+  "updatedAt": "2026-11-26T06:15:34.458Z",
   "jobs": [
+    {
+      "id": "98f1ca91-f9f6-4eb7-b077-335908258422",
+      "company": "Scout AI",
+      "title": "Software Engineer, Core Systems (New Grad, 2027)",
+      "location": "Sunnyvale, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-11-26",
+      "age": "Today",
+      "url": "https://applyguy.ai/jobs?company=Scout+AI&job=98f1ca91-f9f6-4eb7-b077-335908258422&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.ashbyhq.com/scout-ai/7da1991b-f264-4465-8747-8cc5421a9897"
+    },
     {
       "id": "f89169ea-5ad1-49cf-a578-d2df8f4519bc",
       "company": "CodeRabbit",
@@ -1566,6 +1578,18 @@
       "age": "36d",
       "url": "https://applyguy.ai/jobs?company=Twitch&job=9eac2dfb-758c-4612-b619-544bd45cea9a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/twitch/jobs/8906750002"
+    },
+    {
+      "id": "3b7a54bb-30a8-4d59-84fb-2a487d7ab0b7",
+      "company": "Credence",
+      "title": "Cloud Platform Engineer- Entry Level",
+      "location": "McLean, VA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-10-19",
+      "age": "38d",
+      "url": "https://applyguy.ai/jobs?company=Credence&job=3b7a54bb-30a8-4d59-84fb-2a487d7ab0b7&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.workable.com/view/kFgHbYSvPSPPF6S8YP2oJZ/hybrid-cloud-platform-engineer--entry-level-in-mclean-at-credence"
     },
     {
       "id": "c09d79c4-a6ac-43c1-aee9-01ab920c3ee5",
