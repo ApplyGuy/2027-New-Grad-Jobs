@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T01:00:56.480Z",
+  "updatedAt": "2026-11-26T01:15:51.442Z",
   "jobs": [
     {
       "id": "f89169ea-5ad1-49cf-a578-d2df8f4519bc",
@@ -869,18 +869,6 @@
       "url": "https://www.amazon.jobs/en/jobs/10601956/software-development-engineer-amazon-dedicated-cloud-early-career-2027-amazon-dedicated-cloud-adc",
       "listingUrl": "https://www.amazon.jobs/en/jobs/10601956/software-development-engineer-amazon-dedicated-cloud-early-career-2027-amazon-dedicated-cloud-adc",
       "applySupported": false
-    },
-    {
-      "id": "ee29415c-63ca-4210-9f31-ee4e29c9e596",
-      "company": "Bakertilly",
-      "title": "Associate Data Engineer",
-      "location": "Madison, WI",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-10",
-      "age": "16d",
-      "url": "https://applyguy.ai/jobs?company=Bakertilly&job=ee29415c-63ca-4210-9f31-ee4e29c9e596&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/Madison-WI/Associate-Data-Engineer_JR108679"
     },
     {
       "id": "d2821a7a-1917-4985-a575-ccbe00631d40",
@@ -1758,18 +1746,6 @@
       "age": "34d",
       "url": "https://applyguy.ai/jobs?company=RTX&job=0e710fc8-9891-43e0-9288-e1c5f6231ca6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I_01861317-1"
-    },
-    {
-      "id": "f210e27a-25ea-4d76-be27-86acda19d32f",
-      "company": "Cambiahealth",
-      "title": "Software Development Engineer I or II (Customer Acquisition)",
-      "location": "Salt Lake City, UT",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-22",
-      "age": "35d",
-      "url": "https://applyguy.ai/jobs?company=Cambiahealth&job=f210e27a-25ea-4d76-be27-86acda19d32f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://cambiahealth.wd504.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Software-Development-Engineer-I-or-II--Customer-Acquisition-_R-6689"
     },
     {
       "id": "da8cb5f0-b6c8-40fa-b7c9-95c6a9526cc9",
