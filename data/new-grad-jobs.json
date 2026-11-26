@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T01:15:51.442Z",
+  "updatedAt": "2026-11-26T01:30:44.678Z",
   "jobs": [
     {
       "id": "f89169ea-5ad1-49cf-a578-d2df8f4519bc",
@@ -60,6 +60,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Visa&job=ab1ca117-d1a9-44ee-9198-6842ab8bb097&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://visa.wd5.myworkdayjobs.com/visa/job/US---Austin-TX/Associate-Data-Engineer--AI-Studio_REF090692W"
+    },
+    {
+      "id": "d9273f53-708a-4d8d-a3f1-121b2f544705",
+      "company": "XPENG",
+      "title": "Software Engineer - Computing Platform (New Graduate)",
+      "location": "Santa Clara, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-11-25",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=XPENG&job=d9273f53-708a-4d8d-a3f1-121b2f544705&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://job-boards.greenhouse.io/xpengmotors/jobs/8962912002"
     },
     {
       "id": "e3c2ca61-411c-4ecd-80c2-ccdd67b5cf4a",
@@ -881,18 +893,6 @@
       "age": "16d",
       "url": "https://applyguy.ai/jobs?company=Coke&job=d2821a7a-1917-4985-a575-ccbe00631d40&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Software-Engineer-I_R-148843"
-    },
-    {
-      "id": "ff715c9f-5b19-4cfa-9dac-4814b088eb5a",
-      "company": "Cox",
-      "title": "Software Engineer I - 19025",
-      "location": "Atlanta, GA",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-10",
-      "age": "16d",
-      "url": "https://applyguy.ai/jobs?company=Cox&job=ff715c9f-5b19-4cfa-9dac-4814b088eb5a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/Atlanta-GA/Software-Engineer-I---19025_R202684623"
     },
     {
       "id": "2484e81e-7343-4644-b571-77faa77a037c",
@@ -2024,18 +2024,6 @@
       "listingUrl": "https://jobs.ashbyhq.com/aurelian/a2bc965f-d639-41f7-946a-67c05c22e04e"
     },
     {
-      "id": "30659ba5-da61-4fb4-8961-e57d931568be",
-      "company": "CACI",
-      "title": "Junior Software Engineer",
-      "location": "Sarasota, FL",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-09",
-      "age": "48d",
-      "url": "https://applyguy.ai/jobs?company=CACI&job=30659ba5-da61-4fb4-8961-e57d931568be&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Sarasota-FL-US/Junior-Software-Engineer_333295"
-    },
-    {
       "id": "e9edebe5-2561-46b1-9cb7-6a8782674724",
       "company": "Galatea Associates",
       "title": "Entry-Level Financial Software Consultant",
@@ -2334,6 +2322,19 @@
       "age": "58d",
       "url": "https://applyguy.ai/jobs?company=Globusmedical&job=e3c2b5bb-642f-40d5-a7cd-b985b85ea9fe&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/Audubon-PA/Associate-Software-Engineer_JR107947-1"
+    },
+    {
+      "id": "custom:microsoft:698bf1cfd0197fa8f311",
+      "company": "Microsoft",
+      "title": "Software Engineer - CTJ - Poly",
+      "location": "Reston, VA · MD",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-09-29",
+      "age": "58d",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "listingUrl": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
+      "applySupported": false
     },
     {
       "id": "ff4d695b-6a47-433b-8c2e-cc351c3ef893",
