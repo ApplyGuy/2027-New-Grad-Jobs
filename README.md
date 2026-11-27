@@ -1,6 +1,6 @@
 # 2027 New Grad Software Engineering Jobs
 
-[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-172-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
+[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-171-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
 
 A continuously verified list of **2027 New Grad software engineering jobs**, **entry-level software engineer jobs**, and early-career developer roles in the United States. Listings come directly from employer career pages and are maintained by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs).
 
@@ -15,9 +15,9 @@ A continuously verified list of **2027 New Grad software engineering jobs**, **e
 
 🎒 **Looking for internships?** Browse [2027 SWE & Product Internships →](https://github.com/ApplyGuy/2027-Internships)
 
-- **172** active U.S. software roles posted within the last **60 days**
+- **171** active U.S. software roles posted within the last **60 days**
 - **63** explicitly labeled New Grad / university graduate / early career
-- Last refresh: **Nov 26, 2026, 10:45 PM PST**
+- Last refresh: **Nov 26, 2026, 11:00 PM PST**
 - Machine-readable feed: [data/new-grad-jobs.json](data/new-grad-jobs.json)
 
 Listings with the orange **Apply Guy** button support one-click apply through [Apply Guy](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs). Blue **View** buttons open the employer's career site directly.
@@ -56,7 +56,6 @@ Listings with the orange **Apply Guy** button support one-click apply through [A
 | Boeing | Entry-Level Software Engineer–Test & Verification | Tinker AFB, OK | 7d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Boeing&job=6df94d00-1750-4239-a87b-a1b23206da47&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Test---Verification_JR2026523081) |
 | EvenUp | Software Engineer (New Grad), AI Entities | San Francisco, CA | 7d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=EvenUp&job=b32b9962-2af2-4d08-a4d6-d274971b76a6&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/evenup/19eb22cd-9540-49ed-840b-6422714413b5) |
 | Further Early Career Opportunities | Graduate Program: Entry-Level AI/Data Engineer 2027 | Cleveland, OH | 7d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Further+Early+Career+Opportunities&job=95e1d753-5602-4b34-9860-b104a50fc741&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://job-boards.greenhouse.io/furtherearlycareer/jobs/8932674002) |
-| Medtronic | Software Engineer I - CRM | Minneapolis, MN | 7d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Medtronic&job=55ccd9f2-d95f-4a44-b9fb-be8e84254b42&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Software-Engineer-I---CRM_R82448-2) |
 | Amazon | Software Engineer I, Commerce | Seattle, WA | 8d | [![View original listing](assets/view-listing.svg)](https://www.amazon.jobs/en/jobs/10607758/software-engineer-i-commerce) |
 | Bracco | Software Engineer I - Bracco Medical Technologies | Minnesota, 55344, Eden Prairie | 8d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Bracco&job=49db9bbe-df50-4c72-87d9-0486e6601b64&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineer-I---Bracco-Medical-Technologies_JR100481) |
 | Cadence | Software Engineering, Verification IP Team (Recent Grad 2026) | San Jose, CA | 8d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Cadence&job=97a148c2-cafd-4e2a-9d15-6c4acd0bdc08&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://cadence.wd1.myworkdayjobs.com/university_talent_ncg/job/SAN-JOSE/Software-Engineering--Verification-IP-Team--Recent-Grad-2026-_R55884) |
