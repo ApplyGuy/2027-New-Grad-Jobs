@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T11:30:07.222Z",
+  "updatedAt": "2026-11-27T11:45:08.595Z",
   "jobs": [
     {
       "id": "98f1ca91-f9f6-4eb7-b077-335908258422",
@@ -1794,18 +1794,6 @@
       "age": "50d",
       "url": "https://applyguy.ai/jobs?company=Forge+Nano&job=543cf392-8039-4399-b215-2f4f4e67e53a&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://forge-nano.breezy.hr/p/66630c61f7e4-software-engineer-i"
-    },
-    {
-      "id": "65677bd8-3c4e-4d05-a0ce-6cb89aa6667b",
-      "company": "Ivyhill Technologies LLC",
-      "title": "Software Engineer I",
-      "location": "Remote, U.S.",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-10-08",
-      "age": "50d",
-      "url": "https://applyguy.ai/jobs?company=Ivyhill+Technologies+LLC&job=65677bd8-3c4e-4d05-a0ce-6cb89aa6667b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.workable.com/view/s69mifCNJFsHaS4vSyFF27/remote-software-engineer-i-in-hyattsville-at-ivyhill-technologies-llc"
     },
     {
       "id": "14140795-1b30-4b71-a47c-e00b2883f4fd",
