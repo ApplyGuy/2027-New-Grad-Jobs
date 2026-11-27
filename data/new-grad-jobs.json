@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T15:15:06.690Z",
+  "updatedAt": "2026-11-27T15:30:08.892Z",
   "jobs": [
     {
       "id": "98f1ca91-f9f6-4eb7-b077-335908258422",
@@ -843,6 +843,18 @@
       "age": "16d",
       "url": "https://applyguy.ai/jobs?company=Self+Financial&job=cfa01228-4121-42f0-b992-bf3e66010f38&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/selffinancial/jobs/6255478004"
+    },
+    {
+      "id": "90b3eb49-df8e-4893-afe3-f1962619a22b",
+      "company": "Shield",
+      "title": "Engineer II, Software - Ground Control Station - Full Stack - New Grad - 6140",
+      "location": "Arlington, VA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-11-11",
+      "age": "16d",
+      "url": "https://applyguy.ai/jobs?company=Shield&job=90b3eb49-df8e-4893-afe3-f1962619a22b&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.ashbyhq.com/shield/e7cb113f-9656-452c-a214-40241dfc04b0"
     },
     {
       "id": "889ceb64-5830-4bdf-8897-c70b845ff468",
