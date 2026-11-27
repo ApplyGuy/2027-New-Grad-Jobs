@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T02:15:12.069Z",
+  "updatedAt": "2026-11-27T02:30:11.396Z",
   "jobs": [
     {
       "id": "98f1ca91-f9f6-4eb7-b077-335908258422",
@@ -302,18 +302,6 @@
       "listingUrl": "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Colorado-Springs-CO_R10261637"
     },
     {
-      "id": "01f8827e-d31e-4134-8359-2dc9724d7f67",
-      "company": "Snc",
-      "title": "Software Engineer I (Current Military Fellows Only)",
-      "location": "Southern Pines, NC",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-23",
-      "age": "4d",
-      "url": "https://applyguy.ai/jobs?company=Snc&job=01f8827e-d31e-4134-8359-2dc9724d7f67&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineer-I--Current-Military-Fellows-Only-_R0031452-1"
-    },
-    {
       "id": "127d149e-6448-4af7-93b3-f314d51c1724",
       "company": "Snc",
       "title": "Software Engineer I",
@@ -324,6 +312,18 @@
       "age": "4d",
       "url": "https://applyguy.ai/jobs?company=Snc&job=127d149e-6448-4af7-93b3-f314d51c1724&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0031455"
+    },
+    {
+      "id": "01f8827e-d31e-4134-8359-2dc9724d7f67",
+      "company": "Snc",
+      "title": "Software Engineer I (Current Military Fellows Only)",
+      "location": "Southern Pines, NC",
+      "eligibility": "Entry Level",
+      "matchKind": "entry_level",
+      "posted": "2026-11-23",
+      "age": "4d",
+      "url": "https://applyguy.ai/jobs?company=Snc&job=01f8827e-d31e-4134-8359-2dc9724d7f67&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineer-I--Current-Military-Fellows-Only-_R0031452-1"
     },
     {
       "id": "50ae72e2-5241-47b4-9731-174150cf6658",
