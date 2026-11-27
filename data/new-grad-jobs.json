@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T16:30:11.102Z",
+  "updatedAt": "2026-11-27T16:45:10.306Z",
   "jobs": [
     {
       "id": "98f1ca91-f9f6-4eb7-b077-335908258422",
@@ -662,6 +662,18 @@
       "age": "14d",
       "url": "https://applyguy.ai/jobs?company=CMTelematics&job=eae12d76-4048-4074-9183-f35831361606&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/cmt/jobs/8385978"
+    },
+    {
+      "id": "9e0977c6-8bbb-4d4f-aeef-b8fe4a412360",
+      "company": "Shield",
+      "title": "Engineer I, Software - New Grad - 6531",
+      "location": "Arlington, VA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-11-13",
+      "age": "14d",
+      "url": "https://applyguy.ai/jobs?company=Shield&job=9e0977c6-8bbb-4d4f-aeef-b8fe4a412360&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.ashbyhq.com/shield/7e0ae8a3-4872-431c-a04a-2f2b8988b527"
     },
     {
       "id": "cd7cbcd1-dc23-4b8f-98fe-d9ebbb951c7a",
