@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T07:15:07.868Z",
+  "updatedAt": "2026-11-27T07:30:10.982Z",
   "jobs": [
     {
       "id": "98f1ca91-f9f6-4eb7-b077-335908258422",
@@ -831,6 +831,18 @@
       "age": "16d",
       "url": "https://applyguy.ai/jobs?company=Self+Financial&job=cfa01228-4121-42f0-b992-bf3e66010f38&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/selffinancial/jobs/6255478004"
+    },
+    {
+      "id": "3393f633-16a3-4821-b1be-6685f10d148f",
+      "company": "Shield",
+      "title": "Engineer II, Software - Perception (SD/DC/Bos) - New Grad - 6139",
+      "location": "Arlington, VA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-11-11",
+      "age": "16d",
+      "url": "https://applyguy.ai/jobs?company=Shield&job=3393f633-16a3-4821-b1be-6685f10d148f&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.ashbyhq.com/shield/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7"
     },
     {
       "id": "1b060e2d-279a-41f6-9334-ddb024cdb653",
