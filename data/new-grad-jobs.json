@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T15:00:08.642Z",
+  "updatedAt": "2026-11-27T15:15:06.690Z",
   "jobs": [
     {
       "id": "98f1ca91-f9f6-4eb7-b077-335908258422",
@@ -953,6 +953,18 @@
       "age": "18d",
       "url": "https://applyguy.ai/jobs?company=Peraton&job=b40b14be-d79c-4e72-b696-56f4d494dcbf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://careers-peraton.icims.com/jobs/173227/junior-software-engineer-%28aws-cloud-services%29/job"
+    },
+    {
+      "id": "8e393c79-5c58-4f97-9525-c1da68604eb3",
+      "company": "Shield",
+      "title": "Software Engineer I - Internal Tools (New Grad) - R6052",
+      "location": "Seattle, WA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-11-07",
+      "age": "20d",
+      "url": "https://applyguy.ai/jobs?company=Shield&job=8e393c79-5c58-4f97-9525-c1da68604eb3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.ashbyhq.com/shield/986a26e9-0597-4402-85ee-0f05a6012902"
     },
     {
       "id": "1268a5e8-04d3-491c-b50c-0f105c79b9dd",
