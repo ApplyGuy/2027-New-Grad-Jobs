@@ -1,6 +1,6 @@
 # 2027 New Grad Software Engineering Jobs
 
-[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-172-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
+[![Active New Grad jobs](https://img.shields.io/badge/active%20jobs-173-C26300?style=flat-square)](data/new-grad-jobs.json) [![Verified dates](https://img.shields.io/badge/posting%20dates-ATS%20verified-16A34A?style=flat-square)](data/new-grad-jobs.json) [![Refresh cadence](https://img.shields.io/badge/updated-every%2015%20minutes-2563EB?style=flat-square)](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs)
 
 A continuously verified list of **2027 New Grad software engineering jobs**, **entry-level software engineer jobs**, and early-career developer roles in the United States. Listings come directly from employer career pages and are maintained by [Apply Guy](https://applyguy.ai/?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs).
 
@@ -15,9 +15,9 @@ A continuously verified list of **2027 New Grad software engineering jobs**, **e
 
 🎒 **Looking for internships?** Browse [2027 SWE & Product Internships →](https://github.com/ApplyGuy/2027-Internships)
 
-- **172** active U.S. software roles posted within the last **60 days**
-- **66** explicitly labeled New Grad / university graduate / early career
-- Last refresh: **Nov 27, 2026, 7:00 AM PST**
+- **173** active U.S. software roles posted within the last **60 days**
+- **67** explicitly labeled New Grad / university graduate / early career
+- Last refresh: **Nov 27, 2026, 7:15 AM PST**
 - Machine-readable feed: [data/new-grad-jobs.json](data/new-grad-jobs.json)
 
 Listings with the orange **Apply Guy** button support one-click apply through [Apply Guy](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs). Blue **View** buttons open the employer's career site directly.
@@ -105,6 +105,7 @@ Listings with the orange **Apply Guy** button support one-click apply through [A
 | Csiweb | Software Engineer I – C#/.NET \| Hybrid – Paducah, KY | Paducah, KY | 17d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Csiweb&job=2484e81e-7343-4644-b571-77faa77a037c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://csiweb.wd1.myworkdayjobs.com/csi_careers/job/Paducah-KY-Corporate/Software-Engineer-I---C--NET---Hybrid---Paducah--KY_R-100739) |
 | Pae | Jr. Data Engineer | Springfield, VA | 17d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Pae&job=c18bb249-f588-4f7a-a8a4-e03d1675ac85&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Springfield/Jr-Data-Engineer_R0175096) |
 | Peraton | Junior Software Engineer (AWS Cloud Services) | Lanham, MD | 18d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Peraton&job=b40b14be-d79c-4e72-b696-56f4d494dcbf&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://careers-peraton.icims.com/jobs/173227/junior-software-engineer-%28aws-cloud-services%29/job) |
+| Shield | Software Engineer I - Internal Tools (New Grad) - R6052 | Seattle, WA | 20d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Shield&job=8e393c79-5c58-4f97-9525-c1da68604eb3&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/shield/986a26e9-0597-4402-85ee-0f05a6012902) |
 | ASM | Software Engineer - Early Career | Phoenix, AZ | 21d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=ASM&job=1268a5e8-04d3-491c-b50c-0f105c79b9dd&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://www.asm.com/open-vacancies/?gh_jid=5019821101) |
 | Chewy | Software Engineer I, Full Stack, Promotions | Boston, MA | 21d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Chewy&job=718ce13f-44de-48db-b7cb-423d40095cbb&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://chewy.wd5.myworkdayjobs.com/external/job/Boston-MA/Software-Engineer-I--Full-Stack--Promotions_R31442) |
 | Chewy | Software Engineer I | Boston, MA | 21d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Chewy&job=196db239-3368-4576-9f5f-781ab8647f08&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://chewy.wd5.myworkdayjobs.com/external/job/Boston-MA/Software-Engineer-I_R31431) |
