@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T23:15:07.742Z",
+  "updatedAt": "2026-11-27T23:30:04.819Z",
   "jobs": [
     {
       "id": "98f1ca91-f9f6-4eb7-b077-335908258422",
@@ -855,6 +855,18 @@
       "age": "16d",
       "url": "https://applyguy.ai/jobs?company=Self+Financial&job=cfa01228-4121-42f0-b992-bf3e66010f38&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/selffinancial/jobs/6255478004"
+    },
+    {
+      "id": "ee3f0358-6828-42c0-9ec0-ead3ad638793",
+      "company": "Shield",
+      "title": "Engineer II, Software - Autonomous Pilot Integration - New Grad - 6127",
+      "location": "Arlington, VA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-11-11",
+      "age": "16d",
+      "url": "https://applyguy.ai/jobs?company=Shield&job=ee3f0358-6828-42c0-9ec0-ead3ad638793&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.ashbyhq.com/shield/a97fe80e-3ff6-427c-8789-2a7480326bc3"
     },
     {
       "id": "c801a654-15f5-4bec-acb9-207f5ffec9c3",
