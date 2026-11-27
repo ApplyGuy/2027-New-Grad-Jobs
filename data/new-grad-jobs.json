@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T06:45:19.955Z",
+  "updatedAt": "2026-11-27T07:00:21.802Z",
   "jobs": [
     {
       "id": "98f1ca91-f9f6-4eb7-b077-335908258422",
@@ -360,18 +360,6 @@
       "age": "7d",
       "url": "https://applyguy.ai/jobs?company=Further+Early+Career+Opportunities&job=95e1d753-5602-4b34-9860-b104a50fc741&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/furtherearlycareer/jobs/8932674002"
-    },
-    {
-      "id": "55ccd9f2-d95f-4a44-b9fb-be8e84254b42",
-      "company": "Medtronic",
-      "title": "Software Engineer I - CRM",
-      "location": "Minneapolis, MN",
-      "eligibility": "Entry Level",
-      "matchKind": "entry_level",
-      "posted": "2026-11-20",
-      "age": "7d",
-      "url": "https://applyguy.ai/jobs?company=Medtronic&job=55ccd9f2-d95f-4a44-b9fb-be8e84254b42&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Software-Engineer-I---CRM_R82448-2"
     },
     {
       "id": "custom:amazon:ced77304f4a2b03ab408",
