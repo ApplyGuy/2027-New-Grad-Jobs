@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T05:00:14.816Z",
+  "updatedAt": "2026-11-27T05:15:07.852Z",
   "jobs": [
     {
       "id": "98f1ca91-f9f6-4eb7-b077-335908258422",
@@ -12,18 +12,6 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=Scout+AI&job=98f1ca91-f9f6-4eb7-b077-335908258422&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.ashbyhq.com/scout-ai/7da1991b-f264-4465-8747-8cc5421a9897"
-    },
-    {
-      "id": "f89169ea-5ad1-49cf-a578-d2df8f4519bc",
-      "company": "CodeRabbit",
-      "title": "Software Engineer - New Grad",
-      "location": "San Francisco, CA",
-      "eligibility": "New Grad",
-      "matchKind": "explicit",
-      "posted": "2026-11-25",
-      "age": "2d",
-      "url": "https://applyguy.ai/jobs?company=CodeRabbit&job=f89169ea-5ad1-49cf-a578-d2df8f4519bc&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
-      "listingUrl": "https://jobs.ashbyhq.com/coderabbit/50e51501-4421-496f-95ea-c793aed3bd51"
     },
     {
       "id": "21b80d3b-cb50-4e7a-b705-0e76c2dfd88c",
@@ -855,6 +843,18 @@
       "age": "16d",
       "url": "https://applyguy.ai/jobs?company=Self+Financial&job=cfa01228-4121-42f0-b992-bf3e66010f38&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/selffinancial/jobs/6255478004"
+    },
+    {
+      "id": "1b060e2d-279a-41f6-9334-ddb024cdb653",
+      "company": "Shield",
+      "title": "Engineer I, Software - Autonomous Pilot Integration - New Grad - 6125",
+      "location": "Arlington, VA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-11-11",
+      "age": "16d",
+      "url": "https://applyguy.ai/jobs?company=Shield&job=1b060e2d-279a-41f6-9334-ddb024cdb653&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.ashbyhq.com/shield/29917792-e504-4cb5-9e70-9d74212d3b1f"
     },
     {
       "id": "d5bac415-a69a-41dd-abc5-a83cf87e47b0",
