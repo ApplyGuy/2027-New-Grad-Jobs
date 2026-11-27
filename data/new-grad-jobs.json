@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T14:45:06.514Z",
+  "updatedAt": "2026-11-27T15:00:08.642Z",
   "jobs": [
     {
       "id": "98f1ca91-f9f6-4eb7-b077-335908258422",
@@ -843,6 +843,18 @@
       "age": "16d",
       "url": "https://applyguy.ai/jobs?company=Self+Financial&job=cfa01228-4121-42f0-b992-bf3e66010f38&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://job-boards.greenhouse.io/selffinancial/jobs/6255478004"
+    },
+    {
+      "id": "889ceb64-5830-4bdf-8897-c70b845ff468",
+      "company": "Shield",
+      "title": "Engineer I, Software - Autonomy Capabilities - New Grad - 6129",
+      "location": "Arlington, VA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-11-11",
+      "age": "16d",
+      "url": "https://applyguy.ai/jobs?company=Shield&job=889ceb64-5830-4bdf-8897-c70b845ff468&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://jobs.ashbyhq.com/shield/955d48ad-9380-4621-91f4-51f3f093ac10"
     },
     {
       "id": "3393f633-16a3-4821-b1be-6685f10d148f",
