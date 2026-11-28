@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T03:00:05.485Z",
+  "updatedAt": "2026-11-28T03:15:07.682Z",
   "jobs": [
     {
       "id": "9bb12c0f-6316-4f02-845c-5ad34a9051a0",
@@ -12,6 +12,18 @@
       "age": "1d",
       "url": "https://applyguy.ai/jobs?company=HireHawk&job=9bb12c0f-6316-4f02-845c-5ad34a9051a0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
       "listingUrl": "https://jobs.workable.com/view/tYMFUP84Ychfr8o5RbAFJu/associate-software-engineer-(remote)-%7C-united-states-in-portland-at-hirehawk"
+    },
+    {
+      "id": "f79c24fa-35df-4312-9f3f-cd2e22e96692",
+      "company": "Marvell",
+      "title": "Software/Firmware Engineer - Early Career",
+      "location": "Santa Clara, CA",
+      "eligibility": "New Grad",
+      "matchKind": "explicit",
+      "posted": "2026-11-27",
+      "age": "1d",
+      "url": "https://applyguy.ai/jobs?company=Marvell&job=f79c24fa-35df-4312-9f3f-cd2e22e96692&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs",
+      "listingUrl": "https://marvell.wd1.myworkdayjobs.com/marvellcareers/job/Santa-Clara-CA/Software-Firmware-Engineer---Early-Career_2604933"
     },
     {
       "id": "98f1ca91-f9f6-4eb7-b077-335908258422",
