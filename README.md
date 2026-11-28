@@ -16,8 +16,8 @@ A continuously verified list of **2027 New Grad software engineering jobs**, **e
 🎒 **Looking for internships?** Browse [2027 SWE & Product Internships →](https://github.com/ApplyGuy/2027-Internships)
 
 - **176** active U.S. software roles posted within the last **60 days**
-- **71** explicitly labeled New Grad / university graduate / early career
-- Last refresh: **Nov 27, 2026, 5:00 PM PST**
+- **70** explicitly labeled New Grad / university graduate / early career
+- Last refresh: **Nov 27, 2026, 5:15 PM PST**
 - Machine-readable feed: [data/new-grad-jobs.json](data/new-grad-jobs.json)
 
 Listings with the orange **Apply Guy** button support one-click apply through [Apply Guy](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs). Blue **View** buttons open the employer's career site directly.
@@ -201,7 +201,7 @@ Listings with the orange **Apply Guy** button support one-click apply through [A
 | JSL Technologies Inc. | Entry Level Software Engineer | Port Hueneme, CA | 59d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=JSL+Technologies+Inc.&job=506c80da-f642-499e-98c2-e4bd2ca84251&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4548662) |
 | RTX | Research Software Engineer I - Onsite | Cambridge, MA | 59d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=9f37d60b-5400-438a-9922-89843c41f623&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Research-Software-Engineer-I---Onsite_01878338) |
 | RTX | Embedded Software Engineer I (Onsite) | East Hartford, CT | 59d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=3ab73a1f-8de1-42c7-9508-b70616da5375&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Embedded-Software-Engineer-I--Onsite-_01878013) |
-| SpaceX | New Graduate Engineer, Software (Starfall) | Hawthorne, CA | 60d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=SpaceX&job=73c47ef4-7a58-4ec3-b335-f4a413e30102&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://boards.greenhouse.io/spacex/jobs/8854394002?gh_jid=8854394002) |
+| Microsoft | Software Engineer - CTJ - Poly | Reston, VA · MD | 60d | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556860973) |
 
 ## Contributing
 
