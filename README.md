@@ -17,7 +17,7 @@ A continuously verified list of **2027 New Grad software engineering jobs**, **e
 
 - **176** active U.S. software roles posted within the last **60 days**
 - **71** explicitly labeled New Grad / university graduate / early career
-- Last refresh: **Nov 27, 2026, 4:45 PM PST**
+- Last refresh: **Nov 27, 2026, 5:00 PM PST**
 - Machine-readable feed: [data/new-grad-jobs.json](data/new-grad-jobs.json)
 
 Listings with the orange **Apply Guy** button support one-click apply through [Apply Guy](https://applyguy.ai/new-grad?utm_source=github&utm_medium=repository&utm_campaign=new-grad-jobs). Blue **View** buttons open the employer's career site directly.
@@ -26,6 +26,7 @@ Listings with the orange **Apply Guy** button support one-click apply through [A
 
 | Company | Role | Location | Posted | Actions |
 |---|---|---|---:|---|
+| HireHawk | Associate Software Engineer (Remote) \| United States | Remote, U.S. | 1d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=HireHawk&job=9bb12c0f-6316-4f02-845c-5ad34a9051a0&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://jobs.workable.com/view/tYMFUP84Ychfr8o5RbAFJu/associate-software-engineer-(remote)-%7C-united-states-in-portland-at-hirehawk) |
 | Scout AI | Software Engineer, Core Systems (New Grad, 2027) | Sunnyvale, CA | 2d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Scout+AI&job=98f1ca91-f9f6-4eb7-b077-335908258422&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://jobs.ashbyhq.com/scout-ai/7da1991b-f264-4465-8747-8cc5421a9897) |
 | GreatWater 360 Auto Care | Junior Data Engineer | Kentwood, MI | 3d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=GreatWater+360+Auto+Care&job=21b80d3b-cb50-4e7a-b705-0e76c2dfd88c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4693401) |
 | Lnw | Associate Software Engineer | Reno, NV | 3d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=Lnw&job=268d62cf-681b-4285-b8b9-f62d547fd05c&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Associate-Software-Engineer_R322882-1) |
@@ -200,7 +201,6 @@ Listings with the orange **Apply Guy** button support one-click apply through [A
 | JSL Technologies Inc. | Entry Level Software Engineer | Port Hueneme, CA | 59d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=JSL+Technologies+Inc.&job=506c80da-f642-499e-98c2-e4bd2ca84251&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4548662) |
 | RTX | Research Software Engineer I - Onsite | Cambridge, MA | 59d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=9f37d60b-5400-438a-9922-89843c41f623&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Research-Software-Engineer-I---Onsite_01878338) |
 | RTX | Embedded Software Engineer I (Onsite) | East Hartford, CT | 59d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=RTX&job=3ab73a1f-8de1-42c7-9508-b70616da5375&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Embedded-Software-Engineer-I--Onsite-_01878013) |
-| Microsoft | Software Engineer - CTJ - Poly | Reston, VA · MD | 60d | [![View original listing](assets/view-listing.svg)](https://apply.careers.microsoft.com/careers/job/1970393556860973) |
 | SpaceX | New Graduate Engineer, Software (Starfall) | Hawthorne, CA | 60d | [![Apply with Apply Guy](assets/apply-with-apply-guy-v2.svg)](https://applyguy.ai/jobs?company=SpaceX&job=73c47ef4-7a58-4ec3-b335-f4a413e30102&utm_source=github&utm_medium=listing&utm_campaign=new-grad-jobs) [![View original listing](assets/view-listing.svg)](https://boards.greenhouse.io/spacex/jobs/8854394002?gh_jid=8854394002) |
 
 ## Contributing
